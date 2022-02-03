@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|2951700|그땐 그땐 그땐|Supreme Team~영준 (브라운 아이드 소울)|410162~45162|1030195|Ames Room|https://cdnimg.melon.co.kr/cm/album/images/010/30/195/1030195_500.jpg/melon/resize/48/quality/80/optimize
+2|2948449|Breathe|미쓰에이|481481|1028251|Step Up|https://cdnimg.melon.co.kr/cm/album/images/010/28/251/1028251_500.jpg/melon/resize/48/quality/80/optimize
+3|2930968|Go Away|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+4|2949854|그대네요|성시경~아이유|3305~261143|1029252|그대네요|https://cdnimg.melon.co.kr/cm/album/images/010/29/252/1029252_500.jpg/melon/resize/48/quality/80/optimize
+5|2930967|Can't Nobody|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+6|2951631|진짜일 리 없어|임정희|150529|1028052|진짜일 리 없어|https://cdnimg.melon.co.kr/cm/album/images/010/28/052/1028052_500.jpg/melon/resize/48/quality/80/optimize
+7|2948248|숨|비스트|436981|1028051|Mastermind|https://cdnimg.melon.co.kr/cm/album/images/010/28/051/1028051_500.jpg/melon/resize/48/quality/80/optimize
+8|2952163|Hello|SHINee (샤이니)|247639|1030252|'Hello' SHINee The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/010/30/252/1030252_500.jpg/melon/resize/48/quality/80/optimize
+9|2930969|박수쳐|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+10|2940474|헤어지러 가는 길 (Feat. 조권)|임정희|150529|1024955|헤어지러 가는 길|https://cdnimg.melon.co.kr/cm/album/images/010/24/955/1024955_500.jpg/melon/resize/48/quality/80/optimize
+11|2943430|지금부터 사랑해 (내 여자친구는 구미호 삽입곡)|이승기|58793|1025954|지금부터 사랑해|https://cdnimg.melon.co.kr/cm/album/images/010/25/954/1025954_500.jpg/melon/resize/48/quality/80/optimize
+12|2924048|왜|Supreme Team~영준 (브라운 아이드 소울)|410162~45162|1011772|왜|https://cdnimg.melon.co.kr/cm/album/images/010/11/772/1011772_500.jpg/melon/resize/48/quality/80/optimize
+13|2906349|사랑사랑사랑|FTISLAND (FT아일랜드)|226490|1001652|Beautiful Journey|https://cdnimg.melon.co.kr/cm/album/images/010/01/652/1001652_500.jpg/melon/resize/48/quality/80/optimize
+14|2908515|가식걸|씨스타|473181|1003278|가식걸|https://cdnimg.melon.co.kr/cm/album/images/010/03/278/1003278_500.jpg/melon/resize/48/quality/80/optimize
+15|2944387|Full Story|V.O.S|108794|1026559|The Blue Bird|https://cdnimg.melon.co.kr/cm/album/images/010/26/559/1026559_500.jpg/melon/resize/48/quality/80/optimize
+16|2930971|아파 (Slow)|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+17|2903041|결혼까지 생각했어|휘성 (Realslow)|10577|1000465|Realslow Is Back|https://cdnimg.melon.co.kr/cm/album/images/010/00/465/1000465_500.jpg/melon/resize/48/quality/80/optimize
+18|2952363|Too Late (Part.1)|남녀공학|13149|1030271|Too Late (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/010/30/271/1030271_500.jpg/melon/resize/48/quality/80/optimize
+19|2933662|이 나이 먹고 뭐했길래 (Feat. 정슬기)|미스에스|275266|1019852|Miss Independent|https://cdnimg.melon.co.kr/cm/album/images/010/19/852/1019852_500.jpg/melon/resize/48/quality/80/optimize
+20|2950925|지나간다|김범수|6502|1030058|Solista Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/30/058/1030058_500.jpg/melon/resize/48/quality/80/optimize
+21|2776748|밥만 잘 먹더라|Homme (창민, 이현)|778464|973965|Homme By 'Hitman' Bang|https://cdnimg.melon.co.kr/cm/album/images/009/73/965/973965_500.jpg/melon/resize/48/quality/80/optimize
+22|2947165|Copy&Paste|보아 (BoA)|2165|1027455|'Copy&Paste' BoA The 6th Repack Album|https://cdnimg.melon.co.kr/cm/album/images/010/27/455/1027455_500.jpg/melon/resize/48/quality/80/optimize
+23|2943720|찾았다|박유천~XIA (준수)~김재중|52611~52607~52614|1026061|성균관 스캔들 OST|https://cdnimg.melon.co.kr/cm/album/images/010/26/061/1026061_500.jpg/melon/resize/48/quality/80/optimize
+24|2803451|A|레인보우|440320|997052|A (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/009/97/052/997052_500.jpg/melon/resize/48/quality/80/optimize
+25|2944162|Love You (Feat. Piano By Eco Bridge)|정엽|265067|1026352|Love You / Without You (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/010/26/352/1026352_500.jpg/melon/resize/48/quality/80/optimize
+26|2910952|U|포맨 (4MEN)|100176|1004461|You|https://cdnimg.melon.co.kr/cm/album/images/010/04/461/1004461_500.jpg/melon/resize/48/quality/80/optimize
+27|2951898|그대랑|이적|1088|1030216|사랑|https://cdnimg.melon.co.kr/cm/album/images/010/30/216/1030216_500.jpg/melon/resize/48/quality/80/optimize
+28|2960448|돌이킬 수 없는|가인|428821|1030451|Step 2/4|https://cdnimg.melon.co.kr/cm/album/images/010/30/451/1030451_500.jpg/melon/resize/48/quality/80/optimize
+29|2741416|Bad Girl Good Girl|미쓰에이|481481|941952|Bad But Good|https://cdnimg.melon.co.kr/cm/album/images/009/41/952/941952_500.jpg/melon/resize/48/quality/80/optimize
+30|2797558|Madonna|시크릿|435121|992151|Madonna|https://cdnimg.melon.co.kr/cm/album/images/009/92/151/992151_500.jpg/melon/resize/48/quality/80/optimize
+31|2925029|그만하자|가비엔제이|174997|1012458|그만하자|https://cdnimg.melon.co.kr/cm/album/images/010/12/458/1012458_500.jpg/melon/resize/48/quality/80/optimize
+32|2949405|너는 날 녹여 (With 노블레스)|서영은|3033|1028852|With Soulish Mates|https://cdnimg.melon.co.kr/cm/album/images/010/28/852/1028852_500.jpg/melon/resize/48/quality/80/optimize
+33|2930970|19금 난 바빠|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+34|2937988|안녕 사랑아|박효신|1191|1023255|안녕 사랑아 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/010/23/255/1023255_500.jpg/melon/resize/48/quality/80/optimize
+35|2951356|다시 내게로 돌아와 (Feat. 개리)|김종국|1692|1030163|노래|https://cdnimg.melon.co.kr/cm/album/images/010/30/163/1030163_500.jpg/melon/resize/48/quality/80/optimize
+36|2951008|하늘땅 별땅|티아라|412000|1030070|TWENTYth Urban|https://cdnimg.melon.co.kr/cm/album/images/010/30/070/1030070_500.jpg/melon/resize/48/quality/80/optimize
+37|2944381|가슴이 뛰잖아|오종혁|5599|1026558|Oj|https://cdnimg.melon.co.kr/cm/album/images/010/26/558/1026558_500.jpg/melon/resize/48/quality/80/optimize
+38|2783154|19금 나 이런사람이야|DJ DOC|100005|968252|풍류|https://cdnimg.melon.co.kr/cm/album/images/009/68/252/968252_500.jpg/melon/resize/48/quality/80/optimize
+39|2949425|부탁해 (Prod. 2soo)|우은미 (Woo Eun Mi)|499120|1028855|Consolation Match|https://cdnimg.melon.co.kr/cm/album/images/010/28/855/1028855_500.jpg/melon/resize/48/quality/80/optimize
+40|2930972|사랑은 아야야|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+41|2953678|당신께 쓰는 편지|강승윤|28263|1030755|슈퍼스타K 2 Top6 (My Story)|https://cdnimg.melon.co.kr/cm/album/images/010/30/755/1030755_500.jpg/melon/resize/48/quality/80/optimize
+42|2783260|난 너에게|다비치|236815|979852|조영수 All Star - 다비치|https://cdnimg.melon.co.kr/cm/album/images/009/79/852/979852_500.jpg/melon/resize/48/quality/80/optimize
+43|2954935|죽어도 사랑해|거미|30358|1031855|대물 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/31/855/1031855_500.jpg/melon/resize/48/quality/80/optimize
+44|2954475|사랑 안녕..|Ab 에비뉴|443444|1031555|Love Story - 사랑 안녕..|https://cdnimg.melon.co.kr/cm/album/images/010/31/555/1031555_500.jpg/melon/resize/48/quality/80/optimize
+45|2951390|I'm Going Crazy|SE7EN|33513|1030166|I'm Going Crazy (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/010/30/166/1030166_500.jpg/melon/resize/48/quality/80/optimize
+46|2901845|맘마미아 (With Sunny Hill)|나르샤 (Brown Eyed Girls)|261744|1000200|맘마미아|https://cdnimg.melon.co.kr/cm/album/images/010/00/200/1000200_500.jpg/melon/resize/48/quality/80/optimize
+47|2759248|그 사람|이승철|1010|959951|제빵왕 김탁구 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/009/59/951/959951_500.jpg/melon/resize/48/quality/80/optimize
+48|2792665|웃음만..|지아|227595|987954|Difference|https://cdnimg.melon.co.kr/cm/album/images/009/87/954/987954_500.jpg/melon/resize/48/quality/80/optimize
+49|2793051|정신이 나갔었나봐|이승기|58793|988353|정신이 나갔었나봐|https://cdnimg.melon.co.kr/cm/album/images/009/88/353/988353_500.jpg/melon/resize/48/quality/80/optimize
+50|2944748|주먹을 꽉 쥐고|비스트|436981|1026851|주먹을 꽉 쥐고|https://cdnimg.melon.co.kr/cm/album/images/010/26/851/1026851_500.jpg/melon/resize/48/quality/80/optimize

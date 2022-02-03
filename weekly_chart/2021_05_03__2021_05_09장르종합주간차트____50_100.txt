@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|31853557|오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)|마크툽 (MAKTUB)|566431|10294603|Red Moon : To You My Light|https://cdnimg.melon.co.kr/cm/album/images/102/94/603/10294603_500.jpg/melon/resize/48/quality/80/optimize
+52|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+53|33372782|Flu|아이유|261143|10554246|IU 5th Album 'LILAC'|https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/48/quality/80/optimize
+54|31737197|작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+55|33430095|기다릴게|하동균~봉구|43806~500423|10596629|기다릴게|https://cdnimg.melon.co.kr/cm2/album/images/105/96/629/10596629_20210422104238_500.jpg/melon/resize/48/quality/80/optimize
+56|32156286|늦은 밤 너의 집 앞 골목길에서|노을|105623|10348811|늦은 밤 너의 집 앞 골목길에서|https://cdnimg.melon.co.kr/cm2/album/images/103/48/811/10348811_500.jpg/melon/resize/48/quality/80/optimize
+57|32720013|How You Like That|BLACKPINK|995169|10451566|How You Like That|https://cdnimg.melon.co.kr/cm2/album/images/104/51/566/10451566_20200626114914_500.jpg/melon/resize/48/quality/80/optimize
+58|32055419|Memories|Maroon 5|107721|10330593|JORDI (Deluxe)|https://cdnimg.melon.co.kr/cm2/album/images/103/30/593/10330593_20210611111519_500.jpg/melon/resize/48/quality/80/optimize
+59|32559781|살짝 설렜어 (Nonstop)|오마이걸 (OH MY GIRL)|857994|10423289|NONSTOP|https://cdnimg.melon.co.kr/cm2/album/images/104/23/289/10423289_20200427153909_500.jpg/melon/resize/48/quality/80/optimize
+60|33260801|고백 (바른연애 길잡이 X 허각)|허각|28801|10559322|고백 (바른연애 길잡이 X 허각)|https://cdnimg.melon.co.kr/cm2/album/images/105/59/322/10559322_20210204121013_500.jpg/melon/resize/48/quality/80/optimize
+61|33347390|이렇게 좋아해 본 적이 없어요|CHEEZE (치즈)|597191|10577197|이렇게 좋아해 본 적이 없어요 (소녀의 세계 X CHEEZE(치즈))|https://cdnimg.melon.co.kr/cm2/album/images/105/77/197/10577197_20210312160109_500.jpg/melon/resize/48/quality/80/optimize
+62|32508053|이제 나만 믿어요|임영웅|994944|10412319|내일은 미스터트롯 우승자 특전곡|https://cdnimg.melon.co.kr/cm2/album/images/104/12/319/10412319_20200403103006_500.jpg/melon/resize/48/quality/80/optimize
+63|32378104|마음을 드려요|아이유|261143|10388744|사랑의 불시착 OST Part 11|https://cdnimg.melon.co.kr/cm2/album/images/103/88/744/10388744_20200214175740_500.jpg/melon/resize/48/quality/80/optimize
+64|32871975|내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)|규현 (KYUHYUN)|205880|10478925|내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)|https://cdnimg.melon.co.kr/cm2/album/images/104/78/925/10478925_20200820171048_500.jpg/melon/resize/48/quality/80/optimize
+65|31979846|Dance Monkey|Tones And I|2742009|10316394|The Kids Are Coming|https://cdnimg.melon.co.kr/cm2/album/images/103/16/394/10316394_500.jpg/melon/resize/48/quality/80/optimize
+66|33295747|함께 했는데 이별은 나 혼자인 거야|이소정|661792|10566182|함께 했는데 이별은 나 혼자인 거야|https://cdnimg.melon.co.kr/cm2/album/images/105/66/182/10566182_20210218105811_500.jpg/melon/resize/48/quality/80/optimize
+67|711627|죄와벌|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+68|33372785|돌림노래 (Feat. DEAN)|아이유|261143|10554246|IU 5th Album 'LILAC'|https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/48/quality/80/optimize
+69|32853712|When We Disco (Duet with 선미)|박진영|1130|10475061|When We Disco|https://cdnimg.melon.co.kr/cm2/album/images/104/75/061/10475061_20200812120927_500.jpg/melon/resize/48/quality/80/optimize
+70|33450426|불어온다|하이라이트 (Highlight)|1624993|10601599|The Blowing|https://cdnimg.melon.co.kr/cm2/album/images/106/01/599/10601599_20210503143025_500.jpg/melon/resize/48/quality/80/optimize
+71|32143487|Love poem|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+72|31388145|너를 만나|폴킴|752425|10217134|너를 만나|https://cdnimg.melon.co.kr/cm/album/images/102/17/134/10217134_500.jpg/melon/resize/48/quality/80/optimize
+73|32345931|시작|가호 (Gaho)|13494|10381712|이태원 클라쓰 OST Part.2|https://cdnimg.melon.co.kr/cm2/album/images/103/81/712/10381712_20200131110358_500.jpg/melon/resize/48/quality/80/optimize
+74|31341518|Paris In The Rain|Lauv|1956543|10209752|I met you when I was 18. (the playlist)|https://cdnimg.melon.co.kr/cm/album/images/102/09/752/10209752_500.jpg/melon/resize/48/quality/80/optimize
+75|33104090|혼술하고 싶은 밤|벤|655051|10527241|혼술하고 싶은 밤|https://cdnimg.melon.co.kr/cm2/album/images/105/27/241/10527241_20201202101208_500.jpg/melon/resize/48/quality/80/optimize
+76|33346447|Gone|로제 (ROSÉ)|995171|10576966|R|https://cdnimg.melon.co.kr/cm2/album/images/105/76/966/10576966_20210312112253_500.jpg/melon/resize/48/quality/80/optimize
+77|32187544|우리 왜 헤어져야 해|신예영|2740042|10353881|우리 왜 헤어져야 해|https://cdnimg.melon.co.kr/cm2/album/images/103/53/881/10353881_500.jpg/melon/resize/48/quality/80/optimize
+78|33338016|되풀이|임창정|1142|10575105|펜트하우스2 OST Part.1|https://cdnimg.melon.co.kr/cm2/album/images/105/75/105/10575105_20210309145614_500.jpg/melon/resize/48/quality/80/optimize
+79|33115807|내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))|릴보이 (lIlBOI)|623251|10529161|쇼미더머니 9 Episode 3|https://cdnimg.melon.co.kr/cm2/album/images/105/29/161/10529161_20201204130014_500.jpg/melon/resize/48/quality/80/optimize
+80|1615770|아리랑|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+81|33164083|우린 어쩌다 헤어진 걸까|허각|28801|10539679|Hello|https://cdnimg.melon.co.kr/cm2/album/images/105/39/679/10539679_20201228153155_500.jpg/melon/resize/48/quality/80/optimize
+82|32137576|Don't Start Now|Dua Lipa|889721|10345880|Future Nostalgia|https://cdnimg.melon.co.kr/cm2/album/images/103/45/880/10345880_20200326181909_500.jpg/melon/resize/48/quality/80/optimize
+83|32570501|서면역에서|순순희|2136895|10425277|서면역에서|https://cdnimg.melon.co.kr/cm2/album/images/104/25/277/10425277_20200504103213_500.jpg/melon/resize/48/quality/80/optimize
+84|32777869|거짓말이라도 해서 널 보고싶어|백지영|1118|10460544|거짓말이라도 해서 널 보고싶어|https://cdnimg.melon.co.kr/cm2/album/images/104/60/544/10460544_20200714151651_500.jpg/melon/resize/48/quality/80/optimize
+85|33372789|에필로그|아이유|261143|10554246|IU 5th Album 'LILAC'|https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/48/quality/80/optimize
+86|30773554|Downtown Baby|블루 (BLOO)|980594|10117789|Downtown Baby|https://cdnimg.melon.co.kr/cm/album/images/101/17/789/10117789_500.jpg/melon/resize/48/quality/80/optimize
+87|31984204|안녕|폴킴|752425|10317137|호텔 델루나 OST Part.10|https://cdnimg.melon.co.kr/cm2/album/images/103/17/137/10317137_500.jpg/melon/resize/48/quality/80/optimize
+88|32122539|Maniac|Conan Gray|2398189|10343276|Maniac|https://cdnimg.melon.co.kr/cm2/album/images/103/43/276/10343276_500.jpg/melon/resize/48/quality/80/optimize
+89|33001672|딩가딩가 (Dingga)|마마무 (Mamamoo)|750053|10505830|딩가딩가 (Dingga)|https://cdnimg.melon.co.kr/cm2/album/images/105/05/830/10505830_20201020115450_500.jpg/melon/resize/48/quality/80/optimize
+90|33247490|술 한잔 해요|경서 (경서예지)~MJ (써니사이드)|2917776~445180|10556217|술 한잔 해요|https://cdnimg.melon.co.kr/cm2/album/images/105/56/217/10556217_20210129115038_500.jpg/melon/resize/48/quality/80/optimize
+91|32725013|마리아 (Maria)|화사 (Hwa Sa)|756531|10452351|María|https://cdnimg.melon.co.kr/cm2/album/images/104/52/351/10452351_20200629152036_500.jpg/melon/resize/48/quality/80/optimize
+92|33388275|안녕이란 (Two Letters)|황치열|205746|10586941|Be My Reason|https://cdnimg.melon.co.kr/cm2/album/images/105/86/941/10586941_20210402160950_500.jpg/melon/resize/48/quality/80/optimize
+93|32651098|사랑은 지날수록 더욱 선명하게 남아|전상근|979724|10440381|한 걸음 : 흔적|https://cdnimg.melon.co.kr/cm2/album/images/104/40/381/10440381_20200605161232_500.jpg/melon/resize/48/quality/80/optimize
+94|33347594|그 한마디 (바른연애 길잡이 X 이하이)|이하이|646171|10577232|그 한마디 (바른연애 길잡이 X 이하이)|https://cdnimg.melon.co.kr/cm2/album/images/105/77/232/10577232_20210312164845_500.jpg/melon/resize/48/quality/80/optimize
+95|33244575|I'm Not Cool|현아|449401|10555397|I’m Not Cool|https://cdnimg.melon.co.kr/cm2/album/images/105/55/397/10555397_20210128141156_500.jpg/melon/resize/48/quality/80/optimize
+96|33120545|Panorama|IZ*ONE (아이즈원)|2398653|10530160|One-reeler / Act IV|https://cdnimg.melon.co.kr/cm2/album/images/105/30/160/10530160_20201207160115_500.jpg/melon/resize/48/quality/80/optimize
+97|33265859|다시 만날까 봐 (Prod.V.O.S)|이예준|718655|10560583|다시 만날까 봐 (Prod.V.O.S)|https://cdnimg.melon.co.kr/cm2/album/images/105/60/583/10560583_20210205162308_500.jpg/melon/resize/48/quality/80/optimize
+98|33269643|서른 밤째 (바른연애 길잡이 X 윤하 (YOUNHA))|윤하 (YOUNHA)|203912|10561244|서른 밤째 (바른연애 길잡이 X 윤하 (YOUNHA))|https://cdnimg.melon.co.kr/cm2/album/images/105/61/244/10561244_20210208151754_500.jpg/melon/resize/48/quality/80/optimize
+99|33305996|Don't Call Me|SHINee (샤이니)|247639|10568243|Don't Call Me - The 7th Album|https://cdnimg.melon.co.kr/cm2/album/images/105/68/243/10568243_20210222152849_500.jpg/melon/resize/48/quality/80/optimize
+100|33359309|Off My Face|Justin Bieber|420621|10580103|Justice (The Complete Edition)|https://cdnimg.melon.co.kr/cm2/album/images/105/80/103/10580103_20211008114642_500.jpg/melon/resize/48/quality/80/optimize

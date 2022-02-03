@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|31688205|사계 (Four Seasons)|태연 (TAEYEON)|236797|10265079|사계 (Four Seasons)|https://cdnimg.melon.co.kr/cm/album/images/102/65/079/10265079_500.jpg/melon/resize/48/quality/80/optimize
+52|32153755|5월의 밤|Zion.T|537920|10348389|5월의 밤|https://cdnimg.melon.co.kr/cm2/album/images/103/48/389/10348389_500.jpg/melon/resize/48/quality/80/optimize
+53|32140355|이별은 늘 그렇게 (Duet. 정은지)|허각|28801|10346175|이별은 늘 그렇게|https://cdnimg.melon.co.kr/cm2/album/images/103/46/175/10346175_500.jpg/melon/resize/48/quality/80/optimize
+54|8119658|꿈속에 너 (Feat. 전상근)|에이치코드 (H:CODE)|946910|2676167|두 번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/026/76/167/2676167_500.jpg/melon/resize/48/quality/80/optimize
+55|31341518|Paris In The Rain|Lauv|1956543|10209752|I met you when I was 18. (the playlist)|https://cdnimg.melon.co.kr/cm/album/images/102/09/752/10209752_500.jpg/melon/resize/48/quality/80/optimize
+56|32006650|벗|닐로(Nilo)|896096|10321104|벗|https://cdnimg.melon.co.kr/cm2/album/images/103/21/104/10321104_500.jpg/melon/resize/48/quality/80/optimize
+57|31901475|헤어져줘서 고마워|벤|655051|10302879|헤어져줘서 고마워|https://cdnimg.melon.co.kr/cm/album/images/103/02/879/10302879_500.jpg/melon/resize/48/quality/80/optimize
+58|32073454|우리 어떻게 할까요|첸 (CHEN)|715176|10334254|사랑하는 그대에게 - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm2/album/images/103/34/254/10334254_500.jpg/melon/resize/48/quality/80/optimize
+59|31815967|"Speechless (Full) (From ""Aladdin""/Soundtrack Version)"|Naomi Scott|541364|10288448|Aladdin (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/48/quality/80/optimize
+60|31938046|나의 어깨에 기대어요|10CM|468244|10309152|호텔 델루나 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/103/09/152/10309152_500.jpg/melon/resize/48/quality/80/optimize
+61|31854442|솔직하게 말해서 나|김나영|735094|10294763|솔직하게 말해서 나|https://cdnimg.melon.co.kr/cm/album/images/102/94/763/10294763_500.jpg/melon/resize/48/quality/80/optimize
+62|32080223|이별행동|이우|2400004|10335543|이별행동|https://cdnimg.melon.co.kr/cm2/album/images/103/35/543/10335543_500.jpg/melon/resize/48/quality/80/optimize
+63|31524320|그때가 좋았어|케이시 (Kassy)|858125|10237420|그때가 좋았어|https://cdnimg.melon.co.kr/cm/album/images/102/37/420/10237420_500.jpg/melon/resize/48/quality/80/optimize
+64|32071685|천둥벌거숭이 (Feat. Jvcki Wai, 염따)|지코 (ZICO)|602056|10333851|THINKING Part.1|https://cdnimg.melon.co.kr/cm2/album/images/103/33/851/10333851_500.jpg/melon/resize/48/quality/80/optimize
+65|32128107|내 생애 가장 행복한 시간 Part.2 (Feat. 양다일)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+66|32048693|가끔 이러다|펀치 (Punch)|749640|10329447|가끔 이러다|https://cdnimg.melon.co.kr/cm2/album/images/103/29/447/10329447_500.jpg/melon/resize/48/quality/80/optimize
+67|31804010|너에게 못했던 내 마지막 말은|다비치|236815|10286309|너에게 못했던 내 마지막 말은|https://cdnimg.melon.co.kr/cm/album/images/102/86/309/10286309_500.jpg/melon/resize/48/quality/80/optimize
+68|14776|All I Want for Christmas Is You|Mariah Carey|2274|829|Merry Christmas (Deluxe Anniversary Edition)|https://cdnimg.melon.co.kr/cm2/album/images/000/00/829/829_500.jpg/melon/resize/48/quality/80/optimize
+69|31684636|노래방에서|장범준|648551|10264375|장범준 3집|https://cdnimg.melon.co.kr/cm/album/images/102/64/375/10264375_500.jpg/melon/resize/48/quality/80/optimize
+70|31666417|주저하는 연인들을 위해|잔나비|772253|10260858|전설|https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/48/quality/80/optimize
+71|32213920|날 보러 와요 (Come See Me)|AOA|686920|10357177|NEW MOON|https://cdnimg.melon.co.kr/cm2/album/images/103/57/177/10357177_500.jpg/melon/resize/48/quality/80/optimize
+72|32149755|FLOWER SHOWER|현아|449401|10347725|FLOWER SHOWER|https://cdnimg.melon.co.kr/cm2/album/images/103/47/725/10347725_500.jpg/melon/resize/48/quality/80/optimize
+73|31983112|내 목소리 들리니|벤|655051|10316828|호텔 델루나 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/103/16/828/10316828_500.jpg/melon/resize/48/quality/80/optimize
+74|30227238|Believer|Imagine Dragons|635412|10035055|Evolve|https://cdnimg.melon.co.kr/cm/album/images/100/35/055/10035055_500.jpg/melon/resize/48/quality/80/optimize
+75|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+76|31691453|안녕이라는 말|송이한|2189536|10265656|안녕이라는 말|https://cdnimg.melon.co.kr/cm/album/images/102/65/656/10265656_500.jpg/melon/resize/48/quality/80/optimize
+77|31929663|내 안부|이우|2400004|10307772|내 안부|https://cdnimg.melon.co.kr/cm/album/images/103/07/772/10307772_500.jpg/melon/resize/48/quality/80/optimize
+78|31993173|Done For Me|펀치 (Punch)|749640|10318623|호텔 델루나 OST Part.12|https://cdnimg.melon.co.kr/cm2/album/images/103/18/623/10318623_500.jpg/melon/resize/48/quality/80/optimize
+79|31706215|사월이 지나면 우리 헤어져요 (Beautiful goodbye)|첸 (CHEN)|715176|10268441|사월, 그리고 꽃 - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/102/68/441/10268441_500.jpg/melon/resize/48/quality/80/optimize
+80|8235260|비|폴킴|752425|2692501|비|https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/48/quality/80/optimize
+81|32180584|"Some Things Never Change (From ""Frozen 2""/Soundtrack Version)"|Kristen Bell~Idina Menzel~Josh Gad~Jonathan Groff~Cast of Frozen 2|746208~232538~746216~407770~2754924|10352535|Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)|https://cdnimg.melon.co.kr/cm2/album/images/103/52/535/10352535_500.jpg/melon/resize/48/quality/80/optimize
+82|32194039|끝난 사이|보라미유|2398314|10354661|끝난 사이|https://cdnimg.melon.co.kr/cm2/album/images/103/54/661/10354661_500.jpg/melon/resize/48/quality/80/optimize
+83|32198209|맵고짜고단거 (Feat. 페노메코)|다이나믹 듀오|108358|10355092|OFF DUTY|https://cdnimg.melon.co.kr/cm2/album/images/103/55/092/10355092_500.jpg/melon/resize/48/quality/80/optimize
+84|32170701|운명이 내게 말해요|헤이즈 (Heize)|751611|10351083|동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.9|https://cdnimg.melon.co.kr/cm2/album/images/103/51/083/10351083_500.jpg/melon/resize/48/quality/80/optimize
+85|32071687|사람|지코 (ZICO)|602056|10333851|THINKING Part.1|https://cdnimg.melon.co.kr/cm2/album/images/103/33/851/10333851_500.jpg/melon/resize/48/quality/80/optimize
+86|32187544|우리 왜 헤어져야 해|신예영|2740042|10353881|우리 왜 헤어져야 해|https://cdnimg.melon.co.kr/cm2/album/images/103/53/881/10353881_500.jpg/melon/resize/48/quality/80/optimize
+87|31952592|내 맘을 볼 수 있나요|헤이즈 (Heize)|751611|10311752|호텔 델루나 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/103/11/752/10311752_500.jpg/melon/resize/48/quality/80/optimize
+88|31266290|IDOL|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+89|31754579|FANCY|TWICE (트와이스)|905701|10276861|FANCY YOU|https://cdnimg.melon.co.kr/cm/album/images/102/76/861/10276861_500.jpg/melon/resize/48/quality/80/optimize
+90|32224088|마음|폴킴|752425|10359103|마음|https://cdnimg.melon.co.kr/cm2/album/images/103/59/103/10359103_500.jpg/melon/resize/48/quality/80/optimize
+91|32217788|New York|볼빨간사춘기~WH3N (웬)|792022~2006132|10357857|New York|https://cdnimg.melon.co.kr/cm2/album/images/103/57/857/10357857_500.jpg/melon/resize/48/quality/80/optimize
+92|5475060|Santa Tell Me|Ariana Grande|597451|2292117|Santa Tell Me|https://cdnimg.melon.co.kr/cm/album/images/022/92/117/2292117_500.jpg/melon/resize/48/quality/80/optimize
+93|31914848|인사|멜로망스|839732|10305070|인사|https://cdnimg.melon.co.kr/cm/album/images/103/05/070/10305070_500.jpg/melon/resize/48/quality/80/optimize
+94|32159599|을 (Feat. BIG Naughty (서동현))|기리보이|585492|10349385|치명적인 맛보기 2곡|https://cdnimg.melon.co.kr/cm2/album/images/103/49/385/10349385_500.jpg/melon/resize/48/quality/80/optimize
+95|32153603|축제|멜로망스|839732|10348325|축제|https://cdnimg.melon.co.kr/cm2/album/images/103/48/325/10348325_500.jpg/melon/resize/48/quality/80/optimize
+96|32118105|Lose You To Love Me|Selena Gomez|402544|10342529|Lose You To Love Me|https://cdnimg.melon.co.kr/cm2/album/images/103/42/529/10342529_500.jpg/melon/resize/48/quality/80/optimize
+97|31955739|ICY|ITZY (있지)|2622030|10312251|IT'z ICY|https://cdnimg.melon.co.kr/cm/album/images/103/12/251/10312251_500.jpg/melon/resize/48/quality/80/optimize
+98|32091615|호랑이소굴 (Feat. Jvcki Wai)|기리보이|585492|10337675|호랑이소굴|https://cdnimg.melon.co.kr/cm2/album/images/103/37/675/10337675_500.jpg/melon/resize/48/quality/80/optimize
+99|31532642|사계 (하루살이)|엠씨더맥스 (M.C the MAX)|161636|10238710|Circular|https://cdnimg.melon.co.kr/cm/album/images/102/38/710/10238710_500.jpg/melon/resize/48/quality/80/optimize
+100|32180582|"All Is Found (From ""Frozen 2""/Soundtrack Version)"|Evan Rachel Wood|230593|10352535|Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)|https://cdnimg.melon.co.kr/cm2/album/images/103/52/535/10352535_500.jpg/melon/resize/48/quality/80/optimize

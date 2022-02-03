@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3729813|그랬나봐|먼데이 키즈 (Monday Kiz)|175155|2090746|Nostalgia|https://cdnimg.melon.co.kr/cm/album/images/020/90/746/2090746_500.jpg/melon/resize/48/quality/80/optimize
+53|3733153|Together|지연~JAY B|449580~644331|2092566|드림하이2 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/020/92/566/2092566_500.jpg/melon/resize/48/quality/80/optimize
+54|3654576|우리 사랑했잖아|다비치~티아라|236815~412000|2053887|우리 사랑했잖아|https://cdnimg.melon.co.kr/cm/album/images/020/53/887/2053887_500.jpg/melon/resize/48/quality/80/optimize
+55|3741500|100%|엠블랙|436980|2096208|MBLAQ 4th Mini Album 'BLAQ%Ver.'|https://cdnimg.melon.co.kr/cm/album/images/020/96/208/2096208_500.jpg/melon/resize/48/quality/80/optimize
+56|3666277|미치겠어|틴탑|483581|2059007|It's|https://cdnimg.melon.co.kr/cm/album/images/020/59/007/2059007_500.jpg/melon/resize/48/quality/80/optimize
+57|3731996|1초만 더|2AM|253866|2092046|F.Scott Fitzgerald's Way Of Love|https://cdnimg.melon.co.kr/cm/album/images/020/92/046/2092046_500.jpg/melon/resize/48/quality/80/optimize
+58|3731997|잘 이별하기|2AM|253866|2092046|F.Scott Fitzgerald's Way Of Love|https://cdnimg.melon.co.kr/cm/album/images/020/92/046/2092046_500.jpg/melon/resize/48/quality/80/optimize
+59|3731995|추억 다 지워|2AM|253866|2092046|F.Scott Fitzgerald's Way Of Love|https://cdnimg.melon.co.kr/cm/album/images/020/92/046/2092046_500.jpg/melon/resize/48/quality/80/optimize
+60|3700135|러시안룰렛 (Russian Roulette)|스피카|615471|2076646|러시안룰렛 (Russian Roulette)|https://cdnimg.melon.co.kr/cm/album/images/020/76/646/2076646_500.jpg/melon/resize/48/quality/80/optimize
+61|3719653|그러고도 남자야 (Feat. 쇼리 Of 마이티마우스)|가비엔제이|174997|2086186|그러고도 남자야|https://cdnimg.melon.co.kr/cm/album/images/020/86/186/2086186_500.jpg/melon/resize/48/quality/80/optimize
+62|-1|Party Rock Anthem (Feat. Lauren Bennett & Goon Rock)|LMFAO|331467|1165751|Party Rock Anthem|https://cdnimg.melon.co.kr/cm/album/images/011/65/751/1165751_500.jpg/melon/resize/48/quality/80/optimize
+63|3735015|FACE|뉴이스트|640891|2093307|FACE|https://cdnimg.melon.co.kr/cm/album/images/020/93/307/2093307_500.jpg/melon/resize/48/quality/80/optimize
+64|3690927|DIRTY|미료|6272|2072614|MIRYO aka JOHONEY|https://cdnimg.melon.co.kr/cm/album/images/020/72/614/2072614_500.jpg/melon/resize/48/quality/80/optimize
+65|3729682|티켓 (Ticket)|나인뮤지스|465680|2090647|Sweet Rendezvous|https://cdnimg.melon.co.kr/cm/album/images/020/90/647/2090647_500.jpg/melon/resize/48/quality/80/optimize
+66|2220302|Mama Do (Uh Oh, Uh Oh)|Pixie Lott|421442|604155|Mama Do (Uh Oh, Uh Oh)|https://cdnimg.melon.co.kr/cm/album/images/006/04/155/604155_500.jpg/melon/resize/48/quality/80/optimize
+67|3716713|아니기를|이기찬|6225|2084786|해를 품은 달 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/020/84/786/2084786_500.jpg/melon/resize/48/quality/80/optimize
+68|-1|Livin' My Love (개그콘서트 '시청률의 제왕' 삽입곡)|LMFAO~Steve Aoki|331467~487524|2062026|Livin' My Love|https://cdnimg.melon.co.kr/cm/album/images/020/62/026/2062026_500.jpg/melon/resize/48/quality/80/optimize
+69|3730639|꿈만 같아요|살찐고양이|567391|2091189|꿈만 같아요|https://cdnimg.melon.co.kr/cm/album/images/020/91/189/2091189_500.jpg/melon/resize/48/quality/80/optimize
+70|3743327|이상하다 (Acoustic Ver.)|박효신|1191|2097247|Gift E.C.H.O|https://cdnimg.melon.co.kr/cm/album/images/020/97/247/2097247_500.jpg/melon/resize/48/quality/80/optimize
+71|3559879|Sex Apeal (Max Farenthide Radio Edit) (Feat. Mike W.)|Bueno Clinic|567812|2015528|Sex Apeal|https://cdnimg.melon.co.kr/cm/album/images/020/15/528/2015528_500.jpg/melon/resize/48/quality/80/optimize
+72|3705797|천년의 사랑 (박완규)|이영현|10210|2079446|[나는 가수다] 경연15-2. '내게 특별한 사람의 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/020/79/446/2079446_500.jpg/melon/resize/48/quality/80/optimize
+73|3633511|살기 위해서|노을|105623|2044412|빠담빠담 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/44/412/2044412_500.jpg/melon/resize/48/quality/80/optimize
+74|3730641|SADNESS|레드애플|31741|2091190|SADNESS|https://cdnimg.melon.co.kr/cm/album/images/020/91/190/2091190_500.jpg/melon/resize/48/quality/80/optimize
+75|3742496|봄비 (With 알리)|김장훈|1081|2096708|봄비|https://cdnimg.melon.co.kr/cm/album/images/020/96/708/2096708_500.jpg/melon/resize/48/quality/80/optimize
+76|3694935|문자 (Feat. 백지영)|마리오|243278|2074487|문자|https://cdnimg.melon.co.kr/cm/album/images/020/74/487/2074487_500.jpg/melon/resize/48/quality/80/optimize
+77|3713916|애인 있어요|김범수|6502|2083407|윤일상 작곡가 21주년 기념 앨범 I'm 21 Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/83/407/2083407_500.jpg/melon/resize/48/quality/80/optimize
+78|3714314|요즘 너|브레이브걸스|531700|2083666|Brave Girls' : Second Mini Album 'Re-Issue'|https://cdnimg.melon.co.kr/cm/album/images/020/83/666/2083666_500.jpg/melon/resize/48/quality/80/optimize
+79|3738198|Don't Stop The Music (Rihanna)|이하이|646171|2094506|SBS K팝 스타 Top 8|https://cdnimg.melon.co.kr/cm/album/images/020/94/506/2094506_500.jpg/melon/resize/48/quality/80/optimize
+80|3731998|사랑해 사랑해|2AM|253866|2092046|F.Scott Fitzgerald's Way Of Love|https://cdnimg.melon.co.kr/cm/album/images/020/92/046/2092046_500.jpg/melon/resize/48/quality/80/optimize
+81|3734427|Beautiful Lady (Original Ver.)|정엽|265067|2093127|Beautiful Lady|https://cdnimg.melon.co.kr/cm/album/images/020/93/127/2093127_500.jpg/melon/resize/48/quality/80/optimize
+82|3715671|INTRO (ALIVE)|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+83|3593455|서쪽 하늘|울랄라세션|569214|2026966|슈퍼스타K 3 Top11 Part 5|https://cdnimg.melon.co.kr/cm/album/images/020/26/966/2026966_500.jpg/melon/resize/48/quality/80/optimize
+84|3639713|그 노래를 틀때마다|허각~LE (EXID)|28801~593194|2046966|그 노래를 틀때마다|https://cdnimg.melon.co.kr/cm/album/images/020/46/966/2046966_500.jpg/melon/resize/48/quality/80/optimize
+85|3744700|한참 지나서|백지영|1118|2097789|옥탑방 왕세자 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/97/789/2097789_500.jpg/melon/resize/48/quality/80/optimize
+86|3713873|Super Star|효린~지연~에일리(Ailee)|573812~449580~629831|2083366|드림하이2 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/020/83/366/2083366_500.jpg/melon/resize/48/quality/80/optimize
+87|3607859|Cry Cry|티아라|412000|2033270|Black Eyes|https://cdnimg.melon.co.kr/cm/album/images/020/33/270/2033270_500.jpg/melon/resize/48/quality/80/optimize
+88|3719774|너 때문에|제아|230519|2086233|샐러리맨 초한지 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/020/86/233/2086233_500.jpg/melon/resize/48/quality/80/optimize
+89|3730073|그래서 달린다|김태우|182430|2090906|신들의 만찬 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/90/906/2090906_500.jpg/melon/resize/48/quality/80/optimize
+90|3684693|눈물길|휘성 (Realslow)|10577|2069126|해를 품은 달 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/69/126/2069126_500.jpg/melon/resize/48/quality/80/optimize
+91|3699274|Know Your Name (Feat. Dok2)|박재범|443420|2076266|New Breed|https://cdnimg.melon.co.kr/cm/album/images/020/76/266/2076266_500.jpg/melon/resize/48/quality/80/optimize
+92|3735694|Clue|SHINee (샤이니)|247639|2093546|'Sherlock' SHINee The 4th Mini Album|https://cdnimg.melon.co.kr/cm/album/images/020/93/546/2093546_500.jpg/melon/resize/48/quality/80/optimize
+93|971441|광대 (Feat. B.M.K)|리쌍|103289|308473|Library Of Soul|https://cdnimg.melon.co.kr/cm/album/images/003/08/473/308473_500.jpg/melon/resize/48/quality/80/optimize
+94|3669673|전쟁이야|엠블랙|436980|2058166|MBLAQ 4th Mini Album '100%Ver.'|https://cdnimg.melon.co.kr/cm/album/images/020/58/166/2058166_500.jpg/melon/resize/48/quality/80/optimize
+95|3738853|뭐해|김보경 (NEON)|60829|2094886|뭐해|https://cdnimg.melon.co.kr/cm/album/images/020/94/886/2094886_500.jpg/melon/resize/48/quality/80/optimize
+96|3735695|Note|SHINee (샤이니)|247639|2093546|'Sherlock' SHINee The 4th Mini Album|https://cdnimg.melon.co.kr/cm/album/images/020/93/546/2093546_500.jpg/melon/resize/48/quality/80/optimize
+97|3733734|그렇고 그런 얘기 (Feat. 허각, Mellow)|소지섭|52905|2092726|북쪽왕관자리|https://cdnimg.melon.co.kr/cm/album/images/020/92/726/2092726_500.jpg/melon/resize/48/quality/80/optimize
+98|3737587|알고 있었어|지오 (G.O)~미르 (MBLAQ)|468640~612449|2094109|K-POP 최강 서바이벌 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/94/109/2094109_500.jpg/melon/resize/48/quality/80/optimize
+99|3735696|알람시계 (Alarm Clock)|SHINee (샤이니)|247639|2093546|'Sherlock' SHINee The 4th Mini Album|https://cdnimg.melon.co.kr/cm/album/images/020/93/546/2093546_500.jpg/melon/resize/48/quality/80/optimize
+100|3724835|돌아보다|민경훈|46187|2088248|돌아보다|https://cdnimg.melon.co.kr/cm/album/images/020/88/248/2088248_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3111583|Black & White|지나|482640|1143954|Black & White|https://cdnimg.melon.co.kr/cm/album/images/011/43/954/1143954_500.jpg/melon/resize/48/quality/80/optimize
+52|3369334|너의 마음을 내게 준다면|걸스데이|482762|1250662|반짝반짝 빛나는 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/012/50/662/1250662_500.jpg/melon/resize/48/quality/80/optimize
+53|3110565|톡톡 (Tok Tok) (Feat. SOYA)|마이티 마우스|239366|1143054|Mighty Fresh|https://cdnimg.melon.co.kr/cm/album/images/011/43/054/1143054_500.jpg/melon/resize/48/quality/80/optimize
+54|3327061|아무일도 없었다|정엽|265067|1218952|49일 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/012/18/952/1218952_500.jpg/melon/resize/48/quality/80/optimize
+55|3156952|WHAT IS RIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+56|3391265|세수|서인영|26265|1267864|Lov-Elly Part.2 세수|https://cdnimg.melon.co.kr/cm/album/images/012/67/864/1267864_500.jpg/melon/resize/48/quality/80/optimize
+57|3389620|여전히 아름답네요 (Feat. 권정열 Of 10cm)|이루펀트|182366|1266473|여전히 아름답네요|https://cdnimg.melon.co.kr/cm/album/images/012/66/473/1266473_500.jpg/melon/resize/48/quality/80/optimize
+58|3343337|Broken|서인국|436700|1231962|Broken|https://cdnimg.melon.co.kr/cm/album/images/012/31/962/1231962_500.jpg/melon/resize/48/quality/80/optimize
+59|3051244|좋은 날|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+60|3325048|나 항상 그대를 (With YB)|윤도현|923|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+61|3389257|한 발짝도 난|정엽|265067|1266353|49일 OST Special|https://cdnimg.melon.co.kr/cm/album/images/012/66/353/1266353_500.jpg/melon/resize/48/quality/80/optimize
+62|3379661|널 위해 부르는 노래|소연~안영민|473461~780318|1258652|안영민 A-Family (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/012/58/652/1258652_500.jpg/melon/resize/48/quality/80/optimize
+63|3376757|별빛눈물|남규리|223392|1256562|The Works (오준성 마스터피스) Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/56/562/1256562_500.jpg/melon/resize/48/quality/80/optimize
+64|3386025|주먹이운다 (Feat. 임재범)|소울다이브|433162|1263360|주먹이 운다 (Feat. 임재범) (주먹이 운다 OST)|https://cdnimg.melon.co.kr/cm/album/images/012/63/360/1263360_500.jpg/melon/resize/48/quality/80/optimize
+65|3370448|우리 여기까지 하자|이석훈~베이지|205858~222697|1251551|가시나무 새 OST|https://cdnimg.melon.co.kr/cm/album/images/012/51/551/1251551_500.jpg/melon/resize/48/quality/80/optimize
+66|3360493|Talk Talk Talk|NS 윤지|433746|1244757|Talk Talk Talk|https://cdnimg.melon.co.kr/cm/album/images/012/44/757/1244757_500.jpg/melon/resize/48/quality/80/optimize
+67|3386653|이젠 그랬으면 좋겠네|정희주|531832|1263752|스타오디션 위대한 탄생 Part.4 - 가왕 조용필의 명곡 부르기 (With 밴드 위대한탄생)|https://cdnimg.melon.co.kr/cm/album/images/012/63/752/1263752_500.jpg/melon/resize/48/quality/80/optimize
+68|638570|바람이 분다|이소라|983|45034|눈썹달|https://cdnimg.melon.co.kr/cm/album/images/000/45/034/45034_500.jpg/melon/resize/48/quality/80/optimize
+69|3384021|남아 주세요|이효리|1713|1261955|남아주세요 (네이버 재능기부 캠페인)|https://cdnimg.melon.co.kr/cm/album/images/012/61/955/1261955_500.jpg/melon/resize/48/quality/80/optimize
+70|3360476|별 짓 다해봤는데|알리 (ALi)|312266|1244754|별 짓 다해봤는데|https://cdnimg.melon.co.kr/cm/album/images/012/44/754/1244754_500.jpg/melon/resize/48/quality/80/optimize
+71|3337774|Dash (with YB)|윤도현|923|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+72|3357851|사랑했나봐|장혜진|5675|1242652|사랑했나봐|https://cdnimg.melon.co.kr/cm/album/images/012/42/652/1242652_500.jpg/melon/resize/48/quality/80/optimize
+73|3337771|약속|백지영|1118|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+74|1357461|나는 나비|YB|100168|324019|Why Be?|https://cdnimg.melon.co.kr/cm/album/images/003/24/019/324019_500.jpg/melon/resize/48/quality/80/optimize
+75|3352957|누구나 사랑을 한다 (With 정단 박완규 이성욱)|부활|100594|1238352|부활 Collaboration Project '+ 2'|https://cdnimg.melon.co.kr/cm/album/images/012/38/352/1238352_500.jpg/melon/resize/48/quality/80/optimize
+76|3174348|Nothing's Over|인피니트|476181|1199651|Inspirit|https://cdnimg.melon.co.kr/cm/album/images/011/99/651/1199651_500.jpg/melon/resize/48/quality/80/optimize
+77|3387348|You You (Feat. 오진석)|언터쳐블|190493|1264451|You You (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/012/64/451/1264451_500.jpg/melon/resize/48/quality/80/optimize
+78|3145784|파파라치 (Feat. 에릭)|간미연|1636|1174452|Watch|https://cdnimg.melon.co.kr/cm/album/images/011/74/452/1174452_500.jpg/melon/resize/48/quality/80/optimize
+79|3382974|Run The World (Girls)|Beyonce|3535|1261072|Run The World (Girls)|https://cdnimg.melon.co.kr/cm/album/images/012/61/072/1261072_500.jpg/melon/resize/48/quality/80/optimize
+80|3337776|잊을게|정엽|265067|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+81|-1|Judas|Lady Gaga|253688|1249451|Judas|https://cdnimg.melon.co.kr/cm/album/images/012/49/451/1249451_500.jpg/melon/resize/48/quality/80/optimize
+82|317805|나를 사랑하지 않는 그대에게|이소라|983|16758|SoRa's 5 Diary|https://cdnimg.melon.co.kr/cm/album/images/000/16/758/16758_500.jpg/melon/resize/48/quality/80/optimize
+83|3380548|주인공|거북이|101463|1259351|주인공|https://cdnimg.melon.co.kr/cm/album/images/012/59/351/1259351_500.jpg/melon/resize/48/quality/80/optimize
+84|10399|그런 이유라는 걸|김범수|6502|721|Remember|https://cdnimg.melon.co.kr/cm/album/images/000/00/721/721_500.jpg/melon/resize/48/quality/80/optimize
+85|3370148|당신께 이노래를 불러 드릴께요 2|태사비애|229242|1251251|당신께 이노래를 불러 드릴께요 2|https://cdnimg.melon.co.kr/cm/album/images/012/51/251/1251251_500.jpg/melon/resize/48/quality/80/optimize
+86|3352949|사랑하다 끝났어|브라이언|1929|1238351|Unveiled|https://cdnimg.melon.co.kr/cm/album/images/012/38/351/1238351_500.jpg/melon/resize/48/quality/80/optimize
+87|3364650|19금 S&M Remix (Single Version) (Feat. Britney Spears)|Rihanna|177834|1247452|S&M Remix|https://cdnimg.melon.co.kr/cm/album/images/012/47/452/1247452_500.jpg/melon/resize/48/quality/80/optimize
+88|1095261|사랑한다는 흔한 말|김연우|6017|313004|사랑을 놓치다|https://cdnimg.melon.co.kr/cm/album/images/003/13/004/313004_500.jpg/melon/resize/48/quality/80/optimize
+89|3337775|첫인상|박정현|1099|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+90|3110148|잘 된 일이야|나비|242868|1142651|Hello|https://cdnimg.melon.co.kr/cm/album/images/011/42/651/1142651_500.jpg/melon/resize/48/quality/80/optimize
+91|3339179|I Wanna Go|Britney Spears|8046|1229952|Femme Fatale|https://cdnimg.melon.co.kr/cm/album/images/012/29/952/1229952_500.jpg/melon/resize/48/quality/80/optimize
+92|3373261|오빠 힘내요|김종민|6914|1254263|오빠 힘내요|https://cdnimg.melon.co.kr/cm/album/images/012/54/263/1254263_500.jpg/melon/resize/48/quality/80/optimize
+93|3325187|비오는 날의 수채화|박정현|1099|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+94|3362263|I'm Into You (Album Version) (Feat. Lil Wayne)|Jennifer Lopez|2845|1246252|I'm Into You|https://cdnimg.melon.co.kr/cm/album/images/012/46/252/1246252_500.jpg/melon/resize/48/quality/80/optimize
+95|3384369|두 이별|윤종신~이정|437~39256|1262155|2011 月刊 尹鍾信 May|https://cdnimg.melon.co.kr/cm/album/images/012/62/155/1262155_500.jpg/melon/resize/48/quality/80/optimize
+96|2944372|We No Speak Americano (Radio Edit) (SKT T월드 CF 삽입곡)|Yolanda Be Cool~Dcup|498560~498561|1026554|We No Speak Americano|https://cdnimg.melon.co.kr/cm/album/images/010/26/554/1026554_500.jpg/melon/resize/48/quality/80/optimize
+97|3089448|샤이보이|시크릿|435121|1125351|샤이보이|https://cdnimg.melon.co.kr/cm/album/images/011/25/351/1125351_500.jpg/melon/resize/48/quality/80/optimize
+98|3293345|사랑은 똑같다|먼데이 키즈 (Monday Kiz)~가비엔제이|175155~174997|1205251|소울트레인 (Soul Train) Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/05/251/1205251_500.jpg/melon/resize/48/quality/80/optimize
+99|3369953|19금 가지말걸 그랬어 (Feat. 주영)|김진표|1136|1251164|가지말걸 그랬어|https://cdnimg.melon.co.kr/cm/album/images/012/51/164/1251164_500.jpg/melon/resize/48/quality/80/optimize
+100|3350553|DR Feel Good (Korean Ver.)|라니아|532321|1236653|Teddy Riley, The First Expansion In Asia|https://cdnimg.melon.co.kr/cm/album/images/012/36/653/1236653_500.jpg/melon/resize/48/quality/80/optimize

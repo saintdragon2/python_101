@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|888173|Start|M.Street (엠스트리트)|108240|305340|Start|https://cdnimg.melon.co.kr/cm/album/images/003/05/340/305340_500.jpg/melon/resize/48/quality/80/optimize
+52|889545|오늘밤 일|아이비|171127|305450|My Sweet And Free Day|https://cdnimg.melon.co.kr/cm/album/images/003/05/450/305450_500.jpg/melon/resize/48/quality/80/optimize
+53|-1|닮았잖아|m.e.l.o.n|170259|302392|Think Of Me|https://cdnimg.melon.co.kr/cm/album/images/003/02/392/302392_500.jpg/melon/resize/48/quality/80/optimize
+54|842021|떠나지마|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+55|894063|눈물씻고 화장하고|렉시|7664|305914|Lextacy|https://cdnimg.melon.co.kr/cm/album/images/003/05/914/305914_500.jpg/melon/resize/48/quality/80/optimize
+56|893112|친절한 금자씨|조영욱|12576|305838|친절한 금자씨 OST|https://cdnimg.melon.co.kr/cm/album/images/003/05/838/305838_500.jpg/melon/resize/48/quality/80/optimize
+57|860582|Naughty Girl|린|8530|304135|One And Only Feeling|https://cdnimg.melon.co.kr/cm/album/images/003/04/135/304135_500.jpg/melon/resize/48/quality/80/optimize
+58|842024|Buen Camino (Feat. 강수지)|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+59|855662|이별 못한 이별|지선|13459|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+60|882619|추억이면 (異面)|부활|100594|304917|서정 (抒情)|https://cdnimg.melon.co.kr/cm/album/images/003/04/917/304917_500.jpg/melon/resize/48/quality/80/optimize
+61|888282|세월이 가면|마야|32339|305347|그녀가 돌아왔다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/05/347/305347_500.jpg/melon/resize/48/quality/80/optimize
+62|833906|What You Waiting For? (KTFT 송혜교편)|Gwen Stefani|39543|301627|Love, Angel, Music, Baby|https://cdnimg.melon.co.kr/cm/album/images/003/01/627/301627_500.jpg/melon/resize/48/quality/80/optimize
+63|-1|밤이 깊었네|뽕빨 브라더스|171456|305667|뽕빨 브라더스|https://cdnimg.melon.co.kr/cm/album/images/003/05/667/305667_500.jpg/melon/resize/48/quality/80/optimize
+64|-1|어쩌다가 (New Ver.)|란 (RAN)|236880|302255|-|https://cdnimg.melon.co.kr/cm/album/images/003/02/255/302255_500.jpg/melon/resize/48/quality/80/optimize
+65|892703|원래이티켓 (One Way Ticket - Boney M)|조혜련|9841|305789|Anacana (아나까나)|https://cdnimg.melon.co.kr/cm/album/images/003/05/789/305789_500.jpg/melon/resize/48/quality/80/optimize
+66|-1|Don't Phunk With My Heart|Black Eyed Peas|107538|303536|Monkey Business (Bonus Track)|https://cdnimg.melon.co.kr/cm/album/images/003/03/536/303536_500.jpg/melon/resize/48/quality/80/optimize
+67|891878|으라차차|럼블피쉬|108951|305668|Have A Nice Dream|https://cdnimg.melon.co.kr/cm/album/images/003/05/668/305668_500.jpg/melon/resize/48/quality/80/optimize
+68|866710|사랑스러워|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+69|887748|담배 한 개피|초월|171077|305303|초월|https://cdnimg.melon.co.kr/cm/album/images/003/05/303/305303_500.jpg/melon/resize/48/quality/80/optimize
+70|855665|보낼 수 없는 사랑|Sanha|167895|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+71|732520|비망록 (스물의노래)|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+72|-1|ASH|애쉬|171255|305637|Dark Side Of Paradise|https://cdnimg.melon.co.kr/cm/album/images/003/05/637/305637_500.jpg/melon/resize/48/quality/80/optimize
+73|891743|여행길 (Feat. 윤도현)|부가킹즈|101218|305657|The Renaissance|https://cdnimg.melon.co.kr/cm/album/images/003/05/657/305657_500.jpg/melon/resize/48/quality/80/optimize
+74|827216|잘 지내나요|성시경|3305|301311|다시 꿈꾸고 싶다|https://cdnimg.melon.co.kr/cm/album/images/003/01/311/301311_500.jpg/melon/resize/48/quality/80/optimize
+75|698979|그리움을 사랑한 가시나무|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+76|882500|혼자인걸요|쿨 (COOL)|100004|304909|Forever|https://cdnimg.melon.co.kr/cm/album/images/003/04/909/304909_500.jpg/melon/resize/48/quality/80/optimize
+77|-1|Everything's Gonna Be Alright (Reborn) (애경 케라시스 CF 고소영편)|Sweetbox|100060|301441|Best Of 1995~2005|https://cdnimg.melon.co.kr/cm/album/images/003/01/441/301441_500.jpg/melon/resize/48/quality/80/optimize
+78|858981|아파요|김현정|1177|304018|Fun Town 20|https://cdnimg.melon.co.kr/cm/album/images/003/04/018/304018_500.jpg/melon/resize/48/quality/80/optimize
+79|891990|19금 인생극장 - A형|싸이 (PSY)|3865|305676|Remake & Mix 18번|https://cdnimg.melon.co.kr/cm/album/images/003/05/676/305676_500.jpg/melon/resize/48/quality/80/optimize
+80|882501|Good bye|쿨 (COOL)|100004|304909|Forever|https://cdnimg.melon.co.kr/cm/album/images/003/04/909/304909_500.jpg/melon/resize/48/quality/80/optimize
+81|848677|Music Is My Life (삼성전자 옙 CF 임정희, 재희편)|임정희|150529|303271|Music Is My Life|https://cdnimg.melon.co.kr/cm/album/images/003/03/271/303271_500.jpg/melon/resize/48/quality/80/optimize
+82|882496|고백합시다|쿨 (COOL)|100004|304909|Forever|https://cdnimg.melon.co.kr/cm/album/images/003/04/909/304909_500.jpg/melon/resize/48/quality/80/optimize
+83|848162|가슴 아파도|브라이언|1929|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+84|885552|그래도 여전히 사랑일때...|ㄱ|108963|305134|With|https://cdnimg.melon.co.kr/cm/album/images/003/05/134/305134_500.jpg/melon/resize/48/quality/80/optimize
+85|889549|바본가봐|아이비|171127|305450|My Sweet And Free Day|https://cdnimg.melon.co.kr/cm/album/images/003/05/450/305450_500.jpg/melon/resize/48/quality/80/optimize
+86|882497|Sexy Summer lady|쿨 (COOL)|100004|304909|Forever|https://cdnimg.melon.co.kr/cm/album/images/003/04/909/304909_500.jpg/melon/resize/48/quality/80/optimize
+87|891745|Tic Tac Toe (틱택토)|부가킹즈|101218|305657|The Renaissance|https://cdnimg.melon.co.kr/cm/album/images/003/05/657/305657_500.jpg/melon/resize/48/quality/80/optimize
+88|866714|별, 바람, 햇살 그리고 사랑|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+89|891999|흐린 기억 속의 그대|싸이 (PSY)|3865|305676|Remake & Mix 18번|https://cdnimg.melon.co.kr/cm/album/images/003/05/676/305676_500.jpg/melon/resize/48/quality/80/optimize
+90|877919|사랑할게|The One (더원)|160816|304077|온리 유 OST|https://cdnimg.melon.co.kr/cm/album/images/003/04/077/304077_500.jpg/melon/resize/48/quality/80/optimize
+91|891995|언젠가는|싸이 (PSY)|3865|305676|Remake & Mix 18번|https://cdnimg.melon.co.kr/cm/album/images/003/05/676/305676_500.jpg/melon/resize/48/quality/80/optimize
+92|851429|기억속의 먼 그대에게|박효신|1191|303582|Neo Classicism|https://cdnimg.melon.co.kr/cm/album/images/003/03/582/303582_500.jpg/melon/resize/48/quality/80/optimize
+93|891992|사랑했어요|싸이 (PSY)|3865|305676|Remake & Mix 18번|https://cdnimg.melon.co.kr/cm/album/images/003/05/676/305676_500.jpg/melon/resize/48/quality/80/optimize
+94|885162|Playa's Only (Feat. The Game)|R. Kelly|14358|305109|TP.3 Reloaded|https://cdnimg.melon.co.kr/cm/album/images/003/05/109/305109_500.jpg/melon/resize/48/quality/80/optimize
+95|842626|사랑이 오네요|이지혜|1820|302573|그대 없이 난|https://cdnimg.melon.co.kr/cm/album/images/003/02/573/302573_500.jpg/melon/resize/48/quality/80/optimize
+96|848166|약한 남자|바비 킴|6027|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+97|891993|아버지|싸이 (PSY)|3865|305676|Remake & Mix 18번|https://cdnimg.melon.co.kr/cm/album/images/003/05/676/305676_500.jpg/melon/resize/48/quality/80/optimize
+98|891996|골목길 (Feat. 조PD)|싸이 (PSY)|3865|305676|Remake & Mix 18번|https://cdnimg.melon.co.kr/cm/album/images/003/05/676/305676_500.jpg/melon/resize/48/quality/80/optimize
+99|888718|Never Gonna Stop|DZ Factory|171116|305382|Ground Control|https://cdnimg.melon.co.kr/cm/album/images/003/05/382/305382_500.jpg/melon/resize/48/quality/80/optimize
+100|-1|The Magic Key (네스팟스윙 CF 재희, 정애연편)|One-T|108396|33842|The One-T ODC|https://cdnimg.melon.co.kr/cm/album/images/000/33/842/33842_500.jpg/melon/resize/48/quality/80/optimize

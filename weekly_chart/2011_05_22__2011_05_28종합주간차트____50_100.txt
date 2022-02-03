@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3386750|Love Alone|미쓰에이|481481|1263852|Love Alone|https://cdnimg.melon.co.kr/cm/album/images/012/63/852/1263852_500.jpg/melon/resize/48/quality/80/optimize
+52|3394416|너무 그리워|김지수|8806|1270457|Kim Ji Soo 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/012/70/457/1270457_500.jpg/melon/resize/48/quality/80/optimize
+53|3394448|빈잔 (남진)|임재범|4838|1270551|[서바이벌 나는 가수다] 경연3-1. '내가 부르고싶은 남의노래'|https://cdnimg.melon.co.kr/cm/album/images/012/70/551/1270551_500.jpg/melon/resize/48/quality/80/optimize
+54|3337496|아파 아이야|양파|3854|1228561|Elegy Nouveau - 스페셜|https://cdnimg.melon.co.kr/cm/album/images/012/28/561/1228561_500.jpg/melon/resize/48/quality/80/optimize
+55|3364512|들리나요|지아|227595|1247357|내 마음이 들리니 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/47/357/1247357_500.jpg/melon/resize/48/quality/80/optimize
+56|3409948|Time Is [L]over|장우혁|1585|1282151|I Am The Future|https://cdnimg.melon.co.kr/cm/album/images/012/82/151/1282151_500.jpg/melon/resize/48/quality/80/optimize
+57|3403601|사랑해요|빅마마|105803|1277655|2nd T-Project '사랑해요'|https://cdnimg.melon.co.kr/cm/album/images/012/77/655/1277655_500.jpg/melon/resize/48/quality/80/optimize
+58|3339079|메아리|김태우|182430|1199852|T-school|https://cdnimg.melon.co.kr/cm/album/images/011/99/852/1199852_500.jpg/melon/resize/48/quality/80/optimize
+59|3394453|No.1 (보아)|이소라|983|1270551|[서바이벌 나는 가수다] 경연3-1. '내가 부르고싶은 남의노래'|https://cdnimg.melon.co.kr/cm/album/images/012/70/551/1270551_500.jpg/melon/resize/48/quality/80/optimize
+60|3418959|Everyday|가비엔제이|174997|1289853|가비효과|https://cdnimg.melon.co.kr/cm/album/images/012/89/853/1289853_500.jpg/melon/resize/48/quality/80/optimize
+61|3367970|몰라요|Apink (에이핑크)|534360|1246270|Seven Springs Of Apink|https://cdnimg.melon.co.kr/cm/album/images/012/46/270/1246270_500.jpg/melon/resize/48/quality/80/optimize
+62|3413553|사랑해! '항상' 행복해! (Feat. 티아라 With 은정)|BGH to|542080|1285352|The Paradise|https://cdnimg.melon.co.kr/cm/album/images/012/85/352/1285352_500.jpg/melon/resize/48/quality/80/optimize
+63|3409773|Urban Forest|Ecobridge|181727|1281954|Urban Forest by Eco Bridge|https://cdnimg.melon.co.kr/cm/album/images/012/81/954/1281954_500.jpg/melon/resize/48/quality/80/optimize
+64|3174148|가슴 시린 이야기 (Feat. 용준형 Of Beast)|휘성 (Realslow)|10577|1199451|가슴 시린 이야기|https://cdnimg.melon.co.kr/cm/album/images/011/99/451/1199451_500.jpg/melon/resize/48/quality/80/optimize
+65|3401748|Pass|쥬얼리|101487|1275851|Pass (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/012/75/851/1275851_500.jpg/melon/resize/48/quality/80/optimize
+66|684952|미아|박정현|1099|48604|On&On|https://cdnimg.melon.co.kr/cm/album/images/000/48/604/48604_500.jpg/melon/resize/48/quality/80/optimize
+67|3411749|그대 내 맘에 들어오면은|셰인|531828|1283651|스타오디션 위대한 탄생 Part.7 - 영화보다 아름다운 OST 명곡|https://cdnimg.melon.co.kr/cm/album/images/012/83/651/1283651_500.jpg/melon/resize/48/quality/80/optimize
+68|3164048|미친거니 (Feat. 방용국)|송지은|446200|1190551|미친거니|https://cdnimg.melon.co.kr/cm/album/images/011/90/551/1190551_500.jpg/melon/resize/48/quality/80/optimize
+69|3156950|TONIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+70|3376677|Abandoned (Feat. Dok2)|박재범|443420|1256554|Take A Deeper Look|https://cdnimg.melon.co.kr/cm/album/images/012/56/554/1256554_500.jpg/melon/resize/48/quality/80/optimize
+71|3409056|믿나요|베이지|222697|1281454|사랑을 믿어요 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/012/81/454/1281454_500.jpg/melon/resize/48/quality/80/optimize
+72|3393515|Can U Smile (Broadcasting Ver.)|인피니트|476181|1269660|Can U Smile (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/012/69/660/1269660_500.jpg/melon/resize/48/quality/80/optimize
+73|3367917|슈루룹|먼데이 키즈 (Monday Kiz)|175155|1250061|Memories Cantare|https://cdnimg.melon.co.kr/cm/album/images/012/50/061/1250061_500.jpg/melon/resize/48/quality/80/optimize
+74|3403988|그날에 우리|어반자카파|420527|1277868|[01]|https://cdnimg.melon.co.kr/cm/album/images/012/77/868/1277868_500.jpg/melon/resize/48/quality/80/optimize
+75|3378450|가면 안돼|San E~아웃사이더~이창민|402526~181785~443620|1257552|가면 안돼|https://cdnimg.melon.co.kr/cm/album/images/012/57/552/1257552_500.jpg/melon/resize/48/quality/80/optimize
+76|1095261|사랑한다는 흔한 말|김연우|6017|313004|사랑을 놓치다|https://cdnimg.melon.co.kr/cm/album/images/003/13/004/313004_500.jpg/melon/resize/48/quality/80/optimize
+77|3410248|Boyfriend (보이프렌드)|보이프렌드|541500|1282351|Boyfriend|https://cdnimg.melon.co.kr/cm/album/images/012/82/351/1282351_500.jpg/melon/resize/48/quality/80/optimize
+78|3364510|배가 불렀지 (Feat. GaeKo of DYNAMIC DUO)|Supreme Team|410162|1247356|Hommage To Quincy Jones|https://cdnimg.melon.co.kr/cm/album/images/012/47/356/1247356_500.jpg/melon/resize/48/quality/80/optimize
+79|3394451|마법의 성 (더클래식)|YB|100168|1270551|[서바이벌 나는 가수다] 경연3-1. '내가 부르고싶은 남의노래'|https://cdnimg.melon.co.kr/cm/album/images/012/70/551/1270551_500.jpg/melon/resize/48/quality/80/optimize
+80|3408391|꿈의 겨울|김연아~박정현|246968~1099|1280952|꿈의 겨울|https://cdnimg.melon.co.kr/cm/album/images/012/80/952/1280952_500.jpg/melon/resize/48/quality/80/optimize
+81|3387348|You You (Feat. 오진석)|언터쳐블|190493|1264451|You You (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/012/64/451/1264451_500.jpg/melon/resize/48/quality/80/optimize
+82|3051244|좋은 날|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+83|3156953|CAFE|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+84|3353418|핑크 로켓 (Pink Rocket)|달샤벳|514619|1238759|핑크 로켓|https://cdnimg.melon.co.kr/cm/album/images/012/38/759/1238759_500.jpg/melon/resize/48/quality/80/optimize
+85|3397806|Count On Me (With G.NA)|이기찬~지나|6225~482640|1273264|Count On Me|https://cdnimg.melon.co.kr/cm/album/images/012/73/264/1273264_500.jpg/melon/resize/48/quality/80/optimize
+86|3325048|나 항상 그대를 (With YB)|윤도현|923|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+87|3138749|내꺼중에 최고|이현|429480|1168952|내꺼중에 최고|https://cdnimg.melon.co.kr/cm/album/images/011/68/952/1168952_500.jpg/melon/resize/48/quality/80/optimize
+88|3337772|You Are My Lady|김건모|889|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+89|3394450|그대 내게 다시 (변진섭)|BMK|36142|1270551|[서바이벌 나는 가수다] 경연3-1. '내가 부르고싶은 남의노래'|https://cdnimg.melon.co.kr/cm/album/images/012/70/551/1270551_500.jpg/melon/resize/48/quality/80/optimize
+90|3143550|나만 몰랐던 이야기|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+91|3340976|0330|유키스|259928|1231054|Bran New KISS|https://cdnimg.melon.co.kr/cm/album/images/012/31/054/1231054_500.jpg/melon/resize/48/quality/80/optimize
+92|3111583|Black & White|지나|482640|1143954|Black & White|https://cdnimg.melon.co.kr/cm/album/images/011/43/954/1143954_500.jpg/melon/resize/48/quality/80/optimize
+93|3402448|사랑했지만|이태권|531824|1276551|스타오디션 위대한 탄생 Part.6 - 내 생애 최고의 노래|https://cdnimg.melon.co.kr/cm/album/images/012/76/551/1276551_500.jpg/melon/resize/48/quality/80/optimize
+94|3337771|약속|백지영|1118|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+95|3407152|같은 꿈|알렉스|51146|1279958|같은 꿈|https://cdnimg.melon.co.kr/cm/album/images/012/79/958/1279958_500.jpg/melon/resize/48/quality/80/optimize
+96|3384988|안을까 말까|Of 비스트|537787|1262566|신사동호랭이 프로젝트앨범 '슈퍼마켓 - the Half'|https://cdnimg.melon.co.kr/cm/album/images/012/62/566/1262566_500.jpg/melon/resize/48/quality/80/optimize
+97|3397248|조금 더 가까이 (Duet. 영준)|신혜성~영준 (브라운 아이드 소울)|1741~45162|1272851|조금 더 가까이|https://cdnimg.melon.co.kr/cm/album/images/012/72/851/1272851_500.jpg/melon/resize/48/quality/80/optimize
+98|3337774|Dash (with YB)|윤도현|923|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+99|3417060|장난감 병정들|장재인|28498|1287953|데이 브레이커|https://cdnimg.melon.co.kr/cm/album/images/012/87/953/1287953_500.jpg/melon/resize/48/quality/80/optimize
+100|3411648|1970 (With 부활)|백청강~손진영~이태권|531823~531834~531824|1283551|스타오디션 위대한 탄생 - Special Stage '1970'|https://cdnimg.melon.co.kr/cm/album/images/012/83/551/1283551_500.jpg/melon/resize/48/quality/80/optimize

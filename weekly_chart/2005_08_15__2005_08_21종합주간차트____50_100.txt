@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|848286|Hold Me Now|소찬휘|3897|303242|The True|https://cdnimg.melon.co.kr/cm/album/images/003/03/242/303242_500.jpg/melon/resize/48/quality/80/optimize
+52|-1|어쩌다가 (New Ver.)|란 (RAN)|236880|302255|-|https://cdnimg.melon.co.kr/cm/album/images/003/02/255/302255_500.jpg/melon/resize/48/quality/80/optimize
+53|711626|살다가|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+54|896242|활주 ('나루토' 여는 노래)|버즈|160091|306248|We 3 (투니버스 만화영화 주제가 Best)|https://cdnimg.melon.co.kr/cm/album/images/003/06/248/306248_500.jpg/melon/resize/48/quality/80/optimize
+55|898404|광 (Club Mix)|SG 워너비|108363|306508|The Voices - 광|https://cdnimg.melon.co.kr/cm/album/images/003/06/508/306508_500.jpg/melon/resize/48/quality/80/optimize
+56|-1|Ocean Blue (With. 이민우)|신혜성|1741|306216|해변으로 가요 OST|https://cdnimg.melon.co.kr/cm/album/images/003/06/216/306216_500.jpg/melon/resize/48/quality/80/optimize
+57|863194|너희들 것이니까 (I Wish...)|동방신기 (TVXQ!)|108316|304259|2005 Summer: Hi Ya Ya (여름날) (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/04/259/304259_500.jpg/melon/resize/48/quality/80/optimize
+58|858981|아파요|김현정|1177|304018|Fun Town 20|https://cdnimg.melon.co.kr/cm/album/images/003/04/018/304018_500.jpg/melon/resize/48/quality/80/optimize
+59|833906|What You Waiting For? (KTFT 송혜교편)|Gwen Stefani|39543|301627|Love, Angel, Music, Baby|https://cdnimg.melon.co.kr/cm/album/images/003/01/627/301627_500.jpg/melon/resize/48/quality/80/optimize
+60|898410|No Make Up|손상미|5444|306509|No Make Up|https://cdnimg.melon.co.kr/cm/album/images/003/06/509/306509_500.jpg/melon/resize/48/quality/80/optimize
+61|841073|편지|김우주|168856|302364|Before You Sleep...|https://cdnimg.melon.co.kr/cm/album/images/003/02/364/302364_500.jpg/melon/resize/48/quality/80/optimize
+62|897709|부비부비|바나나 걸|108613|306445|Bubi-Bubi|https://cdnimg.melon.co.kr/cm/album/images/003/06/445/306445_500.jpg/melon/resize/48/quality/80/optimize
+63|854321|기억 때문에|이승철|1010|303787|20th Anniversary - A Walk To Remember|https://cdnimg.melon.co.kr/cm/album/images/003/03/787/303787_500.jpg/melon/resize/48/quality/80/optimize
+64|863658|Never Again|SS501|170541|304287|SS501|https://cdnimg.melon.co.kr/cm/album/images/003/04/287/304287_500.jpg/melon/resize/48/quality/80/optimize
+65|900583|소외된 모두, 왼발을 한 보 앞으로!|드렁큰 타이거|100027|306803|1945 해방|https://cdnimg.melon.co.kr/cm/album/images/003/06/803/306803_500.jpg/melon/resize/48/quality/80/optimize
+66|742312|내 남자의 여자친구|별|27033|301021|별 2집|https://cdnimg.melon.co.kr/cm/album/images/003/01/021/301021_500.jpg/melon/resize/48/quality/80/optimize
+67|893830|Memory|한예슬|57787|305892|그 여름의 태풍 OST|https://cdnimg.melon.co.kr/cm/album/images/003/05/892/305892_500.jpg/melon/resize/48/quality/80/optimize
+68|-1|All The Way|Craig David|4804|306176|The Story Goes|https://cdnimg.melon.co.kr/cm/album/images/003/06/176/306176_500.jpg/melon/resize/48/quality/80/optimize
+69|732520|비망록 (스물의노래)|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+70|897595|쿵짝|원투|106928|306432|Ladies First|https://cdnimg.melon.co.kr/cm/album/images/003/06/432/306432_500.jpg/melon/resize/48/quality/80/optimize
+71|892386|Fly High|맥시붐|171562|305764|Melonade|https://cdnimg.melon.co.kr/cm/album/images/003/05/764/305764_500.jpg/melon/resize/48/quality/80/optimize
+72|898767|하루가.. (조장혁 '체념' 편곡 / SBS드라마 패션 70's 삽입곡)|J*World|172356|306548|Final Fantasy j-world - The Best Is Yet To Come|https://cdnimg.melon.co.kr/cm/album/images/003/06/548/306548_500.jpg/melon/resize/48/quality/80/optimize
+73|895904|Shine|서영은|3033|306215|루루공주 OST|https://cdnimg.melon.co.kr/cm/album/images/003/06/215/306215_500.jpg/melon/resize/48/quality/80/optimize
+74|842021|떠나지마|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+75|897726|시청앞 지하철 역에서|유리상자|100130|306447|동상이몽|https://cdnimg.melon.co.kr/cm/album/images/003/06/447/306447_500.jpg/melon/resize/48/quality/80/optimize
+76|842020|거울|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+77|-1|The Magic Key (네스팟스윙 CF 재희, 정애연편)|One-T|108396|33842|The One-T ODC|https://cdnimg.melon.co.kr/cm/album/images/000/33/842/33842_500.jpg/melon/resize/48/quality/80/optimize
+78|896695|흐르는 눈물 막을 수 없어|박진혁|172180|306378|Real Life|https://cdnimg.melon.co.kr/cm/album/images/003/06/378/306378_500.jpg/melon/resize/48/quality/80/optimize
+79|-1|Don't Phunk With My Heart|Black Eyed Peas|107538|303536|Monkey Business (Bonus Track)|https://cdnimg.melon.co.kr/cm/album/images/003/03/536/303536_500.jpg/melon/resize/48/quality/80/optimize
+80|897731|Oh! (New Club-Mix Ver.)|신화|100078|306448|Summer Story 2005 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/06/448/306448_500.jpg/melon/resize/48/quality/80/optimize
+81|848166|약한 남자|바비 킴|6027|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+82|882619|추억이면 (異面)|부활|100594|304917|서정 (抒情)|https://cdnimg.melon.co.kr/cm/album/images/003/04/917/304917_500.jpg/melon/resize/48/quality/80/optimize
+83|896673|아시나요|이재은|4455|306373|Special Single Song 004|https://cdnimg.melon.co.kr/cm/album/images/003/06/373/306373_500.jpg/melon/resize/48/quality/80/optimize
+84|896258|Shoot the Chicks|나비효과|105790|306249|나비효과 (Butterfly Effect) 2집|https://cdnimg.melon.co.kr/cm/album/images/003/06/249/306249_500.jpg/melon/resize/48/quality/80/optimize
+85|897732|Hey, Dude!|신화|100078|306448|Summer Story 2005 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/06/448/306448_500.jpg/melon/resize/48/quality/80/optimize
+86|623750|Lose My Breath|Destiny's Child|100686|43775|Destiny Fulfilled|https://cdnimg.melon.co.kr/cm/album/images/000/43/775/43775_500.jpg/melon/resize/48/quality/80/optimize
+87|848677|Music Is My Life (삼성전자 옙 CF 임정희, 재희편)|임정희|150529|303271|Music Is My Life|https://cdnimg.melon.co.kr/cm/album/images/003/03/271/303271_500.jpg/melon/resize/48/quality/80/optimize
+88|843729|그녀에게|유엔|100737|302691|그녀에게|https://cdnimg.melon.co.kr/cm/album/images/003/02/691/302691_500.jpg/melon/resize/48/quality/80/optimize
+89|847269|더딘 사랑|곽은기 (은휼)|168900|303118|첫 여행 오랜 기다림|https://cdnimg.melon.co.kr/cm/album/images/003/03/118/303118_500.jpg/melon/resize/48/quality/80/optimize
+90|-1|19금 Pump It (SKTWorld CF 이민혁편)|Black Eyed Peas|107538|303536|Monkey Business (Bonus Track)|https://cdnimg.melon.co.kr/cm/album/images/003/03/536/303536_500.jpg/melon/resize/48/quality/80/optimize
+91|888284|그대를 사랑합니다|서현수|16002|305347|그녀가 돌아왔다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/05/347/305347_500.jpg/melon/resize/48/quality/80/optimize
+92|840992|부메랑|천상지희 더 그레이스 (The Grace)|168015|302007|Too Good|https://cdnimg.melon.co.kr/cm/album/images/003/02/007/302007_500.jpg/melon/resize/48/quality/80/optimize
+93|896667|부비부비 클럽믹스 (Club Remix)|바나나 걸|108613|306372|Bubi-Bubi (싱글)|https://cdnimg.melon.co.kr/cm/album/images/003/06/372/306372_500.jpg/melon/resize/48/quality/80/optimize
+94|601953|어쩌다가|전초아|37649|40723|Finally... in 5 years|https://cdnimg.melon.co.kr/cm/album/images/000/40/723/40723_500.jpg/melon/resize/48/quality/80/optimize
+95|897508|해피송|노라조|172193|306425|첫 출연|https://cdnimg.melon.co.kr/cm/album/images/003/06/425/306425_500.jpg/melon/resize/48/quality/80/optimize
+96|-1|Axel F|Crazy Frog|170955|306477|Crazy Hits|https://cdnimg.melon.co.kr/cm/album/images/003/06/477/306477_500.jpg/melon/resize/48/quality/80/optimize
+97|833665|중독|서영은|3033|301561|Sunny Side Of My Heart|https://cdnimg.melon.co.kr/cm/album/images/003/01/561/301561_500.jpg/melon/resize/48/quality/80/optimize
+98|732518|내가 아니죠...|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+99|732373|사랑인걸|모세|165535|300617|사랑, 그 간절한 그리움 1집|https://cdnimg.melon.co.kr/cm/album/images/003/00/617/300617_500.jpg/melon/resize/48/quality/80/optimize
+100|855658|Be My Love (Feat. 이승열)|클래지콰이|107725|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize

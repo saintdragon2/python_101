@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|30568339|Wanna Be (My Baby)|Wanna One (워너원)|1865973|10085951|1X1=1(TO BE ONE)|https://cdnimg.melon.co.kr/cm/album/images/100/85/951/10085951_500.jpg/melon/resize/48/quality/80/optimize
+52|30611680|폰서트|10CM|468244|10093077|4.0|https://cdnimg.melon.co.kr/cm/album/images/100/93/077/10093077_500.jpg/melon/resize/48/quality/80/optimize
+53|30581595|DARLING|태양|247621|10088094|WHITE NIGHT|https://cdnimg.melon.co.kr/cm/album/images/100/88/094/10088094_500.jpg/melon/resize/48/quality/80/optimize
+54|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+55|30069773|불장난|BLACKPINK|995169|10011491|SQUARE TWO|https://cdnimg.melon.co.kr/cm/album/images/100/11/491/10011491_500.jpg/melon/resize/48/quality/80/optimize
+56|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+57|8143111|돌아오지마 (Feat. 용준형 Of 비스트)|헤이즈 (Heize)|751611|2679308|돌아오지마|https://cdnimg.melon.co.kr/cm/album/images/026/79/308/2679308_500.jpg/melon/resize/48/quality/80/optimize
+58|30588629|부르는게 값이야 (Feat. 개코, 던밀스)|넉살~조우찬|672461~1866684|10089191|쇼미더머니 6 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/100/89/191/10089191_500.jpg/melon/resize/48/quality/80/optimize
+59|30495638|아침에 (Feat. Bryn)|양홍원|907416|10074941|아침에|https://cdnimg.melon.co.kr/cm/album/images/100/74/941/10074941_500.jpg/melon/resize/48/quality/80/optimize
+60|9620469|우주를 줄게|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+61|30565630|Holiday|소녀시대 (GIRLS' GENERATION)|228069|10085546|Holiday Night - The 6th Album|https://cdnimg.melon.co.kr/cm/album/images/100/85/546/10085546_500.jpg/melon/resize/48/quality/80/optimize
+62|30543235|있다면|뉴이스트 W|1816966|10082330|NU'EST W '있다면'|https://cdnimg.melon.co.kr/cm/album/images/100/82/330/10082330_500.jpg/melon/resize/48/quality/80/optimize
+63|30271730|Something Just Like This|The Chainsmokers~Coldplay|713297~100260|10031250|Memories...Do Not Open|https://cdnimg.melon.co.kr/cm/album/images/100/31/250/10031250_500.jpg/melon/resize/48/quality/80/optimize
+64|9614761|그대라는 사치|한동근|711476|2706226|The 3rd Digital Single '그대라는 사치'|https://cdnimg.melon.co.kr/cm/album/images/027/06/226/2706226_500.jpg/melon/resize/48/quality/80/optimize
+65|8203900|너였다면|정승환|792091|2687963|또 오해영 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/87/963/2687963_500.jpg/melon/resize/48/quality/80/optimize
+66|30612159|MOVE (Feat. Bizzy)|우원재|1866689|10093191|쇼미더머니 6 Episode 5|https://cdnimg.melon.co.kr/cm/album/images/100/93/191/10093191_500.jpg/melon/resize/48/quality/80/optimize
+67|4032981|여보세요|뉴이스트|640891|2175137|THE SECOND MINI ALBUM '여보세요'|https://cdnimg.melon.co.kr/cm/album/images/021/75/137/2175137_500.jpg/melon/resize/48/quality/80/optimize
+68|4383833|바람이 불었으면 좋겠어|길구봉구|500421|2224353|바람이 불었으면 좋겠어|https://cdnimg.melon.co.kr/cm/album/images/022/24/353/2224353_500.jpg/melon/resize/48/quality/80/optimize
+69|8276709|아름다워|창모 (CHANGMO)|774900|2698920|돈 벌 시간 2|https://cdnimg.melon.co.kr/cm/album/images/026/98/920/2698920_500.jpg/melon/resize/48/quality/80/optimize
+70|30529995|전야 (前夜) (The Eve)|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+71|30049271|All I Wanna Do (K) (Feat. Hoody, Loco)|박재범|443420|10008163|EVERYTHING YOU WANTED|https://cdnimg.melon.co.kr/cm/album/images/100/08/163/10008163_500.jpg/melon/resize/48/quality/80/optimize
+72|30453635|NEVER|국민의 아들|1758625|10068359|PRODUCE 101 - 35 Boys 5 Concepts|https://cdnimg.melon.co.kr/cm/album/images/100/68/359/10068359_500.jpg/melon/resize/48/quality/80/optimize
+73|30208070|소나기|아이오아이 (I.O.I)|960251|10032040|소나기|https://cdnimg.melon.co.kr/cm/album/images/100/32/040/10032040_500.jpg/melon/resize/48/quality/80/optimize
+74|30602534|HELP|10CM|468244|10091534|HELP|https://cdnimg.melon.co.kr/cm/album/images/100/91/534/10091534_500.jpg/melon/resize/48/quality/80/optimize
+75|30403589|I LUV IT|싸이 (PSY)|3865|10060647|PSY 8th 4X2=8|https://cdnimg.melon.co.kr/cm/album/images/100/60/647/10060647_500.jpg/melon/resize/48/quality/80/optimize
+76|30630736|여름비 (SUMMER RAIN)|여자친구 (GFRIEND)|828478|10096067|여자친구 The 5th Mini Album Repackage 'RAINBOW'|https://cdnimg.melon.co.kr/cm/album/images/100/96/067/10096067_500.jpg/melon/resize/48/quality/80/optimize
+77|30529997|What U do?|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+78|30616685|Sweet Lies|EXO|724619|10093773|The Power of Music - The 4th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/100/93/773/10093773_500.jpg/melon/resize/48/quality/80/optimize
+79|30609787|JUST U (PROD. GroovyRoom)|정세운~식케이 (Sik-K)|1907398~786648|10092709|EVER|https://cdnimg.melon.co.kr/cm/album/images/100/92/709/10092709_500.jpg/melon/resize/48/quality/80/optimize
+80|30530002|기억을 걷는 밤 (Walk On Memories)|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+81|30633539|사랑해|BOBBY|742763|10096416|LOVE AND FALL|https://cdnimg.melon.co.kr/cm/album/images/100/96/416/10096416_500.jpg/melon/resize/48/quality/80/optimize
+82|30261007|KNOCK KNOCK|TWICE (트와이스)|905701|10040060|TWICEcoaster : LANE 2|https://cdnimg.melon.co.kr/cm/album/images/100/40/060/10040060_500.jpg/melon/resize/48/quality/80/optimize
+83|30529998|Forever|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+84|30601119|진자 (ZINZA) (Feat. YDG, 수란)|우원재|1866689|10091285|쇼미더머니 6 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/100/91/285/10091285_500.jpg/melon/resize/48/quality/80/optimize
+85|30616689|부메랑 (Boomerang)|EXO|724619|10093773|The Power of Music - The 4th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/100/93/773/10093773_500.jpg/melon/resize/48/quality/80/optimize
+86|30607341|Right? (Feat. 소유)|프라이머리|35682|10092302|Pop|https://cdnimg.melon.co.kr/cm/album/images/100/92/302/10092302_500.jpg/melon/resize/48/quality/80/optimize
+87|30601122|비틀어 (Twisted) (Feat. 김효은, CHANGMO)|Junoflo (주노플로)|782332|10091285|쇼미더머니 6 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/100/91/285/10091285_500.jpg/melon/resize/48/quality/80/optimize
+88|30568340|이 자리에 (Acoustic Ver.)|Wanna One (워너원)|1865973|10085951|1X1=1(TO BE ONE)|https://cdnimg.melon.co.kr/cm/album/images/100/85/951/10085951_500.jpg/melon/resize/48/quality/80/optimize
+89|30530000|너의 손짓 (Touch It)|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+90|30310862|얼굴 찌푸리지 말아요|하이라이트 (Highlight)|1624993|10044814|CAN YOU FEEL IT?|https://cdnimg.melon.co.kr/cm/album/images/100/44/814/10044814_500.jpg/melon/resize/48/quality/80/optimize
+91|30529999|다이아몬드 (Diamond)|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+92|30623590|오늘 밤은 (With JISIM)|스탠딩 에그|467880|10095041|오늘 밤은|https://cdnimg.melon.co.kr/cm/album/images/100/95/041/10095041_500.jpg/melon/resize/48/quality/80/optimize
+93|30530003|내가 미쳐 (Going Crazy)|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+94|30530001|소름 (Chill)|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+95|30290011|부담이 돼 (Feat. 휘인 Of 마마무)|정키|570731|10043982|EMPTY|https://cdnimg.melon.co.kr/cm/album/images/100/43/982/10043982_500.jpg/melon/resize/48/quality/80/optimize
+96|30601118|VVIP (Feat. Sik-K, 개코)|조우찬|1866684|10091285|쇼미더머니 6 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/100/91/285/10091285_500.jpg/melon/resize/48/quality/80/optimize
+97|9621300|Love Paint (every afternoon)|뉴이스트|640891|2707281|The 5th Mini Album 'CANVAS'|https://cdnimg.melon.co.kr/cm/album/images/027/07/281/2707281_500.jpg/melon/resize/48/quality/80/optimize
+98|30383949|TOMBOY|혁오 (HYUKOH)|785589|10057570|23|https://cdnimg.melon.co.kr/cm/album/images/100/57/570/10057570_500.jpg/melon/resize/48/quality/80/optimize
+99|30181278|오랜 날 오랜 밤|AKMU (악뮤)|712452|10027786|사춘기 하 (思春記 下)|https://cdnimg.melon.co.kr/cm/album/images/100/27/786/10027786_500.jpg/melon/resize/48/quality/80/optimize
+100|30628813|걔 말고|스무살|714975|10095787|걔 말고|https://cdnimg.melon.co.kr/cm/album/images/100/95/787/10095787_500.jpg/melon/resize/48/quality/80/optimize

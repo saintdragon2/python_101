@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+52|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+53|3795529|눈물만|인피니트|476181|2123248|눈물만|https://cdnimg.melon.co.kr/cm/album/images/021/23/248/2123248_500.jpg/melon/resize/48/quality/80/optimize
+54|3744700|한참 지나서|백지영|1118|2097789|옥탑방 왕세자 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/97/789/2097789_500.jpg/melon/resize/48/quality/80/optimize
+55|3715674|BAD BOY|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+56|3786630|눈감아줄께|블락비 (Block B)|532201|2119229|'Welcome to the BLOCK' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/19/229/2119229_500.jpg/melon/resize/48/quality/80/optimize
+57|3797003|인연|이수영|995|2123403|'나는 가수다 2' 5월 6일 A조 경연 - 네티즌 추천곡|https://cdnimg.melon.co.kr/cm/album/images/021/23/403/2123403_500.jpg/melon/resize/48/quality/80/optimize
+58|3753310|향수|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+59|3791294|여자사람|노라조|172193|2121647|여자사람|https://cdnimg.melon.co.kr/cm/album/images/021/21/647/2121647_500.jpg/melon/resize/48/quality/80/optimize
+60|-1|기다려 그리고 준비해|용감한 녀석들|649953|2098966|용감한 녀석들|https://cdnimg.melon.co.kr/cm/album/images/020/98/966/2098966_500.jpg/melon/resize/48/quality/80/optimize
+61|3801584|Tarantallegra (Feat. Flowsik Of Aziatix)|XIA (준수)|52607|2123615|Tarantallegra|https://cdnimg.melon.co.kr/cm/album/images/021/23/615/2123615_500.jpg/melon/resize/48/quality/80/optimize
+62|3767703|사랑이 운다|케이윌|175139|2109589|더킹 투하츠 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/09/589/2109589_500.jpg/melon/resize/48/quality/80/optimize
+63|3713013|Touch|미쓰에이|481481|2082826|Touch|https://cdnimg.melon.co.kr/cm/album/images/020/82/826/2082826_500.jpg/melon/resize/48/quality/80/optimize
+64|3795532|아프지않게|버블 시스터즈|105696|2123250|아프지않게|https://cdnimg.melon.co.kr/cm/album/images/021/23/250/2123250_500.jpg/melon/resize/48/quality/80/optimize
+65|3733443|그대 한 사람|김수현|8433|2092611|해를 품은 달 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/020/92/611/2092611_500.jpg/melon/resize/48/quality/80/optimize
+66|3765798|그리고, 남겨진 것들|넬 (NELL)|101094|2108570|Slip Away|https://cdnimg.melon.co.kr/cm/album/images/021/08/570/2108570_500.jpg/melon/resize/48/quality/80/optimize
+67|3772618|물들어|손승연|661773|2112226|보이스 코리아 Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/12/226/2112226_500.jpg/melon/resize/48/quality/80/optimize
+68|3781653|웃을까 울을까 (Feat. 백지영)|일렉트로보이즈|475721|2116810|Electrify|https://cdnimg.melon.co.kr/cm/album/images/021/16/810/2116810_500.jpg/melon/resize/48/quality/80/optimize
+69|3772555|시간이 흐른뒤 (윤미래)|이하이|646171|2112206|SBS K팝 스타 Top 4|https://cdnimg.melon.co.kr/cm/album/images/021/12/206/2112206_500.jpg/melon/resize/48/quality/80/optimize
+70|-1|난 여자가 있는데|알리 (ALi)|312266|2123821|불후의 명곡 - 전설을 노래하다 (박진영 1편)|https://cdnimg.melon.co.kr/cm/album/images/021/23/821/2123821_500.jpg/melon/resize/48/quality/80/optimize
+71|3768214|밀고 당겨줘 (Tease Me)|서인국|436700|2109906|Perfect Fit|https://cdnimg.melon.co.kr/cm/album/images/021/09/906/2109906_500.jpg/melon/resize/48/quality/80/optimize
+72|-1|이 노래|신용재 (2F)|510537|2123821|불후의 명곡 - 전설을 노래하다 (박진영 1편)|https://cdnimg.melon.co.kr/cm/album/images/021/23/821/2123821_500.jpg/melon/resize/48/quality/80/optimize
+73|3143265|Rolling In The Deep|Adele|241925|1173053|21|https://cdnimg.melon.co.kr/cm/album/images/011/73/053/1173053_500.jpg/melon/resize/48/quality/80/optimize
+74|3745234|Venus|신화|100078|2097929|The Return|https://cdnimg.melon.co.kr/cm/album/images/020/97/929/2097929_500.jpg/melon/resize/48/quality/80/optimize
+75|3801609|그 남자|남규리|223392|2123924|그 남자|https://cdnimg.melon.co.kr/cm/album/images/021/23/924/2123924_500.jpg/melon/resize/48/quality/80/optimize
+76|3800845|Sorry But I|씨리얼|569973|2123829|Sorry But I|https://cdnimg.melon.co.kr/cm/album/images/021/23/829/2123829_500.jpg/melon/resize/48/quality/80/optimize
+77|3794235|어쩌면 어쩌면|알렉스~호란|51146~221838|2122527|MBC 뮤직 '그 여자 작사 그 남자 작곡' Part.4 존박-진희|https://cdnimg.melon.co.kr/cm/album/images/021/22/527/2122527_500.jpg/melon/resize/48/quality/80/optimize
+78|3801942|Rock Star|김범수|6502|2123963|Rock Star|https://cdnimg.melon.co.kr/cm/album/images/021/23/963/2123963_500.jpg/melon/resize/48/quality/80/optimize
+79|3663978|Lovey-Dovey|티아라|412000|2058067|Funky Town|https://cdnimg.melon.co.kr/cm/album/images/020/58/067/2058067_500.jpg/melon/resize/48/quality/80/optimize
+80|3625504|너랑 나|아이유|261143|2040666|Last Fantasy|https://cdnimg.melon.co.kr/cm/album/images/020/40/666/2040666_500.jpg/melon/resize/48/quality/80/optimize
+81|3794400|안녕|손승연|661773|2122626|보이스 코리아 Part 5|https://cdnimg.melon.co.kr/cm/album/images/021/22/626/2122626_500.jpg/melon/resize/48/quality/80/optimize
+82|-1|Livin' My Love (개그콘서트 '시청률의 제왕' 삽입곡)|LMFAO~Steve Aoki|331467~487524|2062026|Livin' My Love|https://cdnimg.melon.co.kr/cm/album/images/020/62/026/2062026_500.jpg/melon/resize/48/quality/80/optimize
+83|3798159|울랄라|울랄라세션|569214|2123522|ULALA SENSATION Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/23/522/2123522_500.jpg/melon/resize/48/quality/80/optimize
+84|3714473|Falling|존박|28772|2083726|Knock|https://cdnimg.melon.co.kr/cm/album/images/020/83/726/2083726_500.jpg/melon/resize/48/quality/80/optimize
+85|3750466|Fame (Fame OST)|수펄스|651331|2100869|SBS K팝 스타 Special No.2|https://cdnimg.melon.co.kr/cm/album/images/021/00/869/2100869_500.jpg/melon/resize/48/quality/80/optimize
+86|3772553|보고싶다 (김범수)|백아연|646173|2112206|SBS K팝 스타 Top 4|https://cdnimg.melon.co.kr/cm/album/images/021/12/206/2112206_500.jpg/melon/resize/48/quality/80/optimize
+87|3753301|봄바람|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+88|3747899|Over The Rainbow (영화 '오즈의 마법사' OST)|JAMIE (제이미)|646172|2099306|SBS K팝 스타 Top 7|https://cdnimg.melon.co.kr/cm/album/images/020/99/306/2099306_500.jpg/melon/resize/48/quality/80/optimize
+89|3710333|잊었니|이승철|1010|2081526|신들의 만찬 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/81/526/2081526_500.jpg/melon/resize/48/quality/80/optimize
+90|3699257|생각날거야|다비치|236815|2076258|LOVE CALL (With 다비치)|https://cdnimg.melon.co.kr/cm/album/images/020/76/258/2076258_500.jpg/melon/resize/48/quality/80/optimize
+91|3692955|난리나|블락비 (Block B)|532201|2073331|Welcome to the BLOCK|https://cdnimg.melon.co.kr/cm/album/images/020/73/331/2073331_500.jpg/melon/resize/48/quality/80/optimize
+92|3777353|사랑은 이렇게|이영현|10210|2114626|패션왕 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/14/626/2114626_500.jpg/melon/resize/48/quality/80/optimize
+93|3706380|니가 필요해 (I Need You)|케이윌|175139|2079769|니가 필요해 (I Need You)|https://cdnimg.melon.co.kr/cm/album/images/020/79/769/2079769_500.jpg/melon/resize/48/quality/80/optimize
+94|-1|Party Rock Anthem (Feat. Lauren Bennett & Goon Rock)|LMFAO|331467|1165751|Party Rock Anthem|https://cdnimg.melon.co.kr/cm/album/images/011/65/751/1165751_500.jpg/melon/resize/48/quality/80/optimize
+95|3666573|애상|10CM|468244|2059186|윤일상 작곡가 21주년 기념 앨범 I'm 21|https://cdnimg.melon.co.kr/cm/album/images/020/59/186/2059186_500.jpg/melon/resize/48/quality/80/optimize
+96|3786880|비와 당신의 이야기|손승연|661773|2119406|보이스 코리아 Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/19/406/2119406_500.jpg/melon/resize/48/quality/80/optimize
+97|3777592|Power|B.A.P|623451|2114709|Power|https://cdnimg.melon.co.kr/cm/album/images/021/14/709/2114709_500.jpg/melon/resize/48/quality/80/optimize
+98|3753306|골목길|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+99|3630755|Trouble Maker|트러블메이커|591031|2043387|Trouble Maker|https://cdnimg.melon.co.kr/cm/album/images/020/43/387/2043387_500.jpg/melon/resize/48/quality/80/optimize
+100|3798964|Hero (Feat. 이하늘, 소향)|YDG|4770|2123628|히어로 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/23/628/2123628_500.jpg/melon/resize/48/quality/80/optimize

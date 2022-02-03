@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1984448|하얀 입맞춤|솔비|227228|432551|하얀 입맞춤|https://cdnimg.melon.co.kr/cm/album/images/004/32/551/432551_500.jpg/melon/resize/48/quality/80/optimize
+52|1903057|Hey Mr. Big|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+53|1949849|약속 (Duet With 윤하)|김동완|1743|403751|약속|https://cdnimg.melon.co.kr/cm/album/images/004/03/751/403751_500.jpg/melon/resize/48/quality/80/optimize
+54|1963424|듣고 있나요|이승철|1010|416357|에덴의 동쪽 2 OST|https://cdnimg.melon.co.kr/cm/album/images/004/16/357/416357_500.jpg/melon/resize/48/quality/80/optimize
+55|1936134|환상의 짝꿍 (Feat. 예은 Of 원더걸스)|H-유진|198032|398665|환상의 짝꿍|https://cdnimg.melon.co.kr/cm/album/images/003/98/665/398665_500.jpg/melon/resize/48/quality/80/optimize
+56|1913503|착한 사람|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+57|1984563|가려진 시간사이로|윤건|14801|432651|Song Book|https://cdnimg.melon.co.kr/cm/album/images/004/32/651/432651_500.jpg/melon/resize/48/quality/80/optimize
+58|1978789|하하 괜찮아|서영은|3033|430555|하하 괜찮아|https://cdnimg.melon.co.kr/cm/album/images/004/30/555/430555_500.jpg/melon/resize/48/quality/80/optimize
+59|1936243|Number 1|BIGBANG|198094|398679|Number 1|https://cdnimg.melon.co.kr/cm/album/images/003/98/679/398679_500.jpg/melon/resize/48/quality/80/optimize
+60|1975477|여자라서 하지 못한 말|유미|9956|427453|Melody & Memory|https://cdnimg.melon.co.kr/cm/album/images/004/27/453/427453_500.jpg/melon/resize/48/quality/80/optimize
+61|984646|애인 있어요|이은미|1055|309042|Ma Non Tanto|https://cdnimg.melon.co.kr/cm/album/images/003/09/042/309042_500.jpg/melon/resize/48/quality/80/optimize
+62|1977749|Circus|Britney Spears|8046|429651|Circus (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/004/29/651/429651_500.jpg/melon/resize/48/quality/80/optimize
+63|1973358|눈사람 (Feat. 융진 Of Casker)|Ecobridge|181727|425452|Somewhere Over The Rainbow Vol.7 (Christmas Party (Mood))|https://cdnimg.melon.co.kr/cm/album/images/004/25/452/425452_500.jpg/melon/resize/48/quality/80/optimize
+64|1939569|살아서도.. 죽어서도..|휘성 (Realslow)|10577|398971|바람의 나라 OST|https://cdnimg.melon.co.kr/cm/album/images/003/98/971/398971_500.jpg/melon/resize/48/quality/80/optimize
+65|1918284|사랑후애 (僞愛)|FTISLAND (FT아일랜드)|226490|394954|Colorful Sensibility|https://cdnimg.melon.co.kr/cm/album/images/003/94/954/394954_500.jpg/melon/resize/48/quality/80/optimize
+66|1958148|Wrong Number|동방신기 (TVXQ!)|108316|411651|The Fourth Album 'MIROTIC' (Special Edition)|https://cdnimg.melon.co.kr/cm/album/images/004/11/651/411651_500.jpg/melon/resize/48/quality/80/optimize
+67|1977777|좋은날|브라운아이드걸스|181694|429653|달콤한 거짓말 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/29/653/429653_500.jpg/melon/resize/48/quality/80/optimize
+68|1953949|무슨 사랑이 그래요|백찬~이수영|268669~995|407752|무슨 사랑이 그래요 (Single)|https://cdnimg.melon.co.kr/cm/album/images/004/07/752/407752_500.jpg/melon/resize/48/quality/80/optimize
+69|1972849|Part 2|넬 (NELL)|101094|424951|The Trace|https://cdnimg.melon.co.kr/cm/album/images/004/24/951/424951_500.jpg/melon/resize/48/quality/80/optimize
+70|1988008|윈터키스 (Feat. 백찬 Of 에이트)|박정현|1099|436057|Winter Kiss (Newways Always) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/36/057/436057_500.jpg/melon/resize/48/quality/80/optimize
+71|1929843|남자를 믿지마 (Feat. Big Tone)|M (이민우)|1742|398063|M Rizing|https://cdnimg.melon.co.kr/cm/album/images/003/98/063/398063_500.jpg/melon/resize/48/quality/80/optimize
+72|1959669|즉흥여행 (Feat. MC몽)|윤종신|437|413054|동네 한 바퀴|https://cdnimg.melon.co.kr/cm/album/images/004/13/054/413054_500.jpg/melon/resize/48/quality/80/optimize
+73|1976261|있잖아 나말야 (Vocal 명인희 Of TheThe & 강균성)|룸메이트|242927|428152|RoomMate Mini Album '있잖아 나말야'|https://cdnimg.melon.co.kr/cm/album/images/004/28/152/428152_500.jpg/melon/resize/48/quality/80/optimize
+74|1951549|오, 아, 오|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+75|1984550|랄랄라|소녀시대 (GIRLS' GENERATION)~윤상|228069~38|432651|Song Book|https://cdnimg.melon.co.kr/cm/album/images/004/32/651/432651_500.jpg/melon/resize/48/quality/80/optimize
+76|1945479|사랑은 없다|구피|100023|400053|2008 Neo Goofy|https://cdnimg.melon.co.kr/cm/album/images/004/00/053/400053_500.jpg/melon/resize/48/quality/80/optimize
+78|1943048|완벽한 남자|휘성 (Realslow)|10577|399300|With All My Heart And Soul|https://cdnimg.melon.co.kr/cm/album/images/003/99/300/399300_500.jpg/melon/resize/48/quality/80/optimize
+79|1903050|U-Go-Girl (With 낯선)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+80|1964790|슈퍼맨|노라조|172193|417656|Three GO|https://cdnimg.melon.co.kr/cm/album/images/004/17/656/417656_500.jpg/melon/resize/48/quality/80/optimize
+81|1986981|사랑하는 사람이 생겼습니다. (Sweet Ver.) (MBC 스친소 삽입곡)|블랙|261674|435053|사랑하는 사람이 생겼습니다 (Sweet Ver.)|https://cdnimg.melon.co.kr/cm/album/images/004/35/053/435053_500.jpg/melon/resize/48/quality/80/optimize
+82|1959670|내일 할 일|윤종신|437|413054|동네 한 바퀴|https://cdnimg.melon.co.kr/cm/album/images/004/13/054/413054_500.jpg/melon/resize/48/quality/80/optimize
+83|1961461|너만이|코요태|100022|414856|너만이|https://cdnimg.melon.co.kr/cm/album/images/004/14/856/414856_500.jpg/melon/resize/48/quality/80/optimize
+84|1897011|사랑과 전쟁 (Narr. 하하)|다비치|236815|388456|Vivid Summer Edition (1st Amaranth Repackage Album)|https://cdnimg.melon.co.kr/cm/album/images/003/88/456/388456_500.jpg/melon/resize/48/quality/80/optimize
+85|1975587|화성에서 온 남자 금성에서 온 여자 (Narr. 소유진)|타우|255466|427555|화성에서 온 남자 금성에서 온 여자|https://cdnimg.melon.co.kr/cm/album/images/004/27/555/427555_500.jpg/melon/resize/48/quality/80/optimize
+86|1984370|몰랐었다 (Narration Mix Ver.) (Narr.김명민)|홍경민|891|432454|몰랐었다|https://cdnimg.melon.co.kr/cm/album/images/004/32/454/432454_500.jpg/melon/resize/48/quality/80/optimize
+87|1964849|The Castle Of Zoltar|박효신~황 프로젝트|1191~276866|417851|Hwang Project Vol.1 (Welcome To The Fantastic World)|https://cdnimg.melon.co.kr/cm/album/images/004/17/851/417851_500.jpg/melon/resize/48/quality/80/optimize
+88|1951554|멍청한 사랑|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+89|1890408|너 때문에|브라운 아이즈|100742|386400|Two Things Needed For The Same Purpose And 5 Objets|https://cdnimg.melon.co.kr/cm/album/images/003/86/400/386400_500.jpg/melon/resize/48/quality/80/optimize
+90|1951551|반짝반짝|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+91|1941616|고맙다|김종국|1692|399175|Here I Am|https://cdnimg.melon.co.kr/cm/album/images/003/99/175/399175_500.jpg/melon/resize/48/quality/80/optimize
+92|1975554|욕심|김범수|6502|427552|종합병원 2 OST|https://cdnimg.melon.co.kr/cm/album/images/004/27/552/427552_500.jpg/melon/resize/48/quality/80/optimize
+93|1931406|가니 (Feat. SG워너비 (김용준), 황정음, Mario)|씨야|181679|398227|Brilliant Change|https://cdnimg.melon.co.kr/cm/album/images/003/98/227/398227_500.jpg/melon/resize/48/quality/80/optimize
+94|1968848|나쁜짓|알렉스|51146|421451|Newways Always (나쁜짓)|https://cdnimg.melon.co.kr/cm/album/images/004/21/451/421451_500.jpg/melon/resize/48/quality/80/optimize
+95|1959554|새벽 3시|테이|51893|410352|The Note|https://cdnimg.melon.co.kr/cm/album/images/004/10/352/410352_500.jpg/melon/resize/48/quality/80/optimize
+96|1967620|I Want You (Feat. 김동희)|일 락|57315|420367|I Want You|https://cdnimg.melon.co.kr/cm/album/images/004/20/367/420367_500.jpg/melon/resize/48/quality/80/optimize
+97|1929831|R.P.G. Shine (SK브로드밴드 광고 삽입 원곡)|W&Whale|221837|398062|Hardboiled|https://cdnimg.melon.co.kr/cm/album/images/003/98/062/398062_500.jpg/melon/resize/48/quality/80/optimize
+98|1961449|씻고준비해야죠 (Duet 손호영)|현욱|604781|414852|씻고준비해야죠|https://cdnimg.melon.co.kr/cm/album/images/004/14/852/414852_500.jpg/melon/resize/48/quality/80/optimize
+99|1874397|So Hot|원더걸스|217764|381932|So Hot|https://cdnimg.melon.co.kr/cm/album/images/003/81/932/381932_500.jpg/melon/resize/48/quality/80/optimize
+100|1990704|지금 만나러 갑니다 (Feat. 타블로)|김연우|6017|438669|지금 만나러 갑니다 (I'll Give My Life With You)|https://cdnimg.melon.co.kr/cm/album/images/004/38/669/438669_500.jpg/melon/resize/48/quality/80/optimize

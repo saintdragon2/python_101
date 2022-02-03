@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|8124417|봄이 좋냐??|10CM|468244|2676884|3.2|https://cdnimg.melon.co.kr/cm/album/images/026/76/884/2676884_500.jpg/melon/resize/48/quality/80/optimize
+2|8071102|이 사랑|다비치|236815|2669778|태양의 후예 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/69/778/2669778_500.jpg/melon/resize/48/quality/80/optimize
+3|8089568|You Are My Everything|거미|30358|2672163|태양의 후예 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/026/72/163/2672163_500.jpg/melon/resize/48/quality/80/optimize
+4|8102386|말해! 뭐해?|케이윌|175139|2673882|태양의 후예 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/026/73/882/2673882_500.jpg/melon/resize/48/quality/80/optimize
+5|8138940|Toy|블락비 (Block B)|532201|2678718|Blooming Period|https://cdnimg.melon.co.kr/cm/album/images/026/78/718/2678718_500.jpg/melon/resize/48/quality/80/optimize
+6|8141498|How Can I Love You|XIA (준수)|52607|2679051|태양의 후예 OST Part.10|https://cdnimg.melon.co.kr/cm/album/images/026/79/051/2679051_500.jpg/melon/resize/48/quality/80/optimize
+7|8104509|사랑에 빠졌죠 (당신만이)|장범준|648551|2674213|장범준 2집|https://cdnimg.melon.co.kr/cm/album/images/026/74/213/2674213_500.jpg/melon/resize/48/quality/80/optimize
+8|8100402|다시 너를|매드클라운~김나영|219621~735094|2673620|태양의 후예 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/73/620/2673620_500.jpg/melon/resize/48/quality/80/optimize
+9|8053157|ALWAYS|윤미래|1654|2667181|태양의 후예 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/67/181/2667181_500.jpg/melon/resize/48/quality/80/optimize
+10|8067023|Everytime|첸 (CHEN)~펀치 (Punch)|715176~749640|2669132|태양의 후예 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/69/132/2669132_500.jpg/melon/resize/48/quality/80/optimize
+11|8068881|넌 is 뭔들|마마무 (Mamamoo)|750053|2669407|Melting|https://cdnimg.melon.co.kr/cm/album/images/026/69/407/2669407_500.jpg/melon/resize/48/quality/80/optimize
+12|8028701|시간을 달려서 (Rough)|여자친구 (GFRIEND)|828478|2663668|여자친구 3rd Mini Album 'SNOWFLAKE'|https://cdnimg.melon.co.kr/cm/album/images/026/63/668/2663668_500.jpg/melon/resize/48/quality/80/optimize
+13|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+14|8129245|너도 (Feat. Cha Cha Malone)|로꼬|688432|2677503|너도|https://cdnimg.melon.co.kr/cm/album/images/026/77/503/2677503_500.jpg/melon/resize/48/quality/80/optimize
+15|8129740|그대, 바람이 되어|엠씨더맥스 (M.C the MAX)|161636|2677556|태양의 후예 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/026/77/556/2677556_500.jpg/melon/resize/48/quality/80/optimize
+16|8028724|너는 나 나는 너|지코 (ZICO)|602056|2663674|Break Up 2 Make Up|https://cdnimg.melon.co.kr/cm/album/images/026/63/674/2663674_500.jpg/melon/resize/48/quality/80/optimize
+17|8104431|같은 곳에서|소녀온탑|958660|2674195|PRODUCE 101 - 35 Girls 5 Concepts|https://cdnimg.melon.co.kr/cm/album/images/026/74/195/2674195_500.jpg/melon/resize/48/quality/80/optimize
+18|8136765|썸타 (Lil' Something)|첸 (CHEN)~헤이즈 (Heize)~바이브|715176~751611~160080|2678416|썸타 (Lil' Something) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/026/78/416/2678416_500.jpg/melon/resize/48/quality/80/optimize
+19|8122589|사랑하자|SG 워너비|108363|2676594|태양의 후예 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/026/76/594/2676594_500.jpg/melon/resize/48/quality/80/optimize
+20|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+21|8086947|한숨|이하이|646171|2671866|SEOULITE|https://cdnimg.melon.co.kr/cm/album/images/026/71/866/2671866_500.jpg/melon/resize/48/quality/80/optimize
+22|8115189|몇 년 후에|블락비 (Block B)|532201|2675660|몇 년 후에|https://cdnimg.melon.co.kr/cm/album/images/026/75/660/2675660_500.jpg/melon/resize/48/quality/80/optimize
+23|8104514|그녀가 곁에 없다면 (결혼 행진곡을 활용한 신곡)|장범준|648551|2674213|장범준 2집|https://cdnimg.melon.co.kr/cm/album/images/026/74/213/2674213_500.jpg/melon/resize/48/quality/80/optimize
+24|8104430|Yum-Yum (얌얌)|7 go up|958659|2674195|PRODUCE 101 - 35 Girls 5 Concepts|https://cdnimg.melon.co.kr/cm/album/images/026/74/195/2674195_500.jpg/melon/resize/48/quality/80/optimize
+25|8077712|봄인가 봐 (Spring Love)|에릭남 (Eric Nam)~웬디 (WENDY)|592049~780915|2670807|봄인가 봐 (Spring Love) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/026/70/807/2670807_500.jpg/melon/resize/48/quality/80/optimize
+26|8109957|With You|린|8530|2674974|태양의 후예 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/026/74/974/2674974_500.jpg/melon/resize/48/quality/80/optimize
+27|8026677|잊어버리지마 (Feat. 태연)|Crush|674710|2663424|잊어버리지마|https://cdnimg.melon.co.kr/cm/album/images/026/63/424/2663424_500.jpg/melon/resize/48/quality/80/optimize
+28|7982920|PICK ME|PRODUCE 101|926037|2657476|PRODUCE 101 - PICK ME|https://cdnimg.melon.co.kr/cm/album/images/026/57/476/2657476_500.jpg/melon/resize/48/quality/80/optimize
+29|7911687|Boys And Girls (Feat. Babylon)|지코 (ZICO)|602056|2648403|Boys and Girls|https://cdnimg.melon.co.kr/cm/album/images/026/48/403/2648403_500.jpg/melon/resize/48/quality/80/optimize
+30|8104512|빗속으로|장범준|648551|2674213|장범준 2집|https://cdnimg.melon.co.kr/cm/album/images/026/74/213/2674213_500.jpg/melon/resize/48/quality/80/optimize
+31|5791706|오늘부터 우리는 (Me Gustas Tu)|여자친구 (GFRIEND)|828478|2330981|여자친구 2nd Mini Album 'Flower Bud'|https://cdnimg.melon.co.kr/cm/album/images/023/30/981/2330981_500.jpg/melon/resize/48/quality/80/optimize
+32|8042553|Rain|태연 (TAEYEON)|236797|2665523|Rain - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/026/65/523/2665523_500.jpg/melon/resize/48/quality/80/optimize
+33|7891119|OOH-AHH하게|TWICE (트와이스)|905701|2645617|THE STORY BEGINS|https://cdnimg.melon.co.kr/cm/album/images/026/45/617/2645617_500.jpg/melon/resize/48/quality/80/optimize
+34|8075429|야 하고 싶어 (Feat. 시우민 of EXO)|지민|687001|2670437|야 하고 싶어|https://cdnimg.melon.co.kr/cm/album/images/026/70/437/2670437_500.jpg/melon/resize/48/quality/80/optimize
+35|8109412|D (half moon) (Feat. 개코)|DEAN|880630|2674623|130 Mood : TRBL|https://cdnimg.melon.co.kr/cm/album/images/026/74/623/2674623_500.jpg/melon/resize/48/quality/80/optimize
+36|8005879|Dream (Prod. by 박근태)|수지 (SUZY)~백현 (BAEKHYUN)|514741~672859|2660715|Dream|https://cdnimg.melon.co.kr/cm/album/images/026/60/715/2660715_500.jpg/melon/resize/48/quality/80/optimize
+37|4579468|봄 사랑 벚꽃 말고|HIGH4 (하이포)~아이유|767374~261143|2248659|봄 사랑 벚꽃 말고|https://cdnimg.melon.co.kr/cm/album/images/022/48/659/2248659_500.jpg/melon/resize/48/quality/80/optimize
+38|8129783|Crush|아이오아이 (I.O.I)|960251|2677563|PRODUCE 101 - Crush|https://cdnimg.melon.co.kr/cm/album/images/026/77/563/2677563_500.jpg/melon/resize/48/quality/80/optimize
+39|7861392|또 다시 사랑|임창정|1142|2638798|또 다시 사랑|https://cdnimg.melon.co.kr/cm/album/images/026/38/798/2638798_500.jpg/melon/resize/48/quality/80/optimize
+40|8104428|Fingertips|Pinkrush|958657|2674195|PRODUCE 101 - 35 Girls 5 Concepts|https://cdnimg.melon.co.kr/cm/album/images/026/74/195/2674195_500.jpg/melon/resize/48/quality/80/optimize
+41|7921208|걱정말아요 그대|이적|1088|2649434|응답하라 1988 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/49/434/2649434_500.jpg/melon/resize/48/quality/80/optimize
+42|7965449|19금 유레카 (Feat. Zion.T)|지코 (ZICO)|602056|2655015|GALLERY|https://cdnimg.melon.co.kr/cm/album/images/026/55/015/2655015_500.jpg/melon/resize/48/quality/80/optimize
+43|8115192|봄날의 기억|비투비|647971|2675661|Remember that|https://cdnimg.melon.co.kr/cm/album/images/026/75/661/2675661_500.jpg/melon/resize/48/quality/80/optimize
+44|8141272|제주도의 푸른 밤|태연 (TAEYEON)|236797|2679015|밴드 고맙삼다|https://cdnimg.melon.co.kr/cm/album/images/026/79/015/2679015_500.jpg/melon/resize/48/quality/80/optimize
+45|8086946|손잡아 줘요|이하이|646171|2671866|SEOULITE|https://cdnimg.melon.co.kr/cm/album/images/026/71/866/2671866_500.jpg/melon/resize/48/quality/80/optimize
+46|8104513|봄비|장범준|648551|2674213|장범준 2집|https://cdnimg.melon.co.kr/cm/album/images/026/74/213/2674213_500.jpg/melon/resize/48/quality/80/optimize
+47|8138942|Walkin' In The Rain|블락비 (Block B)|532201|2678718|Blooming Period|https://cdnimg.melon.co.kr/cm/album/images/026/78/718/2678718_500.jpg/melon/resize/48/quality/80/optimize
+48|4774191|Bang Bang|Jessie J~Ariana Grande~Nicki Minaj|510556~597451~475580|2270178|Bang Bang|https://cdnimg.melon.co.kr/cm/album/images/022/70/178/2270178_500.jpg/melon/resize/48/quality/80/optimize
+49|5650996|우연히 봄|로꼬~유주 (여자친구)|688432~858238|2312287|냄새를 보는 소녀 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/12/287/2312287_500.jpg/melon/resize/48/quality/80/optimize
+50|5466962|스토커|10CM|468244|2290452|3.0|https://cdnimg.melon.co.kr/cm/album/images/022/90/452/2290452_500.jpg/melon/resize/48/quality/80/optimize

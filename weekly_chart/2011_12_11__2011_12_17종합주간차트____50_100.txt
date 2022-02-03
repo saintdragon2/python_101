@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3641519|개구쟁이 (Feat. T.O.P) (산울림)|거미|30358|2047606|[나는 가수다] 경연12-2. '산울림 스페셜'|https://cdnimg.melon.co.kr/cm/album/images/020/47/606/2047606_500.jpg/melon/resize/48/quality/80/optimize
+52|3619347|오죽하면 이럴까 (Feat. 정슬기, 임다혜)|미스에스|275266|2037991|Miss_Terious|https://cdnimg.melon.co.kr/cm/album/images/020/37/991/2037991_500.jpg/melon/resize/48/quality/80/optimize
+53|3615589|해뜰때까지만 (Girl)|다이나믹 듀오|108358|2036608|Dynamicduo 6th Digilog 1/2|https://cdnimg.melon.co.kr/cm/album/images/020/36/608/2036608_500.jpg/melon/resize/48/quality/80/optimize
+54|3594993|Tomorrow (feat. 태양)|Tablo|231070|2027806|열꽃, Part 2|https://cdnimg.melon.co.kr/cm/album/images/020/27/806/2027806_500.jpg/melon/resize/48/quality/80/optimize
+55|3536905|안녕이라고 말하지마|다비치|236815|2008890|Love Delight|https://cdnimg.melon.co.kr/cm/album/images/020/08/890/2008890_500.jpg/melon/resize/48/quality/80/optimize
+56|3628519|Teacher (Feat. Ra.D)|아이유|261143|2040666|Last Fantasy|https://cdnimg.melon.co.kr/cm/album/images/020/40/666/2040666_500.jpg/melon/resize/48/quality/80/optimize
+57|3644594|Love Again|서인국~Take#1|436700~576795|2048947|Take#1 - Vol.3|https://cdnimg.melon.co.kr/cm/album/images/020/48/947/2048947_500.jpg/melon/resize/48/quality/80/optimize
+58|3570032|Open Arms (Journey) (Feat. 크리스티나)|울랄라세션|569214|2019070|슈퍼스타K 3 Top11 Part 2|https://cdnimg.melon.co.kr/cm/album/images/020/19/070/2019070_500.jpg/melon/resize/48/quality/80/optimize
+59|3579341|MR.TAXI (Korean Ver.)|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+60|3639793|White Forever|엠블랙|436980|2046986|White Forever|https://cdnimg.melon.co.kr/cm/album/images/020/46/986/2046986_500.jpg/melon/resize/48/quality/80/optimize
+61|3636875|Missing You (Feat. 누리 Of F.I.X)|나비|242868|2045767|왔어 왔어 제대로 왔어 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/45/767/2045767_500.jpg/melon/resize/48/quality/80/optimize
+62|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+63|3645642|Gone|브라운 아이드 소울|107728|2049726|Brown Eyed Soul Live Album 'SOUL FEVER'|https://cdnimg.melon.co.kr/cm/album/images/020/49/726/2049726_500.jpg/melon/resize/48/quality/80/optimize
+64|3628521|4AM|아이유|261143|2040666|Last Fantasy|https://cdnimg.melon.co.kr/cm/album/images/020/40/666/2040666_500.jpg/melon/resize/48/quality/80/optimize
+65|3538775|좋아보여 (Feat. 검정치마)|버벌진트|6985|2009410|Go Easy|https://cdnimg.melon.co.kr/cm/album/images/020/09/410/2009410_500.jpg/melon/resize/48/quality/80/optimize
+66|3565243|여우야|투개월|569215|2017466|슈퍼스타K 3 Top11 Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/17/466/2017466_500.jpg/melon/resize/48/quality/80/optimize
+67|3625421|Love Letter (Feat. 아라, 혜림, 정현, 민현, 동호)|손담비~애프터스쿨|226582~322666|2040590|Happy Pledis 2012 'Love Letter'|https://cdnimg.melon.co.kr/cm/album/images/020/40/590/2040590_500.jpg/melon/resize/48/quality/80/optimize
+68|3559879|Sex Apeal (Max Farenthide Radio Edit) (Feat. Mike W.)|Bueno Clinic|567812|2015528|Sex Apeal|https://cdnimg.melon.co.kr/cm/album/images/020/15/528/2015528_500.jpg/melon/resize/48/quality/80/optimize
+69|3628236|한사람|에이트|228841|2042206|천일의 약속 OST|https://cdnimg.melon.co.kr/cm/album/images/020/42/206/2042206_500.jpg/melon/resize/48/quality/80/optimize
+70|3570725|샹하이 로맨스 (上海之戀)|오렌지 캬라멜|477632|2019316|샹하이 로맨스 (上海之戀)|https://cdnimg.melon.co.kr/cm/album/images/020/19/316/2019316_500.jpg/melon/resize/48/quality/80/optimize
+71|3600225|Me, in|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+72|3593080|Hot Place (Feat. Brave Sound)|씨스타|473181|2026687|Hot Place|https://cdnimg.melon.co.kr/cm/album/images/020/26/687/2026687_500.jpg/melon/resize/48/quality/80/optimize
+73|3557196|Sixth Sense|브라운아이드걸스|181694|2013176|Sixth Sense|https://cdnimg.melon.co.kr/cm/album/images/020/13/176/2013176_500.jpg/melon/resize/48/quality/80/optimize
+74|3647093|Funny Hunny|오렌지 캬라멜|477632|2050486|조영수 All Star - 오렌지캬라멜|https://cdnimg.melon.co.kr/cm/album/images/020/50/486/2050486_500.jpg/melon/resize/48/quality/80/optimize
+75|3584075|나쁘다 (feat. 진실)|Tablo|231070|2020402|열꽃, Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/20/402/2020402_500.jpg/melon/resize/48/quality/80/optimize
+76|3576488|미인|울랄라세션|569214|2021189|슈퍼스타K 3 Top11 Part 3|https://cdnimg.melon.co.kr/cm/album/images/020/21/189/2021189_500.jpg/melon/resize/48/quality/80/optimize
+77|3536906|사랑 사랑아|다비치|236815|2008890|Love Delight|https://cdnimg.melon.co.kr/cm/album/images/020/08/890/2008890_500.jpg/melon/resize/48/quality/80/optimize
+78|3569458|사랑과 우정 사이 (With 김연우) (피노키오)|김경호|895|2018966|[나는 가수다] 경연10-1. '듀엣곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/020/18/966/2018966_500.jpg/melon/resize/48/quality/80/optimize
+79|3604726|그댄 정말 모를거예요|제이세라|484881|2032009|Tears Of Crystal|https://cdnimg.melon.co.kr/cm/album/images/020/32/009/2032009_500.jpg/melon/resize/48/quality/80/optimize
+80|3642897|나랑 같이 해줄래|스윗소로우 (SWEET SORROW)|175203|2048368|Sweet Sorrow 3 Single Part 2|https://cdnimg.melon.co.kr/cm/album/images/020/48/368/2048368_500.jpg/melon/resize/48/quality/80/optimize
+81|3521672|So Cool (쏘쿨)|씨스타|473181|2006957|So Cool|https://cdnimg.melon.co.kr/cm/album/images/020/06/957/2006957_500.jpg/melon/resize/48/quality/80/optimize
+82|3618369|남보다 못한 사이 (Feat. 휘성)|베이비소울 (러블리즈)|586498|2037709|남보다 못한 사이|https://cdnimg.melon.co.kr/cm/album/images/020/37/709/2037709_500.jpg/melon/resize/48/quality/80/optimize
+83|3601575|Romantico|투개월|569215|2030886|슈퍼스타K 3 Top11 Part 6|https://cdnimg.melon.co.kr/cm/album/images/020/30/886/2030886_500.jpg/melon/resize/48/quality/80/optimize
+84|3628520|길 잃은 강아지|아이유|261143|2040666|Last Fantasy|https://cdnimg.melon.co.kr/cm/album/images/020/40/666/2040666_500.jpg/melon/resize/48/quality/80/optimize
+85|3585863|어쩌다 마주친 그대|버스커 버스커|569233|2024130|슈퍼스타K 3 Top11 Part 4|https://cdnimg.melon.co.kr/cm/album/images/020/24/130/2024130_500.jpg/melon/resize/48/quality/80/optimize
+86|3632715|모두에게 크리스마스|성시경~브라이언~서인국~박학기~박장현 (VROMANCE)~황 프로젝트|3305~1929~436700~1163~591712~276866|2044267|Jelly Christmas 2011|https://cdnimg.melon.co.kr/cm/album/images/020/44/267/2044267_500.jpg/melon/resize/48/quality/80/optimize
+87|3561276|내가 이렇지 (Feat. 하동균)|지아|227595|2015988|Avancer|https://cdnimg.melon.co.kr/cm/album/images/020/15/988/2015988_500.jpg/melon/resize/48/quality/80/optimize
+88|3600224|Girls Girls|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+89|3610213|좋아보여 Part.2 (Feat. 오수민)|제이스|230199|2034117|좋아보여 Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/34/117/2034117_500.jpg/melon/resize/48/quality/80/optimize
+90|3596191|고장난 열차 (Feat. 쥬비트레인 Of 부가킹즈)|먼데이 키즈 (Monday Kiz)|175155|2028399|단선율 (單旋律)|https://cdnimg.melon.co.kr/cm/album/images/020/28/399/2028399_500.jpg/melon/resize/48/quality/80/optimize
+91|3641516|나 어떡해 (Feat. 해금) (샌드페블즈)|윤민수(바이브)|151315|2047606|[나는 가수다] 경연12-2. '산울림 스페셜'|https://cdnimg.melon.co.kr/cm/album/images/020/47/606/2047606_500.jpg/melon/resize/48/quality/80/optimize
+92|3576490|Brown City|투개월|569215|2021189|슈퍼스타K 3 Top11 Part 3|https://cdnimg.melon.co.kr/cm/album/images/020/21/189/2021189_500.jpg/melon/resize/48/quality/80/optimize
+93|3645953|I Like It|쇼콜라|559585|2049946|The First Mini Album|https://cdnimg.melon.co.kr/cm/album/images/020/49/946/2049946_500.jpg/melon/resize/48/quality/80/optimize
+94|3628918|줄리엣|버스커 버스커~투개월|569233~569215|2041908|NEXT 11|https://cdnimg.melon.co.kr/cm/album/images/020/41/908/2041908_500.jpg/melon/resize/48/quality/80/optimize
+95|3634773|처음 해 본 사랑|셰인|531828|2044786|The Gift|https://cdnimg.melon.co.kr/cm/album/images/020/44/786/2044786_500.jpg/melon/resize/48/quality/80/optimize
+96|3641453|달려갈 거야|김도현|18498|2047546|브레인 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/020/47/546/2047546_500.jpg/melon/resize/48/quality/80/optimize
+97|3634274|울다|에릭남 (Eric Nam)|592049|2044521|'위대한 탄생 시즌2' 멘토스쿨 Part.1 (이승환편)|https://cdnimg.melon.co.kr/cm/album/images/020/44/521/2044521_500.jpg/melon/resize/48/quality/80/optimize
+98|3574100|Airbag (feat. 나얼)|Tablo|231070|2020402|열꽃, Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/20/402/2020402_500.jpg/melon/resize/48/quality/80/optimize
+99|3639611|Dangerous|X-5|535553|2046927|Dangerous|https://cdnimg.melon.co.kr/cm/album/images/020/46/927/2046927_500.jpg/melon/resize/48/quality/80/optimize
+100|3615536|가세요|가비엔제이|174997|2036601|가세요|https://cdnimg.melon.co.kr/cm/album/images/020/36/601/2036601_500.jpg/melon/resize/48/quality/80/optimize

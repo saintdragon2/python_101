@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|8189661|쏘쏘|백아연|646173|2686047|쏘쏘|https://cdnimg.melon.co.kr/cm/album/images/026/86/047/2686047_500.jpg/melon/resize/48/quality/80/optimize
+52|8028701|시간을 달려서 (Rough)|여자친구 (GFRIEND)|828478|2663668|여자친구 3rd Mini Album 'SNOWFLAKE'|https://cdnimg.melon.co.kr/cm/album/images/026/63/668/2663668_500.jpg/melon/resize/48/quality/80/optimize
+53|8296543|거짓말이라도 해줘요|박보람|499464|2701915|W OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/027/01/915/2701915_500.jpg/melon/resize/48/quality/80/optimize
+54|8184472|자격지심 (Feat. 은하 Of 여자친구)|박경|650832|2685311|자격지심|https://cdnimg.melon.co.kr/cm/album/images/026/85/311/2685311_500.jpg/melon/resize/48/quality/80/optimize
+55|9640663|빨리 전화해 (Feat. KUSH)|MOBB (MINO & BOBBY)|1166886|2710326|The MOBB|https://cdnimg.melon.co.kr/cm/album/images/027/10/326/2710326_500.jpg/melon/resize/48/quality/80/optimize
+56|8252588|리본 (Ribbon)|비스트|436981|2693807|Highlight|https://cdnimg.melon.co.kr/cm/album/images/026/93/807/2693807_500.jpg/melon/resize/48/quality/80/optimize
+57|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+58|5466962|스토커|10CM|468244|2290452|3.0|https://cdnimg.melon.co.kr/cm/album/images/022/90/452/2290452_500.jpg/melon/resize/48/quality/80/optimize
+59|8244030|Why|태연 (TAEYEON)|236797|2693802|Why - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/93/802/2693802_500.jpg/melon/resize/48/quality/80/optimize
+60|8261335|19금 아름다워 (Beautiful) (Feat. 지코 (ZICO))|C JAMM|729560|2696637|쇼미더머니 5 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/48/quality/80/optimize
+61|9619959|Say Yes|로꼬~펀치 (Punch)|688432~749640|2707047|달의 연인 - 보보경심 려 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/027/07/047/2707047_500.jpg/melon/resize/48/quality/80/optimize
+62|9631521|이별 후|임창정|1142|2708957|I'M|https://cdnimg.melon.co.kr/cm/album/images/027/08/957/2708957_500.jpg/melon/resize/48/quality/80/optimize
+63|8089568|You Are My Everything|거미|30358|2672163|태양의 후예 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/026/72/163/2672163_500.jpg/melon/resize/48/quality/80/optimize
+64|9628337|Me like yuh (k) (Feat. Hoody)|박재범|443420|2708453|Me like yuh|https://cdnimg.melon.co.kr/cm/album/images/027/08/453/2708453_500.jpg/melon/resize/48/quality/80/optimize
+65|8071102|이 사랑|다비치|236815|2669778|태양의 후예 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/69/778/2669778_500.jpg/melon/resize/48/quality/80/optimize
+66|8086947|한숨|이하이|646171|2671866|SEOULITE|https://cdnimg.melon.co.kr/cm/album/images/026/71/866/2671866_500.jpg/melon/resize/48/quality/80/optimize
+67|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+68|9628822|Y (Feat. BUMZU)|Kei (러블리즈)~myunDo|789499~926455|2708507|Y|https://cdnimg.melon.co.kr/cm/album/images/027/08/507/2708507_500.jpg/melon/resize/48/quality/80/optimize
+69|5791706|오늘부터 우리는 (Me Gustas Tu)|여자친구 (GFRIEND)|828478|2330981|여자친구 2nd Mini Album 'Flower Bud'|https://cdnimg.melon.co.kr/cm/album/images/023/30/981/2330981_500.jpg/melon/resize/48/quality/80/optimize
+70|8026677|잊어버리지마 (Feat. 태연)|Crush|674710|2663424|잊어버리지마|https://cdnimg.melon.co.kr/cm/album/images/026/63/424/2663424_500.jpg/melon/resize/48/quality/80/optimize
+71|8233466|No Way|권순일 (어반자카파)~박용인 (어반자카파)|644152~644151|2692190|닥터스 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/92/190/2692190_500.jpg/melon/resize/48/quality/80/optimize
+72|9631522|그 곳에 멈춰서|임창정|1142|2708957|I'M|https://cdnimg.melon.co.kr/cm/album/images/027/08/957/2708957_500.jpg/melon/resize/48/quality/80/optimize
+73|7891119|OOH-AHH하게|TWICE (트와이스)|905701|2645617|THE STORY BEGINS|https://cdnimg.melon.co.kr/cm/album/images/026/45/617/2645617_500.jpg/melon/resize/48/quality/80/optimize
+74|7921208|걱정말아요 그대|이적|1088|2649434|응답하라 1988 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/49/434/2649434_500.jpg/melon/resize/48/quality/80/optimize
+75|8291212|어때?|현아|449401|2701165|A'wesome|https://cdnimg.melon.co.kr/cm/album/images/027/01/165/2701165_500.jpg/melon/resize/48/quality/80/optimize
+76|8028724|너는 나 나는 너|지코 (ZICO)|602056|2663674|Break Up 2 Make Up|https://cdnimg.melon.co.kr/cm/album/images/026/63/674/2663674_500.jpg/melon/resize/48/quality/80/optimize
+77|9620469|우주를 줄게|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+78|8233292|19금 공중도덕 (Air DoTheQ)|The Quiett~수퍼비~myunDo~플로우식 (Flowsik)~Dok2|27744~695757~926455~674757~314367|2692133|쇼미더머니 5 Episode 1|https://cdnimg.melon.co.kr/cm/album/images/026/92/133/2692133_500.jpg/melon/resize/48/quality/80/optimize
+79|9620831|Sticky (Prod. By San E) (Feat. San E)|나다 (NADA)|791057|2707202|언프리티 랩스타 3 Track 4|https://cdnimg.melon.co.kr/cm/album/images/027/07/202/2707202_500.jpg/melon/resize/48/quality/80/optimize
+80|8217163|Lucky One|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+81|9624572|사랑해 기억해|아이오아이 (I.O.I)|960251|2707872|달의 연인 - 보보경심 려 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/027/07/872/2707872_500.jpg/melon/resize/48/quality/80/optimize
+82|7911687|Boys And Girls (Feat. Babylon)|지코 (ZICO)|602056|2648403|Boys and Girls|https://cdnimg.melon.co.kr/cm/album/images/026/48/403/2648403_500.jpg/melon/resize/48/quality/80/optimize
+83|9619993|마음을 삼킨다|산들|672392|2707058|구르미 그린 달빛 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/027/07/058/2707058_500.jpg/melon/resize/48/quality/80/optimize
+84|9640320|Carnival (The Last Day)|가인|428821|2710304|End Again|https://cdnimg.melon.co.kr/cm/album/images/027/10/304/2710304_500.jpg/melon/resize/48/quality/80/optimize
+85|8068881|넌 is 뭔들|마마무 (Mamamoo)|750053|2669407|Melting|https://cdnimg.melon.co.kr/cm/album/images/026/69/407/2669407_500.jpg/melon/resize/48/quality/80/optimize
+86|9631523|화해|임창정|1142|2708957|I'M|https://cdnimg.melon.co.kr/cm/album/images/027/08/957/2708957_500.jpg/melon/resize/48/quality/80/optimize
+87|8122589|사랑하자|SG 워너비|108363|2676594|태양의 후예 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/026/76/594/2676594_500.jpg/melon/resize/48/quality/80/optimize
+88|9630200|Ain't Got Nobody (Prod By. DEAN) (Feat. DEAN)|미료|6272|2708773|언프리티 랩스타 3 Track 5 & 6|https://cdnimg.melon.co.kr/cm/album/images/027/08/773/2708773_500.jpg/melon/resize/48/quality/80/optimize
+89|8247080|쿵|Zion.T|537920|2694365|쇼미더머니 5 Special|https://cdnimg.melon.co.kr/cm/album/images/026/94/365/2694365_500.jpg/melon/resize/48/quality/80/optimize
+90|9606664|꿈 (She's Dreaming)|EXO|724619|2704940|LOTTO - The 3rd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/027/04/940/2704940_500.jpg/melon/resize/48/quality/80/optimize
+91|9624822|International Wave|BewhY (비와이)~Talib Kweli|739740~54423|2707928|International Wave|https://cdnimg.melon.co.kr/cm/album/images/027/07/928/2707928_500.jpg/melon/resize/48/quality/80/optimize
+92|8167307|불타오르네 (FIRE)|방탄소년단|672375|2680573|화양연화 Young Forever|https://cdnimg.melon.co.kr/cm/album/images/026/80/573/2680573_500.jpg/melon/resize/48/quality/80/optimize
+93|9631525|내 생에 가장 아름다운|임창정|1142|2708957|I'M|https://cdnimg.melon.co.kr/cm/album/images/027/08/957/2708957_500.jpg/melon/resize/48/quality/80/optimize
+94|9624796|Angel (솔라 & 휘인)|마마무 (Mamamoo)|750053|2707925|Angel, DABDAB|https://cdnimg.melon.co.kr/cm/album/images/027/07/925/2707925_500.jpg/melon/resize/48/quality/80/optimize
+95|8161257|내 입술 따뜻한 커피처럼 (Feat. 이성경) (Prod. by 박근태)|에디킴|601979|2681820|내 입술 따뜻한 커피처럼|https://cdnimg.melon.co.kr/cm/album/images/026/81/820/2681820_500.jpg/melon/resize/48/quality/80/optimize
+96|9634955|Lucky Girl|Red Velvet (레드벨벳)|780066|2709585|Russian Roulette - The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/027/09/585/2709585_500.jpg/melon/resize/48/quality/80/optimize
+97|9630201|No Thx (Prod. By DEAN) (Feat. 수란, DEAN)|육지담|781321|2708773|언프리티 랩스타 3 Track 5 & 6|https://cdnimg.melon.co.kr/cm/album/images/027/08/773/2708773_500.jpg/melon/resize/48/quality/80/optimize
+98|9613160|SKIP|Crush~한상원|674710~1552|2705934|SKIP|https://cdnimg.melon.co.kr/cm/album/images/027/05/934/2705934_500.jpg/melon/resize/48/quality/80/optimize
+99|8243822|비행소년 (Feat. 거미)|매드클라운~#Gun|219621~838923|2693749|쇼미더머니 5 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/026/93/749/2693749_500.jpg/melon/resize/48/quality/80/optimize
+100|8244031|Starlight (Feat. DEAN)|태연 (TAEYEON)|236797|2693802|Why - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/93/802/2693802_500.jpg/melon/resize/48/quality/80/optimize

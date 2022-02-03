@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|8252409|호랑나비 (Feat. Gill, 리듬파워, 김흥국)|보이비|340668|2695189|쇼미더머니 5 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/026/95/189/2695189_500.jpg/melon/resize/48/quality/80/optimize
+52|8065398|공감 (Feat. 서영은)|정준영|25869|2668891|공감|https://cdnimg.melon.co.kr/cm/album/images/026/68/891/2668891_500.jpg/melon/resize/48/quality/80/optimize
+53|30003393|그게 뭐라고|케이윌~매드클라운|175139~219621|10000592|빈티지박스 Vol.1|https://cdnimg.melon.co.kr/cm/album/images/100/00/592/10000592_500.jpg/melon/resize/48/quality/80/optimize
+54|8304595|붐바야|BLACKPINK|995169|2703168|SQUARE ONE|https://cdnimg.melon.co.kr/cm/album/images/027/03/168/2703168_500.jpg/melon/resize/48/quality/80/optimize
+55|9606657|Lotto|EXO|724619|2704940|LOTTO - The 3rd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/027/04/940/2704940_500.jpg/melon/resize/48/quality/80/optimize
+56|8167307|불타오르네 (FIRE)|방탄소년단|672375|2680573|화양연화 Young Forever|https://cdnimg.melon.co.kr/cm/album/images/026/80/573/2680573_500.jpg/melon/resize/48/quality/80/optimize
+57|30017605|Beautiful Tomorrow|박효신|1191|10001952|I am A Dreamer|https://cdnimg.melon.co.kr/cm/album/images/100/01/952/10001952_500.jpg/melon/resize/48/quality/80/optimize
+58|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+59|9646572|끝|권진아|760046|2711116|웃긴 밤|https://cdnimg.melon.co.kr/cm/album/images/027/11/116/2711116_500.jpg/melon/resize/48/quality/80/optimize
+60|30029175|Lie|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+61|5620266|The Time Goes On|BewhY (비와이)|739740|2307986|Time Travel|https://cdnimg.melon.co.kr/cm/album/images/023/07/986/2307986_500.jpg/melon/resize/48/quality/80/optimize
+62|9620471|You(=I)|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+63|30003331|탈진|김영근|1183550|10000581|슈퍼스타K 2016 #1|https://cdnimg.melon.co.kr/cm/album/images/100/00/581/10000581_500.jpg/melon/resize/48/quality/80/optimize
+64|5466962|스토커|10CM|468244|2290452|3.0|https://cdnimg.melon.co.kr/cm/album/images/022/90/452/2290452_500.jpg/melon/resize/48/quality/80/optimize
+65|8300695|사랑이 아프다|환희|1928|2702525|함부로 애틋하게 OST Part.10|https://cdnimg.melon.co.kr/cm/album/images/027/02/525/2702525_500.jpg/melon/resize/48/quality/80/optimize
+66|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+67|-1|Don't Wanna Know (Feat. Kendrick Lamar)|Maroon 5|107721|10006350|Red Pill Blues (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/100/06/350/10006350_500.jpg/melon/resize/48/quality/80/optimize
+68|9648724|내 마음 들리나요 (Feat. 이하이)|에픽하이 (EPIK HIGH)|108356|2711484|달의 연인 - 보보경심 려 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/027/11/484/2711484_500.jpg/melon/resize/48/quality/80/optimize
+69|8148487|하늘바라기 (Feat. 하림)|정은지|644871|2680009|Dream|https://cdnimg.melon.co.kr/cm/album/images/026/80/009/2680009_500.jpg/melon/resize/48/quality/80/optimize
+70|30006916|너만이 (Feat. 헤이즈)|유승우|699637|10001201|너만이|https://cdnimg.melon.co.kr/cm/album/images/100/01/201/10001201_500.jpg/melon/resize/48/quality/80/optimize
+71|30029961|길어야 5분|10CM|468244|10004832|3.3|https://cdnimg.melon.co.kr/cm/album/images/100/04/832/10004832_500.jpg/melon/resize/48/quality/80/optimize
+72|8217164|Monster|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+73|30038183|2411|Crush|674710|10006417|wonderlust|https://cdnimg.melon.co.kr/cm/album/images/100/06/417/10006417_500.jpg/melon/resize/48/quality/80/optimize
+74|30041152|그리워 그리워서 (이영 Ver.)|황치열|205746|10006899|구르미 그린 달빛 OST Part.12|https://cdnimg.melon.co.kr/cm/album/images/100/06/899/10006899_500.jpg/melon/resize/48/quality/80/optimize
+75|8174429|꿈처럼|벤|655051|2683798|또 오해영 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/83/798/2683798_500.jpg/melon/resize/48/quality/80/optimize
+76|9619959|Say Yes|로꼬~펀치 (Punch)|688432~749640|2707047|달의 연인 - 보보경심 려 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/027/07/047/2707047_500.jpg/melon/resize/48/quality/80/optimize
+77|30029184|21세기 소녀|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+78|9644659|NEW YORK|마마무 (Mamamoo)|750053|2710845|NEW YORK|https://cdnimg.melon.co.kr/cm/album/images/027/10/845/2710845_500.jpg/melon/resize/48/quality/80/optimize
+79|7899303|19금 냉탕에 상어 (Feat. 블랙넛)|수퍼비|695757|2646678|냉탕에 상어|https://cdnimg.melon.co.kr/cm/album/images/026/46/678/2646678_500.jpg/melon/resize/48/quality/80/optimize
+80|30029176|Stigma|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+81|30019698|1 of 1|SHINee (샤이니)|247639|10003272|1 of 1 - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/100/03/272/10003272_500.jpg/melon/resize/48/quality/80/optimize
+82|30006387|그리워 그리워서 (라온 Ver.)|베이지|222697|10001109|구르미 그린 달빛 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/100/01/109/10001109_500.jpg/melon/resize/48/quality/80/optimize
+83|30029181|Lost|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+84|30029174|Begin|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+85|30043155|그래 그래|김나영|735094|10007245|The First Album 'From The Heart'|https://cdnimg.melon.co.kr/cm/album/images/100/07/245/10007245_500.jpg/melon/resize/48/quality/80/optimize
+86|30029183|Am I Wrong|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+87|30054344|TT|TWICE (트와이스)|905701|10008861|TWICEcoaster : LANE 1|https://cdnimg.melon.co.kr/cm/album/images/100/08/861/10008861_500.jpg/melon/resize/48/quality/80/optimize
+88|30007157|Love Is Over|백지영|1118|10001268|구르미 그린 달빛 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/100/01/268/10001268_500.jpg/melon/resize/48/quality/80/optimize
+89|30031103|Be With You|AKMU (악뮤)|712452|10005110|달의 연인 - 보보경심 려 OST Part.12|https://cdnimg.melon.co.kr/cm/album/images/100/05/110/10005110_500.jpg/melon/resize/48/quality/80/optimize
+90|30029177|First Love|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+91|30029180|Awake|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+92|8217163|Lucky One|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+93|30049278|DRIVE (Feat. GRAY)|박재범|443420|10008163|EVERYTHING YOU WANTED|https://cdnimg.melon.co.kr/cm/album/images/100/08/163/10008163_500.jpg/melon/resize/48/quality/80/optimize
+94|8233373|Bye bye my blue|백예린 (Yerin Baek)|698776|2692170|Bye bye my blue|https://cdnimg.melon.co.kr/cm/album/images/026/92/170/2692170_500.jpg/melon/resize/48/quality/80/optimize
+95|30025821|이불 밖은 위험해|그리 (GREE)|859003|10004202|GREEality Part.1|https://cdnimg.melon.co.kr/cm/album/images/100/04/202/10004202_500.jpg/melon/resize/48/quality/80/optimize
+96|30032933|곁에 있어주길 (STAY WITH ME)|박재범|443420|10005465|곁에 있어주길 (STAY WITH ME)|https://cdnimg.melon.co.kr/cm/album/images/100/05/465/10005465_500.jpg/melon/resize/48/quality/80/optimize
+97|30029185|둘! 셋! (그래도 좋은 날이 더 많기를)|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+98|30029179|MAMA|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+99|30049271|All I Wanna Do (K) (Feat. Hoody, Loco)|박재범|443420|10008163|EVERYTHING YOU WANTED|https://cdnimg.melon.co.kr/cm/album/images/100/08/163/10008163_500.jpg/melon/resize/48/quality/80/optimize
+100|8071102|이 사랑|다비치|236815|2669778|태양의 후예 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/69/778/2669778_500.jpg/melon/resize/48/quality/80/optimize

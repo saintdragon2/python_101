@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|32130395|Here I Am|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+52|32140355|이별은 늘 그렇게 (Duet. 정은지)|허각|28801|10346175|이별은 늘 그렇게|https://cdnimg.melon.co.kr/cm2/album/images/103/46/175/10346175_500.jpg/melon/resize/48/quality/80/optimize
+53|31804010|너에게 못했던 내 마지막 말은|다비치|236815|10286309|너에게 못했던 내 마지막 말은|https://cdnimg.melon.co.kr/cm/album/images/102/86/309/10286309_500.jpg/melon/resize/48/quality/80/optimize
+54|31684636|노래방에서|장범준|648551|10264375|장범준 3집|https://cdnimg.melon.co.kr/cm/album/images/102/64/375/10264375_500.jpg/melon/resize/48/quality/80/optimize
+55|32071687|사람|지코 (ZICO)|602056|10333851|THINKING Part.1|https://cdnimg.melon.co.kr/cm2/album/images/103/33/851/10333851_500.jpg/melon/resize/48/quality/80/optimize
+56|31952592|내 맘을 볼 수 있나요|헤이즈 (Heize)|751611|10311752|호텔 델루나 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/103/11/752/10311752_500.jpg/melon/resize/48/quality/80/optimize
+57|32128108|온도 (Feat. 수란)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+58|31929663|내 안부|이우|2400004|10307772|내 안부|https://cdnimg.melon.co.kr/cm/album/images/103/07/772/10307772_500.jpg/melon/resize/48/quality/80/optimize
+59|31706215|사월이 지나면 우리 헤어져요 (Beautiful goodbye)|첸 (CHEN)|715176|10268441|사월, 그리고 꽃 - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/102/68/441/10268441_500.jpg/melon/resize/48/quality/80/optimize
+60|30227238|Believer|Imagine Dragons|635412|10035055|Evolve|https://cdnimg.melon.co.kr/cm/album/images/100/35/055/10035055_500.jpg/melon/resize/48/quality/80/optimize
+61|31666417|주저하는 연인들을 위해|잔나비|772253|10260858|전설|https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/48/quality/80/optimize
+62|32012356|날라리 (LALALAY)|선미|22938|10322222|날라리 (LALALAY)|https://cdnimg.melon.co.kr/cm2/album/images/103/22/222/10322222_500.jpg/melon/resize/48/quality/80/optimize
+63|8119658|꿈속에 너 (Feat. 전상근)|에이치코드 (H:CODE)|946910|2676167|두 번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/026/76/167/2676167_500.jpg/melon/resize/48/quality/80/optimize
+64|31955739|ICY|ITZY (있지)|2622030|10312251|IT'z ICY|https://cdnimg.melon.co.kr/cm/album/images/103/12/251/10312251_500.jpg/melon/resize/48/quality/80/optimize
+65|31914848|인사|멜로망스|839732|10305070|인사|https://cdnimg.melon.co.kr/cm/album/images/103/05/070/10305070_500.jpg/melon/resize/48/quality/80/optimize
+66|31754579|FANCY|TWICE (트와이스)|905701|10276861|FANCY YOU|https://cdnimg.melon.co.kr/cm/album/images/102/76/861/10276861_500.jpg/melon/resize/48/quality/80/optimize
+67|32091615|호랑이소굴 (Feat. Jvcki Wai)|기리보이|585492|10337675|호랑이소굴|https://cdnimg.melon.co.kr/cm2/album/images/103/37/675/10337675_500.jpg/melon/resize/48/quality/80/optimize
+68|32130397|Find Me|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+69|32014102|나빠(NAPPA)|Crush|674710|10322578|나빠(NAPPA)|https://cdnimg.melon.co.kr/cm2/album/images/103/22/578/10322578_500.jpg/melon/resize/48/quality/80/optimize
+70|31949142|가라사대|BewhY (비와이)|739740|10267223|The Movie Star|https://cdnimg.melon.co.kr/cm/album/images/102/67/223/10267223_500.jpg/melon/resize/48/quality/80/optimize
+71|31879867|Snapping|청하|968265|10299371|Flourishing|https://cdnimg.melon.co.kr/cm/album/images/102/99/371/10299371_500.jpg/melon/resize/48/quality/80/optimize
+72|32128106|무인도 (Feat. MOON)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+73|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+74|8235260|비|폴킴|752425|2692501|비|https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/48/quality/80/optimize
+75|32061976|달|AKMU (악뮤)|712452|10331947|항해|https://cdnimg.melon.co.kr/cm2/album/images/103/31/947/10331947_500.jpg/melon/resize/48/quality/80/optimize
+76|32006890|담아 (Feat. 염따, pH-1) (Prod. BOYCOLD)|스윙스~Kid Milli~매드클라운|236970~873162~219621|10321162|쇼미더머니 8 Episode 1|https://cdnimg.melon.co.kr/cm2/album/images/103/21/162/10321162_500.jpg/melon/resize/48/quality/80/optimize
+77|32130398|Love You Like Crazy|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+78|32108377|정말 헤어지는 거야 (With 죠지)|린|8530|10340720|정말 헤어지는 거야 (With 죠지)|https://cdnimg.melon.co.kr/cm2/album/images/103/40/720/10340720_500.jpg/melon/resize/48/quality/80/optimize
+79|32091435|만추 (Feat. Crush)|헤이즈 (Heize)|751611|10337649|만추|https://cdnimg.melon.co.kr/cm2/album/images/103/37/649/10337649_500.jpg/melon/resize/48/quality/80/optimize
+80|31856628|아퍼 (Feat. Kid Milli, Lil tachi, 김승민, NO:EL, C JAMM)|기리보이|585492|10295207|100년제전문대학|https://cdnimg.melon.co.kr/cm/album/images/102/95/207/10295207_500.jpg/melon/resize/48/quality/80/optimize
+81|31532642|사계 (하루살이)|엠씨더맥스 (M.C the MAX)|161636|10238710|Circular|https://cdnimg.melon.co.kr/cm/album/images/102/38/710/10238710_500.jpg/melon/resize/48/quality/80/optimize
+82|31266290|IDOL|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+83|32128109|알아 (Feat. HYNN(박혜원))|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+84|31924110|Another Day|먼데이 키즈 (Monday Kiz)~펀치 (Punch)|175155~749640|10306744|호텔 델루나 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/103/06/744/10306744_500.jpg/melon/resize/48/quality/80/optimize
+85|32128110|존버 (Feat. Coogie, Jiselle)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+86|32130401|Wine|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+87|31893681|괜찮아도 괜찮아 (That's okay)|디오 (D.O.)|672853|10301811|괜찮아도 괜찮아 (That's okay) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/103/01/811/10301811_500.jpg/melon/resize/48/quality/80/optimize
+88|32123665|우리 사랑했던 추억을 아직 잊지 말아요|이석훈|205858|10343431|우리 사랑했던 추억을 아직 잊지 말아요|https://cdnimg.melon.co.kr/cm2/album/images/103/43/431/10343431_500.jpg/melon/resize/48/quality/80/optimize
+89|32130500|원더우먼|브라운아이드걸스|181694|10344546|RE_vive|https://cdnimg.melon.co.kr/cm2/album/images/103/44/546/10344546_500.jpg/melon/resize/48/quality/80/optimize
+90|32073457|널 안지 않을 수 있어야지|첸 (CHEN)|715176|10334254|사랑하는 그대에게 - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm2/album/images/103/34/254/10334254_500.jpg/melon/resize/48/quality/80/optimize
+91|32130400|Better Babe|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+92|32104350|혼코노 (Honkono)|하은 (포맨)|2297933|10340024|혼코노|https://cdnimg.melon.co.kr/cm2/album/images/103/40/024/10340024_500.jpg/melon/resize/48/quality/80/optimize
+93|31606729|달라달라|ITZY (있지)|2622030|10250473|IT'z Different|https://cdnimg.melon.co.kr/cm/album/images/102/50/473/10250473_500.jpg/melon/resize/48/quality/80/optimize
+94|31777113|Goodbye|박효신|1191|10281385|Goodbye|https://cdnimg.melon.co.kr/cm/album/images/102/81/385/10281385_500.jpg/melon/resize/48/quality/80/optimize
+95|32130402|Do You Love Me?|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+96|32012743|FLASH|X1 (엑스원)|2743578|10322332|비상 : QUANTUM LEAP|https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/48/quality/80/optimize
+97|32136650|영화 속에 나오는 주인공처럼|펀치 (Punch)|749640|10345742|동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.6|https://cdnimg.melon.co.kr/cm2/album/images/103/45/742/10345742_500.jpg/melon/resize/48/quality/80/optimize
+98|32118994|SOSO|WINNER|775197|10342679|CROSS|https://cdnimg.melon.co.kr/cm2/album/images/103/42/679/10342679_500.jpg/melon/resize/48/quality/80/optimize
+99|32130399|하하하 (LOL)|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+100|31151836|Way Back Home|숀 (SHAUN)|510242|10179508|Take|https://cdnimg.melon.co.kr/cm/album/images/101/79/508/10179508_500.jpg/melon/resize/48/quality/80/optimize

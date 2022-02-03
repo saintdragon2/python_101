@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|4016085|신촌을 못가|포스트맨(Postmen)|495401|2173025|신촌을 못가|https://cdnimg.melon.co.kr/cm/album/images/021/73/025/2173025_500.jpg/melon/resize/48/quality/80/optimize
+2|5372667|독기|아이언|781841|2280892|쇼미더머니3 씨잼 vs 아이언|https://cdnimg.melon.co.kr/cm/album/images/022/80/892/2280892_500.jpg/melon/resize/48/quality/80/optimize
+3|4843704|너를 사랑해|윤미래|1654|2277787|괜찮아 사랑이야 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/77/787/2277787_500.jpg/melon/resize/48/quality/80/optimize
+4|4789747|예뻐졌다 (Feat. 지코 Of Block B)|박보람|499464|2271880|예뻐졌다|https://cdnimg.melon.co.kr/cm/album/images/022/71/880/2271880_500.jpg/melon/resize/48/quality/80/optimize
+5|4854588|연결고리#힙합|BOBBY|742763|2278895|쇼미더머니3 Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/78/895/2278895_500.jpg/melon/resize/48/quality/80/optimize
+6|4840373|I Swear|씨스타|473181|2277388|Special Album 'SWEET & SOUR'|https://cdnimg.melon.co.kr/cm/album/images/022/77/388/2277388_500.jpg/melon/resize/48/quality/80/optimize
+7|4806686|공허해|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+8|4743560|Lost Stars|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+9|5376645|가드올리고 Bounce|BOBBY|742763|2281306|쇼미더머니3 Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/81/306/2281306_500.jpg/melon/resize/48/quality/80/optimize
+10|4681146|한여름밤의 꿀|San E~레이나 (Raina)|402526~672337|2260223|San E, 레이나 Project Single '한여름밤의 꿀'|https://cdnimg.melon.co.kr/cm/album/images/022/60/223/2260223_500.jpg/melon/resize/48/quality/80/optimize
+11|4756304|Touch My Body|씨스타|473181|2268221|TOUCH N MOVE|https://cdnimg.melon.co.kr/cm/album/images/022/68/221/2268221_500.jpg/melon/resize/48/quality/80/optimize
+12|4230004|I'm Fine Thank You|레이디스 코드|718807|2199646|CODE#02 PRETTY PRETTY|https://cdnimg.melon.co.kr/cm/album/images/021/99/646/2199646_500.jpg/melon/resize/48/quality/80/optimize
+13|4832150|A Real Man|스윙스~에일리(Ailee)|236970~629831|2276500|스윙스, 에일리 Digital Single 'A Real Man'|https://cdnimg.melon.co.kr/cm/album/images/022/76/500/2276500_500.jpg/melon/resize/48/quality/80/optimize
+14|4764928|HER|블락비 (Block B)|532201|2250057|HER|https://cdnimg.melon.co.kr/cm/album/images/022/50/057/2250057_500.jpg/melon/resize/48/quality/80/optimize
+15|4779294|괜찮아 사랑이야|다비치|236815|2270673|괜찮아 사랑이야 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/70/673/2270673_500.jpg/melon/resize/48/quality/80/optimize
+16|4828024|L4L (Lookin' For Luv) (Feat. Dok2 & The Quiett)|BOBBY|742763|2276091|쇼미더머니3 BOBBY vs 올티|https://cdnimg.melon.co.kr/cm/album/images/022/76/091/2276091_500.jpg/melon/resize/48/quality/80/optimize
+17|4734486|Darling|걸스데이|482762|2265934|GIRL'S DAY EVERYDAY #4|https://cdnimg.melon.co.kr/cm/album/images/022/65/934/2265934_500.jpg/melon/resize/48/quality/80/optimize
+18|4785453|19금 Body Language (Feat. 범키)|San E|402526|2271317|Body Language|https://cdnimg.melon.co.kr/cm/album/images/022/71/317/2271317_500.jpg/melon/resize/48/quality/80/optimize
+19|4821170|어려운 여자|장범준|648551|2275373|장범준 1집|https://cdnimg.melon.co.kr/cm/album/images/022/75/373/2275373_500.jpg/melon/resize/48/quality/80/optimize
+20|4671151|눈, 코, 입|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+21|4793898|잠 못드는 밤 (Feat. 펀치 (Punch))|Crush|674710|2272322|괜찮아 사랑이야 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/72/322/2272322_500.jpg/melon/resize/48/quality/80/optimize
+22|4800614|BE I|B.I|742760|2273085|쇼미더머니3 Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/73/085/2273085_500.jpg/melon/resize/48/quality/80/optimize
+23|4743562|No One Else Like You|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+24|4646573|너의 의미 (Feat. 김창완)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+25|4771771|빨개요|현아|449401|2269895|A Talk|https://cdnimg.melon.co.kr/cm/album/images/022/69/895/2269895_500.jpg/melon/resize/48/quality/80/optimize
+26|4854446|자전거|정인~개리|35989~1732|2278875|정인&개리 디지털싱글 '자전거'|https://cdnimg.melon.co.kr/cm/album/images/022/78/875/2278875_500.jpg/melon/resize/48/quality/80/optimize
+27|5375532|보란 듯이|지아|227595|2281162|보란 듯이|https://cdnimg.melon.co.kr/cm/album/images/022/81/162/2281162_500.jpg/melon/resize/48/quality/80/optimize
+28|4762446|최고의 행운|첸 (CHEN)|715176|2268823|괜찮아 사랑이야 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/68/823/2268823_500.jpg/melon/resize/48/quality/80/optimize
+29|4814576|가|BOBBY|742763|2274605|쇼미더머니3 Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/74/605/2274605_500.jpg/melon/resize/48/quality/80/optimize
+30|4806687|컬러링|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+31|4693165|단발머리 (Short Hair)|AOA|686920|2261569|단발머리|https://cdnimg.melon.co.kr/cm/album/images/022/61/569/2261569_500.jpg/melon/resize/48/quality/80/optimize
+32|5381331|내가 네게 (Whisper)|소녀시대-태티서 (Girls' Generation-TTS)|663691|2281922|The 2nd Mini Album 'Holler'|https://cdnimg.melon.co.kr/cm/album/images/022/81/922/2281922_500.jpg/melon/resize/48/quality/80/optimize
+33|4810612|잠시 안녕처럼|에일리(Ailee)|629831|2274202|운명처럼 널 사랑해 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/74/202/2274202_500.jpg/melon/resize/48/quality/80/optimize
+34|4711007|애타는 마음|울랄라세션~아이유|569214~261143|2263452|애타는 마음|https://cdnimg.melon.co.kr/cm/album/images/022/63/452/2263452_500.jpg/melon/resize/48/quality/80/optimize
+35|4544242|그 중에 그대를 만나|이선희|966|2244913|15집 'SERENDIPITY' 30주년 기념앨범|https://cdnimg.melon.co.kr/cm/album/images/022/44/913/2244913_500.jpg/melon/resize/48/quality/80/optimize
+36|-1|Maps|Maroon 5|107721|2261073|Maps|https://cdnimg.melon.co.kr/cm/album/images/022/61/073/2261073_500.jpg/melon/resize/48/quality/80/optimize
+37|4743561|Tell Me If You Wanna Go Home|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+38|4821171|사랑이란 말이 어울리는 사람(사말어사)|장범준|648551|2275373|장범준 1집|https://cdnimg.melon.co.kr/cm/album/images/022/75/373/2275373_500.jpg/melon/resize/48/quality/80/optimize
+39|4660909|사람냄새|정인~개리|35989~1732|2258044|정인&개리 디지털 싱글 '사람냄새'|https://cdnimg.melon.co.kr/cm/album/images/022/58/044/2258044_500.jpg/melon/resize/48/quality/80/optimize
+40|4591400|JACKPOT|블락비 (Block B)|532201|2250057|HER|https://cdnimg.melon.co.kr/cm/album/images/022/50/057/2250057_500.jpg/melon/resize/48/quality/80/optimize
+41|4723861|이제 그만 싸우자|허각~정은지|28801~644871|2264792|'A Cube' For Season # Sky Blue|https://cdnimg.melon.co.kr/cm/album/images/022/64/792/2264792_500.jpg/melon/resize/48/quality/80/optimize
+42|4743571|A Step You Can’t Take Back|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+43|4586092|너 사용법|에디킴|601979|2249449|너 사용법|https://cdnimg.melon.co.kr/cm/album/images/022/49/449/2249449_500.jpg/melon/resize/48/quality/80/optimize
+44|4857978|Animals|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+45|4743564|Lost Stars|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+46|4433490|썸 (Feat. 릴보이 Of 긱스)|소유 (SOYOU)~정기고|490981~304967|2230890|썸|https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/48/quality/80/optimize
+47|4828190|Love Fiction|울랄라세션|569214|2276102|괜찮아 사랑이야 OST Vol.1|https://cdnimg.melon.co.kr/cm/album/images/022/76/102/2276102_500.jpg/melon/resize/48/quality/80/optimize
+48|4734489|I'm In Love|에일리(Ailee)~2LSON|629831~524121|2265100|re;code Episode V|https://cdnimg.melon.co.kr/cm/album/images/022/65/100/2265100_500.jpg/melon/resize/48/quality/80/optimize
+49|4665220|나 왜이래 (Feat. 강민희 Of 미스에스)|San E|402526|2258516|너희들은 포위됐다 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/58/516/2258516_500.jpg/melon/resize/48/quality/80/optimize
+50|4868481|U|엠씨더맥스 (M.C the MAX)|161636|2280412|괜찮아 사랑이야 OST Part 7|https://cdnimg.melon.co.kr/cm/album/images/022/80/412/2280412_500.jpg/melon/resize/48/quality/80/optimize

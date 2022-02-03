@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3438952|새벽기차|YB|100168|1304851|[서바이벌 나는 가수다] 경연4-2. '청중평가단 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/013/04/851/1304851_500.jpg/melon/resize/48/quality/80/optimize
+52|3349210|거울아 거울아|4minute|417985|1235959|4Minutes Left|https://cdnimg.melon.co.kr/cm/album/images/012/35/959/1235959_500.jpg/melon/resize/48/quality/80/optimize
+53|3436278|좋은 사람|황정음|8265|1302854|내 마음이 들리니 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/013/02/854/1302854_500.jpg/melon/resize/48/quality/80/optimize
+54|3434884|너에게 약속해|DK~럼블피쉬|524801~108951|1301556|She's So Lovely|https://cdnimg.melon.co.kr/cm/album/images/013/01/556/1301556_500.jpg/melon/resize/48/quality/80/optimize
+55|3352959|To Me (내게로..)|레인보우|440320|1238353|So 女|https://cdnimg.melon.co.kr/cm/album/images/012/38/353/1238353_500.jpg/melon/resize/48/quality/80/optimize
+56|3439736|그대는 정말 대단해요|에이트|228841|1305571|그대는 정말 대단해요|https://cdnimg.melon.co.kr/cm/album/images/013/05/571/1305571_500.jpg/melon/resize/48/quality/80/optimize
+57|3339283|Heart To Heart|4minute|417985|1229964|Heart To Heart|https://cdnimg.melon.co.kr/cm/album/images/012/29/964/1229964_500.jpg/melon/resize/48/quality/80/optimize
+58|3389284|리얼러브송|케이윌|175139|1266360|최고의 사랑 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/66/360/1266360_500.jpg/melon/resize/48/quality/80/optimize
+59|3418959|Everyday|가비엔제이|174997|1289853|가비효과|https://cdnimg.melon.co.kr/cm/album/images/012/89/853/1289853_500.jpg/melon/resize/48/quality/80/optimize
+60|3422151|이별(離別)이 별이 되나봐|백청강|531823|1292351|스타오디션 위대한 탄생 Part.8 - 자신이 가장 자신 있는 노래|https://cdnimg.melon.co.kr/cm/album/images/012/92/351/1292351_500.jpg/melon/resize/48/quality/80/optimize
+61|3348066|너 밖엔 없더라|김그림|499462|1234954|Fly High|https://cdnimg.melon.co.kr/cm/album/images/012/34/954/1234954_500.jpg/melon/resize/48/quality/80/optimize
+62|3437048|큐피트|걸스데이|482762|1303451|시티헌터 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/013/03/451/1303451_500.jpg/melon/resize/48/quality/80/optimize
+63|3428363|So Goodbye|종현 (JONGHYUN)|544520|1296553|시티헌터 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/012/96/553/1296553_500.jpg/melon/resize/48/quality/80/optimize
+64|3430148|키덜트 (Feat. 윤두준 Of Beast)|이루펀트|182366|1297554|Man On The Earth|https://cdnimg.melon.co.kr/cm/album/images/012/97/554/1297554_500.jpg/melon/resize/48/quality/80/optimize
+65|3429522|내 여친|포맨 (4MEN)|100176|1294153|The Artist|https://cdnimg.melon.co.kr/cm/album/images/012/94/153/1294153_500.jpg/melon/resize/48/quality/80/optimize
+66|3422250|그대 내 품에 (유재하)|박정현|1099|1292451|[서바이벌 나는 가수다] 경연4-1. '내가 좋아하는 뮤지션의 곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/92/451/1292451_500.jpg/melon/resize/48/quality/80/optimize
+67|3425749|사랑해|포맨 (4MEN)|100176|1294153|The Artist|https://cdnimg.melon.co.kr/cm/album/images/012/94/153/1294153_500.jpg/melon/resize/48/quality/80/optimize
+68|672010|꽃피는 봄이오면|BMK|36142|47645|Soul Food|https://cdnimg.melon.co.kr/cm/album/images/000/47/645/47645_500.jpg/melon/resize/48/quality/80/optimize
+69|3434866|별 거 아니야|영지|46744|1301553|Sorrowful Heart|https://cdnimg.melon.co.kr/cm/album/images/013/01/553/1301553_500.jpg/melon/resize/48/quality/80/optimize
+70|3136472|사랑은 은하수 다방에서|10CM|468244|1166956|1.0|https://cdnimg.melon.co.kr/cm/album/images/011/66/956/1166956_500.jpg/melon/resize/48/quality/80/optimize
+71|3439657|하루종일 (Feat. 지아)|해수|11961|1305554|하루종일|https://cdnimg.melon.co.kr/cm/album/images/013/05/554/1305554_500.jpg/melon/resize/48/quality/80/optimize
+72|3425060|짝사랑 (Feat. 美)|포맨 (4MEN)|100176|1294153|The Artist|https://cdnimg.melon.co.kr/cm/album/images/012/94/153/1294153_500.jpg/melon/resize/48/quality/80/optimize
+73|3367970|몰라요|Apink (에이핑크)|534360|1246270|Seven Springs Of Apink|https://cdnimg.melon.co.kr/cm/album/images/012/46/270/1246270_500.jpg/melon/resize/48/quality/80/optimize
+74|3341087|방콕시티 (Bangkok City)|오렌지 캬라멜|477632|1231074|방콕시티|https://cdnimg.melon.co.kr/cm/album/images/012/31/074/1231074_500.jpg/melon/resize/48/quality/80/optimize
+75|3422252|해야 (마그마)|YB|100168|1292451|[서바이벌 나는 가수다] 경연4-1. '내가 좋아하는 뮤지션의 곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/92/451/1292451_500.jpg/melon/resize/48/quality/80/optimize
+76|3411853|소나기 (부활)|박정현|1099|1283751|[서바이벌 나는 가수다] 경연3-2. '네티즌 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/012/83/751/1283751_500.jpg/melon/resize/48/quality/80/optimize
+77|3426548|안되는데|포맨 (4MEN)|100176|1294153|The Artist|https://cdnimg.melon.co.kr/cm/album/images/012/94/153/1294153_500.jpg/melon/resize/48/quality/80/optimize
+78|3169779|직감|CNBLUE (씨엔블루)|450801|1195654|FIRST STEP|https://cdnimg.melon.co.kr/cm/album/images/011/95/654/1195654_500.jpg/melon/resize/48/quality/80/optimize
+79|3411850|Run Devil Run (소녀시대)|YB|100168|1283751|[서바이벌 나는 가수다] 경연3-2. '네티즌 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/012/83/751/1283751_500.jpg/melon/resize/48/quality/80/optimize
+80|3421348|그대는 어디에|차지연|248121|1291651|그대는 어디에|https://cdnimg.melon.co.kr/cm/album/images/012/91/651/1291651_500.jpg/melon/resize/48/quality/80/optimize
+81|3354527|STUPID LIAR|BIGBANG|198094|1236055|빅뱅 스페셜에디션|https://cdnimg.melon.co.kr/cm/album/images/012/36/055/1236055_500.jpg/melon/resize/48/quality/80/optimize
+82|3410248|Boyfriend (보이프렌드)|보이프렌드|541500|1282351|Boyfriend|https://cdnimg.melon.co.kr/cm/album/images/012/82/351/1282351_500.jpg/melon/resize/48/quality/80/optimize
+83|3429556|남자답게|Eye To Eye|544661|1297270|Eye To Eye|https://cdnimg.melon.co.kr/cm/album/images/012/97/270/1297270_500.jpg/melon/resize/48/quality/80/optimize
+84|3441478|Suddenly|김보경 (NEON)|60829|1306863|시티헌터 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/013/06/863/1306863_500.jpg/melon/resize/48/quality/80/optimize
+85|3394449|미련 (김건모)|김연우|6017|1270551|[서바이벌 나는 가수다] 경연3-1. '내가 부르고싶은 남의노래'|https://cdnimg.melon.co.kr/cm/album/images/012/70/551/1270551_500.jpg/melon/resize/48/quality/80/optimize
+86|3337651|이태원 프리덤 (With JYP)|UV|467060|1228752|이태원 프리덤|https://cdnimg.melon.co.kr/cm/album/images/012/28/752/1228752_500.jpg/melon/resize/48/quality/80/optimize
+87|2992122|I Got My Eye On You (Cristian Marchi & Paolo Sandrini Perfect Edit) (Feat. Luciana)|Nari & Milani~Cristian Marchi|466821~456600|1054082|I Got My Eye On You|https://cdnimg.melon.co.kr/cm/album/images/010/54/082/1054082_500.jpg/melon/resize/48/quality/80/optimize
+88|3405362|눈물이 넘쳐서|Jessica (제시카)|428829|1278753|로맨스 타운 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/012/78/753/1278753_500.jpg/melon/resize/48/quality/80/optimize
+89|3338948|La Vida Loca (라 비다 로카)|클로버|529805|1229751|Classic Over|https://cdnimg.melon.co.kr/cm/album/images/012/29/751/1229751_500.jpg/melon/resize/48/quality/80/optimize
+90|3401704|아이스크림|JOO~이특 (LEETEUK)|232696~517700|1275753|아이스크림|https://cdnimg.melon.co.kr/cm/album/images/012/75/753/1275753_500.jpg/melon/resize/48/quality/80/optimize
+91|3411849|아름다운 강산 (이선희)|BMK|36142|1283751|[서바이벌 나는 가수다] 경연3-2. '네티즌 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/012/83/751/1283751_500.jpg/melon/resize/48/quality/80/optimize
+92|3386750|Love Alone|미쓰에이|481481|1263852|Love Alone|https://cdnimg.melon.co.kr/cm/album/images/012/63/852/1263852_500.jpg/melon/resize/48/quality/80/optimize
+93|3172166|가슴이 뛴다|케이윌|175139|1197653|가슴이 뛴다|https://cdnimg.melon.co.kr/cm/album/images/011/97/653/1197653_500.jpg/melon/resize/48/quality/80/optimize
+94|3364512|들리나요|지아|227595|1247357|내 마음이 들리니 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/47/357/1247357_500.jpg/melon/resize/48/quality/80/optimize
+95|3436283|Question|언터쳐블|190493|1302856|신의 퀴즈 2 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/013/02/856/1302856_500.jpg/melon/resize/48/quality/80/optimize
+96|3421107|유리|박화요비|2017|1291451|미스 리플리 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/91/451/1291451_500.jpg/melon/resize/48/quality/80/optimize
+97|3156950|TONIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+98|3444539|째각째각|신혜성|1741|1309070|The Road Not Taken|https://cdnimg.melon.co.kr/cm/album/images/013/09/070/1309070_500.jpg/melon/resize/48/quality/80/optimize
+99|3421091|제발 (Please)|김현중|253518|1291356|제발 (Please) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/012/91/356/1291356_500.jpg/melon/resize/48/quality/80/optimize
+100|3436275|멍투성이|오윤혜|205873|1302853|멍투성이|https://cdnimg.melon.co.kr/cm/album/images/013/02/853/1302853_500.jpg/melon/resize/48/quality/80/optimize

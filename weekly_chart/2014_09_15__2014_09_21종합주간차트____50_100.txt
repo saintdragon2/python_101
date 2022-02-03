@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|5375532|보란 듯이|지아|227595|2281162|보란 듯이|https://cdnimg.melon.co.kr/cm/album/images/022/81/162/2281162_500.jpg/melon/resize/48/quality/80/optimize
+52|5380328|가을냄새 (Feat. 에디킴)|버벌진트|6985|2281785|가을냄새|https://cdnimg.melon.co.kr/cm/album/images/022/81/785/2281785_500.jpg/melon/resize/48/quality/80/optimize
+53|4639518|너를 너를 너를|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+54|4828190|Love Fiction|울랄라세션|569214|2276102|괜찮아 사랑이야 OST Vol.1|https://cdnimg.melon.co.kr/cm/album/images/022/76/102/2276102_500.jpg/melon/resize/48/quality/80/optimize
+55|4586092|너 사용법|에디킴|601979|2249449|너 사용법|https://cdnimg.melon.co.kr/cm/album/images/022/49/449/2249449_500.jpg/melon/resize/48/quality/80/optimize
+56|4433490|썸 (Feat. 릴보이 Of 긱스)|소유 (SOYOU)~정기고|490981~304967|2230890|썸|https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/48/quality/80/optimize
+57|4723861|이제 그만 싸우자|허각~정은지|28801~644871|2264792|'A Cube' For Season # Sky Blue|https://cdnimg.melon.co.kr/cm/album/images/022/64/792/2264792_500.jpg/melon/resize/48/quality/80/optimize
+58|4857978|Animals|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+59|4665220|나 왜이래 (Feat. 강민희 Of 미스에스)|San E|402526|2258516|너희들은 포위됐다 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/58/516/2258516_500.jpg/melon/resize/48/quality/80/optimize
+60|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+61|4734489|I'm In Love|에일리(Ailee)~2LSON|629831~524121|2265100|re;code Episode V|https://cdnimg.melon.co.kr/cm/album/images/022/65/100/2265100_500.jpg/melon/resize/48/quality/80/optimize
+62|4818649|맘마미아|카라|222128|2275068|카라 (Kara) 6th Mini Album 'Day&Night'|https://cdnimg.melon.co.kr/cm/album/images/022/75/068/2275068_500.jpg/melon/resize/48/quality/80/optimize
+63|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+64|4706174|오늘부터 1일 (Day 1)|케이윌|175139|2262912|ONE FINE DAY|https://cdnimg.melon.co.kr/cm/album/images/022/62/912/2262912_500.jpg/melon/resize/48/quality/80/optimize
+65|4806688|끼부리지마|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+66|5379383|가을에 만나|윤건|14801|2281658|가을에 만나|https://cdnimg.melon.co.kr/cm/album/images/022/81/658/2281658_500.jpg/melon/resize/48/quality/80/optimize
+67|4868481|U|엠씨더맥스 (M.C the MAX)|161636|2280412|괜찮아 사랑이야 OST Part 7|https://cdnimg.melon.co.kr/cm/album/images/022/80/412/2280412_500.jpg/melon/resize/48/quality/80/optimize
+68|5376632|U|존박|28772|2281302|U|https://cdnimg.melon.co.kr/cm/album/images/022/81/302/2281302_500.jpg/melon/resize/48/quality/80/optimize
+69|5379956|고마워요 나의 그대여|린|8530|2281750|HOME|https://cdnimg.melon.co.kr/cm/album/images/022/81/750/2281750_500.jpg/melon/resize/48/quality/80/optimize
+70|5381557|Trap|스윙스~유성은|236970~658092|2281946|마이 시크릿 호텔 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/022/81/946/2281946_500.jpg/melon/resize/48/quality/80/optimize
+71|5388068|미치지말자|에이트|228841|2282762|미치지 말자|https://cdnimg.melon.co.kr/cm/album/images/022/82/762/2282762_500.jpg/melon/resize/48/quality/80/optimize
+72|4743572|Lost Stars (Into The Night Mix)|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+73|4562881|Mr. Chu (On Stage)|Apink (에이핑크)|534360|2246854|Pink Blossom|https://cdnimg.melon.co.kr/cm/album/images/022/46/854/2246854_500.jpg/melon/resize/48/quality/80/optimize
+74|4751624|전화번호 (Feat. 버벌진트, 40)|스윙스|236970|2267692|감정기복 II Part. 2 : 강박증 (Obsessive Compulsive Disorder)|https://cdnimg.melon.co.kr/cm/album/images/022/67/692/2267692_500.jpg/melon/resize/48/quality/80/optimize
+75|4803842|I'm In Love|시크릿|435121|2273442|SECRET SUMMER|https://cdnimg.melon.co.kr/cm/album/images/022/73/442/2273442_500.jpg/melon/resize/48/quality/80/optimize
+76|4800615|19금 I AM|아이언|781841|2273085|쇼미더머니3 Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/73/085/2273085_500.jpg/melon/resize/48/quality/80/optimize
+77|4714217|하늘색 약속|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+78|4711065|우산|윤하 (YOUNHA)|203912|2263475|우산|https://cdnimg.melon.co.kr/cm/album/images/022/63/475/2263475_500.jpg/melon/resize/48/quality/80/optimize
+79|4645220|나의 옛날이야기|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+80|4579468|봄 사랑 벚꽃 말고|HIGH4 (하이포)~아이유|767374~261143|2248659|봄 사랑 벚꽃 말고|https://cdnimg.melon.co.kr/cm/album/images/022/48/659/2248659_500.jpg/melon/resize/48/quality/80/optimize
+81|4749449|명수네 떡볶이 (Feat. 김예림, UL)|박명수|4263|2267478|명수네 떡볶이 (Feat. 김예림, UL)|https://cdnimg.melon.co.kr/cm/album/images/022/67/478/2267478_500.jpg/melon/resize/48/quality/80/optimize
+82|-1|인연|윤민수(바이브)~신용재 (2F)|151315~510537|2249074|불후의 명곡 - 전설을 노래하다 (이선희 2편)|https://cdnimg.melon.co.kr/cm/album/images/022/49/074/2249074_500.jpg/melon/resize/48/quality/80/optimize
+83|4818613|나처럼 해봐요|오렌지 캬라멜|477632|2275066|The Fourth Single '나처럼 해봐요'|https://cdnimg.melon.co.kr/cm/album/images/022/75/066/2275066_500.jpg/melon/resize/48/quality/80/optimize
+84|5386244|이 노래|로꼬~마마무 (Mamamoo)|688432~750053|2282546|내겐 너무 사랑스러운 그녀 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/82/546/2282546_500.jpg/melon/resize/48/quality/80/optimize
+85|4864206|묘해, 너와|어쿠스틱 콜라보|192827|2279896|연애의 발견 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/79/896/2279896_500.jpg/melon/resize/48/quality/80/optimize
+86|4585736|Bad (Feat. Vassy) (Radio Edit)|David Guetta~Showtek|182123~243157|2249404|Bad (Feat. Vassy) (Radio Edit)|https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/48/quality/80/optimize
+87|4594680|요즘 바쁜가봐|2BIC(투빅)|643551|2250420|Soul Mate (소울메이트)|https://cdnimg.melon.co.kr/cm/album/images/022/50/420/2250420_500.jpg/melon/resize/48/quality/80/optimize
+88|4774996|행복 (Happiness)|Red Velvet (레드벨벳)|780066|2270252|The 1st Single '행복 (Happiness)'|https://cdnimg.melon.co.kr/cm/album/images/022/70/252/2270252_500.jpg/melon/resize/48/quality/80/optimize
+89|5378518|Sugar Free (BigRoom Ver.)|티아라|412000|2281562|And&End|https://cdnimg.melon.co.kr/cm/album/images/022/81/562/2281562_500.jpg/melon/resize/48/quality/80/optimize
+90|4824874|I Feel You|홍대광|699623|2275738|괜찮아 사랑이야 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/75/738/2275738_500.jpg/melon/resize/48/quality/80/optimize
+91|4527879|감아 (Feat. Crush)|로꼬|688432|2242936|감아|https://cdnimg.melon.co.kr/cm/album/images/022/42/936/2242936_500.jpg/melon/resize/48/quality/80/optimize
+92|4828025|19금 그 XX (Feat. ZICO Of Block B)|올티 (Olltii)|669972|2276091|쇼미더머니3 BOBBY vs 올티|https://cdnimg.melon.co.kr/cm/album/images/022/76/091/2276091_500.jpg/melon/resize/48/quality/80/optimize
+93|4743574|Tell Me If You Wanna Go Home (Rooftop Mix) (Feat. Hailee Steinfeld)|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+94|3808189|Call You Mine (Feat. Geologic Of The Blue Scholars)|Jeff Bernat|673152|2124668|The Gentleman Approach|https://cdnimg.melon.co.kr/cm/album/images/021/24/668/2124668_500.jpg/melon/resize/48/quality/80/optimize
+95|4686392|Good Luck|비스트|436981|2260842|Good Luck|https://cdnimg.melon.co.kr/cm/album/images/022/60/842/2260842_500.jpg/melon/resize/48/quality/80/optimize
+96|4806735|Different|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+97|4853295|MAMACITA(아야야)|SUPER JUNIOR (슈퍼주니어)|175404|2278771|The 7th Album 'MAMACITA'|https://cdnimg.melon.co.kr/cm/album/images/022/78/771/2278771_500.jpg/melon/resize/48/quality/80/optimize
+98|4652064|19금 연결고리 (Feat. MC Meta)|ILLIONAIRE RECORDS|556100|2257117|11:11|https://cdnimg.melon.co.kr/cm/album/images/022/57/117/2257117_500.jpg/melon/resize/48/quality/80/optimize
+99|5383095|우리 사랑했던 시간만큼|윤도현|923|2282150|노래하는 윤도현|https://cdnimg.melon.co.kr/cm/album/images/022/82/150/2282150_500.jpg/melon/resize/48/quality/80/optimize
+100|4633162|중독 (Overdose)|EXO-K|625511|2254734|The 2nd Mini Album '중독 (Overdose)'|https://cdnimg.melon.co.kr/cm/album/images/022/54/734/2254734_500.jpg/melon/resize/48/quality/80/optimize

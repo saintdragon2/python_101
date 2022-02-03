@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3509751|UGLY|2NE1|406712|1356152|2NE1 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/013/56/152/1356152_500.jpg/melon/resize/48/quality/80/optimize
+2|3488849|Good-bye Baby|미쓰에이|481481|1339951|A Class|https://cdnimg.melon.co.kr/cm/album/images/013/39/951/1339951_500.jpg/melon/resize/48/quality/80/optimize
+3|3488750|Hate You|2NE1|406712|1356152|2NE1 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/013/56/152/1356152_500.jpg/melon/resize/48/quality/80/optimize
+4|3516563|Mr. Simple|SUPER JUNIOR (슈퍼주니어)|175404|1360352|'Mr. Simple' The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/013/60/352/1360352_500.jpg/melon/resize/48/quality/80/optimize
+5|3467463|바람났어 (Feat. 박봄)|GG (박명수 & G-Dragon)|550442|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+6|3457172|Roly-Poly|티아라|412000|1317401|존트라볼타 워너비|https://cdnimg.melon.co.kr/cm/album/images/013/17/401/1317401_500.jpg/melon/resize/48/quality/80/optimize
+7|3521672|So Cool (쏘쿨)|씨스타|473181|2006957|So Cool|https://cdnimg.melon.co.kr/cm/album/images/020/06/957/2006957_500.jpg/melon/resize/48/quality/80/optimize
+8|3452769|내가 제일 잘 나가|2NE1|406712|1315551|내가 제일 잘 나가 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/013/15/551/1315551_500.jpg/melon/resize/48/quality/80/optimize
+9|3468048|Bubble Pop!|현아|449401|1324851|Bubble Pop!|https://cdnimg.melon.co.kr/cm/album/images/013/24/851/1324851_500.jpg/melon/resize/48/quality/80/optimize
+10|3509748|Grand Final (Feat. 정인, MC 날유)|리쌍|103289|1356151|Grand Final|https://cdnimg.melon.co.kr/cm/album/images/013/56/151/1356151_500.jpg/melon/resize/48/quality/80/optimize
+11|3448185|Hands Up|2PM|259822|1312258|Hands Up|https://cdnimg.melon.co.kr/cm/album/images/013/12/258/1312258_500.jpg/melon/resize/48/quality/80/optimize
+12|3516048|찹쌀떡|센치한 하하 (하하 & 10cm)|550443|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+13|3467466|압구정 날라리|처진 달팽이 (유재석 & 이적)|550445|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+14|3440448|Hot Summer|f(x)|428501|1306051|'Hot Summer' f(x) 1st Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/013/06/051/1306051_500.jpg/melon/resize/48/quality/80/optimize
+15|3520711|You Are So Beautiful|XIA (준수)|52607|2006821|여인의 향기 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/06/821/2006821_500.jpg/melon/resize/48/quality/80/optimize
+16|3485088|남자니까 웃는거야|Homme (창민, 이현)|778464|1337552|Homme By 'Hitman' Bang - 남자니까 웃는거야|https://cdnimg.melon.co.kr/cm/album/images/013/37/552/1337552_500.jpg/melon/resize/48/quality/80/optimize
+17|3492688|밤 하늘에|애프터스쿨 RED|554180|1342956|The 4th Single Album - RED|https://cdnimg.melon.co.kr/cm/album/images/013/42/956/1342956_500.jpg/melon/resize/48/quality/80/optimize
+18|3500554|나 가거든 (If I Leave) (조수미)|박정현|1099|1349151|[나는 가수다] 경연6-2. '청중 평가단 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/013/49/151/1349151_500.jpg/melon/resize/48/quality/80/optimize
+19|3488667|내꺼하자|인피니트|476181|1339753|Over The Top|https://cdnimg.melon.co.kr/cm/album/images/013/39/753/1339753_500.jpg/melon/resize/48/quality/80/optimize
+20|3500548|술이야 (바이브)|장혜진|5675|1349151|[나는 가수다] 경연6-2. '청중 평가단 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/013/49/151/1349151_500.jpg/melon/resize/48/quality/80/optimize
+21|3460102|랄랄라 (Feat. 소야)|마이티 마우스|239366|1318477|랄랄라|https://cdnimg.melon.co.kr/cm/album/images/013/18/477/1318477_500.jpg/melon/resize/48/quality/80/optimize
+22|3486450|오늘도 사랑해|백지영|1118|1338452|공주의 남자 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/013/38/452/1338452_500.jpg/melon/resize/48/quality/80/optimize
+23|3480463|모나리자 (Mona Lisa)|엠블랙|436980|1334167|모나리자|https://cdnimg.melon.co.kr/cm/album/images/013/34/167/1334167_500.jpg/melon/resize/48/quality/80/optimize
+24|3424822|별빛달빛|시크릿|435121|1290562|별빛달빛|https://cdnimg.melon.co.kr/cm/album/images/012/90/562/1290562_500.jpg/melon/resize/48/quality/80/optimize
+25|3521822|사람, 사랑|김범수~박정현|6502~1099|2006984|Hwang Project Vol.2 - 사람, 사랑|https://cdnimg.melon.co.kr/cm/album/images/020/06/984/2006984_500.jpg/melon/resize/48/quality/80/optimize
+26|3427926|살다가 한번쯤|포맨 (4MEN)|100176|1294153|The Artist|https://cdnimg.melon.co.kr/cm/album/images/012/94/153/1294153_500.jpg/melon/resize/48/quality/80/optimize
+27|3509457|죽을 것만 같아|환희|1928|1355951|Hwanhee|https://cdnimg.melon.co.kr/cm/album/images/013/55/951/1355951_500.jpg/melon/resize/48/quality/80/optimize
+28|3467462|나만 부를 수 있는 노래|바닷길 (길 & 바다)|550441|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+29|3471644|말하는 대로|처진 달팽이 (유재석 & 이적)|550445|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+30|3472249|한번만 안아줘|걸스데이|482762|1328051|Everyday|https://cdnimg.melon.co.kr/cm/album/images/013/28/051/1328051_500.jpg/melon/resize/48/quality/80/optimize
+31|3467461|순정마초|파리돼지앵 (정형돈 & 정재형)|550440|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+32|3492660|원더보이 (Wonder Boy)|애프터스쿨 BLUE|554181|1342952|The 4th Single Album - BLUE|https://cdnimg.melon.co.kr/cm/album/images/013/42/952/1342952_500.jpg/melon/resize/48/quality/80/optimize
+33|3518006|기도|써니힐|229494|1361261|기도|https://cdnimg.melon.co.kr/cm/album/images/013/61/261/1361261_500.jpg/melon/resize/48/quality/80/optimize
+34|3397448|비가 오는 날엔|비스트|436981|1272951|비가 오는 날엔|https://cdnimg.melon.co.kr/cm/album/images/012/72/951/1272951_500.jpg/melon/resize/48/quality/80/optimize
+35|3498780|향수 뿌리지마|틴탑|483581|1347957|Roman|https://cdnimg.melon.co.kr/cm/album/images/013/47/957/1347957_500.jpg/melon/resize/48/quality/80/optimize
+36|3467467|흔들어 주세요|철싸 (노홍철 & 싸이)|550446|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+37|3520616|기다릴게|하동균~이정|43806~39256|2006804|공주의 남자 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/06/804/2006804_500.jpg/melon/resize/48/quality/80/optimize
+38|3460074|넌 내게 반했어|정용화 (CNBLUE)|20908|1318466|넌 내게 반했어 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/013/18/466/1318466_500.jpg/melon/resize/48/quality/80/optimize
+39|3513410|너의 웃음 고마워 (Vision Of Love)|포맨 (4MEN)|100176|1357954|너의 웃음 고마워 (Vision Of Love)|https://cdnimg.melon.co.kr/cm/album/images/013/57/954/1357954_500.jpg/melon/resize/48/quality/80/optimize
+40|3446888|그 입술을 막아본다|에이트|228841|1311069|8eight|https://cdnimg.melon.co.kr/cm/album/images/013/11/069/1311069_500.jpg/melon/resize/48/quality/80/optimize
+41|3450190|얼음꽃 (Feat. 김세황)|아이유~김연아|261143~246968|1313571|얼음꽃|https://cdnimg.melon.co.kr/cm/album/images/013/13/571/1313571_500.jpg/melon/resize/48/quality/80/optimize
+42|3403761|Fiction|비스트|436981|1276855|Fiction And Fact|https://cdnimg.melon.co.kr/cm/album/images/012/76/855/1276855_500.jpg/melon/resize/48/quality/80/optimize
+43|3520670|래퍼들이 헤어지는 방법 Part.2 (with. 걸스데이 민아)|데프콘|7567|2006811|The Rage Theater|https://cdnimg.melon.co.kr/cm/album/images/020/06/811/2006811_500.jpg/melon/resize/48/quality/80/optimize
+44|3436083|끝사랑|김범수|6502|1302654|Solista Part.2|https://cdnimg.melon.co.kr/cm/album/images/013/02/654/1302654_500.jpg/melon/resize/48/quality/80/optimize
+45|3136472|사랑은 은하수 다방에서|10CM|468244|1166956|1.0|https://cdnimg.melon.co.kr/cm/album/images/011/66/956/1166956_500.jpg/melon/resize/48/quality/80/optimize
+46|3515581|Change The Game|정형돈~데프콘~제이디 (JD)|39333~7567~259904|1359757|Change The Game|https://cdnimg.melon.co.kr/cm/album/images/013/59/757/1359757_500.jpg/melon/resize/48/quality/80/optimize
+47|3514354|고래사냥 (송창식)|자우림|100094|1358751|[나는 가수다] 경연7-1. '내가 부르고 싶은 노래'|https://cdnimg.melon.co.kr/cm/album/images/013/58/751/1358751_500.jpg/melon/resize/48/quality/80/optimize
+48|3478175|나 좀 봐줘 (One More Chance)|천상지희 다나&선데이|552082|1332662|'나 좀 봐줘 (One More Chance)' The 1st Digital Single|https://cdnimg.melon.co.kr/cm/album/images/013/32/662/1332662_500.jpg/melon/resize/48/quality/80/optimize
+49|3467465|정주나요|스윗 콧소로우 (정준하 & 스윗소로우)|550444|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+50|3507156|잊어준다|가비엔제이|174997|1354853|잊어준다|https://cdnimg.melon.co.kr/cm/album/images/013/54/853/1354853_500.jpg/melon/resize/48/quality/80/optimize

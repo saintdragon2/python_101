@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|1569650|이럴거면|아이비|171127|344636|A Sweet Moment|https://cdnimg.melon.co.kr/cm/album/images/003/44/636/344636_500.jpg/melon/resize/48/quality/80/optimize
+2|1569649|유혹의 소나타|아이비|171127|344636|A Sweet Moment|https://cdnimg.melon.co.kr/cm/album/images/003/44/636/344636_500.jpg/melon/resize/48/quality/80/optimize
+3|1579229|왼쪽가슴|케이윌|175139|345780|왼쪽 가슴|https://cdnimg.melon.co.kr/cm/album/images/003/45/780/345780_500.jpg/melon/resize/48/quality/80/optimize
+4|1563237|미인 (美人)|이기찬|6225|343998|Para Ti|https://cdnimg.melon.co.kr/cm/album/images/003/43/998/343998_500.jpg/melon/resize/48/quality/80/optimize
+5|1581597|톡!톡!톡! (Toc Toc Toc)(CF - 투싼 '이효리'편)|이효리|1713|346067|Toc Toc Toc (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/46/067/346067_500.jpg/melon/resize/48/quality/80/optimize
+6|1568562|같은 베개...|테이|51893|344501|애인|https://cdnimg.melon.co.kr/cm/album/images/003/44/501/344501_500.jpg/melon/resize/48/quality/80/optimize
+7|1592995|비밀번호 486|윤하 (YOUNHA)|203912|347264|고백하기 좋은 날|https://cdnimg.melon.co.kr/cm/album/images/003/47/264/347264_500.jpg/melon/resize/48/quality/80/optimize
+8|1575129|수취인 불명|프리스타일|100144|345359|수취인불명|https://cdnimg.melon.co.kr/cm/album/images/003/45/359/345359_500.jpg/melon/resize/48/quality/80/optimize
+9|1558954|미워요|씨야|181679|343446|All Star|https://cdnimg.melon.co.kr/cm/album/images/003/43/446/343446_500.jpg/melon/resize/48/quality/80/optimize
+10|1560045|추억은 사랑을 닮아|박효신|1191|343653|The Breeze Of Sea|https://cdnimg.melon.co.kr/cm/album/images/003/43/653/343653_500.jpg/melon/resize/48/quality/80/optimize
+11|1583267|이별살이|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+12|1580618|비행소녀|마골피|220287|345968|비행소녀|https://cdnimg.melon.co.kr/cm/album/images/003/45/968/345968_500.jpg/melon/resize/48/quality/80/optimize
+13|1583453|봄이여 오라 (Feat. 유리)|MC 스나이퍼|7560|346354|How Bad Do U Want It?|https://cdnimg.melon.co.kr/cm/album/images/003/46/354/346354_500.jpg/melon/resize/48/quality/80/optimize
+14|1592906|남자도... 어쩔 수 없다.|EVAN 에반 (유호석)|221072|347254|Hard To Breath|https://cdnimg.melon.co.kr/cm/album/images/003/47/254/347254_500.jpg/melon/resize/48/quality/80/optimize
+15|1604265|My Love|채연|41894|348284|My Love|https://cdnimg.melon.co.kr/cm/album/images/003/48/284/348284_500.jpg/melon/resize/48/quality/80/optimize
+16|1566277|Irony (아이러니)|원더걸스|217764|344229|The wonder begins|https://cdnimg.melon.co.kr/cm/album/images/003/44/229/344229_500.jpg/melon/resize/48/quality/80/optimize
+17|1563629|남자야|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+18|1604150|My Lady (Original Ver.)|소울타운|221726|348282|My Lady|https://cdnimg.melon.co.kr/cm/album/images/003/48/282/348282_500.jpg/melon/resize/48/quality/80/optimize
+19|1558953|가시리|SG 워너비~KCM|108363~45995|343446|All Star|https://cdnimg.melon.co.kr/cm/album/images/003/43/446/343446_500.jpg/melon/resize/48/quality/80/optimize
+20|1577999|19금 너를 원해|서인영|26265|345657|Elly Is So Hot|https://cdnimg.melon.co.kr/cm/album/images/003/45/657/345657_500.jpg/melon/resize/48/quality/80/optimize
+21|1581598|그녀를 사랑하지마|이효리|1713|346067|Toc Toc Toc (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/46/067/346067_500.jpg/melon/resize/48/quality/80/optimize
+22|1575512|잊었니...|윤미래|1654|345409|t 3 YOONMIRAE|https://cdnimg.melon.co.kr/cm/album/images/003/45/409/345409_500.jpg/melon/resize/48/quality/80/optimize
+23|1556553|Love Love Love (Feat. Yoong Jin Of Casker)|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+24|1556547|Fan|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+25|1583256|내 사랑|모세|165535|346236|사랑이죠.. 사랑|https://cdnimg.melon.co.kr/cm/album/images/003/46/236/346236_500.jpg/melon/resize/48/quality/80/optimize
+26|1574696|하루살이|BMK|36142|345256|999.9|https://cdnimg.melon.co.kr/cm/album/images/003/45/256/345256_500.jpg/melon/resize/48/quality/80/optimize
+27|1521180|잔소리|더 넛츠 (The NuTs)|108988|335460|Whispers Of Love|https://cdnimg.melon.co.kr/cm/album/images/003/35/460/335460_500.jpg/melon/resize/48/quality/80/optimize
+28|1591683|허수아비|김건모|889|347152|Style Album 11 : 허수아비|https://cdnimg.melon.co.kr/cm/album/images/003/47/152/347152_500.jpg/melon/resize/48/quality/80/optimize
+29|1586098|어쩌다가|전초아~SHY (손호영)|37649~1580|346599|어쩌다가 (손호영 & 예인)|https://cdnimg.melon.co.kr/cm/album/images/003/46/599/346599_500.jpg/melon/resize/48/quality/80/optimize
+30|1600268|Smile Again|럼블피쉬|108951|347886|Open The Safe|https://cdnimg.melon.co.kr/cm/album/images/003/47/886/347886_500.jpg/melon/resize/48/quality/80/optimize
+31|1459456|흰눈|이루|173424|328069|이루 LEVEL II|https://cdnimg.melon.co.kr/cm/album/images/003/28/069/328069_500.jpg/melon/resize/48/quality/80/optimize
+32|1587897|다시 내 곁으로|애즈원~SHY (손호영)|100093~1580|346839|우리가 알고 있는 사랑이야기 다섯|https://cdnimg.melon.co.kr/cm/album/images/003/46/839/346839_500.jpg/melon/resize/48/quality/80/optimize
+33|1538203|안녕|KCM|45995|338648|안녕 / 사랑이 올까봐|https://cdnimg.melon.co.kr/cm/album/images/003/38/648/338648_500.jpg/melon/resize/48/quality/80/optimize
+34|1590152|감사|김동률|925|346951|Thanks (감사)|https://cdnimg.melon.co.kr/cm/album/images/003/46/951/346951_500.jpg/melon/resize/48/quality/80/optimize
+35|1564795|하루|포지션|100177|344101|애가 (愛歌)|https://cdnimg.melon.co.kr/cm/album/images/003/44/101/344101_500.jpg/melon/resize/48/quality/80/optimize
+36|1522421|사랑...후에|신혜성~린|1741~8530|335571|동화 (冬話)|https://cdnimg.melon.co.kr/cm/album/images/003/35/571/335571_500.jpg/melon/resize/48/quality/80/optimize
+37|1550828|기다릴게...|타이푼|186309|341940|기다릴게...|https://cdnimg.melon.co.kr/cm/album/images/003/41/940/341940_500.jpg/melon/resize/48/quality/80/optimize
+38|1587882|이별을 말하다|아이|35155|346838|Soul Mate|https://cdnimg.melon.co.kr/cm/album/images/003/46/838/346838_500.jpg/melon/resize/48/quality/80/optimize
+39|1575057|사랑 부르기 (Acoustic Ver.)|장나라|10575|345353|She|https://cdnimg.melon.co.kr/cm/album/images/003/45/353/345353_500.jpg/melon/resize/48/quality/80/optimize
+40|1579194|눈물도 미안해서|황보|1719|345776|Lady In Black|https://cdnimg.melon.co.kr/cm/album/images/003/45/776/345776_500.jpg/melon/resize/48/quality/80/optimize
+41|1539174|Evergreen (Feat. 이지혜)|PK 헤만|211782|338846|Evergreen|https://cdnimg.melon.co.kr/cm/album/images/003/38/846/338846_500.jpg/melon/resize/48/quality/80/optimize
+42|1552384|새 살|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+43|1576533|로꾸거!!!|SUPER JUNIOR-T (슈퍼주니어 T)|251847|345483|로꾸거!!!|https://cdnimg.melon.co.kr/cm/album/images/003/45/483/345483_500.jpg/melon/resize/48/quality/80/optimize
+44|1604528|이별앓이|팀|33614|348310|이별앓이|https://cdnimg.melon.co.kr/cm/album/images/003/48/310/348310_500.jpg/melon/resize/48/quality/80/optimize
+45|1568640|바보처럼|버블 시스터즈|105696|344518|Dramatic Episode|https://cdnimg.melon.co.kr/cm/album/images/003/44/518/344518_500.jpg/melon/resize/48/quality/80/optimize
+46|1538204|사랑이 올까봐 (Feat. 화요비)|KCM|45995|338648|안녕 / 사랑이 올까봐|https://cdnimg.melon.co.kr/cm/album/images/003/38/648/338648_500.jpg/melon/resize/48/quality/80/optimize
+47|1574663|반지하나|혜령|32201|345251|하늘아래...그리움...|https://cdnimg.melon.co.kr/cm/album/images/003/45/251/345251_500.jpg/melon/resize/48/quality/80/optimize
+48|1574670|사랑하니까|더 크로스|107224|345252|눈물 이야기 1 (사랑하니까)|https://cdnimg.melon.co.kr/cm/album/images/003/45/252/345252_500.jpg/melon/resize/48/quality/80/optimize
+49|1608312|시작보다 끝이 아름다운 사랑|리사~이승철|48312~1010|348557|Lisa Duet Single|https://cdnimg.melon.co.kr/cm/album/images/003/48/557/348557_500.jpg/melon/resize/48/quality/80/optimize
+50|1521181|내 사람입니다|더 넛츠 (The NuTs)|108988|335460|Whispers Of Love|https://cdnimg.melon.co.kr/cm/album/images/003/35/460/335460_500.jpg/melon/resize/48/quality/80/optimize

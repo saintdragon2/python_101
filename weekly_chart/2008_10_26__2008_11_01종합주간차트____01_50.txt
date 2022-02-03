@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|1929329|Nobody|원더걸스|217764|398026|The Wonder Years - Trilogy|https://cdnimg.melon.co.kr/cm/album/images/003/98/026/398026_500.jpg/melon/resize/48/quality/80/optimize
+2|1941619|어제보다 오늘 더|김종국|1692|399175|Here I Am|https://cdnimg.melon.co.kr/cm/album/images/003/99/175/399175_500.jpg/melon/resize/48/quality/80/optimize
+3|1927248|어쩌다|브라운아이드걸스|181694|397434|My style|https://cdnimg.melon.co.kr/cm/album/images/003/97/434/397434_500.jpg/melon/resize/48/quality/80/optimize
+4|1935599|Love Story|비|17671|398518|Rainism|https://cdnimg.melon.co.kr/cm/album/images/003/98/518/398518_500.jpg/melon/resize/48/quality/80/optimize
+5|1939100|Rainism (Clean Ver.)|비|17671|398518|Rainism|https://cdnimg.melon.co.kr/cm/album/images/003/98/518/398518_500.jpg/melon/resize/48/quality/80/optimize
+6|1928828|주문-MIROTIC (Clean Ver.)|동방신기 (TVXQ!)|108316|397972|The Fourth Album 'MIROTIC'|https://cdnimg.melon.co.kr/cm/album/images/003/97/972/397972_500.jpg/melon/resize/48/quality/80/optimize
+7|1928044|미쳤어 (Feat. 에릭)|손담비|226582|397892|손담비 Mini Album Vol. 2|https://cdnimg.melon.co.kr/cm/album/images/003/97/892/397892_500.jpg/melon/resize/48/quality/80/optimize
+8|1932604|1분 1초 (Feat. 타루)|에픽하이 (EPIK HIGH)|108356|398350|Lovescream (소품집)|https://cdnimg.melon.co.kr/cm/album/images/003/98/350/398350_500.jpg/melon/resize/48/quality/80/optimize
+9|1913501|하루 하루|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+10|1928055|들리나요...|태연 (TAEYEON)|236797|397893|베토벤 바이러스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/97/893/397893_500.jpg/melon/resize/48/quality/80/optimize
+11|1928051|내사람|환희|1928|397893|베토벤 바이러스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/97/893/397893_500.jpg/melon/resize/48/quality/80/optimize
+12|1913502|천국|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+13|1931407|Hot Girl|씨야|181679|398227|Brilliant Change|https://cdnimg.melon.co.kr/cm/album/images/003/98/227/398227_500.jpg/melon/resize/48/quality/80/optimize
+14|1926582|You|브라운아이드걸스|181694|397434|My style|https://cdnimg.melon.co.kr/cm/album/images/003/97/434/397434_500.jpg/melon/resize/48/quality/80/optimize
+15|1940012|병원에 가다 (이별..) (Song By 민경)|다비치|236815|399019|병원에 가다|https://cdnimg.melon.co.kr/cm/album/images/003/99/019/399019_500.jpg/melon/resize/48/quality/80/optimize
+16|1932515|눈물은 모르게|엠씨더맥스 (M.C the MAX)|161636|398337|Via 6|https://cdnimg.melon.co.kr/cm/album/images/003/98/337/398337_500.jpg/melon/resize/48/quality/80/optimize
+17|1914864|사랑이 그렇게 쉬워 (Feat. 태인)|나몰라패밀리 (Namolla Family)|194009|393053|사랑이 그렇게 쉬워|https://cdnimg.melon.co.kr/cm/album/images/003/93/053/393053_500.jpg/melon/resize/48/quality/80/optimize
+18|1933313|Fly Boy|크라운제이 (CROWN J)|182206|398407|Fly Boy|https://cdnimg.melon.co.kr/cm/album/images/003/98/407/398407_500.jpg/melon/resize/48/quality/80/optimize
+19|1941712|Eat You Up|보아 (BoA)|2165|399181|Eat You Up|https://cdnimg.melon.co.kr/cm/album/images/003/99/181/399181_500.jpg/melon/resize/48/quality/80/optimize
+20|1921365|10점 만점에 10점|2PM|259822|396131|Hottest Time Of The Day|https://cdnimg.melon.co.kr/cm/album/images/003/96/131/396131_500.jpg/melon/resize/48/quality/80/optimize
+21|1936789|It's Okay (Feat. 화요비) ('우리 결혼했어요' 화요비 테마곡)|언터쳐블|190493|398724|It's Okay|https://cdnimg.melon.co.kr/cm/album/images/003/98/724/398724_500.jpg/melon/resize/48/quality/80/optimize
+22|1903057|Hey Mr. Big|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+23|1901874|이노래|2AM|253866|389351|이노래|https://cdnimg.melon.co.kr/cm/album/images/003/89/351/389351_500.jpg/melon/resize/48/quality/80/optimize
+24|1941314|No Break|박정현~크라운제이 (CROWN J)|1099~182206|399139|No Break|https://cdnimg.melon.co.kr/cm/album/images/003/99/139/399139_500.jpg/melon/resize/48/quality/80/optimize
+25|1916349|슬픔활용법|김범수|6502|393851|김범수 6집|https://cdnimg.melon.co.kr/cm/album/images/003/93/851/393851_500.jpg/melon/resize/48/quality/80/optimize
+26|1918284|사랑후애 (僞愛)|FTISLAND (FT아일랜드)|226490|394954|Colorful Sensibility|https://cdnimg.melon.co.kr/cm/album/images/003/94/954/394954_500.jpg/melon/resize/48/quality/80/optimize
+27|1936243|Number 1|BIGBANG|198094|398679|Number 1|https://cdnimg.melon.co.kr/cm/album/images/003/98/679/398679_500.jpg/melon/resize/48/quality/80/optimize
+28|1902384|사랑해 미안해|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+29|1936134|환상의 짝꿍 (Feat. 예은 Of 원더걸스)|H-유진|198032|398665|환상의 짝꿍|https://cdnimg.melon.co.kr/cm/album/images/003/98/665/398665_500.jpg/melon/resize/48/quality/80/optimize
+30|1903050|U-Go-Girl (With 낯선)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+31|1913503|착한 사람|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+32|1923548|Never Say Goodbye|먼데이 키즈 (Monday Kiz)|175155|396351|Recollection|https://cdnimg.melon.co.kr/cm/album/images/003/96/351/396351_500.jpg/melon/resize/48/quality/80/optimize
+33|1897011|사랑과 전쟁 (Narr. 하하)|다비치|236815|388456|Vivid Summer Edition (1st Amaranth Repackage Album)|https://cdnimg.melon.co.kr/cm/album/images/003/88/456/388456_500.jpg/melon/resize/48/quality/80/optimize
+34|1918248|산소 같은 너 (Love Like Oxygen)|SHINee (샤이니)|247639|394951|SHINee The 1st Album 'The SHINee World'|https://cdnimg.melon.co.kr/cm/album/images/003/94/951/394951_500.jpg/melon/resize/48/quality/80/optimize
+35|1929843|남자를 믿지마 (Feat. Big Tone)|M (이민우)|1742|398063|M Rizing|https://cdnimg.melon.co.kr/cm/album/images/003/98/063/398063_500.jpg/melon/resize/48/quality/80/optimize
+36|1943071|아.미.고 (Amigo)|SHINee (샤이니)|247639|399303|SHINee The First Album (Repackage) - Amigo|https://cdnimg.melon.co.kr/cm/album/images/003/99/303/399303_500.jpg/melon/resize/48/quality/80/optimize
+37|1913505|Oh My Friend (Feat. 노브레인)|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+38|1890405|가지마 가지마|브라운 아이즈|100742|386400|Two Things Needed For The Same Purpose And 5 Objets|https://cdnimg.melon.co.kr/cm/album/images/003/86/400/386400_500.jpg/melon/resize/48/quality/80/optimize
+39|1874397|So Hot|원더걸스|217764|381932|So Hot|https://cdnimg.melon.co.kr/cm/album/images/003/81/932/381932_500.jpg/melon/resize/48/quality/80/optimize
+40|1943048|완벽한 남자|휘성 (Realslow)|10577|399300|With All My Heart And Soul|https://cdnimg.melon.co.kr/cm/album/images/003/99/300/399300_500.jpg/melon/resize/48/quality/80/optimize
+41|1890408|너 때문에|브라운 아이즈|100742|386400|Two Things Needed For The Same Purpose And 5 Objets|https://cdnimg.melon.co.kr/cm/album/images/003/86/400/386400_500.jpg/melon/resize/48/quality/80/optimize
+42|1920488|텔레파시|윤하 (YOUNHA)|203912|395955|Someday|https://cdnimg.melon.co.kr/cm/album/images/003/95/955/395955_500.jpg/melon/resize/48/quality/80/optimize
+43|1930167|바람의 노래|조성모|969|398092|바람의 화원 OST|https://cdnimg.melon.co.kr/cm/album/images/003/98/092/398092_500.jpg/melon/resize/48/quality/80/optimize
+44|1906673|신데렐라|서인영|26265|390270|Elly Is Cinderella|https://cdnimg.melon.co.kr/cm/album/images/003/90/270/390270_500.jpg/melon/resize/48/quality/80/optimize
+45|1913504|Lady|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+46|1934995|라디오를 켜봐요|신승훈|25|398567|Radio Wave|https://cdnimg.melon.co.kr/cm/album/images/003/98/567/398567_500.jpg/melon/resize/48/quality/80/optimize
+47|1929166|눈물소리|하동균|43806|398014|눈물소리 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/98/014/398014_500.jpg/melon/resize/48/quality/80/optimize
+48|1942257|계절이 돌아오듯이|성시경|3305|399237|여기 내 맘속에 (Special Limited Edition)|https://cdnimg.melon.co.kr/cm/album/images/003/99/237/399237_500.jpg/melon/resize/48/quality/80/optimize
+49|1908089|Rock U|카라|222128|390319|카라 1st|https://cdnimg.melon.co.kr/cm/album/images/003/90/319/390319_500.jpg/melon/resize/48/quality/80/optimize
+50|1922321|키스미 키스미 (Kiss Me Kiss Me)|이현지|228042|396214|Kiss Me Kiss Me|https://cdnimg.melon.co.kr/cm/album/images/003/96/214/396214_500.jpg/melon/resize/48/quality/80/optimize

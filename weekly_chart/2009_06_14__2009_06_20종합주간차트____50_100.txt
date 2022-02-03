@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2115752|나 혼자서|티파니 (TIFFANY)|406421|526352|자명고 OST|https://cdnimg.melon.co.kr/cm/album/images/005/26/352/526352_500.jpg/melon/resize/48/quality/80/optimize
+52|2132902|머리와 심장이 싸우다...|EVAN 에반 (유호석)|221072|540156|이성과 감성|https://cdnimg.melon.co.kr/cm/album/images/005/40/156/540156_500.jpg/melon/resize/48/quality/80/optimize
+53|2049250|반쪽|박화요비|2017|490951|This Is Love|https://cdnimg.melon.co.kr/cm/album/images/004/90/951/490951_500.jpg/melon/resize/48/quality/80/optimize
+54|2200798|결혼해 줄래 (Feat. BIZNIZ)|이승기|58793|589178|결혼해줄래|https://cdnimg.melon.co.kr/cm/album/images/005/89/178/589178_500.jpg/melon/resize/48/quality/80/optimize
+55|2197363|헤어져|애즈원|100093|586152|Love Tonic|https://cdnimg.melon.co.kr/cm/album/images/005/86/152/586152_500.jpg/melon/resize/48/quality/80/optimize
+56|2168257|I Miss You|테이|51893|561954|I Miss You|https://cdnimg.melon.co.kr/cm/album/images/005/61/954/561954_500.jpg/melon/resize/48/quality/80/optimize
+57|2192448|외톨박이|The One (더원)|160816|582151|외톨박이|https://cdnimg.melon.co.kr/cm/album/images/005/82/151/582151_500.jpg/melon/resize/48/quality/80/optimize
+58|2187280|지지리|베이지|222697|577556|XOXO|https://cdnimg.melon.co.kr/cm/album/images/005/77/556/577556_500.jpg/melon/resize/48/quality/80/optimize
+59|2129649|행복했었다 (Trumpet Feat. 이주한)|조성모|969|536251|Second Half|https://cdnimg.melon.co.kr/cm/album/images/005/36/251/536251_500.jpg/melon/resize/48/quality/80/optimize
+60|2194451|Hey, Mr (Feat. 태사비애, 비너스, 한지은)|드림걸스|326666|583752|Dream|https://cdnimg.melon.co.kr/cm/album/images/005/83/752/583752_500.jpg/melon/resize/48/quality/80/optimize
+61|2177400|척하면 척 (Feat. 강민경)|김종욱|4388|569659|One Fine Day|https://cdnimg.melon.co.kr/cm/album/images/005/69/659/569659_500.jpg/melon/resize/48/quality/80/optimize
+62|2144768|Never Ending Story|윤상현|411121|550053|내조의 여왕 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/005/50/053/550053_500.jpg/melon/resize/48/quality/80/optimize
+63|2183950|What You Do (Feat. Ne-Yo)|Chrisette Michele|227390|574851|Epiphany|https://cdnimg.melon.co.kr/cm/album/images/005/74/851/574851_500.jpg/melon/resize/48/quality/80/optimize
+64|2056871|Honey|카라|222128|497862|Honey (Special Edition)|https://cdnimg.melon.co.kr/cm/album/images/004/97/862/497862_500.jpg/melon/resize/48/quality/80/optimize
+65|2176177|Twilight 영원토록|가비엔제이~장혜진|174997~5675|568554|Twilight 영원토록|https://cdnimg.melon.co.kr/cm/album/images/005/68/554/568554_500.jpg/melon/resize/48/quality/80/optimize
+66|2139250|쿨하게 헤어지는 방법 (Feat. 잔디)|김진표|1136|545352|BlueBrand Part 2|https://cdnimg.melon.co.kr/cm/album/images/005/45/352/545352_500.jpg/melon/resize/48/quality/80/optimize
+67|2197072|사랑은 벌이다|케이윌|175139|585953|찬란한 유산 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/005/85/953/585953_500.jpg/melon/resize/48/quality/80/optimize
+68|2174048|Vogue Girl|이정현|3895|565251|Avaholic|https://cdnimg.melon.co.kr/cm/album/images/005/65/251/565251_500.jpg/melon/resize/48/quality/80/optimize
+69|2178170|사랑에빠졌어 (Feat. 태사비애)|비애|414943|570354|사랑에 빠졌어|https://cdnimg.melon.co.kr/cm/album/images/005/70/354/570354_500.jpg/melon/resize/48/quality/80/optimize
+70|2015250|살만해|브랜뉴데이|315175|461051|Lady Garden|https://cdnimg.melon.co.kr/cm/album/images/004/61/051/461051_500.jpg/melon/resize/48/quality/80/optimize
+71|2189948|전화해줄래 (Feat. 란 (Ran))|MC 한새 By BCR|416980|580051|'Rap & Blues' Take1|https://cdnimg.melon.co.kr/cm/album/images/005/80/051/580051_500.jpg/melon/resize/48/quality/80/optimize
+72|2191748|편한 사람이 생겼어 (New Ver.)|일 락~채린|57315~15445|581551|편한 사람이 생겼어|https://cdnimg.melon.co.kr/cm/album/images/005/81/551/581551_500.jpg/melon/resize/48/quality/80/optimize
+73|2198565|마스카라|브랜뉴데이|315175|587254|마스카라|https://cdnimg.melon.co.kr/cm/album/images/005/87/254/587254_500.jpg/melon/resize/48/quality/80/optimize
+74|2191548|패밀리의 하루|패밀리가 떴다|417082|581351|패밀리의 하루|https://cdnimg.melon.co.kr/cm/album/images/005/81/351/581351_500.jpg/melon/resize/48/quality/80/optimize
+75|2185578|피에로의 눈물 (Feat. 무웅 Of 배치기)|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+76|2097619|행복병 (Feat. Shorry J (MM))|김종국|1692|511859|행복병|https://cdnimg.melon.co.kr/cm/album/images/005/11/859/511859_500.jpg/melon/resize/48/quality/80/optimize
+77|2181927|Once|박화요비|2017|573274|2009 No.1 Diva's Love (Once)|https://cdnimg.melon.co.kr/cm/album/images/005/73/274/573274_500.jpg/melon/resize/48/quality/80/optimize
+78|2194450|오늘은 맑음 (이영애 CF 삽입곡)|상상밴드|81449|583751|Melody Picnic|https://cdnimg.melon.co.kr/cm/album/images/005/83/751/583751_500.jpg/melon/resize/48/quality/80/optimize
+79|2160049|손톱이 빠져서|이승철|1010|554652|Mutopia|https://cdnimg.melon.co.kr/cm/album/images/005/54/652/554652_500.jpg/melon/resize/48/quality/80/optimize
+80|2122156|전화하지마 (Feat. 태인)|나몰라패밀리 (Namolla Family)|194009|531752|전화하지마|https://cdnimg.melon.co.kr/cm/album/images/005/31/752/531752_500.jpg/melon/resize/48/quality/80/optimize
+81|2024974|AH|애프터스쿨|322666|470153|New Schoolgirl|https://cdnimg.melon.co.kr/cm/album/images/004/70/153/470153_500.jpg/melon/resize/48/quality/80/optimize
+82|2170073|바보의 사랑|이진성 (먼데이 키즈)|237650|563654|그저 바라 보다가 OST|https://cdnimg.melon.co.kr/cm/album/images/005/63/654/563654_500.jpg/melon/resize/48/quality/80/optimize
+83|2170350|좋아해|요조~김진표|232828~1136|563952|Color Of City (Pink)|https://cdnimg.melon.co.kr/cm/album/images/005/63/952/563952_500.jpg/melon/resize/48/quality/80/optimize
+84|2183071|Morning Call|이바디|242339|574253|지금 사랑하지 않는 자, 모두 유죄 OST|https://cdnimg.melon.co.kr/cm/album/images/005/74/253/574253_500.jpg/melon/resize/48/quality/80/optimize
+85|2190148|With U|V.O.S|108794|580251|SS Life OST|https://cdnimg.melon.co.kr/cm/album/images/005/80/251/580251_500.jpg/melon/resize/48/quality/80/optimize
+86|2186349|눈물로 하룰 살아도|한경일|8314|576751|2009 외인구단 OST|https://cdnimg.melon.co.kr/cm/album/images/005/76/751/576751_500.jpg/melon/resize/48/quality/80/optimize
+87|2043348|그런 사람 또 없습니다|이승철|1010|486251|슬픔보다 더 슬픈이야기 OST 2nd|https://cdnimg.melon.co.kr/cm/album/images/004/86/251/486251_500.jpg/melon/resize/48/quality/80/optimize
+88|1964754|비와 당신 (영화 '라디오스타' 삽입곡)|럼블피쉬|108951|417652|Memory For You|https://cdnimg.melon.co.kr/cm/album/images/004/17/652/417652_500.jpg/melon/resize/48/quality/80/optimize
+89|2194661|주문|W&Whale|221837|583864|음악여행 라라라 Live Vol.4|https://cdnimg.melon.co.kr/cm/album/images/005/83/864/583864_500.jpg/melon/resize/48/quality/80/optimize
+90|2168600|슈퍼스타 (Feat. 낯선)|태군|323676|562256|Rising Star|https://cdnimg.melon.co.kr/cm/album/images/005/62/256/562256_500.jpg/melon/resize/48/quality/80/optimize
+91|2042756|구속|플라이 투 더 스카이|100183|483954|Decennium|https://cdnimg.melon.co.kr/cm/album/images/004/83/954/483954_500.jpg/melon/resize/48/quality/80/optimize
+92|2193960|그대는 예뻐요|신혜성|1741|583353|결혼 못하는 남자|https://cdnimg.melon.co.kr/cm/album/images/005/83/353/583353_500.jpg/melon/resize/48/quality/80/optimize
+93|2138350|사랑인가봐 (Feat. 린(Lyn))|H-유진|198032|544452|사랑인가봐|https://cdnimg.melon.co.kr/cm/album/images/005/44/452/544452_500.jpg/melon/resize/48/quality/80/optimize
+94|2114005|19금 Love Sex Magic (Feat. Justin Timberlake)|Ciara|55278|524754|Love Sex Magic|https://cdnimg.melon.co.kr/cm/album/images/005/24/754/524754_500.jpg/melon/resize/48/quality/80/optimize
+95|2117260|Map The Soul (Feat. MYK)|에픽하이 (EPIK HIGH)|108356|527652|魂: Map The Soul|https://cdnimg.melon.co.kr/cm/album/images/005/27/652/527652_500.jpg/melon/resize/48/quality/80/optimize
+96|2200950|뒤차가 경적을|엠씨더맥스 (M.C the MAX)|161636|589251|Rewind & Remind|https://cdnimg.melon.co.kr/cm/album/images/005/89/251/589251_500.jpg/melon/resize/48/quality/80/optimize
+97|2194449|해피래요|상상밴드|81449|583751|Melody Picnic|https://cdnimg.melon.co.kr/cm/album/images/005/83/751/583751_500.jpg/melon/resize/48/quality/80/optimize
+98|2184745|New Divide (트랜스포머: 패자의 역습 주제곡)|LINKIN PARK|101879|575362|New Divide (트랜스포머: 패자의 역습)|https://cdnimg.melon.co.kr/cm/album/images/005/75/362/575362_500.jpg/melon/resize/48/quality/80/optimize
+99|2198569|사랑노래 (Feat. 노블레스)|SNOFEEL|231496|587255|Hybrid Soul|https://cdnimg.melon.co.kr/cm/album/images/005/87/255/587255_500.jpg/melon/resize/48/quality/80/optimize
+100|2181976|연인할래요 (Feat. 태봉)|지애|415520|573281|연인할래요|https://cdnimg.melon.co.kr/cm/album/images/005/73/281/573281_500.jpg/melon/resize/48/quality/80/optimize

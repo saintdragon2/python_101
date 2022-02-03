@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|191093|No.1|보아 (BoA)|2165|16305|No. 1|https://cdnimg.melon.co.kr/cm/album/images/000/16/305/16305_500.jpg/melon/resize/48/quality/80/optimize
+2|489210|Last Scene|롤러 코스터|100195|16195|Absolute|https://cdnimg.melon.co.kr/cm/album/images/000/16/195/16195_500.jpg/melon/resize/48/quality/80/optimize
+3|500963|애련|코요태|100022|15980|필립 4집|https://cdnimg.melon.co.kr/cm/album/images/000/15/980/15980_500.jpg/melon/resize/48/quality/80/optimize
+5|159406|Perfect Man|신화|100078|16192|Perfect Man|https://cdnimg.melon.co.kr/cm/album/images/000/16/192/16192_500.jpg/melon/resize/48/quality/80/optimize
+6|489252|대화가 필요해|더 자두|100445|16152|Change Yourself|https://cdnimg.melon.co.kr/cm/album/images/000/16/152/16152_500.jpg/melon/resize/48/quality/80/optimize
+7|432269|Sea Of Love|플라이 투 더 스카이|100183|16406|Sea Of Love|https://cdnimg.melon.co.kr/cm/album/images/000/16/406/16406_500.jpg/melon/resize/48/quality/80/optimize
+8|448502|마지막 약속|포지션|100177|16159|The Romanticist|https://cdnimg.melon.co.kr/cm/album/images/000/16/159/16159_500.jpg/melon/resize/48/quality/80/optimize
+9|111413|...안 되나요... (부제: 화양연화)|휘성 (Realslow)|10577|15956|Like A Movie|https://cdnimg.melon.co.kr/cm/album/images/000/15/956/15956_500.jpg/melon/resize/48/quality/80/optimize
+10|432824|콩가|컨츄리 꼬꼬|100055|16295|딱! 내 스타일이에요|https://cdnimg.melon.co.kr/cm/album/images/000/16/295/16295_500.jpg/melon/resize/48/quality/80/optimize
+11|482406|Secret|제이워크|102409|32527|Suddenly|https://cdnimg.melon.co.kr/cm/album/images/000/32/527/32527_500.jpg/melon/resize/48/quality/80/optimize
+12|432844|이사(移徙)|윤상|38|16312|이사(移徙)|https://cdnimg.melon.co.kr/cm/album/images/000/16/312/16312_500.jpg/melon/resize/48/quality/80/optimize
+13|502946|Rain|박혜경|1790|15762|Feel Me|https://cdnimg.melon.co.kr/cm/album/images/000/15/762/15762_500.jpg/melon/resize/48/quality/80/optimize
+14|-1|사랑 Two (Acoustic Ver.)|YB|100168|16297|Live Is Life|https://cdnimg.melon.co.kr/cm/album/images/000/16/297/16297_500.jpg/melon/resize/48/quality/80/optimize
+15|502928|Loving You|김현철|1424|16140|... 그리고 김현철|https://cdnimg.melon.co.kr/cm/album/images/000/16/140/16140_500.jpg/melon/resize/48/quality/80/optimize
+16|159881|떠나가라|Q.O.Q|101758|16292|Like A Movie|https://cdnimg.melon.co.kr/cm/album/images/000/16/292/16292_500.jpg/melon/resize/48/quality/80/optimize
+17|500797|미워도 다시 한번 (Original Ver.)|바이브|160080|15950|Afterglow|https://cdnimg.melon.co.kr/cm/album/images/000/15/950/15950_500.jpg/melon/resize/48/quality/80/optimize
+18|313002|Memories... (Smiling Tears)|윤미래|1654|16370|Gemini|https://cdnimg.melon.co.kr/cm/album/images/000/16/370/16370_500.jpg/melon/resize/48/quality/80/optimize
+19|75233|비(悲)의 Rhapsody|최재훈|1087|4986|Believe In 5462|https://cdnimg.melon.co.kr/cm/album/images/000/04/986/4986_500.jpg/melon/resize/48/quality/80/optimize
+20|503477|마지막 사랑|김정민|4764|15981|The Greatest Love Song 2002|https://cdnimg.melon.co.kr/cm/album/images/000/15/981/15981_500.jpg/melon/resize/48/quality/80/optimize
+21|425453|우연|베이비복스|100032|16345|Baby V.O.X Special Album|https://cdnimg.melon.co.kr/cm/album/images/000/16/345/16345_500.jpg/melon/resize/48/quality/80/optimize
+22|317742|이별후애 (愛)|린애|14908|23113|이별후愛 (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/000/23/113/23113_500.jpg/melon/resize/48/quality/80/optimize
+23|529013|착각의 늪|박경림|11509|16145|박고테 프로젝트|https://cdnimg.melon.co.kr/cm/album/images/000/16/145/16145_500.jpg/melon/resize/48/quality/80/optimize
+24|1589083|난치병|하림|6706|346911|다중인격자(多重人格者)|https://cdnimg.melon.co.kr/cm/album/images/003/46/911/346911_500.jpg/melon/resize/48/quality/80/optimize
+25|503109|Just A Feeling|S.E.S.|100016|15920|Choose My Life-U|https://cdnimg.melon.co.kr/cm/album/images/000/15/920/15920_500.jpg/melon/resize/48/quality/80/optimize
+26|517706|Loving You|신승훈|25|15875|The Shin Seung Hun|https://cdnimg.melon.co.kr/cm/album/images/000/15/875/15875_500.jpg/melon/resize/48/quality/80/optimize
+27|104586|차라리|이수영|995|12401|Made In Winter|https://cdnimg.melon.co.kr/cm/album/images/000/12/401/12401_500.jpg/melon/resize/48/quality/80/optimize
+28|992575|Bravo, My Life!|봄여름가을겨울|101159|309722|Bravo My Life|https://cdnimg.melon.co.kr/cm/album/images/003/09/722/309722_500.jpg/melon/resize/48/quality/80/optimize
+29|431033|구해주오|CB Mass|100252|16414|2002 대한민국|https://cdnimg.melon.co.kr/cm2/album/images/000/16/414/16414_20210909123227_500.jpg/melon/resize/48/quality/80/optimize
+30|423507|가슴앓이|지영선|4140|25653|사랑|https://cdnimg.melon.co.kr/cm/album/images/000/25/653/25653_500.jpg/melon/resize/48/quality/80/optimize
+31|106236|It's Alright|리치|7631|7704|I Have A Dream|https://cdnimg.melon.co.kr/cm/album/images/000/07/704/7704_500.jpg/melon/resize/48/quality/80/optimize
+32|104187|너잖아|김현성|1175|13611|Soul Mate|https://cdnimg.melon.co.kr/cm/album/images/000/13/611/13611_500.jpg/melon/resize/48/quality/80/optimize
+33|525246|나같은 사랑이라면...|정재형|1965|15958|두번째 울림|https://cdnimg.melon.co.kr/cm/album/images/000/15/958/15958_500.jpg/melon/resize/48/quality/80/optimize
+34|105013|서로가 서로에게|유리상자|100130|10575|시나브로|https://cdnimg.melon.co.kr/cm/album/images/000/10/575/10575_500.jpg/melon/resize/48/quality/80/optimize
+35|609419|사랑하나요!?|이승환|26|40282|7집 Egg|https://cdnimg.melon.co.kr/cm/album/images/000/40/282/40282_500.jpg/melon/resize/48/quality/80/optimize
+36|104373|행복하길|김종국|1692|11463|Renaissance|https://cdnimg.melon.co.kr/cm/album/images/000/11/463/11463_500.jpg/melon/resize/48/quality/80/optimize
+37|862046|Don't Go Away|핑클 (Fin.K.L)|100065|304202|영원|https://cdnimg.melon.co.kr/cm/album/images/003/04/202/304202_500.jpg/melon/resize/48/quality/80/optimize
+38|489226|난 사랑에 빠졌죠|박지윤|1121|15871|Man|https://cdnimg.melon.co.kr/cm/album/images/000/15/871/15871_500.jpg/melon/resize/48/quality/80/optimize
+39|106465|Now|은지원|1682|15954|Eun Ji Won 2|https://cdnimg.melon.co.kr/cm/album/images/000/15/954/15954_500.jpg/melon/resize/48/quality/80/optimize
+40|111208|사랑한다는 말|김동률|925|5504|귀향 (歸鄕)|https://cdnimg.melon.co.kr/cm/album/images/000/05/504/5504_500.jpg/melon/resize/48/quality/80/optimize
+41|448806|Remember|악동클럽|262503|16155|Remember Hero|https://cdnimg.melon.co.kr/cm/album/images/000/16/155/16155_500.jpg/melon/resize/48/quality/80/optimize
+42|90693|4월 이야기 (April Story)|장나라|10575|6846|First Story|https://cdnimg.melon.co.kr/cm/album/images/000/06/846/6846_500.jpg/melon/resize/48/quality/80/optimize
+43|104110|Season In The Sun|정재욱|7839|6036|A Simple Story|https://cdnimg.melon.co.kr/cm/album/images/000/06/036/6036_500.jpg/melon/resize/48/quality/80/optimize
+44|105851|미안해|홍경민|891|13764|Forever And A Day|https://cdnimg.melon.co.kr/cm/album/images/000/13/764/13764_500.jpg/melon/resize/48/quality/80/optimize
+45|196599|나 때문이죠|오현란|2876|15862|오현란의 꽃 같은 사랑 이야기|https://cdnimg.melon.co.kr/cm/album/images/000/15/862/15862_500.jpg/melon/resize/48/quality/80/optimize
+46|1096485|박하사탕|YB|100168|313103|An Urbanite|https://cdnimg.melon.co.kr/cm/album/images/003/13/103/313103_500.jpg/melon/resize/48/quality/80/optimize
+47|449004|To Be Continued (Yun Suk Theme)|클릭비 (Click-B)|100070|15803|Click-B|https://cdnimg.melon.co.kr/cm/album/images/000/15/803/15803_500.jpg/melon/resize/48/quality/80/optimize
+48|104798|니가 있어야 할 곳|god|100007|8848|Chapter 4|https://cdnimg.melon.co.kr/cm/album/images/000/08/848/8848_500.jpg/melon/resize/48/quality/80/optimize
+49|523274|처음부터 지금까지|Ryu (류)|5991|15923|겨울연가 OST|https://cdnimg.melon.co.kr/cm/album/images/000/15/923/15923_500.jpg/melon/resize/48/quality/80/optimize
+50|667071|내생에 봄날은...|캔|100139|47218|Can with Piano|https://cdnimg.melon.co.kr/cm/album/images/000/47/218/47218_500.jpg/melon/resize/48/quality/80/optimize

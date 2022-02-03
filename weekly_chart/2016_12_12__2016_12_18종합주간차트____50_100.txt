@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|9629220|구르미 그린 달빛|거미|30358|2708558|구르미 그린 달빛 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/027/08/558/2708558_500.jpg/melon/resize/48/quality/80/optimize
+52|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+53|8217164|Monster|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+54|9609354|If You|에일리(Ailee)|629831|2705328|If You|https://cdnimg.melon.co.kr/cm/album/images/027/05/328/2705328_500.jpg/melon/resize/48/quality/80/optimize
+55|30076504|이별을 배웠어 (Always In My Heart)|임슬옹~조이 (JOY)|474423~780922|10012493|이별을 배웠어 (Always In My Heart) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/100/12/493/10012493_500.jpg/melon/resize/48/quality/80/optimize
+56|8261338|Day Day (Feat. 박재범) (Prod. by GRAY)|BewhY (비와이)|739740|2696637|쇼미더머니 5 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/48/quality/80/optimize
+57|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+58|30099861|Love Story|린|8530|10016010|푸른 바다의 전설 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/100/16/010/10016010_500.jpg/melon/resize/48/quality/80/optimize
+59|9620471|You(=I)|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+60|30118815|거짓말이야|B1A4|535440|10018664|GOOD TIMING|https://cdnimg.melon.co.kr/cm/album/images/100/18/664/10018664_500.jpg/melon/resize/48/quality/80/optimize
+61|9606657|Lotto|EXO|724619|2704940|LOTTO - The 3rd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/027/04/940/2704940_500.jpg/melon/resize/48/quality/80/optimize
+62|8268275|네 생각|존박|28772|2697716|네 생각|https://cdnimg.melon.co.kr/cm/album/images/026/97/716/2697716_500.jpg/melon/resize/48/quality/80/optimize
+63|30084667|그런 밤|어반자카파|420527|10013711|이번 주 아내가 바람을 핍니다 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/100/13/711/10013711_500.jpg/melon/resize/48/quality/80/optimize
+64|3620493|안아줘|정준일|242988|2038488|Lo9ve3r4s|https://cdnimg.melon.co.kr/cm/album/images/020/38/488/2038488_500.jpg/melon/resize/48/quality/80/optimize
+65|8252408|Forever (Prod. By GRAY)|BewhY (비와이)|739740|2695189|쇼미더머니 5 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/026/95/189/2695189_500.jpg/melon/resize/48/quality/80/optimize
+66|30126971|커플 (2016)|젝스키스|100052|10019876|2016 Re-ALBUM|https://cdnimg.melon.co.kr/cm/album/images/100/19/876/10019876_500.jpg/melon/resize/48/quality/80/optimize
+67|9646572|끝|권진아|760046|2711116|웃긴 밤|https://cdnimg.melon.co.kr/cm/album/images/027/11/116/2711116_500.jpg/melon/resize/48/quality/80/optimize
+68|8167307|불타오르네 (FIRE)|방탄소년단|672375|2680573|화양연화 Young Forever|https://cdnimg.melon.co.kr/cm/album/images/026/80/573/2680573_500.jpg/melon/resize/48/quality/80/optimize
+69|9647324|Dancing King|유재석~EXO|9842~724619|2711209|Dancing King - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/027/11/209/2711209_500.jpg/melon/resize/48/quality/80/optimize
+70|8262125|너 그리고 나 (NAVILLERA)|여자친구 (GFRIEND)|828478|2696751|여자친구 The 1st Album 'LOL'|https://cdnimg.melon.co.kr/cm/album/images/026/96/751/2696751_500.jpg/melon/resize/48/quality/80/optimize
+71|30132707|붐붐|세븐틴|861436|10020658|Seventeen 3rd Mini Album 'Going Seventeen'|https://cdnimg.melon.co.kr/cm/album/images/100/20/658/10020658_500.jpg/melon/resize/48/quality/80/optimize
+72|30124665|그냥 한번 (Feat. JB Of GOT7)|백아연|646173|10019481|그냥 한번 (Feat. JB Of GOT7)|https://cdnimg.melon.co.kr/cm/album/images/100/19/481/10019481_500.jpg/melon/resize/48/quality/80/optimize
+73|30102883|"City Of Stars (From ""La La Land"" Soundtrack)"|Ryan Gosling~Emma Stone|1203651~1230552|10016438|라라 랜드 OST|https://cdnimg.melon.co.kr/cm/album/images/100/16/438/10016438_500.jpg/melon/resize/48/quality/80/optimize
+74|8298424|사랑해요|김범수|6502|2702198|함부로 애틋하게 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/027/02/198/2702198_500.jpg/melon/resize/48/quality/80/optimize
+75|30099927|노력|박원|41499|10016012|1/24|https://cdnimg.melon.co.kr/cm/album/images/100/16/012/10016012_500.jpg/melon/resize/48/quality/80/optimize
+76|30147123|니가 내려와|서인국~VIXX (빅스)~구구단 (gugudan)~박윤하~박정아~김규선~김예원~지율|436700~672560~982876~792380~5365~1272654~22639~672371|10022670|Jelly Box Jelly Christmas 2016|https://cdnimg.melon.co.kr/cm/album/images/100/22/670/10022670_500.jpg/melon/resize/48/quality/80/optimize
+77|5475060|Santa Tell Me|Ariana Grande|597451|2292117|Santa Tell Me|https://cdnimg.melon.co.kr/cm/album/images/022/92/117/2292117_500.jpg/melon/resize/48/quality/80/optimize
+78|-1|Don't Wanna Know (Feat. Kendrick Lamar)|Maroon 5|107721|10006350|Red Pill Blues (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/100/06/350/10006350_500.jpg/melon/resize/48/quality/80/optimize
+79|30153192|별의 별|Apink (에이핑크)|534360|10023410|Dear|https://cdnimg.melon.co.kr/cm/album/images/100/23/410/10023410_500.jpg/melon/resize/48/quality/80/optimize
+80|9611490|너를 위해|첸 (CHEN)~백현 (BAEKHYUN)~시우민 (XIUMIN)|715176~672859~715175|2705644|달의 연인 - 보보경심 려 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/027/05/644/2705644_500.jpg/melon/resize/48/quality/80/optimize
+81|8217163|Lucky One|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+82|14776|All I Want for Christmas Is You|Mariah Carey|2274|829|Merry Christmas (Deluxe Anniversary Edition)|https://cdnimg.melon.co.kr/cm2/album/images/000/00/829/829_500.jpg/melon/resize/48/quality/80/optimize
+83|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+84|30147448|우리 사랑하지 말아요|BIGBANG|198094|10022709|MADE|https://cdnimg.melon.co.kr/cm/album/images/100/22/709/10022709_500.jpg/melon/resize/48/quality/80/optimize
+85|30153027|바람꽃|이선희|966|10023385|푸른 바다의 전설 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/100/23/385/10023385_500.jpg/melon/resize/48/quality/80/optimize
+86|30066102|Hey Mama!|EXO-CBX (첸백시)|1228017|10010921|Hey Mama! - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/100/10/921/10010921_500.jpg/melon/resize/48/quality/80/optimize
+87|9646401|다정하게, 안녕히|성시경|3305|2711070|구르미 그린 달빛 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/027/11/070/2711070_500.jpg/melon/resize/48/quality/80/optimize
+88|30136952|Love you on Christmas|백예린 (Yerin Baek)|698776|10021255|Love you on Christmas|https://cdnimg.melon.co.kr/cm/album/images/100/21/255/10021255_500.jpg/melon/resize/48/quality/80/optimize
+89|30143265|왜 이리|길구봉구|500421|10022139|왜 이리|https://cdnimg.melon.co.kr/cm/album/images/100/22/139/10022139_500.jpg/melon/resize/48/quality/80/optimize
+90|7861392|또 다시 사랑|임창정|1142|2638798|또 다시 사랑|https://cdnimg.melon.co.kr/cm/album/images/026/38/798/2638798_500.jpg/melon/resize/48/quality/80/optimize
+91|30079094|기도 (I'll Be Your Man)|비투비|647971|10012901|NEW MEN|https://cdnimg.melon.co.kr/cm/album/images/100/12/901/10012901_500.jpg/melon/resize/48/quality/80/optimize
+92|8304595|붐바야|BLACKPINK|995169|2703168|SQUARE ONE|https://cdnimg.melon.co.kr/cm/album/images/027/03/168/2703168_500.jpg/melon/resize/48/quality/80/optimize
+93|30143611|사랑은 이별보다 하나가 많아|소유 (SOYOU)~정기고|490981~304967|10022194|인기가요 뮤직크러쉬 Part.3|https://cdnimg.melon.co.kr/cm/album/images/100/22/194/10022194_500.jpg/melon/resize/48/quality/80/optimize
+94|30024794|그대 그대 그대|엠씨더맥스 (M.C the MAX)|161636|10004085|Pathos Tour Live Album|https://cdnimg.melon.co.kr/cm/album/images/100/04/085/10004085_500.jpg/melon/resize/48/quality/80/optimize
+95|30132705|해줄 수 없는 일 (뜨거운 심장 양철로봇)|신용재 (2F)|510537|10020657|복면가왕 88회|https://cdnimg.melon.co.kr/cm/album/images/100/20/657/10020657_500.jpg/melon/resize/48/quality/80/optimize
+96|30120987|그 겨울|정승환|792091|10018979|목소리|https://cdnimg.melon.co.kr/cm/album/images/100/18/979/10018979_500.jpg/melon/resize/48/quality/80/optimize
+97|30147451|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|10022709|MADE|https://cdnimg.melon.co.kr/cm/album/images/100/22/709/10022709_500.jpg/melon/resize/48/quality/80/optimize
+98|30147449|LOSER|BIGBANG|198094|10022709|MADE|https://cdnimg.melon.co.kr/cm/album/images/100/22/709/10022709_500.jpg/melon/resize/48/quality/80/optimize
+99|30029184|21세기 소녀|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+100|8254545|Why So Lonely|원더걸스|217764|2695552|Why So Lonely|https://cdnimg.melon.co.kr/cm/album/images/026/95/552/2695552_500.jpg/melon/resize/48/quality/80/optimize

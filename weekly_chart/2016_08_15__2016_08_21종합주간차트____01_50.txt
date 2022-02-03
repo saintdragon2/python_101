@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|8304594|휘파람|BLACKPINK|995169|2703168|SQUARE ONE|https://cdnimg.melon.co.kr/cm/album/images/027/03/168/2703168_500.jpg/melon/resize/48/quality/80/optimize
+2|8308231|puzzle|C JAMM~BewhY (비와이)|729560~739740|2703714|puzzle|https://cdnimg.melon.co.kr/cm/album/images/027/03/714/2703714_500.jpg/melon/resize/48/quality/80/optimize
+3|8254545|Why So Lonely|원더걸스|217764|2695552|Why So Lonely|https://cdnimg.melon.co.kr/cm/album/images/026/95/552/2695552_500.jpg/melon/resize/48/quality/80/optimize
+4|8295867|여름밤에 우린|스탠딩 에그|467880|2701827|여름밤에 우린|https://cdnimg.melon.co.kr/cm/album/images/027/01/827/2701827_500.jpg/melon/resize/48/quality/80/optimize
+5|8262125|너 그리고 나 (NAVILLERA)|여자친구 (GFRIEND)|828478|2696751|여자친구 The 1st Album 'LOL'|https://cdnimg.melon.co.kr/cm/album/images/026/96/751/2696751_500.jpg/melon/resize/48/quality/80/optimize
+6|8261338|Day Day (Feat. 박재범) (Prod. by GRAY)|BewhY (비와이)|739740|2696637|쇼미더머니 5 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/48/quality/80/optimize
+7|8158031|CHEER UP|TWICE (트와이스)|905701|2681333|PAGE TWO|https://cdnimg.melon.co.kr/cm/album/images/026/81/333/2681333_500.jpg/melon/resize/48/quality/80/optimize
+8|8199190|널 사랑하지 않아|어반자카파|420527|2687420|스틸|https://cdnimg.melon.co.kr/cm/album/images/026/87/420/2687420_500.jpg/melon/resize/48/quality/80/optimize
+9|8252408|Forever (Prod. By GRAY)|BewhY (비와이)|739740|2695189|쇼미더머니 5 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/026/95/189/2695189_500.jpg/melon/resize/48/quality/80/optimize
+10|8304617|Whatta Man (Good man)|아이오아이 (I.O.I)|960251|2703172|Whatta Man|https://cdnimg.melon.co.kr/cm/album/images/027/03/172/2703172_500.jpg/melon/resize/48/quality/80/optimize
+11|8252409|호랑나비 (Feat. Gill, 리듬파워, 김흥국)|보이비|340668|2695189|쇼미더머니 5 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/026/95/189/2695189_500.jpg/melon/resize/48/quality/80/optimize
+12|7899303|19금 냉탕에 상어 (Feat. 블랙넛)|수퍼비|695757|2646678|냉탕에 상어|https://cdnimg.melon.co.kr/cm/album/images/026/46/678/2646678_500.jpg/melon/resize/48/quality/80/optimize
+13|8236055|I Like That|씨스타|473181|2692594|沒我愛(몰아애)|https://cdnimg.melon.co.kr/cm/album/images/026/92/594/2692594_500.jpg/melon/resize/48/quality/80/optimize
+14|9606657|Lotto|EXO|724619|2704940|LOTTO - The 3rd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/027/04/940/2704940_500.jpg/melon/resize/48/quality/80/optimize
+15|8304595|붐바야|BLACKPINK|995169|2703168|SQUARE ONE|https://cdnimg.melon.co.kr/cm/album/images/027/03/168/2703168_500.jpg/melon/resize/48/quality/80/optimize
+16|8275728|바다|허각~정은지|28801~644871|2698796|'PLAN A' FIRST EPISODE|https://cdnimg.melon.co.kr/cm/album/images/026/98/796/2698796_500.jpg/melon/resize/48/quality/80/optimize
+17|8250334|Shut Up (Feat. 유희열)|언니쓰|990909|2694921|언니들의 슬램덩크|https://cdnimg.melon.co.kr/cm/album/images/026/94/921/2694921_500.jpg/melon/resize/48/quality/80/optimize
+18|8261334|19금 미친놈 (Feat. 제시)|#Gun|838923|2696637|쇼미더머니 5 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/48/quality/80/optimize
+19|8233291|19금 니가 알던 내가 아냐 (Prod. By GRAY)|사이먼 도미닉~ONE~지투 (G2)~BewhY (비와이)|428847~830520~654552~739740|2692133|쇼미더머니 5 Episode 1|https://cdnimg.melon.co.kr/cm/album/images/026/92/133/2692133_500.jpg/melon/resize/48/quality/80/optimize
+20|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+21|5398990|이 소설의 끝을 다시 써보려 해|한동근|711476|2284064|The 1st Digital Single '이 소설의 끝을 다시 써보려 해'|https://cdnimg.melon.co.kr/cm/album/images/022/84/064/2284064_500.jpg/melon/resize/48/quality/80/optimize
+22|5620266|The Time Goes On|BewhY (비와이)|739740|2307986|Time Travel|https://cdnimg.melon.co.kr/cm/album/images/023/07/986/2307986_500.jpg/melon/resize/48/quality/80/optimize
+23|8252588|리본 (Ribbon)|비스트|436981|2693807|Highlight|https://cdnimg.melon.co.kr/cm/album/images/026/93/807/2693807_500.jpg/melon/resize/48/quality/80/optimize
+24|8233373|Bye bye my blue|백예린 (Yerin Baek)|698776|2692170|Bye bye my blue|https://cdnimg.melon.co.kr/cm/album/images/026/92/170/2692170_500.jpg/melon/resize/48/quality/80/optimize
+25|8109412|D (half moon) (Feat. 개코)|DEAN|880630|2674623|130 Mood : TRBL|https://cdnimg.melon.co.kr/cm/album/images/026/74/623/2674623_500.jpg/melon/resize/48/quality/80/optimize
+26|8243823|맘 편히 (Comfortable)|사이먼 도미닉~GRAY (그레이)~ONE|428847~672625~830520|2693749|쇼미더머니 5 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/026/93/749/2693749_500.jpg/melon/resize/48/quality/80/optimize
+27|8291212|어때?|현아|449401|2701165|A'wesome|https://cdnimg.melon.co.kr/cm/album/images/027/01/165/2701165_500.jpg/melon/resize/48/quality/80/optimize
+28|8244030|Why|태연 (TAEYEON)|236797|2693802|Why - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/93/802/2693802_500.jpg/melon/resize/48/quality/80/optimize
+29|8189661|쏘쏘|백아연|646173|2686047|쏘쏘|https://cdnimg.melon.co.kr/cm/album/images/026/86/047/2686047_500.jpg/melon/resize/48/quality/80/optimize
+30|8148487|하늘바라기 (Feat. 하림)|정은지|644871|2680009|Dream|https://cdnimg.melon.co.kr/cm/album/images/026/80/009/2680009_500.jpg/melon/resize/48/quality/80/optimize
+31|3620493|안아줘|정준일|242988|2038488|Lo9ve3r4s|https://cdnimg.melon.co.kr/cm/album/images/020/38/488/2038488_500.jpg/melon/resize/48/quality/80/optimize
+32|8217164|Monster|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+33|8174429|꿈처럼|벤|655051|2683798|또 오해영 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/83/798/2683798_500.jpg/melon/resize/48/quality/80/optimize
+34|8184472|자격지심 (Feat. 은하 Of 여자친구)|박경|650832|2685311|자격지심|https://cdnimg.melon.co.kr/cm/album/images/026/85/311/2685311_500.jpg/melon/resize/48/quality/80/optimize
+35|8261335|19금 아름다워 (Beautiful) (Feat. 지코 (ZICO))|C JAMM|729560|2696637|쇼미더머니 5 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/48/quality/80/optimize
+36|8028701|시간을 달려서 (Rough)|여자친구 (GFRIEND)|828478|2663668|여자친구 3rd Mini Album 'SNOWFLAKE'|https://cdnimg.melon.co.kr/cm/album/images/026/63/668/2663668_500.jpg/melon/resize/48/quality/80/optimize
+37|8298424|사랑해요|김범수|6502|2702198|함부로 애틋하게 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/027/02/198/2702198_500.jpg/melon/resize/48/quality/80/optimize
+38|8233466|No Way|권순일 (어반자카파)~박용인 (어반자카파)|644152~644151|2692190|닥터스 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/92/190/2692190_500.jpg/melon/resize/48/quality/80/optimize
+39|8300695|사랑이 아프다|환희|1928|2702525|함부로 애틋하게 OST Part.10|https://cdnimg.melon.co.kr/cm/album/images/027/02/525/2702525_500.jpg/melon/resize/48/quality/80/optimize
+40|8247080|쿵|Zion.T|537920|2694365|쇼미더머니 5 Special|https://cdnimg.melon.co.kr/cm/album/images/026/94/365/2694365_500.jpg/melon/resize/48/quality/80/optimize
+41|8203900|너였다면|정승환|792091|2687963|또 오해영 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/87/963/2687963_500.jpg/melon/resize/48/quality/80/optimize
+42|8065398|공감 (Feat. 서영은)|정준영|25869|2668891|공감|https://cdnimg.melon.co.kr/cm/album/images/026/68/891/2668891_500.jpg/melon/resize/48/quality/80/optimize
+43|8233292|19금 공중도덕 (Air DoTheQ)|The Quiett~수퍼비~myunDo~플로우식 (Flowsik)~Dok2|27744~695757~926455~674757~314367|2692133|쇼미더머니 5 Episode 1|https://cdnimg.melon.co.kr/cm/album/images/026/92/133/2692133_500.jpg/melon/resize/48/quality/80/optimize
+44|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+45|8271355|And July (Feat. DEAN, DJ Friz)|헤이즈 (Heize)|751611|2688360|And July|https://cdnimg.melon.co.kr/cm/album/images/026/88/360/2688360_500.jpg/melon/resize/48/quality/80/optimize
+46|7891119|OOH-AHH하게|TWICE (트와이스)|905701|2645617|THE STORY BEGINS|https://cdnimg.melon.co.kr/cm/album/images/026/45/617/2645617_500.jpg/melon/resize/48/quality/80/optimize
+47|8028724|너는 나 나는 너|지코 (ZICO)|602056|2663674|Break Up 2 Make Up|https://cdnimg.melon.co.kr/cm/album/images/026/63/674/2663674_500.jpg/melon/resize/48/quality/80/optimize
+48|5791706|오늘부터 우리는 (Me Gustas Tu)|여자친구 (GFRIEND)|828478|2330981|여자친구 2nd Mini Album 'Flower Bud'|https://cdnimg.melon.co.kr/cm/album/images/023/30/981/2330981_500.jpg/melon/resize/48/quality/80/optimize
+49|8243822|비행소년 (Feat. 거미)|매드클라운~#Gun|219621~838923|2693749|쇼미더머니 5 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/026/93/749/2693749_500.jpg/melon/resize/48/quality/80/optimize
+50|8071102|이 사랑|다비치|236815|2669778|태양의 후예 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/69/778/2669778_500.jpg/melon/resize/48/quality/80/optimize

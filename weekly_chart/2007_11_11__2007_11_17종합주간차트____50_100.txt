@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1648996|눈물로 (Duet 이정)|제이|1203|352423|눈물로|https://cdnimg.melon.co.kr/cm/album/images/003/52/423/352423_500.jpg/melon/resize/48/quality/80/optimize
+52|1734162|뒷모습|나윤권|58979|358200|뒷모습 후(後)|https://cdnimg.melon.co.kr/cm/album/images/003/58/200/358200_500.jpg/melon/resize/48/quality/80/optimize
+53|1761733|I'm Sorry|플라이 투 더 스카이|100183|360664|No Limitations (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/60/664/360664_500.jpg/melon/resize/48/quality/80/optimize
+54|-1|Inconsolable|Backstreet Boys|100366|360401|Unbreakable (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/003/60/401/360401_500.jpg/melon/resize/48/quality/80/optimize
+55|1657561|I Promise You|원티드, 이정|227316|353036|7DAYZ & WANTED|https://cdnimg.melon.co.kr/cm/album/images/003/53/036/353036_500.jpg/melon/resize/48/quality/80/optimize
+56|1762064|열흘만|제이|1203|360669|Inlove Again|https://cdnimg.melon.co.kr/cm/album/images/003/60/669/360669_500.jpg/melon/resize/48/quality/80/optimize
+57|1758639|나를 만나다|김미려|230587|360186|나를 만나다|https://cdnimg.melon.co.kr/cm/album/images/003/60/186/360186_500.jpg/melon/resize/48/quality/80/optimize
+58|1757996|아름다운 구속|서영은|3033|360149|Remake : Romantic 3|https://cdnimg.melon.co.kr/cm/album/images/003/60/149/360149_500.jpg/melon/resize/48/quality/80/optimize
+59|1707960|이별…후에|더 네임~럼블피쉬|25353~108951|356412|이별...후에|https://cdnimg.melon.co.kr/cm/album/images/003/56/412/356412_500.jpg/melon/resize/48/quality/80/optimize
+60|1750989|허락 (許諾)|준서|15932|359657|태왕사신기 OST|https://cdnimg.melon.co.kr/cm/album/images/003/59/657/359657_500.jpg/melon/resize/48/quality/80/optimize
+61|1758645|내 맘이 안 그래|이승환|26|360187|말랑|https://cdnimg.melon.co.kr/cm/album/images/003/60/187/360187_500.jpg/melon/resize/48/quality/80/optimize
+62|1762230|사랑을 보았나봐|FTISLAND (FT아일랜드)|226490|360686|인순이는 예쁘다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/60/686/360686_500.jpg/melon/resize/48/quality/80/optimize
+63|1727882|8:45 Heaven|드렁큰 타이거|100027|357620|Sky Is The Limit|https://cdnimg.melon.co.kr/cm/album/images/003/57/620/357620_500.jpg/melon/resize/48/quality/80/optimize
+64|1755551|사랑이 늦어서 미안해|김조한|1873|359962|Soul Family With Johan|https://cdnimg.melon.co.kr/cm/album/images/003/59/962/359962_500.jpg/melon/resize/48/quality/80/optimize
+65|1763171|그대를 그대를|김동희|25890|360744|This Is Donghee|https://cdnimg.melon.co.kr/cm/album/images/003/60/744/360744_500.jpg/melon/resize/48/quality/80/optimize
+66|1735830|우리가 사랑했다면|하울|175136|358339|우리가 사랑했다면|https://cdnimg.melon.co.kr/cm/album/images/003/58/339/358339_500.jpg/melon/resize/48/quality/80/optimize
+67|1755470|안녕|초신성|229544|359951|The Beautiful Stardust|https://cdnimg.melon.co.kr/cm/album/images/003/59/951/359951_500.jpg/melon/resize/48/quality/80/optimize
+68|1757376|연|gavy project H5애인|230529|360107|연|https://cdnimg.melon.co.kr/cm/album/images/003/60/107/360107_500.jpg/melon/resize/48/quality/80/optimize
+69|1759290|Marry U (New Ver.)|SUPER JUNIOR (슈퍼주니어)|175404|360230|돈 돈! (Don't Don) (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/60/230/360230_500.jpg/melon/resize/48/quality/80/optimize
+70|1649191|한사람만|FTISLAND (FT아일랜드)|226490|352436|Cheerful Sensibility|https://cdnimg.melon.co.kr/cm/album/images/003/52/436/352436_500.jpg/melon/resize/48/quality/80/optimize
+71|1701604|사랑해요 (Feat. V.O.S 김경록, 태인)|나몰라패밀리 (Namolla Family)|194009|356031|나몰라패밀리|https://cdnimg.melon.co.kr/cm/album/images/003/56/031/356031_500.jpg/melon/resize/48/quality/80/optimize
+72|1750994|천년연가 (千年戀歌)|동방신기 (TVXQ!)|108316|359657|태왕사신기 OST|https://cdnimg.melon.co.kr/cm/album/images/003/59/657/359657_500.jpg/melon/resize/48/quality/80/optimize
+73|1667441|미련한 가슴아|이수 (엠씨더맥스)|214784|353827|개와 늑대의 시간 OST|https://cdnimg.melon.co.kr/cm/album/images/003/53/827/353827_500.jpg/melon/resize/48/quality/80/optimize
+74|1727554|부디..|V.O.S|108794|357598|꽃이 웃는다|https://cdnimg.melon.co.kr/cm/album/images/003/57/598/357598_500.jpg/melon/resize/48/quality/80/optimize
+75|1645081|사랑의 인사|씨야|181679|352046|Lovely Sweetheart|https://cdnimg.melon.co.kr/cm/album/images/003/52/046/352046_500.jpg/melon/resize/48/quality/80/optimize
+76|1761124|마른 기억 (Extended Edit)|박지윤|1121|360443|비밀정원|https://cdnimg.melon.co.kr/cm/album/images/003/60/443/360443_500.jpg/melon/resize/48/quality/80/optimize
+77|1759317|Bad Girl (Featuring 태완 A K A C-Luv)|성아|15987|360232|Bad Girl|https://cdnimg.melon.co.kr/cm/album/images/003/60/232/360232_500.jpg/melon/resize/48/quality/80/optimize
+78|1764198|니가 사는 그집|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+79|1754739|내 눈물이 마를 때까지|테이|51893|359900|로비스트 OST|https://cdnimg.melon.co.kr/cm/album/images/003/59/900/359900_500.jpg/melon/resize/48/quality/80/optimize
+80|1644930|사랑이 그래요|오종혁|5599|352035|사랑이 그래요|https://cdnimg.melon.co.kr/cm/album/images/003/52/035/352035_500.jpg/melon/resize/48/quality/80/optimize
+81|1753495|지우고, 버리고, 잊어도...|신혜성|1741|359833|The Beginning, New Days - Special Edition|https://cdnimg.melon.co.kr/cm/album/images/003/59/833/359833_500.jpg/melon/resize/48/quality/80/optimize
+82|1755561|Heartbreaker (Feat. JW Of Nell)|다이나믹 듀오|108358|359963|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/003/59/963/359963_500.jpg/melon/resize/48/quality/80/optimize
+83|-1|그만하자|정재욱|7839|359653|Time|https://cdnimg.melon.co.kr/cm/album/images/003/59/653/359653_500.jpg/melon/resize/48/quality/80/optimize
+84|1645082|결혼할까요|씨야|181679|352046|Lovely Sweetheart|https://cdnimg.melon.co.kr/cm/album/images/003/52/046/352046_500.jpg/melon/resize/48/quality/80/optimize
+85|1756658|Fight Club (Feat. 장한이)|프리스타일|100144|360053|Fight Club|https://cdnimg.melon.co.kr/cm/album/images/003/60/053/360053_500.jpg/melon/resize/48/quality/80/optimize
+86|1727369|다쳐도 좋아|휘성 (Realslow)|10577|357587|Eternal Essence Of Music|https://cdnimg.melon.co.kr/cm/album/images/003/57/587/357587_500.jpg/melon/resize/48/quality/80/optimize
+87|1758651|My Song|박선주 (Pak Sun Zoo)|4640|360188|Dreamer|https://cdnimg.melon.co.kr/cm/album/images/003/60/188/360188_500.jpg/melon/resize/48/quality/80/optimize
+88|1759993|유리잔|별|27033|360377|별 special single album|https://cdnimg.melon.co.kr/cm/album/images/003/60/377/360377_500.jpg/melon/resize/48/quality/80/optimize
+89|1634717|사랑..그게 뭔데|양파|3854|351184|The Windows Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/003/51/184/351184_500.jpg/melon/resize/48/quality/80/optimize
+90|1656182|손수건|김동완|1743|352919|Kim Dong Wan Is|https://cdnimg.melon.co.kr/cm/album/images/003/52/919/352919_500.jpg/melon/resize/48/quality/80/optimize
+91|1760294|음악 하는 여자|지플라|161975|360399|음악 하는 여자|https://cdnimg.melon.co.kr/cm/album/images/003/60/399/360399_500.jpg/melon/resize/48/quality/80/optimize
+92|1647292|사랑의 숲에서 길을 잃다 (Feat. 임창정)|제드|3596|352252|Show Time Project - JED 1st Single|https://cdnimg.melon.co.kr/cm/album/images/003/52/252/352252_500.jpg/melon/resize/48/quality/80/optimize
+93|1738362|남자라서 웃어요|김장훈~에픽하이 (EPIK HIGH)|1081~108356|358542|김장훈의 트롯|https://cdnimg.melon.co.kr/cm/album/images/003/58/542/358542_500.jpg/melon/resize/48/quality/80/optimize
+94|1741111|녹슨 가슴|먼데이 키즈 (Monday Kiz)|175155|358827|Incompletion|https://cdnimg.melon.co.kr/cm/album/images/003/58/827/358827_500.jpg/melon/resize/48/quality/80/optimize
+95|1762950|아프다 (MBC 주말드라마 '겨울새' 삽입곡)|The One (더원)|160816|360724|Love Ballad In 2007 (Vol.1) (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/60/724/360724_500.jpg/melon/resize/48/quality/80/optimize
+96|1762073|얼음요새|디어클라우드|231072|360670|Dear Cloud|https://cdnimg.melon.co.kr/cm/album/images/003/60/670/360670_500.jpg/melon/resize/48/quality/80/optimize
+97|1763403|아직 못다한 이야기|이승기|58793|360750|아직 못다한 이야기 (이승기 3집 Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/60/750/360750_500.jpg/melon/resize/48/quality/80/optimize
+98|1752911|나는 나뻐|YDG|4770|359798|But I 드려|https://cdnimg.melon.co.kr/cm/album/images/003/59/798/359798_500.jpg/melon/resize/48/quality/80/optimize
+99|1757570|Gimme More|Britney Spears|8046|360123|Blackout|https://cdnimg.melon.co.kr/cm/album/images/003/60/123/360123_500.jpg/melon/resize/48/quality/80/optimize
+100|1757991|못된놈|진프로젝트|230576|360148|JIN Project|https://cdnimg.melon.co.kr/cm/album/images/003/60/148/360148_500.jpg/melon/resize/48/quality/80/optimize

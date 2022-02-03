@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|5622398|19금 어쩌라고 (So What)|빈지노 (Beenzino)|532029|2308316|어쩌라고 (So What)|https://cdnimg.melon.co.kr/cm/album/images/023/08/316/2308316_500.jpg/melon/resize/48/quality/80/optimize
+52|5584400|사랑은 미친짓 (Feat. 칸토 of 트로이)|15& (박지민, 백예린)|698291|2303679|사랑은 미친짓|https://cdnimg.melon.co.kr/cm/album/images/023/03/679/2303679_500.jpg/melon/resize/48/quality/80/optimize
+53|5546828|팔베개 (Feat. 기현) (Pillow)|소유 (SOYOU)~기리보이|490981~585492|2299818|NO.MERCY (노머시) Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/99/818/2299818_500.jpg/melon/resize/48/quality/80/optimize
+54|5473905|LUV|Apink (에이핑크)|534360|2291986|Pink LUV|https://cdnimg.melon.co.kr/cm/album/images/022/91/986/2291986_500.jpg/melon/resize/48/quality/80/optimize
+55|5647453|On & On (Prod.by The Quiett)|육지담~백예린 (Yerin Baek)|781321~698776|2311805|언프리티 랩스타 SEMI FINAL 2|https://cdnimg.melon.co.kr/cm/album/images/023/11/805/2311805_500.jpg/melon/resize/48/quality/80/optimize
+56|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+57|5667583|해줄 수 없는 일|거미|30358|2314561|Fall in Memory|https://cdnimg.melon.co.kr/cm/album/images/023/14/561/2314561_500.jpg/melon/resize/48/quality/80/optimize
+58|5644827|EXODUS|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+59|5620321|Paradise Lost|가인|428821|2307996|Hawwah|https://cdnimg.melon.co.kr/cm/album/images/023/07/996/2307996_500.jpg/melon/resize/48/quality/80/optimize
+60|5456521|사뿐사뿐|AOA|686920|2290102|사뿐사뿐|https://cdnimg.melon.co.kr/cm/album/images/022/90/102/2290102_500.jpg/melon/resize/48/quality/80/optimize
+61|5658744|Catch Me If You Can|소녀시대 (GIRLS' GENERATION)|228069|2313438|Single 'Catch Me If You Can'|https://cdnimg.melon.co.kr/cm/album/images/023/13/438/2313438_500.jpg/melon/resize/48/quality/80/optimize
+62|5551234|슬픔 속에 그댈 지워야만 해|정승환~박윤하|792091~792380|2300266|K팝 스타 시즌4 - 캐스팅 오디션 Part.1|https://cdnimg.melon.co.kr/cm/album/images/023/00/266/2300266_500.jpg/melon/resize/48/quality/80/optimize
+63|5470838|GOOD BOY|GD X TAEYANG|790881|2291669|GOOD BOY|https://cdnimg.melon.co.kr/cm/album/images/022/91/669/2291669_500.jpg/melon/resize/48/quality/80/optimize
+64|5482064|바라보기|엠씨더맥스 (M.C the MAX)|161636|2292762|미녀의 탄생 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/92/762/2292762_500.jpg/melon/resize/48/quality/80/optimize
+65|5612284|안녕 (Hi~)|러블리즈|789331|2306957|Hi~|https://cdnimg.melon.co.kr/cm/album/images/023/06/957/2306957_500.jpg/melon/resize/48/quality/80/optimize
+66|5655276|비가 내려와|지아~이현|227595~429480|2312951|비가 내려와|https://cdnimg.melon.co.kr/cm/album/images/023/12/951/2312951_500.jpg/melon/resize/48/quality/80/optimize
+67|-1|Maps|Maroon 5|107721|2261073|Maps|https://cdnimg.melon.co.kr/cm/album/images/022/61/073/2261073_500.jpg/melon/resize/48/quality/80/optimize
+68|4016085|신촌을 못가|포스트맨(Postmen)|495401|2173025|신촌을 못가|https://cdnimg.melon.co.kr/cm/album/images/021/73/025/2173025_500.jpg/melon/resize/48/quality/80/optimize
+69|5476552|니가 모르게 (You Don't Know)|로꼬|688432|2292246|LOCOMOTIVE|https://cdnimg.melon.co.kr/cm/album/images/022/92/246/2292246_500.jpg/melon/resize/48/quality/80/optimize
+70|4646573|너의 의미 (Feat. 김창완)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+71|5663956|JOKER|달샤벳|514619|2314094|Joker is Alive|https://cdnimg.melon.co.kr/cm/album/images/023/14/094/2314094_500.jpg/melon/resize/48/quality/80/optimize
+72|5386171|너무 보고싶어|어쿠스틱 콜라보|192827|2282532|연애의 발견 OST Part 6|https://cdnimg.melon.co.kr/cm/album/images/022/82/532/2282532_500.jpg/melon/resize/48/quality/80/optimize
+73|5465008|세 사람 (With 성시경)|토이|100014|2291053|Da Capo|https://cdnimg.melon.co.kr/cm/album/images/022/91/053/2291053_500.jpg/melon/resize/48/quality/80/optimize
+74|4864206|묘해, 너와|어쿠스틱 콜라보|192827|2279896|연애의 발견 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/79/896/2279896_500.jpg/melon/resize/48/quality/80/optimize
+75|5644829|PLAYBOY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+76|5442687|내 생애 가장 행복한 시간 (Feat. 허각)|MC몽|11538|2288687|MISS ME OR DISS ME|https://cdnimg.melon.co.kr/cm/album/images/022/88/687/2288687_500.jpg/melon/resize/48/quality/80/optimize
+77|5646004|blu (Feat. Babylon)|아이언|781841|2311611|blu|https://cdnimg.melon.co.kr/cm/album/images/023/11/611/2311611_500.jpg/melon/resize/48/quality/80/optimize
+78|5661711|찰리채플린|블락비 바스타즈|858846|2313837|품행제로|https://cdnimg.melon.co.kr/cm/album/images/023/13/837/2313837_500.jpg/melon/resize/48/quality/80/optimize
+79|5419682|19금 BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO, BOBBY)|에픽하이 (EPIK HIGH)|108356|2286432|신발장|https://cdnimg.melon.co.kr/cm/album/images/022/86/432/2286432_500.jpg/melon/resize/48/quality/80/optimize
+80|5555752|행복해서 미안해|다비치|236815|2300803|DAVICHI HUG|https://cdnimg.melon.co.kr/cm/album/images/023/00/803/2300803_500.jpg/melon/resize/48/quality/80/optimize
+81|4076051|Love Blossom (러브블러썸)|케이윌|175139|2180379|The 3rd Album Part.2 'Love Blossom (러브블러썸)'|https://cdnimg.melon.co.kr/cm/album/images/021/80/379/2180379_500.jpg/melon/resize/48/quality/80/optimize
+82|5656391|미스매치 (Feat. VASCO)|신보라|523906|2313099|미스매치|https://cdnimg.melon.co.kr/cm/album/images/023/13/099/2313099_500.jpg/melon/resize/48/quality/80/optimize
+83|3753309|꽃송이가|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+84|5658693|심쿵 (Feat. 주니엘)|니엘|672543|2313433|oNIELy 'Spring Love'|https://cdnimg.melon.co.kr/cm/album/images/023/13/433/2313433_500.jpg/melon/resize/48/quality/80/optimize
+85|5610623|니가 있어야 할 곳|KATIE|838997|2306728|K팝 스타 시즌4 TOP10 Part.1|https://cdnimg.melon.co.kr/cm/album/images/023/06/728/2306728_500.jpg/melon/resize/48/quality/80/optimize
+86|5644826|MY ANSWER|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+87|4433490|썸 (Feat. 릴보이 Of 긱스)|소유 (SOYOU)~정기고|490981~304967|2230890|썸|https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/48/quality/80/optimize
+88|5644828|EL DORADO|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+89|5667076|널 사랑해|성훈 (브라운 아이드 소울)|280266|2314497|브라운 아이드 소울 싱글 프로젝트 3rd. 널 사랑해 By 성훈|https://cdnimg.melon.co.kr/cm/album/images/023/14/497/2314497_500.jpg/melon/resize/48/quality/80/optimize
+90|5647802|벌써 일년 (Live)|이진아~정승환|740789~792091|2311863|K팝 스타 시즌4 TOP4 Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/11/863/2311863_500.jpg/melon/resize/48/quality/80/optimize
+91|4681146|한여름밤의 꿀|San E~레이나 (Raina)|402526~672337|2260223|San E, 레이나 Project Single '한여름밤의 꿀'|https://cdnimg.melon.co.kr/cm/album/images/022/60/223/2260223_500.jpg/melon/resize/48/quality/80/optimize
+92|5654090|Hey Jude (Feat. Sleeq)|신지수|569172|2312738|20's Party 1|https://cdnimg.melon.co.kr/cm/album/images/023/12/738/2312738_500.jpg/melon/resize/48/quality/80/optimize
+93|5629279|See You Again|Charlie Puth~Wiz Khalifa|838654~513802|2309376|분노의 질주: 더 세븐 OST|https://cdnimg.melon.co.kr/cm/album/images/023/09/376/2309376_500.jpg/melon/resize/48/quality/80/optimize
+94|5495681|Angel|타이거JK, 윤미래, 비지 (Bizzy)|716279|2294107|Angel|https://cdnimg.melon.co.kr/cm/album/images/022/94/107/2294107_500.jpg/melon/resize/48/quality/80/optimize
+95|5644825|시선 둘, 시선 하나 (What If..)|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+96|5658746|그리웠어 너|포스트맨(Postmen)|495401|2313439|착하지 않은 여자들 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/023/13/439/2313439_500.jpg/melon/resize/48/quality/80/optimize
+97|5644824|TRANSFORMER|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+98|5496835|대낮에 한 이별|수지 (SUZY)~버나드 박|514741~758370|2294213|JYP Nation Korea 2014 'One Mic'|https://cdnimg.melon.co.kr/cm/album/images/022/94/213/2294213_500.jpg/melon/resize/48/quality/80/optimize
+99|5659664|너뿐이야|KATIE|838997|2313562|K팝 스타 시즌4 TOP2 Part.1|https://cdnimg.melon.co.kr/cm/album/images/023/13/562/2313562_500.jpg/melon/resize/48/quality/80/optimize
+100|5660041|아슬해|EXID|630454|2313635|AH YEAH|https://cdnimg.melon.co.kr/cm/album/images/023/13/635/2313635_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|31324607|사랑에 연습이 있었다면 (Prod. 2soo)|임재현|2087273|10207131|사랑에 연습이 있었다면|https://cdnimg.melon.co.kr/cm/album/images/102/07/131/10207131_500.jpg/melon/resize/48/quality/80/optimize
+2|31841027|누구 없소 (NO ONE) (Feat. B.I of iKON)|이하이|646171|10292330|24℃|https://cdnimg.melon.co.kr/cm/album/images/102/92/330/10292330_500.jpg/melon/resize/48/quality/80/optimize
+3|31029291|2002|Anne-Marie|870307|10137250|Speak Your Mind (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/101/37/250/10137250_500.jpg/melon/resize/48/quality/80/optimize
+4|31804010|너에게 못했던 내 마지막 말은|다비치|236815|10286309|너에게 못했던 내 마지막 말은|https://cdnimg.melon.co.kr/cm/album/images/102/86/309/10286309_500.jpg/melon/resize/48/quality/80/optimize
+5|31701428|bad guy|Billie Eilish|1239008|10267565|WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?|https://cdnimg.melon.co.kr/cm/album/images/102/67/565/10267565_500.jpg/melon/resize/48/quality/80/optimize
+6|31737197|작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+7|31666417|주저하는 연인들을 위해|잔나비|772253|10260858|전설|https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/48/quality/80/optimize
+8|31754579|FANCY|TWICE (트와이스)|905701|10276861|FANCY YOU|https://cdnimg.melon.co.kr/cm/album/images/102/76/861/10276861_500.jpg/melon/resize/48/quality/80/optimize
+9|31777113|Goodbye|박효신|1191|10281385|Goodbye|https://cdnimg.melon.co.kr/cm/album/images/102/81/385/10281385_500.jpg/melon/resize/48/quality/80/optimize
+10|31684636|노래방에서|장범준|648551|10264375|장범준 3집|https://cdnimg.melon.co.kr/cm/album/images/102/64/375/10264375_500.jpg/melon/resize/48/quality/80/optimize
+11|31798464|AH YEAH (아예)|WINNER|775197|10285396|WE|https://cdnimg.melon.co.kr/cm/album/images/102/85/396/10285396_500.jpg/melon/resize/48/quality/80/optimize
+12|31688205|사계 (Four Seasons)|태연 (TAEYEON)|236797|10265079|사계 (Four Seasons)|https://cdnimg.melon.co.kr/cm/album/images/102/65/079/10265079_500.jpg/melon/resize/48/quality/80/optimize
+13|31709523|나만, 봄|볼빨간사춘기|792022|10268898|사춘기집Ⅰ 꽃기운|https://cdnimg.melon.co.kr/cm/album/images/102/68/898/10268898_500.jpg/melon/resize/48/quality/80/optimize
+14|31524320|그때가 좋았어|케이시 (Kassy)|858125|10237420|그때가 좋았어|https://cdnimg.melon.co.kr/cm/album/images/102/37/420/10237420_500.jpg/melon/resize/48/quality/80/optimize
+15|31717822|Kill This Love|BLACKPINK|995169|10270288|KILL THIS LOVE|https://cdnimg.melon.co.kr/cm/album/images/102/70/288/10270288_500.jpg/melon/resize/48/quality/80/optimize
+16|31706215|사월이 지나면 우리 헤어져요 (Beautiful goodbye)|첸 (CHEN)|715176|10268441|사월, 그리고 꽃 - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/102/68/441/10268441_500.jpg/melon/resize/48/quality/80/optimize
+17|31532642|사계 (하루살이)|엠씨더맥스 (M.C the MAX)|161636|10238710|Circular|https://cdnimg.melon.co.kr/cm/album/images/102/38/710/10238710_500.jpg/melon/resize/48/quality/80/optimize
+18|31829536|사랑이 식었다고 말해도 돼|먼데이 키즈 (Monday Kiz)|175155|10290621|사랑이 식었다고 말해도 돼|https://cdnimg.melon.co.kr/cm/album/images/102/90/621/10290621_500.jpg/melon/resize/48/quality/80/optimize
+19|31815490|교통정리 (Feat. 헤이즈)|기리보이|585492|10288336|교통정리|https://cdnimg.melon.co.kr/cm/album/images/102/88/336/10288336_500.jpg/melon/resize/48/quality/80/optimize
+20|31835421|대충 입고 나와|우디 (Woody)|673033|10291606|대충 입고 나와|https://cdnimg.melon.co.kr/cm/album/images/102/91/606/10291606_500.jpg/melon/resize/48/quality/80/optimize
+21|31532656|옥탑방 (Rooftop)|엔플라잉 (N.Flying)|861430|10238711|FLY HIGH PROJECT #2 '옥탑방'|https://cdnimg.melon.co.kr/cm/album/images/102/38/711/10238711_500.jpg/melon/resize/48/quality/80/optimize
+22|31606729|달라달라|ITZY (있지)|2622030|10250473|IT'z Different|https://cdnimg.melon.co.kr/cm/album/images/102/50/473/10250473_500.jpg/melon/resize/48/quality/80/optimize
+23|30962526|모든 날, 모든 순간 (Every day, Every Moment)|폴킴|752425|10149492|'키스 먼저 할까요?' OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/48/quality/80/optimize
+24|31709524|별 보러 갈래?|볼빨간사춘기|792022|10268898|사춘기집Ⅰ 꽃기운|https://cdnimg.melon.co.kr/cm/album/images/102/68/898/10268898_500.jpg/melon/resize/48/quality/80/optimize
+25|31341518|Paris In The Rain|Lauv|1956543|10209752|I met you when I was 18. (the playlist)|https://cdnimg.melon.co.kr/cm/album/images/102/09/752/10209752_500.jpg/melon/resize/48/quality/80/optimize
+26|31388145|너를 만나|폴킴|752425|10217134|너를 만나|https://cdnimg.melon.co.kr/cm/album/images/102/17/134/10217134_500.jpg/melon/resize/48/quality/80/optimize
+27|31684634|당신과는 천천히|장범준|648551|10264375|장범준 3집|https://cdnimg.melon.co.kr/cm/album/images/102/64/375/10264375_500.jpg/melon/resize/48/quality/80/optimize
+28|31532643|넘쳐흘러|엠씨더맥스 (M.C the MAX)|161636|10238710|Circular|https://cdnimg.melon.co.kr/cm/album/images/102/38/710/10238710_500.jpg/melon/resize/48/quality/80/optimize
+29|31737198|소우주 (Mikrokosmos)|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+30|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+31|31803557|비가 오잖아|소유 (SOYOU)~오반 (OVAN)|490981~925515|10286209|비가 오잖아|https://cdnimg.melon.co.kr/cm/album/images/102/86/209/10286209_500.jpg/melon/resize/48/quality/80/optimize
+32|8298724|뜨거운 여름밤은 가고 남은 건 볼품없지만|잔나비|772253|2702242|MONKEY HOTEL|https://cdnimg.melon.co.kr/cm/album/images/027/02/242/2702242_500.jpg/melon/resize/48/quality/80/optimize
+33|31532438|벌써 12시|청하|968265|10238683|벌써 12시|https://cdnimg.melon.co.kr/cm/album/images/102/38/683/10238683_500.jpg/melon/resize/48/quality/80/optimize
+34|4848555|사랑하긴 했었나요 스쳐가는 인연이었나요 짧지않은 우리 함께했던 시간들이 자꾸 내 마음을 가둬두네|잔나비|772253|2278294|봉춤을 추네|https://cdnimg.melon.co.kr/cm/album/images/022/78/294/2278294_500.jpg/melon/resize/48/quality/80/optimize
+35|31699965|진심이 담긴 노래 (True Song)|케이시 (Kassy)|858125|10267222|진심이 담긴 노래 (True Song)|https://cdnimg.melon.co.kr/cm/album/images/102/67/222/10267222_500.jpg/melon/resize/48/quality/80/optimize
+36|31737199|Make It Right|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+37|31788828|돈 Call Me (Prod.BRLLNT)|염따|202530|10283605|Dingo X 염따|https://cdnimg.melon.co.kr/cm/album/images/102/83/605/10283605_500.jpg/melon/resize/48/quality/80/optimize
+38|31788850|니 소식|송하예|722098|10283614|니 소식|https://cdnimg.melon.co.kr/cm/album/images/102/83/614/10283614_500.jpg/melon/resize/48/quality/80/optimize
+39|31576009|이 노래가 클럽에서 나온다면|우디 (Woody)|673033|10245121|이 노래가 클럽에서 나온다면|https://cdnimg.melon.co.kr/cm/album/images/102/45/121/10245121_500.jpg/melon/resize/48/quality/80/optimize
+40|31674786|그건 아마 우리의 잘못은 아닐 거야|백예린 (Yerin Baek)|698776|10262378|Our love is great|https://cdnimg.melon.co.kr/cm/album/images/102/62/378/10262378_500.jpg/melon/resize/48/quality/80/optimize
+41|31151836|Way Back Home|숀 (SHAUN)|510242|10179508|Take|https://cdnimg.melon.co.kr/cm/album/images/101/79/508/10179508_500.jpg/melon/resize/48/quality/80/optimize
+42|31266290|IDOL|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+43|31567235|7 rings|Ariana Grande|597451|10243766|7 rings|https://cdnimg.melon.co.kr/cm/album/images/102/43/766/10243766_500.jpg/melon/resize/48/quality/80/optimize
+44|31304766|이별하러 가는 길|임한별|471741|10203965|이별하러 가는 길|https://cdnimg.melon.co.kr/cm/album/images/102/03/965/10203965_500.jpg/melon/resize/48/quality/80/optimize
+45|31655897|오늘 밤에|홍진영|418700|10259010|Lots of Love|https://cdnimg.melon.co.kr/cm/album/images/102/59/010/10259010_500.jpg/melon/resize/48/quality/80/optimize
+46|31782686|다섯 번째 계절 (SSFWL)|오마이걸 (OH MY GIRL)|857994|10282459|THE FIFTH SEASON|https://cdnimg.melon.co.kr/cm/album/images/102/82/459/10282459_500.jpg/melon/resize/48/quality/80/optimize
+47|31406357|신용재|하은 (포맨)|2297933|10219644|신용재|https://cdnimg.melon.co.kr/cm/album/images/102/19/644/10219644_500.jpg/melon/resize/48/quality/80/optimize
+48|31658897|술이 달다 (Feat. Crush)|에픽하이 (EPIK HIGH)|108356|10259609|sleepless in __________|https://cdnimg.melon.co.kr/cm/album/images/102/59/609/10259609_500.jpg/melon/resize/48/quality/80/optimize
+49|31815967|"Speechless (Full) (From ""Aladdin""/Soundtrack Version)"|Naomi Scott|541364|10288448|Aladdin (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/48/quality/80/optimize
+50|31668491|고고베베 (gogobebe)|마마무 (Mamamoo)|750053|10261306|White Wind|https://cdnimg.melon.co.kr/cm/album/images/102/61/306/10261306_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3832099|네온사인|버스커 버스커|569233|2128229|버스커 버스커 1집 마무리|https://cdnimg.melon.co.kr/cm/album/images/021/28/229/2128229_500.jpg/melon/resize/48/quality/80/optimize
+52|3857212|NO MERCY|B.A.P|623451|2137723|NO MERCY|https://cdnimg.melon.co.kr/cm/album/images/021/37/723/2137723_500.jpg/melon/resize/48/quality/80/optimize
+53|3783041|Twinkle|소녀시대-태티서 (Girls' Generation-TTS)|663691|2117429|'Twinkle' Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/17/429/2117429_500.jpg/melon/resize/48/quality/80/optimize
+54|3798160|아름다운 밤|울랄라세션|569214|2123522|ULALA SENSATION Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/23/522/2123522_500.jpg/melon/resize/48/quality/80/optimize
+55|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+56|3848383|BUBIBU (Remix Ver.)|Apink (에이핑크)|534360|2136600|BUBIBU|https://cdnimg.melon.co.kr/cm/album/images/021/36/600/2136600_500.jpg/melon/resize/48/quality/80/optimize
+57|3860201|아름다운 아픔 (2012 New Ver.)|김민종|942|2138102|신사의 품격 OST Part 7|https://cdnimg.melon.co.kr/cm/album/images/021/38/102/2138102_500.jpg/melon/resize/48/quality/80/optimize
+58|3811437|To You|틴탑|483581|2125064|aRtisT|https://cdnimg.melon.co.kr/cm/album/images/021/25/064/2125064_500.jpg/melon/resize/48/quality/80/optimize
+59|3801396|추격자|인피니트|476181|2123894|INFINITIZE|https://cdnimg.melon.co.kr/cm/album/images/021/23/894/2123894_500.jpg/melon/resize/48/quality/80/optimize
+60|3863010|Rainy Day|장재인|28498|2138428|여름밤|https://cdnimg.melon.co.kr/cm/album/images/021/38/428/2138428_500.jpg/melon/resize/48/quality/80/optimize
+61|3847659|Like Money (Feat. Akon)|원더걸스|217764|2136522|Like Money|https://cdnimg.melon.co.kr/cm/album/images/021/36/522/2136522_500.jpg/melon/resize/48/quality/80/optimize
+62|3860292|너라서 (Special Track)|공유|230436|2138120|너라서 (Special Track) (빅 OST)|https://cdnimg.melon.co.kr/cm/album/images/021/38/120/2138120_500.jpg/melon/resize/48/quality/80/optimize
+63|3811406|잘자요 굿나잇|B1A4|535440|2125061|THE B1A4Ⅰ'IGNITION' SPECIAL EDITION|https://cdnimg.melon.co.kr/cm/album/images/021/25/061/2125061_500.jpg/melon/resize/48/quality/80/optimize
+64|3846706|Sexy Lady|장우영|514760|2136409|23, Male, Single|https://cdnimg.melon.co.kr/cm/album/images/021/36/409/2136409_500.jpg/melon/resize/48/quality/80/optimize
+65|3863652|Take Out|가인~라디 (Ra. D)|428821~8876|2138516|LOEN TREE Summer Story|https://cdnimg.melon.co.kr/cm/album/images/021/38/516/2138516_500.jpg/melon/resize/48/quality/80/optimize
+66|3860283|내가 아니야|비스트|436981|2138116|Midnight Sun|https://cdnimg.melon.co.kr/cm/album/images/021/38/116/2138116_500.jpg/melon/resize/48/quality/80/optimize
+67|3787653|She's Gone|디셈버|439021|2119766|She's Gone|https://cdnimg.melon.co.kr/cm/album/images/021/19/766/2119766_500.jpg/melon/resize/48/quality/80/optimize
+68|3869344|나랑 사귈래?|틴탑|483581|2139260|Summer Special '나랑 사귈래?'|https://cdnimg.melon.co.kr/cm/album/images/021/39/260/2139260_500.jpg/melon/resize/48/quality/80/optimize
+69|3867108|Friday (T.G.I.Friday's Brand Song)|CNBLUE (씨엔블루)|450801|2138924|Friday|https://cdnimg.melon.co.kr/cm/album/images/021/38/924/2138924_500.jpg/melon/resize/48/quality/80/optimize
+70|3867799|MAYDAY (Feat. 김창렬)|마리오|243278|2139022|MAYDAY|https://cdnimg.melon.co.kr/cm/album/images/021/39/022/2139022_500.jpg/melon/resize/48/quality/80/optimize
+71|3753303|여수 밤바다|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+72|-1|Payphone (Feat. Wiz Khalifa)|Maroon 5|107721|2112986|Payphone|https://cdnimg.melon.co.kr/cm/album/images/021/12/986/2112986_500.jpg/melon/resize/48/quality/80/optimize
+73|3864961|가수가 된 이유|신용재 (2F)|510537|2138690|24|https://cdnimg.melon.co.kr/cm/album/images/021/38/690/2138690_500.jpg/melon/resize/48/quality/80/optimize
+74|3828032|사랑이라면|노을|105623|2126974|사랑이라면 (빅 OST)|https://cdnimg.melon.co.kr/cm/album/images/021/26/974/2126974_500.jpg/melon/resize/48/quality/80/optimize
+75|3779134|씨스루 (Feat. 개코, Zion.T)|프라이머리|35682|2115647|Primary And The Messengers Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/15/647/2115647_500.jpg/melon/resize/48/quality/80/optimize
+76|3834749|사랑... 어떡하나요|양파|3854|2129866|신사의 품격 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/29/866/2129866_500.jpg/melon/resize/48/quality/80/optimize
+77|3804268|Good Boy (Feat. 용준형 Of 비스트)|백지영|1118|2121835|Good Boy|https://cdnimg.melon.co.kr/cm/album/images/021/21/835/2121835_500.jpg/melon/resize/48/quality/80/optimize
+78|3859746|어느 날|10CM|468244|2138057|골든타임 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/38/057/2138057_500.jpg/melon/resize/48/quality/80/optimize
+79|3796159|나쁜놈 (Feat. 소야)|마이티 마우스|239366|2123313|나쁜놈|https://cdnimg.melon.co.kr/cm/album/images/021/23/313/2123313_500.jpg/melon/resize/48/quality/80/optimize
+80|3758104|나를 사랑했던 사람아|허각|28801|2105027|LACRIMOSO|https://cdnimg.melon.co.kr/cm/album/images/021/05/027/2105027_500.jpg/melon/resize/48/quality/80/optimize
+81|3860284|니가 보고 싶어지면|비스트|436981|2138116|Midnight Sun|https://cdnimg.melon.co.kr/cm/album/images/021/38/116/2138116_500.jpg/melon/resize/48/quality/80/optimize
+82|-1|I 돈 Care (Feat. 서수민PD)|용감한 녀석들|649953|2123770|용감한 녀석들|https://cdnimg.melon.co.kr/cm/album/images/021/23/770/2123770_500.jpg/melon/resize/48/quality/80/optimize
+83|3851548|이 또한 지나 가리라|임재범|4838|2136984|TO...|https://cdnimg.melon.co.kr/cm/album/images/021/36/984/2136984_500.jpg/melon/resize/48/quality/80/optimize
+84|3753302|첫사랑|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+85|3818472|너라서|다비치|236815|2125842|너라서 (빅 OST)|https://cdnimg.melon.co.kr/cm/album/images/021/25/842/2125842_500.jpg/melon/resize/48/quality/80/optimize
+86|3820624|Mr. BangBang|달샤벳|514619|2126122|THE 1ST ALBUM 'BANG BANG'|https://cdnimg.melon.co.kr/cm/album/images/021/26/122/2126122_500.jpg/melon/resize/48/quality/80/optimize
+87|-1|3! 4! (Feat. 신보라)|에일리(Ailee)|629831|2138115|불후의 명곡 - 전설을 노래하다 (가요톱10 여름노래특집 1편)|https://cdnimg.melon.co.kr/cm/album/images/021/38/115/2138115_500.jpg/melon/resize/48/quality/80/optimize
+88|3867939|여름밤|장재인|28498|2138428|여름밤|https://cdnimg.melon.co.kr/cm/album/images/021/38/428/2138428_500.jpg/melon/resize/48/quality/80/optimize
+89|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+90|3864764|이젠 사랑할래 (Feat. 유라 Of 걸스데이)|주비스|637691|2138668|이젠 사랑할래|https://cdnimg.melon.co.kr/cm/album/images/021/38/668/2138668_500.jpg/melon/resize/48/quality/80/optimize
+91|3849090|나보다 더|장동건|6216|2136710|신사의 품격 OST Part 6|https://cdnimg.melon.co.kr/cm/album/images/021/36/710/2136710_500.jpg/melon/resize/48/quality/80/optimize
+92|3753309|꽃송이가|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+93|3822585|미운사람|비스트|436981|2126367|미운사람 (빅 OST)|https://cdnimg.melon.co.kr/cm/album/images/021/26/367/2126367_500.jpg/melon/resize/48/quality/80/optimize
+94|3855384|널 잡았어|NS 윤지|433746|2137373|SKINSHIP|https://cdnimg.melon.co.kr/cm/album/images/021/37/373/2137373_500.jpg/melon/resize/48/quality/80/optimize
+95|3855020|유령 (같이 사랑했잖아)|엠블랙|436980|2137415|유령 OST|https://cdnimg.melon.co.kr/cm/album/images/021/37/415/2137415_500.jpg/melon/resize/48/quality/80/optimize
+96|3813657|입장정리 (Feat. 최자, Simon D)|프라이머리|35682|2125281|Primary And The Messengers Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/25/281/2125281_500.jpg/melon/resize/48/quality/80/optimize
+97|3715676|FANTASTIC BABY|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+98|3825475|그리워 운다|신보라|523906|2126693|유령 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/26/693/2126693_500.jpg/melon/resize/48/quality/80/optimize
+99|3855173|어찌 너를 잊어요|허공|529400|2137437|추적자 OST Special|https://cdnimg.melon.co.kr/cm/album/images/021/37/437/2137437_500.jpg/melon/resize/48/quality/80/optimize
+100|3796613|HUSH|Apink (에이핑크)|534360|2123373|UNE ANNEE|https://cdnimg.melon.co.kr/cm/album/images/021/23/373/2123373_500.jpg/melon/resize/48/quality/80/optimize

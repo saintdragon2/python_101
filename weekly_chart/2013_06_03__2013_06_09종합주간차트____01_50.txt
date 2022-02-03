@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|4129672|짧은머리|허각~정은지|28801~644871|2187275|'A Cube' For Season # Blue|https://cdnimg.melon.co.kr/cm/album/images/021/87/275/2187275_500.jpg/melon/resize/48/quality/80/optimize
+2|4130922|미친연애 (Bad Girl) (Feat. E-Sens Of 슈프림팀)|범키|623851|2187466|미친연애|https://cdnimg.melon.co.kr/cm/album/images/021/87/466/2187466_500.jpg/melon/resize/48/quality/80/optimize
+3|4099280|이름이 뭐예요?|4minute|417985|2183128|Name Is 4minute|https://cdnimg.melon.co.kr/cm/album/images/021/83/128/2183128_500.jpg/melon/resize/48/quality/80/optimize
+4|4118143|Bad Girls|이효리|1713|2182643|MONOCHROME|https://cdnimg.melon.co.kr/cm/album/images/021/82/643/2182643_500.jpg/melon/resize/48/quality/80/optimize
+5|4121653|콩떡빙수|AKMU (악뮤)|712452|2186215|콩떡빙수|https://cdnimg.melon.co.kr/cm/album/images/021/86/215/2186215_500.jpg/melon/resize/48/quality/80/optimize
+6|4126905|괜찮겠니|비스트|436981|2186897|괜찮겠니|https://cdnimg.melon.co.kr/cm/album/images/021/86/897/2186897_500.jpg/melon/resize/48/quality/80/optimize
+7|4132144|너 하나야|포맨 (4MEN)|100176|2187663|구가의 서 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/021/87/663/2187663_500.jpg/melon/resize/48/quality/80/optimize
+8|4091105|봄봄봄|로이킴|699632|2182026|봄봄봄|https://cdnimg.melon.co.kr/cm/album/images/021/82/026/2182026_500.jpg/melon/resize/48/quality/80/optimize
+9|4108714|청혼하는 거예요|포맨 (4MEN)|100176|2184411|The 5th Album Vol.2 'Thank You'|https://cdnimg.melon.co.kr/cm/album/images/021/84/411/2184411_500.jpg/melon/resize/48/quality/80/optimize
+10|4125626|나쁜 기집애|CL|441844|2186738|나쁜 기집애|https://cdnimg.melon.co.kr/cm/album/images/021/86/738/2186738_500.jpg/melon/resize/48/quality/80/optimize
+11|4123220|Number 1|투개월|569215|2186398|Number 1|https://cdnimg.melon.co.kr/cm/album/images/021/86/398/2186398_500.jpg/melon/resize/48/quality/80/optimize
+12|4097003|I Love You|AKMU (악뮤)|712452|2182792|내 연애의 모든 것 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/82/792/2182792_500.jpg/melon/resize/48/quality/80/optimize
+13|4101639|YooHoo (유후)|시크릿|435121|2183466|Letter From Secret|https://cdnimg.melon.co.kr/cm/album/images/021/83/466/2183466_500.jpg/melon/resize/48/quality/80/optimize
+14|4117702|잘 있나요|The One (더원)|160816|2185652|구가의 서 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/021/85/652/2185652_500.jpg/melon/resize/48/quality/80/optimize
+15|4100521|Wash Away (Feat. 에일리)|긱스 (Geeks)|525805|2183300|Backpack|https://cdnimg.melon.co.kr/cm/album/images/021/83/300/2183300_500.jpg/melon/resize/48/quality/80/optimize
+16|4100925|꼭 한번 만나고 싶다|바이브|160080|2183355|Organic Sound|https://cdnimg.melon.co.kr/cm/album/images/021/83/355/2183355_500.jpg/melon/resize/48/quality/80/optimize
+17|4133615|회복이 급해 (Feat. 하림, 호투)|2BIC(투빅)|643551|2187836|회복이 급해|https://cdnimg.melon.co.kr/cm/album/images/021/87/836/2187836_500.jpg/melon/resize/48/quality/80/optimize
+18|4095862|미스코리아|이효리|1713|2182643|MONOCHROME|https://cdnimg.melon.co.kr/cm/album/images/021/82/643/2182643_500.jpg/melon/resize/48/quality/80/optimize
+19|4085875|GENTLEMAN|싸이 (PSY)|3865|2181431|GENTLEMAN|https://cdnimg.melon.co.kr/cm/album/images/021/81/431/2181431_500.jpg/melon/resize/48/quality/80/optimize
+20|4124144|마지막 그 한마디|이승기|58793|2186562|마지막 그 한마디|https://cdnimg.melon.co.kr/cm/album/images/021/86/562/2186562_500.jpg/melon/resize/48/quality/80/optimize
+21|4115610|이 나이 먹도록|바이브|160080|2183355|Organic Sound|https://cdnimg.melon.co.kr/cm/album/images/021/83/355/2183355_500.jpg/melon/resize/48/quality/80/optimize
+22|4082435|오늘 밤 (Feat. 배치기)|린|8530|2181061|8th #1 유리 심장|https://cdnimg.melon.co.kr/cm/album/images/021/81/061/2181061_500.jpg/melon/resize/48/quality/80/optimize
+23|4127571|SUNSHINE|레인보우|440320|2187009|Rainbow Syndrome Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/87/009/2187009_500.jpg/melon/resize/48/quality/80/optimize
+24|4089360|Bounce|조용필|19|2181825|Bounce|https://cdnimg.melon.co.kr/cm/album/images/021/81/825/2181825_500.jpg/melon/resize/48/quality/80/optimize
+25|4072715|녹는 중 (Feat. 버벌진트)|다비치|236815|2179893|녹는 중|https://cdnimg.melon.co.kr/cm/album/images/021/79/893/2179893_500.jpg/melon/resize/48/quality/80/optimize
+26|4105654|이게 무슨 일이야|B1A4|535440|2184027|이게 무슨 일이야|https://cdnimg.melon.co.kr/cm/album/images/021/84/027/2184027_500.jpg/melon/resize/48/quality/80/optimize
+27|4129422|늑대와 미녀 (Wolf)|EXO|724619|2187253|The 1st Album XOXO (KISS＆HUG)|https://cdnimg.melon.co.kr/cm/album/images/021/87/253/2187253_500.jpg/melon/resize/48/quality/80/optimize
+28|4131930|스모키걸 (Smoky Girl)|엠블랙|436980|2187634|SEXY BEAT|https://cdnimg.melon.co.kr/cm/album/images/021/87/634/2187634_500.jpg/melon/resize/48/quality/80/optimize
+29|4076051|Love Blossom (러브블러썸)|케이윌|175139|2180379|The 3rd Album Part.2 'Love Blossom (러브블러썸)'|https://cdnimg.melon.co.kr/cm/album/images/021/80/379/2180379_500.jpg/melon/resize/48/quality/80/optimize
+30|4105693|나를 잊지말아요|수지 (SUZY)|514741|2184034|구가의 서 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/021/84/034/2184034_500.jpg/melon/resize/48/quality/80/optimize
+31|4054983|기대해|걸스데이|482762|2177822|기대|https://cdnimg.melon.co.kr/cm/album/images/021/77/822/2177822_500.jpg/melon/resize/48/quality/80/optimize
+32|4103251|우리가 헤어진 진짜 이유|윤하 (YOUNHA)|203912|2183671|Just Listen|https://cdnimg.melon.co.kr/cm/album/images/021/83/671/2183671_500.jpg/melon/resize/48/quality/80/optimize
+33|4116789|This Love|신화|100078|2185501|The Classic|https://cdnimg.melon.co.kr/cm/album/images/021/85/501/2185501_500.jpg/melon/resize/48/quality/80/optimize
+34|4129654|넌 최고야|별|27033|2187271|넌 최고야|https://cdnimg.melon.co.kr/cm/album/images/021/87/271/2187271_500.jpg/melon/resize/48/quality/80/optimize
+35|4047160|거북이|다비치|236815|2176844|Mystic Ballad Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/76/844/2176844_500.jpg/melon/resize/48/quality/80/optimize
+36|4100916|전원일기 (田園日記) (Feat. 이단옆차기 & 태운)|티아라 N4|721792|2183353|전원일기|https://cdnimg.melon.co.kr/cm/album/images/021/83/353/2183353_500.jpg/melon/resize/48/quality/80/optimize
+37|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+38|4074419|어때 (Feat. 하림)|긱스 (Geeks)|525805|2180147|어때|https://cdnimg.melon.co.kr/cm/album/images/021/80/147/2180147_500.jpg/melon/resize/48/quality/80/optimize
+39|4099386|유리 심장 (Feat. 용준형 Of 비스트)|린|8530|2181061|8th #1 유리 심장|https://cdnimg.melon.co.kr/cm/album/images/021/81/061/2181061_500.jpg/melon/resize/48/quality/80/optimize
+40|4115516|헤어지자|서인영|26265|2185326|Forever Young|https://cdnimg.melon.co.kr/cm/album/images/021/85/326/2185326_500.jpg/melon/resize/48/quality/80/optimize
+41|4053240|Crescendo (크레셴도)|AKMU (악뮤)|712452|2177639|SBS K팝 스타 시즌2 TOP 6|https://cdnimg.melon.co.kr/cm/album/images/021/77/639/2177639_500.jpg/melon/resize/48/quality/80/optimize
+42|4070103|Rose|이하이|646171|2177337|First Love|https://cdnimg.melon.co.kr/cm/album/images/021/77/337/2177337_500.jpg/melon/resize/48/quality/80/optimize
+43|4105676|하.니.뿐.|2PM|259822|2184031|Grown|https://cdnimg.melon.co.kr/cm/album/images/021/84/031/2184031_500.jpg/melon/resize/48/quality/80/optimize
+44|4076109|외국인의 고백|AKMU (악뮤)|712452|2180390|SBS K팝 스타 시즌2 TOP 3 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/80/390/2180390_500.jpg/melon/resize/48/quality/80/optimize
+45|4082812|좋아 (JOAH)|박재범|443420|2181104|JOAH|https://cdnimg.melon.co.kr/cm/album/images/021/81/104/2181104_500.jpg/melon/resize/48/quality/80/optimize
+46|4098101|귀여운 남자|JUNIEL(서아)|673198|2182978|Fall in L|https://cdnimg.melon.co.kr/cm/album/images/021/82/978/2182978_500.jpg/melon/resize/48/quality/80/optimize
+47|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+48|4095729|Hello (Feat. 버벌진트)|조용필|19|2182627|Hello|https://cdnimg.melon.co.kr/cm/album/images/021/82/627/2182627_500.jpg/melon/resize/48/quality/80/optimize
+49|4132143|컬러링|김예림 (Lim Kim)|643851|2187662|A Voice|https://cdnimg.melon.co.kr/cm/album/images/021/87/662/2187662_500.jpg/melon/resize/48/quality/80/optimize
+50|4105677|이 노래를 듣고 돌아와|2PM|259822|2184031|Grown|https://cdnimg.melon.co.kr/cm/album/images/021/84/031/2184031_500.jpg/melon/resize/48/quality/80/optimize

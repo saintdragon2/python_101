@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|711628|광(狂)|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+52|926198|사랑과 우정 사이|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+53|926192|비 오는 거리|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+54|927045|Bump!!!|M (이민우)|1742|307622|IInd Winds|https://cdnimg.melon.co.kr/cm/album/images/003/07/622/307622_500.jpg/melon/resize/48/quality/80/optimize
+55|732513|벌|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+56|916033|첫사랑|파란|173323|307405|Paran The First|https://cdnimg.melon.co.kr/cm/album/images/003/07/405/307405_500.jpg/melon/resize/48/quality/80/optimize
+57|845580|천하무적 (Feat. 박장근 Of Supersta)|MC몽|11538|302961|His Story|https://cdnimg.melon.co.kr/cm/album/images/003/02/961/302961_500.jpg/melon/resize/48/quality/80/optimize
+58|863656|경고|SS501|170541|304287|SS501|https://cdnimg.melon.co.kr/cm/album/images/003/04/287/304287_500.jpg/melon/resize/48/quality/80/optimize
+59|926197|이별 아닌 이별|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+60|896242|활주 ('나루토' 여는 노래)|버즈|160091|306248|We 3 (투니버스 만화영화 주제가 Best)|https://cdnimg.melon.co.kr/cm/album/images/003/06/248/306248_500.jpg/melon/resize/48/quality/80/optimize
+61|851423|흩어진 나날들|박효신|1191|303582|Neo Classicism|https://cdnimg.melon.co.kr/cm/album/images/003/03/582/303582_500.jpg/melon/resize/48/quality/80/optimize
+62|926195|유리창엔 비|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+63|926194|사랑의 썰물|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+64|928700|Good-Bye Luv..|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+65|926200|눈물 나는 날에는|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+66|926196|소녀|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+67|-1|All The Way|Craig David|4804|306176|The Story Goes|https://cdnimg.melon.co.kr/cm/album/images/003/06/176/306176_500.jpg/melon/resize/48/quality/80/optimize
+68|904640|경고|코요태|100022|307172|필업 (Feel Up)|https://cdnimg.melon.co.kr/cm/album/images/003/07/172/307172_500.jpg/melon/resize/48/quality/80/optimize
+69|902092|어쩌다가 (New Ver.)|전초아|37649|306901|어쩌다가|https://cdnimg.melon.co.kr/cm/album/images/003/06/901/306901_500.jpg/melon/resize/48/quality/80/optimize
+70|864910|행운|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+71|928697|일년이면|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+72|925420|베르사이유의 장미|네미시스|161201|307514|베르사이유의 장미 (La Rose De Versailles)|https://cdnimg.melon.co.kr/cm/album/images/003/07/514/307514_500.jpg/melon/resize/48/quality/80/optimize
+73|889549|바본가봐|아이비|171127|305450|My Sweet And Free Day|https://cdnimg.melon.co.kr/cm/album/images/003/05/450/305450_500.jpg/melon/resize/48/quality/80/optimize
+74|863192|Hi Ya Ya 여름날|동방신기 (TVXQ!)|108316|304259|2005 Summer: Hi Ya Ya (여름날) (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/04/259/304259_500.jpg/melon/resize/48/quality/80/optimize
+75|905584|오늘은 헤어지는 날|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+76|916287|바보 (Unforgettable)|동방신기 (TVXQ!)|108316|307424|Rising Sun|https://cdnimg.melon.co.kr/cm/album/images/003/07/424/307424_500.jpg/melon/resize/48/quality/80/optimize
+77|905859|이름|엠투엠 (M To M)|108581|307288|M to M|https://cdnimg.melon.co.kr/cm/album/images/003/07/288/307288_500.jpg/melon/resize/48/quality/80/optimize
+78|898404|광 (Club Mix)|SG 워너비|108363|306508|The Voices - 광|https://cdnimg.melon.co.kr/cm/album/images/003/06/508/306508_500.jpg/melon/resize/48/quality/80/optimize
+79|930037|너의 결혼식에서 Part 2 (Feat. 데니안)|홍경민|891|307842|Emotion In Memory|https://cdnimg.melon.co.kr/cm/album/images/003/07/842/307842_500.jpg/melon/resize/48/quality/80/optimize
+80|926201|혜화동|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+81|-1|사랑해요|이소은|984|307032|Think Of Me (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/07/032/307032_500.jpg/melon/resize/48/quality/80/optimize
+82|926204|단발머리|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+83|891745|Tic Tac Toe (틱택토)|부가킹즈|101218|305657|The Renaissance|https://cdnimg.melon.co.kr/cm/album/images/003/05/657/305657_500.jpg/melon/resize/48/quality/80/optimize
+84|854324|열을 세어 보아요 (롯데가스보일러 CF 이민영편)|이승철|1010|303787|20th Anniversary - A Walk To Remember|https://cdnimg.melon.co.kr/cm/album/images/003/03/787/303787_500.jpg/melon/resize/48/quality/80/optimize
+85|833906|What You Waiting For? (KTFT 송혜교편)|Gwen Stefani|39543|301627|Love, Angel, Music, Baby|https://cdnimg.melon.co.kr/cm/album/images/003/01/627/301627_500.jpg/melon/resize/48/quality/80/optimize
+86|926202|종이학|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+87|928698|울보|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+88|905583|어른아이|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+89|863658|Never Again|SS501|170541|304287|SS501|https://cdnimg.melon.co.kr/cm/album/images/003/04/287/304287_500.jpg/melon/resize/48/quality/80/optimize
+90|899288|곁에서만 들리는|별|27033|306482|이별에 대처하는 우리의 자세 OST|https://cdnimg.melon.co.kr/cm/album/images/003/06/482/306482_500.jpg/melon/resize/48/quality/80/optimize
+91|926203|가을 사랑|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+92|901159|Wake Up|Hilary Duff|39088|306844|Most Wanted|https://cdnimg.melon.co.kr/cm/album/images/003/06/844/306844_500.jpg/melon/resize/48/quality/80/optimize
+93|842020|거울|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+94|887098|You Gotta Be (현대자동차 투싼 CF)|Des'ree|27449|305248|I Ain't Movin'|https://cdnimg.melon.co.kr/cm/album/images/003/05/248/305248_500.jpg/melon/resize/48/quality/80/optimize
+95|916284|Tonight|동방신기 (TVXQ!)|108316|307424|Rising Sun|https://cdnimg.melon.co.kr/cm/album/images/003/07/424/307424_500.jpg/melon/resize/48/quality/80/optimize
+96|897595|쿵짝|원투|106928|306432|Ladies First|https://cdnimg.melon.co.kr/cm/album/images/003/06/432/306432_500.jpg/melon/resize/48/quality/80/optimize
+97|928699|하늘을 걸어서|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+98|858981|아파요|김현정|1177|304018|Fun Town 20|https://cdnimg.melon.co.kr/cm/album/images/003/04/018/304018_500.jpg/melon/resize/48/quality/80/optimize
+99|926205|내 마음의 보석상자 (Music Video edit)|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+100|903408|Red Sun (Feat. Brian of FlytotheSky)|장우혁|1585|307085|No More Drama|https://cdnimg.melon.co.kr/cm/album/images/003/07/085/307085_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+2|24105|Jumpo Mambo|쿨 (COOL)|100004|2651|Cool 6ix|https://cdnimg.melon.co.kr/cm/album/images/000/02/651/2651_500.jpg/melon/resize/48/quality/80/optimize
+3|19094|Double|김건모|889|2327|Kim Gunmo #007 Another Days...|https://cdnimg.melon.co.kr/cm/album/images/000/02/327/2327_500.jpg/melon/resize/48/quality/80/optimize
+4|24971|꿈을 모아서 (Just In Love)|S.E.S.|100016|2653|Surprise|https://cdnimg.melon.co.kr/cm/album/images/000/02/653/2653_500.jpg/melon/resize/48/quality/80/optimize
+5|18357|좋은 사람 (Feat. 김형중)|토이|100014|2343|Fermata|https://cdnimg.melon.co.kr/cm/album/images/000/02/343/2343_500.jpg/melon/resize/48/quality/80/optimize
+6|8302|내게 오는 길|성시경|3305|2138|처음처럼|https://cdnimg.melon.co.kr/cm/album/images/000/02/138/2138_500.jpg/melon/resize/48/quality/80/optimize
+7|20226|난 여자가 있는데 (CF - 컴팩 프리자리오)|박진영|1130|2408|놀이|https://cdnimg.melon.co.kr/cm/album/images/000/02/408/2408_500.jpg/melon/resize/48/quality/80/optimize
+8|503339|파도|유엔|100737|33475|Traveling You|https://cdnimg.melon.co.kr/cm/album/images/000/33/475/33475_500.jpg/melon/resize/48/quality/80/optimize
+9|1606519|Love Is (Dance Mega Mix Ver.)|터보|100059|348459|터보 History|https://cdnimg.melon.co.kr/cm/album/images/003/48/459/348459_500.jpg/melon/resize/48/quality/80/optimize
+10|1096487|내게 와 줘|YB|100168|313103|An Urbanite|https://cdnimg.melon.co.kr/cm/album/images/003/13/103/313103_500.jpg/melon/resize/48/quality/80/optimize
+11|24136|해변 Mood Song|윤종신|437|2647|그늘|https://cdnimg.melon.co.kr/cm/album/images/000/02/647/2647_500.jpg/melon/resize/48/quality/80/optimize
+12|21746|빛|제이|1203|2483|Beautiful Ones|https://cdnimg.melon.co.kr/cm/album/images/000/02/483/2483_500.jpg/melon/resize/48/quality/80/optimize
+13|24670|믿을진 모르겠지만…|김진표|1136|2623|JP3|https://cdnimg.melon.co.kr/cm/album/images/000/02/623/2623_500.jpg/melon/resize/48/quality/80/optimize
+14|8293|미소천사|성시경|3305|2138|처음처럼|https://cdnimg.melon.co.kr/cm/album/images/000/02/138/2138_500.jpg/melon/resize/48/quality/80/optimize
+15|104759|Baby Baby|조규찬|525|8000|Thank You (For Saving My Life)|https://cdnimg.melon.co.kr/cm/album/images/000/08/000/8000_500.jpg/melon/resize/48/quality/80/optimize
+16|24290|Hey, Come On !|신화|100078|2585|Hey, Come On!|https://cdnimg.melon.co.kr/cm/album/images/000/02/585/2585_500.jpg/melon/resize/48/quality/80/optimize
+17|25629|떠난 너|김현정|1177|2760|Wild Beauty|https://cdnimg.melon.co.kr/cm/album/images/000/02/760/2760_500.jpg/melon/resize/48/quality/80/optimize
+18|3013199|구리뱅뱅 (Feat. 1kyne, 난아)|YDG|4770|1068355|Best Of Best|https://cdnimg.melon.co.kr/cm/album/images/010/68/355/1068355_500.jpg/melon/resize/48/quality/80/optimize
+19|90902|Change|소찬휘|3897|4113|Red Change|https://cdnimg.melon.co.kr/cm/album/images/000/04/113/4113_500.jpg/melon/resize/48/quality/80/optimize
+20|25594|기다리는 이유|임창정|1142|2753|Different Color|https://cdnimg.melon.co.kr/cm/album/images/000/02/753/2753_500.jpg/melon/resize/48/quality/80/optimize
+21|25841|나인(裸人)|김원준|17|2749|Dearro Nine|https://cdnimg.melon.co.kr/cm/album/images/000/02/749/2749_500.jpg/melon/resize/48/quality/80/optimize
+22|19776|추락|백지영|1118|2391|Tres|https://cdnimg.melon.co.kr/cm/album/images/000/02/391/2391_500.jpg/melon/resize/48/quality/80/optimize
+23|104868|아름다운 날들|장혜진|5675|4733|It's My Life: 6집 & Best|https://cdnimg.melon.co.kr/cm/album/images/000/04/733/4733_500.jpg/melon/resize/48/quality/80/optimize
+24|19571|축복|강성훈|1677|2369|비상(飛翔)|https://cdnimg.melon.co.kr/cm/album/images/000/02/369/2369_500.jpg/melon/resize/48/quality/80/optimize
+25|10398|하루|김범수|6502|721|Remember|https://cdnimg.melon.co.kr/cm/album/images/000/00/721/721_500.jpg/melon/resize/48/quality/80/optimize
+26|8274|Je T'aime|해이|3310|2145|Hey|https://cdnimg.melon.co.kr/cm/album/images/000/02/145/2145_500.jpg/melon/resize/48/quality/80/optimize
+27|20951|Crying|플라워|100391|2472|Bandlife|https://cdnimg.melon.co.kr/cm/album/images/000/02/472/2472_500.jpg/melon/resize/48/quality/80/optimize
+28|8305|편지 (Original Ver.)|최재훈|1087|2137|Trap|https://cdnimg.melon.co.kr/cm/album/images/000/02/137/2137_500.jpg/melon/resize/48/quality/80/optimize
+29|11109|팔짜|더 자두|100445|1593|Jadu Version 0001|https://cdnimg.melon.co.kr/cm/album/images/000/01/593/1593_500.jpg/melon/resize/48/quality/80/optimize
+30|33037|Is Ask Hizay? (=Is Ack Here?)|드렁큰 타이거|100027|3278|The Legend Of...|https://cdnimg.melon.co.kr/cm/album/images/000/03/278/3278_500.jpg/melon/resize/48/quality/80/optimize
+31|21360|밤이 깊었네|크라잉넛 (CRYING NUT)|100766|2461|하수연가 (下水戀歌)|https://cdnimg.melon.co.kr/cm/album/images/000/02/461/2461_500.jpg/melon/resize/48/quality/80/optimize
+32|7654|아주 오래된 연인들|클릭비 (Click-B)|100070|2106|Click-B 3|https://cdnimg.melon.co.kr/cm/album/images/000/02/106/2106_500.jpg/melon/resize/48/quality/80/optimize
+33|10837|동경|박효신|1191|1111|Second Story|https://cdnimg.melon.co.kr/cm/album/images/000/01/111/1111_500.jpg/melon/resize/48/quality/80/optimize
+34|20966|비(悲)|엔알지 (NRG)|100010|2473|비(悲) - Sorrow|https://cdnimg.melon.co.kr/cm/album/images/000/02/473/2473_500.jpg/melon/resize/48/quality/80/optimize
+35|3526118|마지막 시간|박정현|1099|2007604|Lena Park Forever|https://cdnimg.melon.co.kr/cm/album/images/020/07/604/2007604_500.jpg/melon/resize/48/quality/80/optimize
+36|20885|Game Over|베이비복스|100032|2463|Boyish Story|https://cdnimg.melon.co.kr/cm/album/images/000/02/463/2463_500.jpg/melon/resize/48/quality/80/optimize
+37|90784|백일기도|샵|100127|5352|Feel So Good|https://cdnimg.melon.co.kr/cm/album/images/000/05/352/5352_500.jpg/melon/resize/48/quality/80/optimize
+38|2696149|그녀의 집앞에서 (Feat. 양해중)|내추럴 플러스|100513|903151|Natural The 1st|https://cdnimg.melon.co.kr/cm/album/images/009/03/151/903151_500.jpg/melon/resize/48/quality/80/optimize
+39|62176|끝|싸이 (PSY)|3865|981|Psy From The Psycho World|https://cdnimg.melon.co.kr/cm/album/images/000/00/981/981_500.jpg/melon/resize/48/quality/80/optimize
+40|3680|너를 위해|임재범|4838|51|Story Of Two Years|https://cdnimg.melon.co.kr/cm/album/images/000/00/051/51_500.jpg/melon/resize/48/quality/80/optimize
+41|28132|연인(戀人)|박상민|956|2871|Feel|https://cdnimg.melon.co.kr/cm/album/images/000/02/871/2871_500.jpg/melon/resize/48/quality/80/optimize
+42|19175|고백|이승철|1010|1865|Confession|https://cdnimg.melon.co.kr/cm/album/images/000/01/865/1865_500.jpg/melon/resize/48/quality/80/optimize
+43|2530|첨이야|홍경민|891|1864|Hong Kyung Min|https://cdnimg.melon.co.kr/cm/album/images/000/01/864/1864_500.jpg/melon/resize/48/quality/80/optimize
+44|90434|사랑하니까|문차일드|100185|5342|Moon Child 2집|https://cdnimg.melon.co.kr/cm/album/images/000/05/342/5342_500.jpg/melon/resize/48/quality/80/optimize
+45|5119|Oh! My Boy|샤크라|100068|1923|Chakra‘Ca 2집|https://cdnimg.melon.co.kr/cm/album/images/000/01/923/1923_500.jpg/melon/resize/48/quality/80/optimize
+46|68576|나의 노래|이현우|1176|4643|Let's Go Fishing|https://cdnimg.melon.co.kr/cm/album/images/000/04/643/4643_500.jpg/melon/resize/48/quality/80/optimize
+47|6855|I' ll Be There|이브|100126|2043|The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/000/02/043/2043_500.jpg/melon/resize/48/quality/80/optimize
+48|78002|하나의 사랑|박상민|956|3850|The Road|https://cdnimg.melon.co.kr/cm/album/images/000/03/850/3850_500.jpg/melon/resize/48/quality/80/optimize
+49|53615|사랑일뿐야|김민우|699|7975|사랑일뿐야|https://cdnimg.melon.co.kr/cm/album/images/000/07/975/7975_500.jpg/melon/resize/48/quality/80/optimize
+50|23345|미쓰코리아|자우림|100094|2618|Jaurim 'True' Live (Live)|https://cdnimg.melon.co.kr/cm/album/images/000/02/618/2618_500.jpg/melon/resize/48/quality/80/optimize

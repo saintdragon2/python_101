@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|7896508|스물셋|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+52|7912749|아마도 그건|Crush~로꼬|674710~688432|2648529|투유 프로젝트 - 슈가맨 Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/48/529/2648529_500.jpg/melon/resize/48/quality/80/optimize
+53|8086949|19금 FXXK WIT US (Feat. DOK2)|이하이|646171|2671866|SEOULITE|https://cdnimg.melon.co.kr/cm/album/images/026/71/866/2671866_500.jpg/melon/resize/48/quality/80/optimize
+54|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+55|5748406|심쿵해 (Heart Attack)|AOA|686920|2325321|Heart Attack|https://cdnimg.melon.co.kr/cm/album/images/023/25/321/2325321_500.jpg/melon/resize/48/quality/80/optimize
+56|8075490|ONLY ONE|솔지하니 (EXID)|956983|2670453|ONLY ONE|https://cdnimg.melon.co.kr/cm/album/images/026/70/453/2670453_500.jpg/melon/resize/48/quality/80/optimize
+57|8068877|Because of You|윤미래|1654|2669406|Because of You - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/026/69/406/2669406_500.jpg/melon/resize/48/quality/80/optimize
+58|8091961|덕수궁 돌담길의 봄 (Feat. 10cm)|윤아 (YOONA)|429140|2672488|덕수궁 돌담길의 봄 - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/026/72/488/2672488_500.jpg/melon/resize/48/quality/80/optimize
+59|7956303|나팔바지|싸이 (PSY)|3865|2653861|칠집싸이다|https://cdnimg.melon.co.kr/cm/album/images/026/53/861/2653861_500.jpg/melon/resize/48/quality/80/optimize
+60|7975242|사랑이 맞을거야|윤미래|1654|2656414|사랑이 맞을거야|https://cdnimg.melon.co.kr/cm/album/images/026/56/414/2656414_500.jpg/melon/resize/48/quality/80/optimize
+61|7933703|못먹는 감 (Sour Grapes)|San E~매드클라운|402526~219621|2651133|못먹는 감|https://cdnimg.melon.co.kr/cm/album/images/026/51/133/2651133_500.jpg/melon/resize/48/quality/80/optimize
+62|5826447|겁 (Feat. 태양)|MINO (송민호)|742773|2336184|쇼미더머니 4 Episode 5|https://cdnimg.melon.co.kr/cm/album/images/023/36/184/2336184_500.jpg/melon/resize/48/quality/80/optimize
+63|8091963|보일 듯 말 듯|유주 (여자친구)~선율|858238~913166|2672489|보일 듯 말 듯|https://cdnimg.melon.co.kr/cm/album/images/026/72/489/2672489_500.jpg/melon/resize/48/quality/80/optimize
+64|4774191|Bang Bang|Jessie J~Ariana Grande~Nicki Minaj|510556~597451~475580|2270178|Bang Bang|https://cdnimg.melon.co.kr/cm/album/images/022/70/178/2270178_500.jpg/melon/resize/48/quality/80/optimize
+65|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+66|8086948|OFFICIAL (Feat. Incredivle)|이하이|646171|2671866|SEOULITE|https://cdnimg.melon.co.kr/cm/album/images/026/71/866/2671866_500.jpg/melon/resize/48/quality/80/optimize
+67|7971052|Sing For You|EXO|724619|2655828|SING FOR YOU - 겨울 스페셜 앨범, 2015|https://cdnimg.melon.co.kr/cm/album/images/026/55/828/2655828_500.jpg/melon/resize/48/quality/80/optimize
+68|5719286|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+69|5704397|이럴거면 그러지말지 (Feat. Young K)|백아연|646173|2319508|이럴거면 그러지말지|https://cdnimg.melon.co.kr/cm/album/images/023/19/508/2319508_500.jpg/melon/resize/48/quality/80/optimize
+70|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+71|8081294|그림자 (Feat. 권순일 of 어반자카파)|루이 (긱스)|657072|2671229|그림자|https://cdnimg.melon.co.kr/cm/album/images/026/71/229/2671229_500.jpg/melon/resize/48/quality/80/optimize
+72|7999470|세월이 가면|기현 (Kihyun)|827145|2659854|응답하라 1988 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/026/59/854/2659854_500.jpg/melon/resize/48/quality/80/optimize
+73|7858908|바람이나 좀 쐐 (Feat. 우혜미)|개리|1732|2640915|2002|https://cdnimg.melon.co.kr/cm/album/images/026/40/915/2640915_500.jpg/melon/resize/48/quality/80/optimize
+74|4579468|봄 사랑 벚꽃 말고|HIGH4 (하이포)~아이유|767374~261143|2248659|봄 사랑 벚꽃 말고|https://cdnimg.melon.co.kr/cm/album/images/022/48/659/2248659_500.jpg/melon/resize/48/quality/80/optimize
+75|5702706|꺼내 먹어요|Zion.T|537920|2319240|Eat|https://cdnimg.melon.co.kr/cm/album/images/023/19/240/2319240_500.jpg/melon/resize/48/quality/80/optimize
+76|8038491|BABY BABY|WINNER|775197|2661204|EXIT : E|https://cdnimg.melon.co.kr/cm/album/images/026/61/204/2661204_500.jpg/melon/resize/48/quality/80/optimize
+77|5668985|그 남잔 말야|엠씨더맥스 (M.C the MAX)|161636|2314734|냄새를 보는 소녀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/14/734/2314734_500.jpg/melon/resize/48/quality/80/optimize
+78|5650996|우연히 봄|로꼬~유주 (여자친구)|688432~858238|2312287|냄새를 보는 소녀 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/12/287/2312287_500.jpg/melon/resize/48/quality/80/optimize
+79|7847861|Dumb Dumb|Red Velvet (레드벨벳)|780066|2639273|The Red - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/026/39/273/2639273_500.jpg/melon/resize/48/quality/80/optimize
+80|8034004|What 2 Do (Feat. Crush & Jeff Bernat)|DEAN|880630|2664375|What 2 Do|https://cdnimg.melon.co.kr/cm/album/images/026/64/375/2664375_500.jpg/melon/resize/48/quality/80/optimize
+81|851429|기억속의 먼 그대에게|박효신|1191|303582|Neo Classicism|https://cdnimg.melon.co.kr/cm/album/images/003/03/582/303582_500.jpg/melon/resize/48/quality/80/optimize
+82|5835766|Okey Dokey|MINO (송민호)~지코 (ZICO)|742773~602056|2337492|쇼미더머니 4 Episode 6|https://cdnimg.melon.co.kr/cm/album/images/023/37/492/2337492_500.jpg/melon/resize/48/quality/80/optimize
+83|8062901|꽃같아 (Feat. 버벌진트) (Prod. by G-Park)|유재환|680551|2668553|꽃같아 (Feat. 버벌진트)|https://cdnimg.melon.co.kr/cm/album/images/026/68/553/2668553_500.jpg/melon/resize/48/quality/80/optimize
+84|7860122|보통연애 (Feat. 박보람)|박경|650832|2641140|보통연애|https://cdnimg.melon.co.kr/cm/album/images/026/41/140/2641140_500.jpg/melon/resize/48/quality/80/optimize
+85|8059290|Tell Me (What Is Love)|유영진~디오 (D.O.)|1030~672853|2668080|Tell Me (What Is Love) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/026/68/080/2668080_500.jpg/melon/resize/48/quality/80/optimize
+86|7964823|네게 줄 수 있는건 오직 사랑뿐|디셈버|439021|2654874|응답하라 1988 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/54/874/2654874_500.jpg/melon/resize/48/quality/80/optimize
+87|5546489|유리구슬 (Glass Bead)|여자친구 (GFRIEND)|828478|2299776|여자친구 1st Mini Album 'Season Of Glass'|https://cdnimg.melon.co.kr/cm/album/images/022/99/776/2299776_500.jpg/melon/resize/48/quality/80/optimize
+88|7953785|RUN|방탄소년단|672375|2653551|화양연화 pt.2|https://cdnimg.melon.co.kr/cm/album/images/026/53/551/2653551_500.jpg/melon/resize/48/quality/80/optimize
+89|7991610|덤앤더머 (DUMB & DUMBER)|iKON|895741|2658619|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/58/619/2658619_500.jpg/melon/resize/48/quality/80/optimize
+90|8074965|같이살자|V.O.S|108794|2670342|같이살자|https://cdnimg.melon.co.kr/cm/album/images/026/70/342/2670342_500.jpg/melon/resize/48/quality/80/optimize
+91|8061244|Press Your Number|태민 (TAEMIN)|629371|2668351|Press It - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/026/68/351/2668351_500.jpg/melon/resize/48/quality/80/optimize
+92|8090058|오늘은 가지마 (Duet Ver.)|임세준~벤|622112~655051|2672231|오늘은 가지마 (Made in THE VIBE)|https://cdnimg.melon.co.kr/cm/album/images/026/72/231/2672231_500.jpg/melon/resize/48/quality/80/optimize
+93|8038718|싫어 (Hate)|4minute|417985|2664983|Act. 7|https://cdnimg.melon.co.kr/cm/album/images/026/64/983/2664983_500.jpg/melon/resize/48/quality/80/optimize
+94|8049050|질투 나요 BABY|AOA CREAM|945586|2666474|질투 나요 BABY|https://cdnimg.melon.co.kr/cm/album/images/026/66/474/2666474_500.jpg/melon/resize/48/quality/80/optimize
+95|7870705|리듬 타 (RHYTHM TA)|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+96|5721440|LOVE ME RIGHT|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize
+97|5644620|CALL ME BABY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+98|7971051|불공평해 (Unfair)|EXO|724619|2655828|SING FOR YOU - 겨울 스페셜 앨범, 2015|https://cdnimg.melon.co.kr/cm/album/images/026/55/828/2655828_500.jpg/melon/resize/48/quality/80/optimize
+99|8077742|싶은데|라디 (Ra. D)|8876|2670811|싶은데 & Good Girl|https://cdnimg.melon.co.kr/cm/album/images/026/70/811/2670811_500.jpg/melon/resize/48/quality/80/optimize
+100|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|30054344|TT|TWICE (트와이스)|905701|10008861|TWICEcoaster : LANE 1|https://cdnimg.melon.co.kr/cm/album/images/100/08/861/10008861_500.jpg/melon/resize/48/quality/80/optimize
+2|30069773|불장난|BLACKPINK|995169|10011491|SQUARE TWO|https://cdnimg.melon.co.kr/cm/album/images/100/11/491/10011491_500.jpg/melon/resize/48/quality/80/optimize
+3|9620469|우주를 줄게|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+4|30088156|가끔 (Feat. Crush, 기리보이)|긱스 (Geeks)|525805|10014211|가끔 (Feat. Crush, 기리보이)|https://cdnimg.melon.co.kr/cm/album/images/100/14/211/10014211_500.jpg/melon/resize/48/quality/80/optimize
+5|30072072|11:11|태연 (TAEYEON)|236797|10011815|11:11|https://cdnimg.melon.co.kr/cm/album/images/100/11/815/10011815_500.jpg/melon/resize/48/quality/80/optimize
+6|30040810|너무너무너무|아이오아이 (I.O.I)|960251|10006841|miss me?|https://cdnimg.melon.co.kr/cm/album/images/100/06/841/10006841_500.jpg/melon/resize/48/quality/80/optimize
+7|5398990|이 소설의 끝을 다시 써보려 해|한동근|711476|2284064|The 1st Digital Single '이 소설의 끝을 다시 써보려 해'|https://cdnimg.melon.co.kr/cm/album/images/022/84/064/2284064_500.jpg/melon/resize/48/quality/80/optimize
+8|30063772|남아있어 (Feat. Crush)|로꼬|688432|10010548|남아있어|https://cdnimg.melon.co.kr/cm/album/images/100/10/548/10010548_500.jpg/melon/resize/48/quality/80/optimize
+9|9631530|내가 저지른 사랑|임창정|1142|2708957|I'M|https://cdnimg.melon.co.kr/cm/album/images/027/08/957/2708957_500.jpg/melon/resize/48/quality/80/optimize
+10|30072075|널 너무 사랑해서 (Feat. 정은지 of 에이핑크)|MC몽|11538|10011816|U.F.O|https://cdnimg.melon.co.kr/cm/album/images/100/11/816/10011816_500.jpg/melon/resize/48/quality/80/optimize
+11|9614761|그대라는 사치|한동근|711476|2706226|The 3rd Digital Single '그대라는 사치'|https://cdnimg.melon.co.kr/cm/album/images/027/06/226/2706226_500.jpg/melon/resize/48/quality/80/optimize
+12|8143111|돌아오지마 (Feat. 용준형 Of 비스트)|헤이즈 (Heize)|751611|2679308|돌아오지마|https://cdnimg.melon.co.kr/cm/album/images/026/79/308/2679308_500.jpg/melon/resize/48/quality/80/optimize
+13|30035555|내 옆에 그대인 걸|다비치|236815|10005930|50 X HALF|https://cdnimg.melon.co.kr/cm/album/images/100/05/930/10005930_500.jpg/melon/resize/48/quality/80/optimize
+14|30011624|숨|박효신|1191|10001952|I am A Dreamer|https://cdnimg.melon.co.kr/cm/album/images/100/01/952/10001952_500.jpg/melon/resize/48/quality/80/optimize
+15|30079086|Decalcomanie (데칼코마니)|마마무 (Mamamoo)|750053|10012900|MEMORY|https://cdnimg.melon.co.kr/cm/album/images/100/12/900/10012900_500.jpg/melon/resize/48/quality/80/optimize
+16|9620473|나만 안되는 연애|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+17|30038185|어떻게 지내|Crush|674710|10006417|wonderlust|https://cdnimg.melon.co.kr/cm/album/images/100/06/417/10006417_500.jpg/melon/resize/48/quality/80/optimize
+18|30029173|피 땀 눈물|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+19|9634954|러시안 룰렛 (Russian Roulette)|Red Velvet (레드벨벳)|780066|2709585|Russian Roulette - The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/027/09/585/2709585_500.jpg/melon/resize/48/quality/80/optimize
+20|30049271|All I Wanna Do (K) (Feat. Hoody, Loco)|박재범|443420|10008163|EVERYTHING YOU WANTED|https://cdnimg.melon.co.kr/cm/album/images/100/08/163/10008163_500.jpg/melon/resize/48/quality/80/optimize
+21|8155478|심술|볼빨간사춘기|792022|2680986|Half Album RED ICKLE|https://cdnimg.melon.co.kr/cm/album/images/026/80/986/2680986_500.jpg/melon/resize/48/quality/80/optimize
+22|8199190|널 사랑하지 않아|어반자카파|420527|2687420|스틸|https://cdnimg.melon.co.kr/cm/album/images/026/87/420/2687420_500.jpg/melon/resize/48/quality/80/optimize
+23|9613173|목요일 밤 (Feat. 빈지노)|어반자카파|420527|2705941|목요일 밤|https://cdnimg.melon.co.kr/cm/album/images/027/05/941/2705941_500.jpg/melon/resize/48/quality/80/optimize
+24|30066102|Hey Mama!|EXO-CBX (첸백시)|1228017|10010921|Hey Mama! - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/100/10/921/10010921_500.jpg/melon/resize/48/quality/80/optimize
+25|8304594|휘파람|BLACKPINK|995169|2703168|SQUARE ONE|https://cdnimg.melon.co.kr/cm/album/images/027/03/168/2703168_500.jpg/melon/resize/48/quality/80/optimize
+26|30076504|이별을 배웠어 (Always In My Heart)|임슬옹~조이 (JOY)|474423~780922|10012493|이별을 배웠어 (Always In My Heart) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/100/12/493/10012493_500.jpg/melon/resize/48/quality/80/optimize
+27|30035184|빌려줄게|신용재 (2F)|510537|10005885|EMPATHY|https://cdnimg.melon.co.kr/cm/album/images/100/05/885/10005885_500.jpg/melon/resize/48/quality/80/optimize
+28|9629220|구르미 그린 달빛|거미|30358|2708558|구르미 그린 달빛 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/027/08/558/2708558_500.jpg/melon/resize/48/quality/80/optimize
+29|8158031|CHEER UP|TWICE (트와이스)|905701|2681333|PAGE TWO|https://cdnimg.melon.co.kr/cm/album/images/026/81/333/2681333_500.jpg/melon/resize/48/quality/80/optimize
+30|8203900|너였다면|정승환|792091|2687963|또 오해영 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/87/963/2687963_500.jpg/melon/resize/48/quality/80/optimize
+31|9609354|If You|에일리(Ailee)|629831|2705328|If You|https://cdnimg.melon.co.kr/cm/album/images/027/05/328/2705328_500.jpg/melon/resize/48/quality/80/optimize
+32|8308231|puzzle|C JAMM~BewhY (비와이)|729560~739740|2703714|puzzle|https://cdnimg.melon.co.kr/cm/album/images/027/03/714/2703714_500.jpg/melon/resize/48/quality/80/optimize
+33|9647324|Dancing King|유재석~EXO|9842~724619|2711209|Dancing King - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/027/11/209/2711209_500.jpg/melon/resize/48/quality/80/optimize
+34|8271355|And July (Feat. DEAN, DJ Friz)|헤이즈 (Heize)|751611|2688360|And July|https://cdnimg.melon.co.kr/cm/album/images/026/88/360/2688360_500.jpg/melon/resize/48/quality/80/optimize
+35|30079094|기도 (I'll Be Your Man)|비투비|647971|10012901|NEW MEN|https://cdnimg.melon.co.kr/cm/album/images/100/12/901/10012901_500.jpg/melon/resize/48/quality/80/optimize
+36|8268275|네 생각|존박|28772|2697716|네 생각|https://cdnimg.melon.co.kr/cm/album/images/026/97/716/2697716_500.jpg/melon/resize/48/quality/80/optimize
+37|8109412|D (half moon) (Feat. 개코)|DEAN|880630|2674623|130 Mood : TRBL|https://cdnimg.melon.co.kr/cm/album/images/026/74/623/2674623_500.jpg/melon/resize/48/quality/80/optimize
+38|8261338|Day Day (Feat. 박재범) (Prod. by GRAY)|BewhY (비와이)|739740|2696637|쇼미더머니 5 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/48/quality/80/optimize
+39|30084667|그런 밤|어반자카파|420527|10013711|이번 주 아내가 바람을 핍니다 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/100/13/711/10013711_500.jpg/melon/resize/48/quality/80/optimize
+40|30025065|세 단어|젝스키스|100052|10004129|세 단어|https://cdnimg.melon.co.kr/cm/album/images/100/04/129/10004129_500.jpg/melon/resize/48/quality/80/optimize
+41|9646401|다정하게, 안녕히|성시경|3305|2711070|구르미 그린 달빛 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/027/11/070/2711070_500.jpg/melon/resize/48/quality/80/optimize
+42|8252408|Forever (Prod. By GRAY)|BewhY (비와이)|739740|2695189|쇼미더머니 5 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/026/95/189/2695189_500.jpg/melon/resize/48/quality/80/optimize
+43|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+44|30105621|나비잠 (Sweet Dream)|김희철~민경훈|439782~46187|10016734|나비잠 (Sweet Dream) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/100/16/734/10016734_500.jpg/melon/resize/48/quality/80/optimize
+45|8262125|너 그리고 나 (NAVILLERA)|여자친구 (GFRIEND)|828478|2696751|여자친구 The 1st Album 'LOL'|https://cdnimg.melon.co.kr/cm/album/images/026/96/751/2696751_500.jpg/melon/resize/48/quality/80/optimize
+46|8217164|Monster|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+47|9611490|너를 위해|첸 (CHEN)~백현 (BAEKHYUN)~시우민 (XIUMIN)|715176~672859~715175|2705644|달의 연인 - 보보경심 려 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/027/05/644/2705644_500.jpg/melon/resize/48/quality/80/optimize
+48|30072074|블랙홀 (Feat. 에일리)|MC몽|11538|10011816|U.F.O|https://cdnimg.melon.co.kr/cm/album/images/100/11/816/10011816_500.jpg/melon/resize/48/quality/80/optimize
+49|9606657|Lotto|EXO|724619|2704940|LOTTO - The 3rd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/027/04/940/2704940_500.jpg/melon/resize/48/quality/80/optimize
+50|7861392|또 다시 사랑|임창정|1142|2638798|또 다시 사랑|https://cdnimg.melon.co.kr/cm/album/images/026/38/798/2638798_500.jpg/melon/resize/48/quality/80/optimize

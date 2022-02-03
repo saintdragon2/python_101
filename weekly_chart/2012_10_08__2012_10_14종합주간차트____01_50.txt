@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3922586|춥다 (Feat. 이하이)|에픽하이 (EPIK HIGH)|108356|2152351|99|https://cdnimg.melon.co.kr/cm/album/images/021/52/351/2152351_500.jpg/melon/resize/48/quality/80/optimize
+2|3911750|피어나|가인|428821|2150966|Talk About S.|https://cdnimg.melon.co.kr/cm/album/images/021/50/966/2150966_500.jpg/melon/resize/48/quality/80/optimize
+3|3910821|바람기억|나얼|3959|2150856|Principle Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/48/quality/80/optimize
+4|3906377|크레용 (Crayon)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+5|3890826|All For You|서인국~정은지|436700~644871|2148020|응답하라 1997 Love Story Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/48/020/2148020_500.jpg/melon/resize/48/quality/80/optimize
+6|3922575|Fine Thank You And You?|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+7|3906383|Missing You (Feat. 김윤아 Of 자우림)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+8|3903316|립스틱 (LIPSTICK)|오렌지 캬라멜|477632|2149881|립스틱 (LIPSTICK)|https://cdnimg.melon.co.kr/cm/album/images/021/49/881/2149881_500.jpg/melon/resize/48/quality/80/optimize
+9|3922071|이러지마 제발 (Please Don't...)|케이윌|175139|2152296|The 3rd Album Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/52/296/2152296_500.jpg/melon/resize/48/quality/80/optimize
+10|3884575|I Need You|허각~지아|28801~227595|2145068|I Need You|https://cdnimg.melon.co.kr/cm/album/images/021/45/068/2145068_500.jpg/melon/resize/48/quality/80/optimize
+11|3893934|SEXY LOVE|티아라|412000|2148527|MIRAGE|https://cdnimg.melon.co.kr/cm/album/images/021/48/527/2148527_500.jpg/melon/resize/48/quality/80/optimize
+12|3853978|강남스타일|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+13|3904614|POISON|시크릿|435121|2150120|POISON|https://cdnimg.melon.co.kr/cm/album/images/021/50/120/2150120_500.jpg/melon/resize/48/quality/80/optimize
+14|3894730|19금 그XX|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+15|3914860|사랑은 눈꽃처럼|XIA (준수)|52607|2151384|세상 어디에도 없는 착한남자 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/51/384/2151384_500.jpg/melon/resize/48/quality/80/optimize
+16|3913733|I Dream|15& (박지민, 백예린)|698291|2151246|I Dream|https://cdnimg.melon.co.kr/cm/album/images/021/51/246/2151246_500.jpg/melon/resize/48/quality/80/optimize
+17|3905489|아프다|허각|28801|2150236|아프다|https://cdnimg.melon.co.kr/cm/album/images/021/50/236/2150236_500.jpg/melon/resize/48/quality/80/optimize
+18|3917338|내가 나를 봐도 슬퍼..|김태우|182430|2151710|이단옆차기 프로젝트 Vol.01|https://cdnimg.melon.co.kr/cm/album/images/021/51/710/2151710_500.jpg/melon/resize/48/quality/80/optimize
+19|3895885|우리 사랑 이대로|정은지~서인국|644871~436700|2148910|응답하라 1997 Love Story Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/48/910/2148910_500.jpg/melon/resize/48/quality/80/optimize
+20|3853980|어땠을까 (Feat. 박정현)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+21|3915868|너라는 명작|휘성 (Realslow)|10577|2151526|DOKKUN Project Pt.1|https://cdnimg.melon.co.kr/cm/album/images/021/51/526/2151526_500.jpg/melon/resize/48/quality/80/optimize
+22|3917048|아마추어|이승철|1010|2151677|아마추어|https://cdnimg.melon.co.kr/cm/album/images/021/51/677/2151677_500.jpg/melon/resize/48/quality/80/optimize
+23|3897152|니가 싫어|어반자카파|420527|2149100|니가 싫어|https://cdnimg.melon.co.kr/cm/album/images/021/49/100/2149100_500.jpg/melon/resize/48/quality/80/optimize
+24|3900853|좋겠어 (I wish)|FTISLAND (FT아일랜드)|226490|2149653|FIVE TREASURE BOX|https://cdnimg.melon.co.kr/cm/album/images/021/49/653/2149653_500.jpg/melon/resize/48/quality/80/optimize
+25|3918121|아시나요 (원곡가수 조성모)|The One (더원)|160816|2151767|'나는 가수다 2' 9월의 가수전|https://cdnimg.melon.co.kr/cm/album/images/021/51/767/2151767_500.jpg/melon/resize/48/quality/80/optimize
+26|3922915|착한 여자|이수영|995|2152407|세상 어디에도 없는 착한남자 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/52/407/2152407_500.jpg/melon/resize/48/quality/80/optimize
+27|3900836|느린노래|백아연|646173|2149649|I'm Baek|https://cdnimg.melon.co.kr/cm/album/images/021/49/649/2149649_500.jpg/melon/resize/48/quality/80/optimize
+28|3921832|Lady Killer|가비엔제이|174997|2152274|Gavish|https://cdnimg.melon.co.kr/cm/album/images/021/52/274/2152274_500.jpg/melon/resize/48/quality/80/optimize
+29|3886294|Pandora|카라|222128|2146186|PANDORA|https://cdnimg.melon.co.kr/cm/album/images/021/46/186/2146186_500.jpg/melon/resize/48/quality/80/optimize
+30|3909685|이럴때면 (Feat. 린)|마이티 마우스|239366|2150729|네비게이션|https://cdnimg.melon.co.kr/cm/album/images/021/50/729/2150729_500.jpg/melon/resize/48/quality/80/optimize
+31|1046282|말리꽃|이승철|1010|311401|청연 OST|https://cdnimg.melon.co.kr/cm/album/images/003/11/401/311401_500.jpg/melon/resize/48/quality/80/optimize
+32|3906453|그 남자 (원곡가수 현빈)|The One (더원)|160816|2150366|'나는 가수다 2' 9월 B조 경연|https://cdnimg.melon.co.kr/cm/album/images/021/50/366/2150366_500.jpg/melon/resize/48/quality/80/optimize
+33|3914875|가지마|나비|242868|2151389|REAL LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/51/389/2151389_500.jpg/melon/resize/48/quality/80/optimize
+34|3853977|뜨거운 안녕 (Feat. 성시경)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+35|3910819|Missing You|나얼|3959|2150856|Principle Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/48/quality/80/optimize
+36|3922576|한강의 작별|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+37|3837683|Loving U (러빙유)|씨스타|473181|2131509|Summer Special 'Loving U'|https://cdnimg.melon.co.kr/cm/album/images/021/31/509/2131509_500.jpg/melon/resize/48/quality/80/optimize
+38|3918422|좋으니까|이석훈|205858|2151809|다른 안녕|https://cdnimg.melon.co.kr/cm/album/images/021/51/809/2151809_500.jpg/melon/resize/48/quality/80/optimize
+39|3889745|One Of A Kind|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+40|3922580|19금 오늘밤에|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+41|3919115|촌스러워서|이현|429480|2151955|촌스러워서|https://cdnimg.melon.co.kr/cm/album/images/021/51/955/2151955_500.jpg/melon/resize/48/quality/80/optimize
+42|2994360|Hello!|포맨 (4MEN)|100176|1055552|Sorry|https://cdnimg.melon.co.kr/cm/album/images/010/55/552/1055552_500.jpg/melon/resize/48/quality/80/optimize
+43|3847197|I Love You|2NE1|406712|2136463|I Love You|https://cdnimg.melon.co.kr/cm/album/images/021/36/463/2136463_500.jpg/melon/resize/48/quality/80/optimize
+44|3170749|Officially Missing You|긱스 (Geeks)|525805|1196552|Officially Missing You|https://cdnimg.melon.co.kr/cm/album/images/011/96/552/1196552_500.jpg/melon/resize/48/quality/80/optimize
+45|3848972|내 사랑아|이종현|32833|2136688|신사의 품격 OST Part 5|https://cdnimg.melon.co.kr/cm/album/images/021/36/688/2136688_500.jpg/melon/resize/48/quality/80/optimize
+46|3922574|그대와 나|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+47|3860282|아름다운 밤이야|비스트|436981|2138116|Midnight Sun|https://cdnimg.melon.co.kr/cm/album/images/021/38/116/2138116_500.jpg/melon/resize/48/quality/80/optimize
+48|3920744|환상그녀|인피니트|476181|2152142|엄마가 뭐길래 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/52/142/2152142_500.jpg/melon/resize/48/quality/80/optimize
+49|3915843|멘트 (Feat. 개코 Of Dynamic Duo)|ILLSON|164737|2151520|멘트|https://cdnimg.melon.co.kr/cm/album/images/021/51/520/2151520_500.jpg/melon/resize/48/quality/80/optimize
+50|3866006|남자도 우나요|다비치|236815|2138790|THE S Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/38/790/2138790_500.jpg/melon/resize/48/quality/80/optimize

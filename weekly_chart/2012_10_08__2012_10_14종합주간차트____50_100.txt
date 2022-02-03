@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3859894|Only One|보아 (BoA)|2165|2138075|Only One|https://cdnimg.melon.co.kr/cm/album/images/021/38/075/2138075_500.jpg/melon/resize/48/quality/80/optimize
+52|3913042|Catch Me|동방신기 (TVXQ!)|108316|2151126|Catch Me|https://cdnimg.melon.co.kr/cm/album/images/021/51/126/2151126_500.jpg/melon/resize/48/quality/80/optimize
+53|3922577|냄새나는 여자|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+54|3906382|결국 (Feat. 로제 of BLACKPINK)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+55|3906249|I'll Be There|스피카|615471|2150314|I'll Be There|https://cdnimg.melon.co.kr/cm/album/images/021/50/314/2150314_500.jpg/melon/resize/48/quality/80/optimize
+56|3832101|정말로 사랑한다면|버스커 버스커|569233|2128229|버스커 버스커 1집 마무리|https://cdnimg.melon.co.kr/cm/album/images/021/28/229/2128229_500.jpg/melon/resize/48/quality/80/optimize
+57|3820647|illa illa (일라 일라)|JUNIEL(서아)|673198|2124713|My First June|https://cdnimg.melon.co.kr/cm/album/images/021/24/713/2124713_500.jpg/melon/resize/48/quality/80/optimize
+58|3832079|충분히 예뻐 (feat. 산체스 Of 팬텀)|버벌진트|6985|2128226|10년동안의오독 I|https://cdnimg.melon.co.kr/cm/album/images/021/28/226/2128226_500.jpg/melon/resize/48/quality/80/optimize
+59|3926016|들리지 않는 말|이창민~이현|443620~429480|2152808|다섯손가락 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/52/808/2152808_500.jpg/melon/resize/48/quality/80/optimize
+60|3911746|팅커벨|가인|428821|2150966|Talk About S.|https://cdnimg.melon.co.kr/cm/album/images/021/50/966/2150966_500.jpg/melon/resize/48/quality/80/optimize
+61|3910822|이별시작|나얼|3959|2150856|Principle Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/48/quality/80/optimize
+62|3897155|가까이|태연 (TAEYEON)|236797|2149102|아름다운 그대에게 OST '가까이'|https://cdnimg.melon.co.kr/cm/album/images/021/49/102/2149102_500.jpg/melon/resize/48/quality/80/optimize
+63|3911902|STYLE|라니아|532321|2150991|STYLE|https://cdnimg.melon.co.kr/cm/album/images/021/50/991/2150991_500.jpg/melon/resize/48/quality/80/optimize
+64|3924527|룩앳미 (Look At Me)|쥬얼리|101487|2152575|Look At Me|https://cdnimg.melon.co.kr/cm/album/images/021/52/575/2152575_500.jpg/melon/resize/48/quality/80/optimize
+65|3922578|너의 꽃|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+66|3920556|나혼자 (원곡가수 씨스타)|국카스텐|311166|2152106|'나는 가수다 2' 10월 A조 경연|https://cdnimg.melon.co.kr/cm/album/images/021/52/106/2152106_500.jpg/melon/resize/48/quality/80/optimize
+67|3910816|기억리듬|나얼|3959|2150856|Principle Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/48/quality/80/optimize
+68|3835666|One More Night|Maroon 5|107721|2130347|Overexposed (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/021/30/347/2130347_500.jpg/melon/resize/48/quality/80/optimize
+69|3911748|그녀를 만나|가인|428821|2150966|Talk About S.|https://cdnimg.melon.co.kr/cm/album/images/021/50/966/2150966_500.jpg/melon/resize/48/quality/80/optimize
+70|3914912|담배 좀 줄여|미스에스|275266|2151396|담배 좀 줄여|https://cdnimg.melon.co.kr/cm/album/images/021/51/396/2151396_500.jpg/melon/resize/48/quality/80/optimize
+71|-1|Call Me Maybe|Carly Rae Jepsen|641311|2088869|Call Me Maybe|https://cdnimg.melon.co.kr/cm/album/images/020/88/869/2088869_500.jpg/melon/resize/48/quality/80/optimize
+72|3820695|굿모닝 (Feat. 권정열 Of 10cm)|버벌진트|6985|2126130|굿모닝|https://cdnimg.melon.co.kr/cm/album/images/021/26/130/2126130_500.jpg/melon/resize/48/quality/80/optimize
+73|3922579|고추잠자리|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+74|3854238|Midnight (별 헤는 밤)|비스트|436981|2137318|Midnight (별 헤는 밤)|https://cdnimg.melon.co.kr/cm/album/images/021/37/318/2137318_500.jpg/melon/resize/48/quality/80/optimize
+75|1047563|먼지가 되어|김광석|2960|311488|김광석 Best|https://cdnimg.melon.co.kr/cm/album/images/003/11/488/311488_500.jpg/melon/resize/48/quality/80/optimize
+76|3891852|대박사건 (Crash)|B.A.P|623451|2148171|대박사건|https://cdnimg.melon.co.kr/cm/album/images/021/48/171/2148171_500.jpg/melon/resize/48/quality/80/optimize
+77|3906384|Today (Feat. 김종완 Of Nell)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+78|3914694|사랑은 그대다|케이윌|175139|2151370|아랑사또전 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/021/51/370/2151370_500.jpg/melon/resize/48/quality/80/optimize
+79|3864961|가수가 된 이유|신용재 (2F)|510537|2138690|24|https://cdnimg.melon.co.kr/cm/album/images/021/38/690/2138690_500.jpg/melon/resize/48/quality/80/optimize
+80|3917319|매일밤|EXID|630454|2151706|매일밤|https://cdnimg.melon.co.kr/cm/album/images/021/51/706/2151706_500.jpg/melon/resize/48/quality/80/optimize
+81|3922581|그러니까...|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+82|3832098|그댈 마주하는건 힘들어 (그마힘)|버스커 버스커|569233|2128229|버스커 버스커 1집 마무리|https://cdnimg.melon.co.kr/cm/album/images/021/28/229/2128229_500.jpg/melon/resize/48/quality/80/optimize
+83|3864962|자꾸만 자꾸만|신용재 (2F)|510537|2138690|24|https://cdnimg.melon.co.kr/cm/album/images/021/38/690/2138690_500.jpg/melon/resize/48/quality/80/optimize
+84|3834908|한사람|허각|28801|2130010|한사람 (빅 OST)|https://cdnimg.melon.co.kr/cm/album/images/021/30/010/2130010_500.jpg/melon/resize/48/quality/80/optimize
+85|3910823|여전히 난|나얼|3959|2150856|Principle Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/48/quality/80/optimize
+86|3894754|지나간다 (원곡가수 김범수)|The One (더원)|160816|2148687|'나는 가수다 2' 새가수 초대전|https://cdnimg.melon.co.kr/cm/album/images/021/48/687/2148687_500.jpg/melon/resize/48/quality/80/optimize
+87|3840800|DAY BY DAY|티아라|412000|2133148|DAY BY DAY|https://cdnimg.melon.co.kr/cm/album/images/021/33/148/2133148_500.jpg/melon/resize/48/quality/80/optimize
+88|-1|내게 와줘|선예 (Wonder Girls)|227506|2152050|울랄라부부 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/52/050/2152050_500.jpg/melon/resize/48/quality/80/optimize
+89|3913740|강남역 10번 출구|소울스타 (SOULSTAR)|170042|2151252|강남역 10번 출구|https://cdnimg.melon.co.kr/cm/album/images/021/51/252/2151252_500.jpg/melon/resize/48/quality/80/optimize
+90|3922582|마음|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+91|3900683|서쪽 하늘 (원곡가수 이승철)|윤하 (YOUNHA)|203912|2149607|'나는 가수다 2' 9월 A조 경연|https://cdnimg.melon.co.kr/cm/album/images/021/49/607/2149607_500.jpg/melon/resize/48/quality/80/optimize
+92|3920390|Game|스테파니 (STEPHANIE)|699004|2152057|The New Beginning|https://cdnimg.melon.co.kr/cm/album/images/021/52/057/2152057_500.jpg/melon/resize/48/quality/80/optimize
+93|-1|Payphone (Feat. Wiz Khalifa)|Maroon 5|107721|2112986|Payphone|https://cdnimg.melon.co.kr/cm/album/images/021/12/986/2112986_500.jpg/melon/resize/48/quality/80/optimize
+94|3922583|이제.여기서.그만|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize
+95|3896376|사랑아 또 사랑아|백지영|1118|2149000|아랑사또전 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/49/000/2149000_500.jpg/melon/resize/48/quality/80/optimize
+96|3906524|눈물이 한방울|윤하 (YOUNHA)|203912|2150399|신의 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/50/399/2150399_500.jpg/melon/resize/48/quality/80/optimize
+97|3923043|GET OUT|AOA|686920|2152424|WANNA BE|https://cdnimg.melon.co.kr/cm/album/images/021/52/424/2152424_500.jpg/melon/resize/48/quality/80/optimize
+98|3822632|가슴이 시린 게|이현|429480|2126378|신사의 품격 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/26/378/2126378_500.jpg/melon/resize/48/quality/80/optimize
+99|3915590|Die Young|Kesha|445350|2151493|Die Young|https://cdnimg.melon.co.kr/cm/album/images/021/51/493/2151493_500.jpg/melon/resize/48/quality/80/optimize
+100|3922584|Corona|10CM|468244|2152350|2.0|https://cdnimg.melon.co.kr/cm/album/images/021/52/350/2152350_500.jpg/melon/resize/48/quality/80/optimize

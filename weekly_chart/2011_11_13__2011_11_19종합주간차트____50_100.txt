@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3593076|내사랑 내곁에 (김현식)|김연우|6017|2026686|[나는 가수다] '호주 특별 공연'|https://cdnimg.melon.co.kr/cm/album/images/020/26/686/2026686_500.jpg/melon/resize/48/quality/80/optimize
+52|3569458|사랑과 우정 사이 (With 김연우) (피노키오)|김경호|895|2018966|[나는 가수다] 경연10-1. '듀엣곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/020/18/966/2018966_500.jpg/melon/resize/48/quality/80/optimize
+53|3604753|사랑에 빠지고 싶다|김조한|1873|2032026|사랑에 빠지고 싶다|https://cdnimg.melon.co.kr/cm/album/images/020/32/026/2032026_500.jpg/melon/resize/48/quality/80/optimize
+54|1046278|서쪽 하늘|이승철|1010|311401|청연 OST|https://cdnimg.melon.co.kr/cm/album/images/003/11/401/311401_500.jpg/melon/resize/48/quality/80/optimize
+55|3615589|해뜰때까지만 (Girl)|다이나믹 듀오|108358|2036608|Dynamicduo 6th Digilog 1/2|https://cdnimg.melon.co.kr/cm/album/images/020/36/608/2036608_500.jpg/melon/resize/48/quality/80/optimize
+56|3558975|파라다이스 (Paradise)|인피니트|476181|2015246|'Paradise' (정규 1집 스페셜 리패키지)|https://cdnimg.melon.co.kr/cm/album/images/020/15/246/2015246_500.jpg/melon/resize/48/quality/80/optimize
+57|3521672|So Cool (쏘쿨)|씨스타|473181|2006957|So Cool|https://cdnimg.melon.co.kr/cm/album/images/020/06/957/2006957_500.jpg/melon/resize/48/quality/80/optimize
+58|3565173|짠해 (Cheerz)|사이먼 도미닉|428847|2017406|Simon Dominic Presents 'SNL LEAGUE BEGINS'|https://cdnimg.melon.co.kr/cm/album/images/020/17/406/2017406_500.jpg/melon/resize/48/quality/80/optimize
+59|3602277|어쩌다 마주친|레드애플|31741|2031167|CODA|https://cdnimg.melon.co.kr/cm/album/images/020/31/167/2031167_500.jpg/melon/resize/48/quality/80/optimize
+60|3600231|Act Cool (Feat.San E)|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+61|3527235|19금 TV를 껐네... (Feat. t윤미래, 권정열 Of 10cm)|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+62|3593453|니 생각|투개월|569215|2026966|슈퍼스타K 3 Top11 Part 5|https://cdnimg.melon.co.kr/cm/album/images/020/26/966/2026966_500.jpg/melon/resize/48/quality/80/optimize
+63|3538775|좋아보여 (Feat. 검정치마)|버벌진트|6985|2009410|Go Easy|https://cdnimg.melon.co.kr/cm/album/images/020/09/410/2009410_500.jpg/melon/resize/48/quality/80/optimize
+64|3612694|Oh My Gosh|서인영|26265|2032647|Brand New ELLY|https://cdnimg.melon.co.kr/cm/album/images/020/32/647/2032647_500.jpg/melon/resize/48/quality/80/optimize
+65|3577017|여기가 아파|백지영|1118|2021297|천일의 약속 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/21/297/2021297_500.jpg/melon/resize/48/quality/80/optimize
+66|3538478|STEP|카라|222128|2009327|KARA 3rd Album STEP|https://cdnimg.melon.co.kr/cm/album/images/020/09/327/2009327_500.jpg/melon/resize/48/quality/80/optimize
+67|3579243|내겐 너니까|효린|573812|2021890|영광의 재인 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/21/890/2021890_500.jpg/melon/resize/48/quality/80/optimize
+68|3595693|Girl Friend|박재범|443420|2028226|Girl Friend|https://cdnimg.melon.co.kr/cm/album/images/020/28/226/2028226_500.jpg/melon/resize/48/quality/80/optimize
+69|3568879|놈들이 온다|휘성 (Realslow)|10577|2018667|놈들이 온다|https://cdnimg.melon.co.kr/cm/album/images/020/18/667/2018667_500.jpg/melon/resize/48/quality/80/optimize
+70|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+71|3603213|우리 결혼할까요? (Feat. 문명진)|허니 패밀리|100073|2031414|우리 결혼할까요|https://cdnimg.melon.co.kr/cm/album/images/020/31/414/2031414_500.jpg/melon/resize/48/quality/80/optimize
+72|3600227|Stop!|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+73|3608855|Without U|김보경 (NEON)|60829|2033567|Without U|https://cdnimg.melon.co.kr/cm/album/images/020/33/567/2033567_500.jpg/melon/resize/48/quality/80/optimize
+74|3602425|예쁘고 미웠다 (Feat. Bizzy)|SHY (손호영)|1580|2031250|U-TURN|https://cdnimg.melon.co.kr/cm/album/images/020/31/250/2031250_500.jpg/melon/resize/48/quality/80/optimize
+75|3436083|끝사랑|김범수|6502|1302654|Solista Part.2|https://cdnimg.melon.co.kr/cm/album/images/013/02/654/1302654_500.jpg/melon/resize/48/quality/80/optimize
+76|3534943|회상 (Feat. 백지영)|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+77|3603173|미워미워|우먼파워|581202|2031406|미워미워|https://cdnimg.melon.co.kr/cm/album/images/020/31/406/2031406_500.jpg/melon/resize/48/quality/80/optimize
+78|3613699|지금이 아니면 (Feat. YB)|정진운|557582|2035748|지금이 아니면|https://cdnimg.melon.co.kr/cm/album/images/020/35/748/2035748_500.jpg/melon/resize/48/quality/80/optimize
+79|3600226|Sweet Dreams|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+80|3550136|난 좋아|성시경|3305|2011288|처음|https://cdnimg.melon.co.kr/cm/album/images/020/11/288/2011288_500.jpg/melon/resize/48/quality/80/optimize
+81|3611793|하루가 길다|팀|33614|2034686|...하루가 길다|https://cdnimg.melon.co.kr/cm/album/images/020/34/686/2034686_500.jpg/melon/resize/48/quality/80/optimize
+82|3600229|두고두고|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+83|3600228|Dear. Boy|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+84|3568873|새들처럼|FTISLAND (FT아일랜드)|226490|2018666|MEMORY IN FTISLAND|https://cdnimg.melon.co.kr/cm/album/images/020/18/666/2018666_500.jpg/melon/resize/48/quality/80/optimize
+85|3601316|이유 같지 않은 이유 (Feat. Bizzy) (박미경)|김경호|895|2030746|[나는 가수다] 경연11-1|https://cdnimg.melon.co.kr/cm/album/images/020/30/746/2030746_500.jpg/melon/resize/48/quality/80/optimize
+86|3457172|Roly-Poly|티아라|412000|1317401|존트라볼타 워너비|https://cdnimg.melon.co.kr/cm/album/images/013/17/401/1317401_500.jpg/melon/resize/48/quality/80/optimize
+87|3585862|나쁜 남자|울랄라세션|569214|2024130|슈퍼스타K 3 Top11 Part 4|https://cdnimg.melon.co.kr/cm/album/images/020/24/130/2024130_500.jpg/melon/resize/48/quality/80/optimize
+88|3562467|뭐 이런 게 다 있어|알리 (ALi)|312266|2016374|뭐 이런 게 다 있어|https://cdnimg.melon.co.kr/cm/album/images/020/16/374/2016374_500.jpg/melon/resize/48/quality/80/optimize
+89|3520616|기다릴게|하동균~이정|43806~39256|2006804|공주의 남자 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/06/804/2006804_500.jpg/melon/resize/48/quality/80/optimize
+90|3586953|안부|프리스타일|100144|2024746|Say Hello To Goodbye|https://cdnimg.melon.co.kr/cm/album/images/020/24/746/2024746_500.jpg/melon/resize/48/quality/80/optimize
+91|3600233|Nu Shoes|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+92|3611633|Ma Boy 2 (Feat. 효린)|일렉트로보이즈|475721|2034566|Rebirth|https://cdnimg.melon.co.kr/cm/album/images/020/34/566/2034566_500.jpg/melon/resize/48/quality/80/optimize
+93|3597453|가슴앓이|바비 킴|6027|2029206|영광의 재인 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/29/206/2029206_500.jpg/melon/resize/48/quality/80/optimize
+94|3615536|가세요|가비엔제이|174997|2036601|가세요|https://cdnimg.melon.co.kr/cm/album/images/020/36/601/2036601_500.jpg/melon/resize/48/quality/80/optimize
+95|3585864|Lonely|크리스티나|569212|2024130|슈퍼스타K 3 Top11 Part 4|https://cdnimg.melon.co.kr/cm/album/images/020/24/130/2024130_500.jpg/melon/resize/48/quality/80/optimize
+96|3608853|Saddle The Wind|임재범|4838|2033566|'바람에 실려' 프로젝트 Part.6|https://cdnimg.melon.co.kr/cm/album/images/020/33/566/2033566_500.jpg/melon/resize/48/quality/80/optimize
+97|3534941|나란 놈은 답은 너다 (Feat. 하림)|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+98|3610153|크리스마스잖아요|김동률|925|2034109|kimdongrYULE|https://cdnimg.melon.co.kr/cm/album/images/020/34/109/2034109_500.jpg/melon/resize/48/quality/80/optimize
+99|3577493|사랑하는 사람아|이해리 (다비치)|259769|2021446|포세이돈 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/21/446/2021446_500.jpg/melon/resize/48/quality/80/optimize
+100|-1|우울한 편지|버벌진트|6985|2028389|우울한 편지|https://cdnimg.melon.co.kr/cm/album/images/020/28/389/2028389_500.jpg/melon/resize/48/quality/80/optimize

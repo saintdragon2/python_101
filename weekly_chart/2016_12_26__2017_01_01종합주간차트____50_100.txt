@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+52|3973781|크리스마스니까|성시경~박효신~이석훈~서인국~VIXX (빅스)|3305~1191~205858~436700~672560|2168409|Jelly Christmas 2012 HEART PROJECT|https://cdnimg.melon.co.kr/cm/album/images/021/68/409/2168409_500.jpg/melon/resize/48/quality/80/optimize
+53|30115011|거짓말 (Feat. 이해리 Of 다비치)|매드클라운|219621|10018096|거짓말|https://cdnimg.melon.co.kr/cm/album/images/100/18/096/10018096_500.jpg/melon/resize/48/quality/80/optimize
+54|8271355|And July (Feat. DEAN, DJ Friz)|헤이즈 (Heize)|751611|2688360|And July|https://cdnimg.melon.co.kr/cm/album/images/026/88/360/2688360_500.jpg/melon/resize/48/quality/80/optimize
+55|30157821|Falling For You|EXO|724619|10024125|For Life - 겨울 스페셜 앨범, 2016|https://cdnimg.melon.co.kr/cm/album/images/100/24/125/10024125_500.jpg/melon/resize/48/quality/80/optimize
+56|9606657|Lotto|EXO|724619|2704940|LOTTO - The 3rd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/027/04/940/2704940_500.jpg/melon/resize/48/quality/80/optimize
+57|30113169|나쁜X (BAD YEAR)|San E|402526|10017810|나쁜X (BAD YEAR)|https://cdnimg.melon.co.kr/cm/album/images/100/17/810/10017810_500.jpg/melon/resize/48/quality/80/optimize
+58|8308231|puzzle|C JAMM~BewhY (비와이)|729560~739740|2703714|puzzle|https://cdnimg.melon.co.kr/cm/album/images/027/03/714/2703714_500.jpg/melon/resize/48/quality/80/optimize
+59|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+60|30088156|가끔 (Feat. Crush, 기리보이)|긱스 (Geeks)|525805|10014211|가끔 (Feat. Crush, 기리보이)|https://cdnimg.melon.co.kr/cm/album/images/100/14/211/10014211_500.jpg/melon/resize/48/quality/80/optimize
+61|30177818|I Miss You|소유 (SOYOU)|490981|10027253|도깨비 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/100/27/253/10027253_500.jpg/melon/resize/48/quality/80/optimize
+62|30035184|빌려줄게|신용재 (2F)|510537|10005885|EMPATHY|https://cdnimg.melon.co.kr/cm/album/images/100/05/885/10005885_500.jpg/melon/resize/48/quality/80/optimize
+63|8261338|Day Day (Feat. 박재범) (Prod. by GRAY)|BewhY (비와이)|739740|2696637|쇼미더머니 5 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/48/quality/80/optimize
+64|9609354|If You|에일리(Ailee)|629831|2705328|If You|https://cdnimg.melon.co.kr/cm/album/images/027/05/328/2705328_500.jpg/melon/resize/48/quality/80/optimize
+65|30179090|처럼 (Feat. 이하이)|유재석 X Dok2|1285545|10027428|무한도전 위대한 유산|https://cdnimg.melon.co.kr/cm/album/images/100/27/428/10027428_500.jpg/melon/resize/48/quality/80/optimize
+66|9629220|구르미 그린 달빛|거미|30358|2708558|구르미 그린 달빛 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/027/08/558/2708558_500.jpg/melon/resize/48/quality/80/optimize
+67|9646572|끝|권진아|760046|2711116|웃긴 밤|https://cdnimg.melon.co.kr/cm/album/images/027/11/116/2711116_500.jpg/melon/resize/48/quality/80/optimize
+68|30113197|그대라는 세상|윤미래|1654|10017819|푸른 바다의 전설 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/100/17/819/10017819_500.jpg/melon/resize/48/quality/80/optimize
+69|8167307|불타오르네 (FIRE)|방탄소년단|672375|2680573|화양연화 Young Forever|https://cdnimg.melon.co.kr/cm/album/images/026/80/573/2680573_500.jpg/melon/resize/48/quality/80/optimize
+70|30157822|What I Want For Christmas|EXO|724619|10024125|For Life - 겨울 스페셜 앨범, 2016|https://cdnimg.melon.co.kr/cm/album/images/100/24/125/10024125_500.jpg/melon/resize/48/quality/80/optimize
+71|3620493|안아줘|정준일|242988|2038488|Lo9ve3r4s|https://cdnimg.melon.co.kr/cm/album/images/020/38/488/2038488_500.jpg/melon/resize/48/quality/80/optimize
+72|30025065|세 단어|젝스키스|100052|10004129|세 단어|https://cdnimg.melon.co.kr/cm/album/images/100/04/129/10004129_500.jpg/melon/resize/48/quality/80/optimize
+73|8268275|네 생각|존박|28772|2697716|네 생각|https://cdnimg.melon.co.kr/cm/album/images/026/97/716/2697716_500.jpg/melon/resize/48/quality/80/optimize
+74|8252408|Forever (Prod. By GRAY)|BewhY (비와이)|739740|2695189|쇼미더머니 5 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/026/95/189/2695189_500.jpg/melon/resize/48/quality/80/optimize
+75|8217163|Lucky One|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+76|30076504|이별을 배웠어 (Always In My Heart)|임슬옹~조이 (JOY)|474423~780922|10012493|이별을 배웠어 (Always In My Heart) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/100/12/493/10012493_500.jpg/melon/resize/48/quality/80/optimize
+77|8262125|너 그리고 나 (NAVILLERA)|여자친구 (GFRIEND)|828478|2696751|여자친구 The 1st Album 'LOL'|https://cdnimg.melon.co.kr/cm/album/images/026/96/751/2696751_500.jpg/melon/resize/48/quality/80/optimize
+78|30179092|만세|양세형 X BewhY|1285547|10027428|무한도전 위대한 유산|https://cdnimg.melon.co.kr/cm/album/images/100/27/428/10027428_500.jpg/melon/resize/48/quality/80/optimize
+79|30099861|Love Story|린|8530|10016010|푸른 바다의 전설 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/100/16/010/10016010_500.jpg/melon/resize/48/quality/80/optimize
+80|30153027|바람꽃|이선희|966|10023385|푸른 바다의 전설 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/100/23/385/10023385_500.jpg/melon/resize/48/quality/80/optimize
+81|30168050|잠깐만요|어쿠루브|742478|10025620|잠깐만요|https://cdnimg.melon.co.kr/cm/album/images/100/25/620/10025620_500.jpg/melon/resize/48/quality/80/optimize
+82|30084667|그런 밤|어반자카파|420527|10013711|이번 주 아내가 바람을 핍니다 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/100/13/711/10013711_500.jpg/melon/resize/48/quality/80/optimize
+83|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+84|14776|All I Want for Christmas Is You|Mariah Carey|2274|829|Merry Christmas (Deluxe Anniversary Edition)|https://cdnimg.melon.co.kr/cm2/album/images/000/00/829/829_500.jpg/melon/resize/48/quality/80/optimize
+85|30157824|Winter Heat|EXO|724619|10024125|For Life - 겨울 스페셜 앨범, 2016|https://cdnimg.melon.co.kr/cm/album/images/100/24/125/10024125_500.jpg/melon/resize/48/quality/80/optimize
+86|30152722|오글오글|박경|650832|10023334|오글오글|https://cdnimg.melon.co.kr/cm/album/images/100/23/334/10023334_500.jpg/melon/resize/48/quality/80/optimize
+87|8298424|사랑해요|김범수|6502|2702198|함부로 애틋하게 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/027/02/198/2702198_500.jpg/melon/resize/48/quality/80/optimize
+88|5475060|Santa Tell Me|Ariana Grande|597451|2292117|Santa Tell Me|https://cdnimg.melon.co.kr/cm/album/images/022/92/117/2292117_500.jpg/melon/resize/48/quality/80/optimize
+89|30132707|붐붐|세븐틴|861436|10020658|Seventeen 3rd Mini Album 'Going Seventeen'|https://cdnimg.melon.co.kr/cm/album/images/100/20/658/10020658_500.jpg/melon/resize/48/quality/80/optimize
+90|30177184|널 미워하지 않길 (Prod. By 하동균)|김나영|735094|10027190|널 미워하지 않길|https://cdnimg.melon.co.kr/cm/album/images/100/27/190/10027190_500.jpg/melon/resize/48/quality/80/optimize
+91|-1|Don't Wanna Know (Feat. Kendrick Lamar)|Maroon 5|107721|10006350|Red Pill Blues (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/100/06/350/10006350_500.jpg/melon/resize/48/quality/80/optimize
+92|30126971|커플 (2016)|젝스키스|100052|10019876|2016 Re-ALBUM|https://cdnimg.melon.co.kr/cm/album/images/100/19/876/10019876_500.jpg/melon/resize/48/quality/80/optimize
+93|30179093|지칠 때면 (Feat. 김종완 of Nell)|정준하 X ZICO|1285548|10027428|무한도전 위대한 유산|https://cdnimg.melon.co.kr/cm/album/images/100/27/428/10027428_500.jpg/melon/resize/48/quality/80/optimize
+94|30118815|거짓말이야|B1A4|535440|10018664|GOOD TIMING|https://cdnimg.melon.co.kr/cm/album/images/100/18/664/10018664_500.jpg/melon/resize/48/quality/80/optimize
+95|9647324|Dancing King|유재석~EXO|9842~724619|2711209|Dancing King - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/027/11/209/2711209_500.jpg/melon/resize/48/quality/80/optimize
+96|30157823|Twenty Four|EXO|724619|10024125|For Life - 겨울 스페셜 앨범, 2016|https://cdnimg.melon.co.kr/cm/album/images/100/24/125/10024125_500.jpg/melon/resize/48/quality/80/optimize
+97|30159661|죽어도 너야|V~진|725989~725986|10024344|화랑 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/100/24/344/10024344_500.jpg/melon/resize/48/quality/80/optimize
+98|30141734|A Lovely Night|Ryan Gosling~Emma Stone|1203651~1230552|10016438|라라 랜드 OST|https://cdnimg.melon.co.kr/cm/album/images/100/16/438/10016438_500.jpg/melon/resize/48/quality/80/optimize
+99|30170853|BeBe|서인국|436700|10026085|BeBe|https://cdnimg.melon.co.kr/cm/album/images/100/26/085/10026085_500.jpg/melon/resize/48/quality/80/optimize
+100|30153192|별의 별|Apink (에이핑크)|534360|10023410|Dear|https://cdnimg.melon.co.kr/cm/album/images/100/23/410/10023410_500.jpg/melon/resize/48/quality/80/optimize

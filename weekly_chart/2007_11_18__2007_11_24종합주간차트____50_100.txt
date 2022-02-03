@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1694435|가라 사랑아|장혜진|5675|355602|Tomboy|https://cdnimg.melon.co.kr/cm/album/images/003/55/602/355602_500.jpg/melon/resize/48/quality/80/optimize
+52|1686586|첫사람|신혜성|1741|355403|The Beginning, New Days|https://cdnimg.melon.co.kr/cm/album/images/003/55/403/355403_500.jpg/melon/resize/48/quality/80/optimize
+53|1764463|바이올린|지아|227595|360924|지아의 컴필레이션 바이올린|https://cdnimg.melon.co.kr/cm/album/images/003/60/924/360924_500.jpg/melon/resize/48/quality/80/optimize
+54|1755470|안녕|초신성|229544|359951|The Beautiful Stardust|https://cdnimg.melon.co.kr/cm/album/images/003/59/951/359951_500.jpg/melon/resize/48/quality/80/optimize
+55|1727882|8:45 Heaven|드렁큰 타이거|100027|357620|Sky Is The Limit|https://cdnimg.melon.co.kr/cm/album/images/003/57/620/357620_500.jpg/melon/resize/48/quality/80/optimize
+56|1763171|그대를 그대를|김동희|25890|360744|This Is Donghee|https://cdnimg.melon.co.kr/cm/album/images/003/60/744/360744_500.jpg/melon/resize/48/quality/80/optimize
+57|1716431|눈물이 많은 이유|백지영|1118|356881|여섯번째 기적|https://cdnimg.melon.co.kr/cm/album/images/003/56/881/356881_500.jpg/melon/resize/48/quality/80/optimize
+58|1765763|바보|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+59|1762064|열흘만|제이|1203|360669|Inlove Again|https://cdnimg.melon.co.kr/cm/album/images/003/60/669/360669_500.jpg/melon/resize/48/quality/80/optimize
+60|1764197|19금 Kiss|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+61|1668957|그래도 사랑합니다|일 락|57315|353965|그래도 사랑합니다|https://cdnimg.melon.co.kr/cm/album/images/003/53/965/353965_500.jpg/melon/resize/48/quality/80/optimize
+62|1761733|I'm Sorry|플라이 투 더 스카이|100183|360664|No Limitations (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/60/664/360664_500.jpg/melon/resize/48/quality/80/optimize
+63|1648996|눈물로 (Duet 이정)|제이|1203|352423|눈물로|https://cdnimg.melon.co.kr/cm/album/images/003/52/423/352423_500.jpg/melon/resize/48/quality/80/optimize
+64|1750989|허락 (許諾)|준서|15932|359657|태왕사신기 OST|https://cdnimg.melon.co.kr/cm/album/images/003/59/657/359657_500.jpg/melon/resize/48/quality/80/optimize
+65|1762950|아프다 (MBC 주말드라마 '겨울새' 삽입곡)|The One (더원)|160816|360724|Love Ballad In 2007 (Vol.1) (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/60/724/360724_500.jpg/melon/resize/48/quality/80/optimize
+66|1734162|뒷모습|나윤권|58979|358200|뒷모습 후(後)|https://cdnimg.melon.co.kr/cm/album/images/003/58/200/358200_500.jpg/melon/resize/48/quality/80/optimize
+67|1757996|아름다운 구속|서영은|3033|360149|Remake : Romantic 3|https://cdnimg.melon.co.kr/cm/album/images/003/60/149/360149_500.jpg/melon/resize/48/quality/80/optimize
+68|1764209|독설.. 이 지독한 사랑..|니모|230284|360900|Ne;MO 002|https://cdnimg.melon.co.kr/cm/album/images/003/60/900/360900_500.jpg/melon/resize/48/quality/80/optimize
+69|1762230|사랑을 보았나봐|FTISLAND (FT아일랜드)|226490|360686|인순이는 예쁘다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/60/686/360686_500.jpg/melon/resize/48/quality/80/optimize
+70|1755551|사랑이 늦어서 미안해|김조한|1873|359962|Soul Family With Johan|https://cdnimg.melon.co.kr/cm/album/images/003/59/962/359962_500.jpg/melon/resize/48/quality/80/optimize
+71|1759290|Marry U (New Ver.)|SUPER JUNIOR (슈퍼주니어)|175404|360230|돈 돈! (Don't Don) (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/60/230/360230_500.jpg/melon/resize/48/quality/80/optimize
+72|1701604|사랑해요 (Feat. V.O.S 김경록, 태인)|나몰라패밀리 (Namolla Family)|194009|356031|나몰라패밀리|https://cdnimg.melon.co.kr/cm/album/images/003/56/031/356031_500.jpg/melon/resize/48/quality/80/optimize
+73|1758639|나를 만나다|김미려|230587|360186|나를 만나다|https://cdnimg.melon.co.kr/cm/album/images/003/60/186/360186_500.jpg/melon/resize/48/quality/80/optimize
+74|1649191|한사람만|FTISLAND (FT아일랜드)|226490|352436|Cheerful Sensibility|https://cdnimg.melon.co.kr/cm/album/images/003/52/436/352436_500.jpg/melon/resize/48/quality/80/optimize
+75|1727554|부디..|V.O.S|108794|357598|꽃이 웃는다|https://cdnimg.melon.co.kr/cm/album/images/003/57/598/357598_500.jpg/melon/resize/48/quality/80/optimize
+76|1657561|I Promise You|원티드, 이정|227316|353036|7DAYZ & WANTED|https://cdnimg.melon.co.kr/cm/album/images/003/53/036/353036_500.jpg/melon/resize/48/quality/80/optimize
+77|1758645|내 맘이 안 그래|이승환|26|360187|말랑|https://cdnimg.melon.co.kr/cm/album/images/003/60/187/360187_500.jpg/melon/resize/48/quality/80/optimize
+78|1707960|이별…후에|더 네임~럼블피쉬|25353~108951|356412|이별...후에|https://cdnimg.melon.co.kr/cm/album/images/003/56/412/356412_500.jpg/melon/resize/48/quality/80/optimize
+79|1750994|천년연가 (千年戀歌)|동방신기 (TVXQ!)|108316|359657|태왕사신기 OST|https://cdnimg.melon.co.kr/cm/album/images/003/59/657/359657_500.jpg/melon/resize/48/quality/80/optimize
+80|1764785|눈물 (Feat. 거북이)|에스진|172890|360945|눈물|https://cdnimg.melon.co.kr/cm/album/images/003/60/945/360945_500.jpg/melon/resize/48/quality/80/optimize
+81|1727369|다쳐도 좋아|휘성 (Realslow)|10577|357587|Eternal Essence Of Music|https://cdnimg.melon.co.kr/cm/album/images/003/57/587/357587_500.jpg/melon/resize/48/quality/80/optimize
+82|1763629|너니까 (Winter Ver.)|써니힐|229494|360867|Winter Story|https://cdnimg.melon.co.kr/cm/album/images/003/60/867/360867_500.jpg/melon/resize/48/quality/80/optimize
+83|1764570|요즘 나는|남규리~이홍기 (FT아일랜드)|223392~42554|360930|시트콤 못말리는 결혼 OST|https://cdnimg.melon.co.kr/cm/album/images/003/60/930/360930_500.jpg/melon/resize/48/quality/80/optimize
+84|1735830|우리가 사랑했다면|하울|175136|358339|우리가 사랑했다면|https://cdnimg.melon.co.kr/cm/album/images/003/58/339/358339_500.jpg/melon/resize/48/quality/80/optimize
+85|-1|Inconsolable|Backstreet Boys|100366|360401|Unbreakable (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/003/60/401/360401_500.jpg/melon/resize/48/quality/80/optimize
+86|1667441|미련한 가슴아|이수 (엠씨더맥스)|214784|353827|개와 늑대의 시간 OST|https://cdnimg.melon.co.kr/cm/album/images/003/53/827/353827_500.jpg/melon/resize/48/quality/80/optimize
+87|1764199|니 여자|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+88|1754739|내 눈물이 마를 때까지|테이|51893|359900|로비스트 OST|https://cdnimg.melon.co.kr/cm/album/images/003/59/900/359900_500.jpg/melon/resize/48/quality/80/optimize
+89|1762610|I Love Rock & Roll (Korean Ver.)|이다해|180159|360705|I Love Rock & Roll (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/60/705/360705_500.jpg/melon/resize/48/quality/80/optimize
+90|1757376|연|gavy project H5애인|230529|360107|연|https://cdnimg.melon.co.kr/cm/album/images/003/60/107/360107_500.jpg/melon/resize/48/quality/80/optimize
+91|1645081|사랑의 인사|씨야|181679|352046|Lovely Sweetheart|https://cdnimg.melon.co.kr/cm/album/images/003/52/046/352046_500.jpg/melon/resize/48/quality/80/optimize
+92|1764207|엇갈렸어 (Feat. T 윤미래)|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+93|1765764|But I Love U (Sampling By Rhu Of Redd Holt Unlimited)|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+94|1764201|Single (Feat. Bobby Kim)|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+95|1764204|나 돌아가|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+96|-1|키스할거야|성은|169436|360957|Comeback To Winter|https://cdnimg.melon.co.kr/cm/album/images/003/60/957/360957_500.jpg/melon/resize/48/quality/80/optimize
+97|1764205|19금 이런 여자가 좋아 (Feat. Dynamic Duo, 전제덕)|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+98|1764203|사실은|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+99|1764200|19금 Delicious (니 입술이)|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+100|1764445|How Do U Want It (Feat. 임정희)|라임버스|219893|360922|The Way Stop (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/60/922/360922_500.jpg/melon/resize/48/quality/80/optimize

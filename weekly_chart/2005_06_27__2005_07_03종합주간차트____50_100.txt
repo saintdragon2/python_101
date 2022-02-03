@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|858981|아파요|김현정|1177|304018|Fun Town 20|https://cdnimg.melon.co.kr/cm/album/images/003/04/018/304018_500.jpg/melon/resize/48/quality/80/optimize
+52|864432|Do You Love Me? (둘이 함께)|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+53|733379|Super Star|쥬얼리|101487|300770|4집 Super Star|https://cdnimg.melon.co.kr/cm/album/images/003/00/770/300770_500.jpg/melon/resize/48/quality/80/optimize
+54|-1|Everything's Gonna Be Alright (Reborn) (애경 케라시스 CF 고소영편)|Sweetbox|100060|301441|Best Of 1995~2005|https://cdnimg.melon.co.kr/cm/album/images/003/01/441/301441_500.jpg/melon/resize/48/quality/80/optimize
+55|864434|오늘 그댈 본다면 (If You Were Here) (CF - 서울우유 '서울이 좋다' 보아편)|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+56|775161|눈물잔|박상민|956|301162|서랍속 이야기|https://cdnimg.melon.co.kr/cm/album/images/003/01/162/301162_500.jpg/melon/resize/48/quality/80/optimize
+57|828357|다가와|채연|41894|301440|컨필레이션|https://cdnimg.melon.co.kr/cm/album/images/003/01/440/301440_500.jpg/melon/resize/48/quality/80/optimize
+58|711630|입술만 깨물고있죠|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+59|864916|너에게 전하는 아홉가지 바램|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+60|851429|기억속의 먼 그대에게|박효신|1191|303582|Neo Classicism|https://cdnimg.melon.co.kr/cm/album/images/003/03/582/303582_500.jpg/melon/resize/48/quality/80/optimize
+61|842021|떠나지마|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+62|838486|Too Good|천상지희 더 그레이스 (The Grace)|168015|302007|Too Good|https://cdnimg.melon.co.kr/cm/album/images/003/02/007/302007_500.jpg/melon/resize/48/quality/80/optimize
+63|858171|Incomplete|Backstreet Boys|100366|303949|Never Gone|https://cdnimg.melon.co.kr/cm/album/images/003/03/949/303949_500.jpg/melon/resize/48/quality/80/optimize
+64|841111|Always|신지|5907|302368|요구르팅:Always OST|https://cdnimg.melon.co.kr/cm/album/images/003/02/368/302368_500.jpg/melon/resize/48/quality/80/optimize
+65|864905|My Everything|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+66|864438|공중정원 (Garden In The Air)|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+67|855662|이별 못한 이별|지선|13459|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+68|848162|가슴 아파도|브라이언|1929|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+69|864435|Love Can Make A Miracle|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+70|864436|Addiction (중독)|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+71|848677|Music Is My Life (삼성전자 옙 CF 임정희, 재희편)|임정희|150529|303271|Music Is My Life|https://cdnimg.melon.co.kr/cm/album/images/003/03/271/303271_500.jpg/melon/resize/48/quality/80/optimize
+72|531840|Y (Please Tell Me Why)|프리스타일|100144|35102|Freestyle 3|https://cdnimg.melon.co.kr/cm/album/images/000/35/102/35102_500.jpg/melon/resize/48/quality/80/optimize
+73|858983|번뇌|김현정|1177|304018|Fun Town 20|https://cdnimg.melon.co.kr/cm/album/images/003/04/018/304018_500.jpg/melon/resize/48/quality/80/optimize
+74|850977|여왕개미|길건|60360|303535|G-Style|https://cdnimg.melon.co.kr/cm/album/images/003/03/535/303535_500.jpg/melon/resize/48/quality/80/optimize
+75|711629|가|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+76|827894|그대는 모르죠 (Good-bye)|플라이 투 더 스카이|100183|301369|중력 (Gravity)|https://cdnimg.melon.co.kr/cm/album/images/003/01/369/301369_500.jpg/melon/resize/48/quality/80/optimize
+77|864437|Freak In Me|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+78|864442|숨... (Breathe Again)|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+79|864910|행운|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+80|864439|I Spy|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+81|864908|I'll Pray For You|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+82|864440|Can't Let Go|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+83|836973|Hey, Dude! (코카콜라 CF 신화편)|신화|100078|301841|Hey, Dude!|https://cdnimg.melon.co.kr/cm/album/images/003/01/841/301841_500.jpg/melon/resize/48/quality/80/optimize
+84|866705|제자리 걸음|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+85|842118|Speed Of Sound|Coldplay|100260|302507|X&Y|https://cdnimg.melon.co.kr/cm/album/images/003/02/507/302507_500.jpg/melon/resize/48/quality/80/optimize
+86|864912|헤어지자는 말|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+87|864909|물론|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+88|864441|Heroine (시선)|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+89|834231|We Belong Together|Mariah Carey|2274|301653|Emancipation of Mimi|https://cdnimg.melon.co.kr/cm/album/images/003/01/653/301653_500.jpg/melon/resize/48/quality/80/optimize
+90|-1|Modern Times (SK텔레콤 CF '마네킹'편)|Jfive|168575|301853|Sweet Little Nothing|https://cdnimg.melon.co.kr/cm/album/images/003/01/853/301853_500.jpg/melon/resize/48/quality/80/optimize
+91|863658|Never Again|SS501|170541|304287|SS501|https://cdnimg.melon.co.kr/cm/album/images/003/04/287/304287_500.jpg/melon/resize/48/quality/80/optimize
+92|864443|가을편지|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+93|864911|Good-Bye|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+94|855665|보낼 수 없는 사랑|Sanha|167895|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+95|864913|단 하루만|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+96|841073|편지|김우주|168856|302364|Before You Sleep...|https://cdnimg.melon.co.kr/cm/album/images/003/02/364/302364_500.jpg/melon/resize/48/quality/80/optimize
+97|844267|짠짜라|장윤정|22836|302749|짠짜라|https://cdnimg.melon.co.kr/cm/album/images/003/02/749/302749_500.jpg/melon/resize/48/quality/80/optimize
+98|845579|Drama (Feat. 요아)|MC몽|11538|302961|His Story|https://cdnimg.melon.co.kr/cm/album/images/003/02/961/302961_500.jpg/melon/resize/48/quality/80/optimize
+99|-1|사랑이라는 이유로|m.e.l.o.n|170259|302392|Think Of Me|https://cdnimg.melon.co.kr/cm/album/images/003/02/392/302392_500.jpg/melon/resize/48/quality/80/optimize
+100|-1|어쩌다가 (New Ver.)|란 (RAN)|236880|302255|-|https://cdnimg.melon.co.kr/cm/album/images/003/02/255/302255_500.jpg/melon/resize/48/quality/80/optimize

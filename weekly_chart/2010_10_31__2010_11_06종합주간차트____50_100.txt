@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2998469|비처럼 음악처럼|김장훈|1081|1058361|Letter To 김현식|https://cdnimg.melon.co.kr/cm/album/images/010/58/361/1058361_500.jpg/melon/resize/48/quality/80/optimize
+52|2943430|지금부터 사랑해 (내 여자친구는 구미호 삽입곡)|이승기|58793|1025954|지금부터 사랑해|https://cdnimg.melon.co.kr/cm/album/images/010/25/954/1025954_500.jpg/melon/resize/48/quality/80/optimize
+53|2906349|사랑사랑사랑|FTISLAND (FT아일랜드)|226490|1001652|Beautiful Journey|https://cdnimg.melon.co.kr/cm/album/images/010/01/652/1001652_500.jpg/melon/resize/48/quality/80/optimize
+54|2996302|아직 난 예쁘다|황보|1719|1056958|아직 난 예쁘다|https://cdnimg.melon.co.kr/cm/album/images/010/56/958/1056958_500.jpg/melon/resize/48/quality/80/optimize
+55|2994360|Hello!|포맨 (4MEN)|100176|1055552|Sorry|https://cdnimg.melon.co.kr/cm/album/images/010/55/552/1055552_500.jpg/melon/resize/48/quality/80/optimize
+56|2964185|다 컸잖아|씨야~다비치|181679~236815|1038163|씨야 그리고 다비치|https://cdnimg.melon.co.kr/cm/album/images/010/38/163/1038163_500.jpg/melon/resize/48/quality/80/optimize
+57|3003430|LoveSick|San E|402526|1061373|LoveSick|https://cdnimg.melon.co.kr/cm/album/images/010/61/373/1061373_500.jpg/melon/resize/48/quality/80/optimize
+58|2776748|밥만 잘 먹더라|Homme (창민, 이현)|778464|973965|Homme By 'Hitman' Bang|https://cdnimg.melon.co.kr/cm/album/images/009/73/965/973965_500.jpg/melon/resize/48/quality/80/optimize
+59|2953683|My Heart|허각|28801|1030755|슈퍼스타K 2 Top6 (My Story)|https://cdnimg.melon.co.kr/cm/album/images/010/30/755/1030755_500.jpg/melon/resize/48/quality/80/optimize
+60|2943720|찾았다|박유천~XIA (준수)~김재중|52611~52607~52614|1026061|성균관 스캔들 OST|https://cdnimg.melon.co.kr/cm/album/images/010/26/061/1026061_500.jpg/melon/resize/48/quality/80/optimize
+61|2803451|A|레인보우|440320|997052|A (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/009/97/052/997052_500.jpg/melon/resize/48/quality/80/optimize
+62|2972813|Eye Nose Mouth (Feat. 4men)|선우|502485|1043274|Harmony|https://cdnimg.melon.co.kr/cm/album/images/010/43/274/1043274_500.jpg/melon/resize/48/quality/80/optimize
+63|2910952|U|포맨 (4MEN)|100176|1004461|You|https://cdnimg.melon.co.kr/cm/album/images/010/04/461/1004461_500.jpg/melon/resize/48/quality/80/optimize
+64|2933662|이 나이 먹고 뭐했길래 (Feat. 정슬기)|미스에스|275266|1019852|Miss Independent|https://cdnimg.melon.co.kr/cm/album/images/010/19/852/1019852_500.jpg/melon/resize/48/quality/80/optimize
+65|2972597|19금 Like A G6 (Feat. Dev & The Cataracs)|Far East Movement|193767|1043255|Free Wired|https://cdnimg.melon.co.kr/cm/album/images/010/43/255/1043255_500.jpg/melon/resize/48/quality/80/optimize
+66|2741416|Bad Girl Good Girl|미쓰에이|481481|941952|Bad But Good|https://cdnimg.melon.co.kr/cm/album/images/009/41/952/941952_500.jpg/melon/resize/48/quality/80/optimize
+67|454476|하늘을 달리다|이적|1088|31121|2적|https://cdnimg.melon.co.kr/cm/album/images/000/31/121/31121_500.jpg/melon/resize/48/quality/80/optimize
+68|3008110|이 모양 이 꼴로...|신지|5907|1064261|이 모양 이 꼴로...|https://cdnimg.melon.co.kr/cm/album/images/010/64/261/1064261_500.jpg/melon/resize/48/quality/80/optimize
+69|2183857|Because Of You|Kelly Clarkson|36329|574752|Because Of You (Remixes)|https://cdnimg.melon.co.kr/cm/album/images/005/74/752/574752_500.jpg/melon/resize/48/quality/80/optimize
+70|2979884|다시 사랑하기엔|2AM|253866|1046966|Saint o'clock|https://cdnimg.melon.co.kr/cm/album/images/010/46/966/1046966_500.jpg/melon/resize/48/quality/80/optimize
+71|2993148|내 잘못이죠 (Mistake)|소녀시대 (GIRLS' GENERATION)|228069|1051951|'훗 (Hoot)' The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/010/51/951/1051951_500.jpg/melon/resize/48/quality/80/optimize
+72|2995687|잘해줘봐야|걸스데이|482762|1056456|Girl's Day Party #2|https://cdnimg.melon.co.kr/cm/album/images/010/56/456/1056456_500.jpg/melon/resize/48/quality/80/optimize
+73|2963520|My All|배다해|252174|1037857|닥터챔프 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/010/37/857/1037857_500.jpg/melon/resize/48/quality/80/optimize
+74|2969364|Ayyy Girl (Feat. Kanye West, Malik Yusef)|JYJ|499453|1040953|The Beginning|https://cdnimg.melon.co.kr/cm/album/images/010/40/953/1040953_500.jpg/melon/resize/48/quality/80/optimize
+75|2992043|왜 나를 울려요|이현|429480|1054073|대물 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/010/54/073/1054073_500.jpg/melon/resize/48/quality/80/optimize
+76|2994159|이별 뭐 별거야|레이디 제인|497743|1055352|이별 뭐 별거야|https://cdnimg.melon.co.kr/cm/album/images/010/55/352/1055352_500.jpg/melon/resize/48/quality/80/optimize
+77|2989321|사랑이 슬프다|먼데이 키즈 (Monday Kiz)|175155|1053098|즐거운 나의 집 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/53/098/1053098_500.jpg/melon/resize/48/quality/80/optimize
+78|2991450|Cause I Said So (Album Version)|Ne-Yo|181769|1053970|Libra Scale|https://cdnimg.melon.co.kr/cm/album/images/010/53/970/1053970_500.jpg/melon/resize/48/quality/80/optimize
+79|2993151|첫눈에... (Snowy Wish)|소녀시대 (GIRLS' GENERATION)|228069|1051951|'훗 (Hoot)' The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/010/51/951/1051951_500.jpg/melon/resize/48/quality/80/optimize
+80|2994012|이별의 온도|윤종신|437|1055161|行步 2010 Yoon Jong Shin|https://cdnimg.melon.co.kr/cm/album/images/010/55/161/1055161_500.jpg/melon/resize/48/quality/80/optimize
+81|2964477|겨울 나무|SG 워너비|108363|1038453|겨울 나무|https://cdnimg.melon.co.kr/cm/album/images/010/38/453/1038453_500.jpg/melon/resize/48/quality/80/optimize
+82|3009049|후회합니다 (고해 Part.2)|임재범|4838|1065184|고해 Part.2|https://cdnimg.melon.co.kr/cm/album/images/010/65/184/1065184_500.jpg/melon/resize/48/quality/80/optimize
+83|2983548|사랑은 늘 도망가|이문세|43|1049053|욕망의 불꽃 OST Vol.1|https://cdnimg.melon.co.kr/cm/album/images/010/49/053/1049053_500.jpg/melon/resize/48/quality/80/optimize
+84|2999248|연예인 D.C|UV|467060|1058651|연예인 D.C|https://cdnimg.melon.co.kr/cm/album/images/010/58/651/1058651_500.jpg/melon/resize/48/quality/80/optimize
+85|2968426|One Shot (Feat. 주석)|윤하 (YOUNHA)|203912|1040563|One Shot|https://cdnimg.melon.co.kr/cm/album/images/010/40/563/1040563_500.jpg/melon/resize/48/quality/80/optimize
+86|2983725|밤하늘의 별을 2 (Feat. 제이비 & 한지은)|양정승|3493|1049258|밤하늘의 별을 2|https://cdnimg.melon.co.kr/cm/album/images/010/49/258/1049258_500.jpg/melon/resize/48/quality/80/optimize
+87|2997932|졸업|브로콜리너마저|230490|1057958|졸업|https://cdnimg.melon.co.kr/cm/album/images/010/57/958/1057958_500.jpg/melon/resize/48/quality/80/optimize
+88|2991148|19금 We R Who We R|Kesha|445350|1053858|We R Who We R|https://cdnimg.melon.co.kr/cm/album/images/010/53/858/1053858_500.jpg/melon/resize/48/quality/80/optimize
+89|2970597|반지 (Banji)|티파니 (TIFFANY)|406421|1041859|하루 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/010/41/859/1041859_500.jpg/melon/resize/48/quality/80/optimize
+90|2979885|이젠 없다|2AM|253866|1046966|Saint o'clock|https://cdnimg.melon.co.kr/cm/album/images/010/46/966/1046966_500.jpg/melon/resize/48/quality/80/optimize
+91|2759248|그 사람|이승철|1010|959951|제빵왕 김탁구 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/009/59/951/959951_500.jpg/melon/resize/48/quality/80/optimize
+92|2965706|Running & Running|엠블랙|436980|1039165|도망자 Plan.B OST|https://cdnimg.melon.co.kr/cm/album/images/010/39/165/1039165_500.jpg/melon/resize/48/quality/80/optimize
+93|2993149|단짝 (My Best Friend)|소녀시대 (GIRLS' GENERATION)|228069|1051951|'훗 (Hoot)' The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/010/51/951/1051951_500.jpg/melon/resize/48/quality/80/optimize
+94|2937631|맛좋은산 (Feat. Min)|San E|402526|1023058|Everybody ready?|https://cdnimg.melon.co.kr/cm/album/images/010/23/058/1023058_500.jpg/melon/resize/48/quality/80/optimize
+95|2960456|이별이 오지 못하게|씨야|181679|1035852|TWENTYth Urban|https://cdnimg.melon.co.kr/cm/album/images/010/35/852/1035852_500.jpg/melon/resize/48/quality/80/optimize
+96|2671181|본능적으로|윤종신~스윙스|437~236970|880455|Monthly 2010 May|https://cdnimg.melon.co.kr/cm/album/images/008/80/455/880455_500.jpg/melon/resize/48/quality/80/optimize
+97|2944387|Full Story|V.O.S|108794|1026559|The Blue Bird|https://cdnimg.melon.co.kr/cm/album/images/010/26/559/1026559_500.jpg/melon/resize/48/quality/80/optimize
+98|3000792|My Way (Dr.Champ)|휘성 (Realslow)|10577|1059763|닥터챔프 OST Part 5|https://cdnimg.melon.co.kr/cm/album/images/010/59/763/1059763_500.jpg/melon/resize/48/quality/80/optimize
+99|2988980|헉 (Huk) (Feat. 은지원)|이수근|23432|1053063|헉|https://cdnimg.melon.co.kr/cm/album/images/010/53/063/1053063_500.jpg/melon/resize/48/quality/80/optimize
+100|2797558|Madonna|시크릿|435121|992151|Madonna|https://cdnimg.melon.co.kr/cm/album/images/009/92/151/992151_500.jpg/melon/resize/48/quality/80/optimize

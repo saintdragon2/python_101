@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3779134|씨스루 (Feat. 개코, Zion.T)|프라이머리|35682|2115647|Primary And The Messengers Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/15/647/2115647_500.jpg/melon/resize/48/quality/80/optimize
+52|3701333|Heaven|에일리(Ailee)|629831|2077426|Heaven|https://cdnimg.melon.co.kr/cm/album/images/020/77/426/2077426_500.jpg/melon/resize/48/quality/80/optimize
+53|3820624|Mr. BangBang|달샤벳|514619|2126122|THE 1ST ALBUM 'BANG BANG'|https://cdnimg.melon.co.kr/cm/album/images/021/26/122/2126122_500.jpg/melon/resize/48/quality/80/optimize
+54|3750173|미치게 보고싶은|태연 (TAEYEON)|236797|2100766|더킹 투하츠 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/00/766/2100766_500.jpg/melon/resize/48/quality/80/optimize
+55|3818506|한잔의 추억 (원곡가수 이장희)|국카스텐|311166|2125849|'나는 가수다 2' 6월 3일 A조 경연|https://cdnimg.melon.co.kr/cm/album/images/021/25/849/2125849_500.jpg/melon/resize/48/quality/80/optimize
+56|3818472|너라서|다비치|236815|2125842|너라서 (빅 OST)|https://cdnimg.melon.co.kr/cm/album/images/021/25/842/2125842_500.jpg/melon/resize/48/quality/80/optimize
+57|3734735|LOVE DAY|양요섭~정은지|510565~644871|2093190|'A Cube' For Season # Green|https://cdnimg.melon.co.kr/cm/album/images/020/93/190/2093190_500.jpg/melon/resize/48/quality/80/optimize
+58|3753305|외로움증폭장치 (브래드 드럼 한판 쉬기)|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+59|3743293|이상형|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+60|3818315|I Do|박지윤|1121|2125823|아이두 아이두 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/25/823/2125823_500.jpg/melon/resize/48/quality/80/optimize
+61|3759927|사랑은 다 그런거래요|양파~다비치~HANNA|3854~236815~656371|2106226|Together|https://cdnimg.melon.co.kr/cm/album/images/021/06/226/2106226_500.jpg/melon/resize/48/quality/80/optimize
+62|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+63|3809486|빙글빙글|티아라|412000|2124848|빙글빙글|https://cdnimg.melon.co.kr/cm/album/images/021/24/848/2124848_500.jpg/melon/resize/48/quality/80/optimize
+64|3771082|Oh! My God|걸스데이|482762|2111267|Everyday II|https://cdnimg.melon.co.kr/cm/album/images/021/11/267/2111267_500.jpg/melon/resize/48/quality/80/optimize
+65|3809307|조금씩 멀어지네요|이영현|10210|2124818|PLUS+|https://cdnimg.melon.co.kr/cm/album/images/021/24/818/2124818_500.jpg/melon/resize/48/quality/80/optimize
+66|3807424|Bounce|JJ Project|672041|2124582|Bounce|https://cdnimg.melon.co.kr/cm/album/images/021/24/582/2124582_500.jpg/melon/resize/48/quality/80/optimize
+67|3776153|찢긴 가슴|아이비|171127|2114086|Interview|https://cdnimg.melon.co.kr/cm/album/images/021/14/086/2114086_500.jpg/melon/resize/48/quality/80/optimize
+68|3807294|Do It|써니힐|229494|2124563|아이러브 이태리 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/24/563/2124563_500.jpg/melon/resize/48/quality/80/optimize
+69|3819512|Burn Out|블락비 (Block B)|532201|2125989|유령 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/25/989/2125989_500.jpg/melon/resize/48/quality/80/optimize
+70|3809305|시간은|이영현|10210|2124818|PLUS+|https://cdnimg.melon.co.kr/cm/album/images/021/24/818/2124818_500.jpg/melon/resize/48/quality/80/optimize
+71|3816130|꽃보다 그녀|예성 (YESUNG)|261447|2125562|아이두 아이두 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/25/562/2125562_500.jpg/melon/resize/48/quality/80/optimize
+72|3817701|잠못드는 밤 비는 내리고 (Feat. Funny Funkiz)|이재훈 (쿨)|1574|2125744|잠못드는 밤 비는 내리고|https://cdnimg.melon.co.kr/cm/album/images/021/25/744/2125744_500.jpg/melon/resize/48/quality/80/optimize
+73|3736176|곰인형 (Feat. 해금)|린|8530|2093727|LoveFiction|https://cdnimg.melon.co.kr/cm/album/images/020/93/727/2093727_500.jpg/melon/resize/48/quality/80/optimize
+74|3744700|한참 지나서|백지영|1118|2097789|옥탑방 왕세자 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/97/789/2097789_500.jpg/melon/resize/48/quality/80/optimize
+75|3818840|되냐 안되냐|형돈이와 대준이|673585|2125923|껭스타랩 볼륨 1|https://cdnimg.melon.co.kr/cm/album/images/021/25/923/2125923_500.jpg/melon/resize/48/quality/80/optimize
+76|3753308|전활 거네|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+77|3796596|알아요|양파~이보람 (씨야)~소연|3854~46751~473461|2123365|Together|https://cdnimg.melon.co.kr/cm/album/images/021/23/365/2123365_500.jpg/melon/resize/48/quality/80/optimize
+78|-1|너의 뒤에서|이해리 (다비치)|259769|2124592|불후의 명곡 - 전설을 노래하다 (박진영 2편)|https://cdnimg.melon.co.kr/cm/album/images/021/24/592/2124592_500.jpg/melon/resize/48/quality/80/optimize
+79|3796969|그 애 참 싫다|아이유|261143|2121646|스무 살의 봄|https://cdnimg.melon.co.kr/cm/album/images/021/21/646/2121646_500.jpg/melon/resize/48/quality/80/optimize
+80|3818489|FANTASTIC BABY (Special Edition Ver.)|BIGBANG|198094|2125847|BIGBANG SPECIAL EDITION 'STILL ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/021/25/847/2125847_500.jpg/melon/resize/48/quality/80/optimize
+81|3787033|연락하지마 (Feat. LE Of EXID)|가비엔제이|174997|2119486|연락하지마|https://cdnimg.melon.co.kr/cm/album/images/021/19/486/2119486_500.jpg/melon/resize/48/quality/80/optimize
+82|3715672|BLUE|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+83|3814174|Day By Day 2012 (Feat. 버벌진트)|애즈원|100093|2125327|Day By Day 2012|https://cdnimg.melon.co.kr/cm/album/images/021/25/327/2125327_500.jpg/melon/resize/48/quality/80/optimize
+84|3815039|오르막길|정인~윤종신|35989~437|2125437|2012 월간 윤종신 6월호|https://cdnimg.melon.co.kr/cm/album/images/021/25/437/2125437_500.jpg/melon/resize/48/quality/80/optimize
+85|3731994|너도 나처럼|2AM|253866|2092046|F.Scott Fitzgerald's Way Of Love|https://cdnimg.melon.co.kr/cm/album/images/020/92/046/2092046_500.jpg/melon/resize/48/quality/80/optimize
+86|-1|하얀 바람|이해리 (다비치)|259769|2125848|불후의 명곡 - 전설을 노래하다 (소방차편)|https://cdnimg.melon.co.kr/cm/album/images/021/25/848/2125848_500.jpg/melon/resize/48/quality/80/optimize
+87|3815743|The DJ Is Mine|원더걸스|217764|2125515|Wonder Party|https://cdnimg.melon.co.kr/cm/album/images/021/25/515/2125515_500.jpg/melon/resize/48/quality/80/optimize
+88|3753307|골목길 어귀에서|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+89|3807548|Hello & Goodbye|마이네임|576851|2124595|MYNAME 1st Single|https://cdnimg.melon.co.kr/cm/album/images/021/24/595/2124595_500.jpg/melon/resize/48/quality/80/optimize
+90|3812142|개리와 기리... 세번째 이야기|리쌍|103289|2124385|Unplugged|https://cdnimg.melon.co.kr/cm/album/images/021/24/385/2124385_500.jpg/melon/resize/48/quality/80/optimize
+91|3819132|Believe|유키스|259928|2125958|THE SPECIAL TO KISSME|https://cdnimg.melon.co.kr/cm/album/images/021/25/958/2125958_500.jpg/melon/resize/48/quality/80/optimize
+92|-1|기다려 그리고 준비해|용감한 녀석들|649953|2098966|용감한 녀석들|https://cdnimg.melon.co.kr/cm/album/images/020/98/966/2098966_500.jpg/melon/resize/48/quality/80/optimize
+93|3812037|살아도 꿈인 것처럼|김재중|52614|2125136|닥터 진 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/25/136/2125136_500.jpg/melon/resize/48/quality/80/optimize
+94|3818490|BAD BOY (Special Edition Ver.)|BIGBANG|198094|2125847|BIGBANG SPECIAL EDITION 'STILL ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/021/25/847/2125847_500.jpg/melon/resize/48/quality/80/optimize
+95|3818841|한심포차 (Feat. 보니)|형돈이와 대준이|673585|2125923|껭스타랩 볼륨 1|https://cdnimg.melon.co.kr/cm/album/images/021/25/923/2125923_500.jpg/melon/resize/48/quality/80/optimize
+96|3819123|새벽녘|에피톤 프로젝트|181716|2125956|낯선 도시에서의 하루|https://cdnimg.melon.co.kr/cm/album/images/021/25/956/2125956_500.jpg/melon/resize/48/quality/80/optimize
+97|3143265|Rolling In The Deep|Adele|241925|1173053|21|https://cdnimg.melon.co.kr/cm/album/images/011/73/053/1173053_500.jpg/melon/resize/48/quality/80/optimize
+98|3775013|백마는 오고 있는가|써니힐|229494|2113466|백마는 오고 있는가|https://cdnimg.melon.co.kr/cm/album/images/021/13/466/2113466_500.jpg/melon/resize/48/quality/80/optimize
+99|3821730|차갑다|부활|100594|2126247|Purple Wave|https://cdnimg.melon.co.kr/cm/album/images/021/26/247/2126247_500.jpg/melon/resize/48/quality/80/optimize
+100|3813420|내일을 향해 쏴라|50kg|594731|2125264|내일을 향해 쏴라|https://cdnimg.melon.co.kr/cm/album/images/021/25/264/2125264_500.jpg/melon/resize/48/quality/80/optimize

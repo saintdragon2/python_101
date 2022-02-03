@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2569048|가시리|버블 시스터즈|105696|792751|가시리|https://cdnimg.melon.co.kr/cm/album/images/007/92/751/792751_500.jpg/melon/resize/48/quality/80/optimize
+52|2578965|늦은사랑|박화요비|2017|801955|산부인과 OST (Part 2)|https://cdnimg.melon.co.kr/cm/album/images/008/01/955/801955_500.jpg/melon/resize/48/quality/80/optimize
+53|2343748|기다리다 지친다|2PM|259822|711451|1:59PM|https://cdnimg.melon.co.kr/cm/album/images/007/11/451/711451_500.jpg/melon/resize/48/quality/80/optimize
+54|2361466|Please Don't Go|CL~민지|441844~441843|719553|Please Don't Go (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/19/553/719553_500.jpg/melon/resize/48/quality/80/optimize
+55|2579716|놓치다|선민|198663|802457|놓치다|https://cdnimg.melon.co.kr/cm/album/images/008/02/457/802457_500.jpg/melon/resize/48/quality/80/optimize
+56|2326351|JoJo|SHINee (샤이니)|247639|691052|2009, Year Of Us|https://cdnimg.melon.co.kr/cm/album/images/006/91/052/691052_500.jpg/melon/resize/48/quality/80/optimize
+57|2537463|사랑이 그렇습니다|가비엔제이|174997|765653|해바라기|https://cdnimg.melon.co.kr/cm/album/images/007/65/653/765653_500.jpg/melon/resize/48/quality/80/optimize
+58|2537575|첫사랑이죠|아이유~나윤권|261143~58979|765757|첫사랑이죠|https://cdnimg.melon.co.kr/cm/album/images/007/65/757/765757_500.jpg/melon/resize/48/quality/80/optimize
+59|2511579|그대라서|거미|30358|744964|크리스마스에 눈이 올까요? OST|https://cdnimg.melon.co.kr/cm/album/images/007/44/964/744964_500.jpg/melon/resize/48/quality/80/optimize
+60|2516879|사랑 둘이서..|Ab 에비뉴|443444|749255|Love For 2|https://cdnimg.melon.co.kr/cm/album/images/007/49/255/749255_500.jpg/melon/resize/48/quality/80/optimize
+61|2530643|또르르|지연|449580|759665|공부의 신 OST|https://cdnimg.melon.co.kr/cm/album/images/007/59/665/759665_500.jpg/melon/resize/48/quality/80/optimize
+62|2388945|싸이렌 (Siren) (Feat. 미스터타이푼)|은지원|1682|741259|Platonic|https://cdnimg.melon.co.kr/cm/album/images/007/41/259/741259_500.jpg/melon/resize/48/quality/80/optimize
+63|2555764|솜사탕|대성|251080|781452|솜사탕 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/81/452/781452_500.jpg/melon/resize/48/quality/80/optimize
+64|2581290|우리 다시 만나요|김연지|428803|803857|우리 다시 만나요|https://cdnimg.melon.co.kr/cm/album/images/008/03/857/803857_500.jpg/melon/resize/48/quality/80/optimize
+65|2517760|하모니|제아~이영현|230519~10210|749952|하모니 OST|https://cdnimg.melon.co.kr/cm/album/images/007/49/952/749952_500.jpg/melon/resize/48/quality/80/optimize
+66|2530461|TiK ToK|Kesha|445350|759554|Animal|https://cdnimg.melon.co.kr/cm/album/images/007/59/554/759554_500.jpg/melon/resize/48/quality/80/optimize
+67|2533327|Mazeltov|제국의아이들 (ZE:A)|449941|761859|Nativity|https://cdnimg.melon.co.kr/cm/album/images/007/61/859/761859_500.jpg/melon/resize/48/quality/80/optimize
+68|2588963|미아|제아|230519|810353|추노 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/008/10/353/810353_500.jpg/melon/resize/48/quality/80/optimize
+69|2339048|Sign|브라운아이드걸스|181694|707651|Sound-G Sign|https://cdnimg.melon.co.kr/cm/album/images/007/07/651/707651_500.jpg/melon/resize/48/quality/80/optimize
+70|2565248|No.5 (Rap Feat. 은지원)|제이|1203|789751|Sentimental|https://cdnimg.melon.co.kr/cm/album/images/007/89/751/789751_500.jpg/melon/resize/48/quality/80/optimize
+71|2523763|그녀처럼|지아|227595|753752|Atelier|https://cdnimg.melon.co.kr/cm/album/images/007/53/752/753752_500.jpg/melon/resize/48/quality/80/optimize
+72|2590549|그대 내 맘에 들어오면은 (Feat. C-Luv)|엠블랙|436980|811952|The Artist (조덕배 25주년 기념앨범 Part.4)|https://cdnimg.melon.co.kr/cm/album/images/008/11/952/811952_500.jpg/melon/resize/48/quality/80/optimize
+73|2558448|운명|타이푼|186309|783751|안녕.. 타이푼|https://cdnimg.melon.co.kr/cm/album/images/007/83/751/783751_500.jpg/melon/resize/48/quality/80/optimize
+74|2558730|뻔 & Fun (Sweet Talking Baby)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+75|2363261|Telephone (Feat. Beyoncé)|Lady Gaga|253688|720852|The Fame Monster|https://cdnimg.melon.co.kr/cm/album/images/007/20/852/720852_500.jpg/melon/resize/48/quality/80/optimize
+76|1935298|Baby Baby|포맨 (4MEN)|100176|398596|First Kiss|https://cdnimg.melon.co.kr/cm/album/images/003/98/596/398596_500.jpg/melon/resize/48/quality/80/optimize
+77|2319548|잊지 말아요|백지영|1118|689751|아이리스 OST (Part 1)|https://cdnimg.melon.co.kr/cm/album/images/006/89/751/689751_500.jpg/melon/resize/48/quality/80/optimize
+78|2579714|미안해 (Feat. Yuri )|PK 헤만|211782|802456|미안해|https://cdnimg.melon.co.kr/cm/album/images/008/02/456/802456_500.jpg/melon/resize/48/quality/80/optimize
+79|2542649|우리 결혼할까?|리사~미료|48312~6272|770252|우리 결혼할까? (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/70/252/770252_500.jpg/melon/resize/48/quality/80/optimize
+80|2552016|아파|빅마마|105803|778161|천만번 사랑해 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/007/78/161/778161_500.jpg/melon/resize/48/quality/80/optimize
+81|2553760|날개를 펴고 (Vocal By Luna, Krystal, Amber)|f(x)|428501|779452|공부의 신 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/007/79/452/779452_500.jpg/melon/resize/48/quality/80/optimize
+82|2331974|못된 여자 II (With 서인영)|원투|106928|701153|못된 여자 II|https://cdnimg.melon.co.kr/cm/album/images/007/01/153/701153_500.jpg/melon/resize/48/quality/80/optimize
+83|2291014|Honesty|Beyonce|3535|664561|I Am... Sasha Fierce (Platinum Edition)|https://cdnimg.melon.co.kr/cm/album/images/006/64/561/664561_500.jpg/melon/resize/48/quality/80/optimize
+84|2588796|와랄라 랄라레|원투|106928|810256|Walala Lalale|https://cdnimg.melon.co.kr/cm/album/images/008/10/256/810256_500.jpg/melon/resize/48/quality/80/optimize
+85|2347151|그립고 그립고 그립다|케이윌|175139|714152|그립고 그립고 그립다|https://cdnimg.melon.co.kr/cm/album/images/007/14/152/714152_500.jpg/melon/resize/48/quality/80/optimize
+86|2580149|영원히 너와 꿈꾸고 싶다 (드라마 '파스타' 삽입곡)|소녀시대 (GIRLS' GENERATION)|228069|802951|파스타 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/008/02/951/802951_500.jpg/melon/resize/48/quality/80/optimize
+87|2334774|그 놈 목소리|씨야|181679|703853|Rebloom|https://cdnimg.melon.co.kr/cm/album/images/007/03/853/703853_500.jpg/melon/resize/48/quality/80/optimize
+88|2583714|Everything Is Nothing|Sweetbox|100060|805859|Everything Is Nothing|https://cdnimg.melon.co.kr/cm/album/images/008/05/859/805859_500.jpg/melon/resize/48/quality/80/optimize
+89|2379811|돌아올순 없나요|디셈버|439021|733756|아이리스 OST (Part 5)|https://cdnimg.melon.co.kr/cm/album/images/007/33/756/733756_500.jpg/melon/resize/48/quality/80/optimize
+90|2384348|사랑하면 안되나요|서인영|26265|737351|아이리스 OST (Part 6)|https://cdnimg.melon.co.kr/cm/album/images/007/37/351/737351_500.jpg/melon/resize/48/quality/80/optimize
+91|2374593|No Love No More|박진영|1130|729754|Sad Freedom|https://cdnimg.melon.co.kr/cm/album/images/007/29/754/729754_500.jpg/melon/resize/48/quality/80/optimize
+92|2558733|화성인 바이러스 (Boys & Girls) (Feat. Key Of SHINee)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+93|2511470|사랑합니다|SG 워너비~V.O.S|108363~108794|744956|사랑합니다|https://cdnimg.melon.co.kr/cm/album/images/007/44/956/744956_500.jpg/melon/resize/48/quality/80/optimize
+94|2354532|마쉬멜로우|아이유|261143|718505|IU...IM|https://cdnimg.melon.co.kr/cm/album/images/007/18/505/718505_500.jpg/melon/resize/48/quality/80/optimize
+95|2558731|영원히 너와 꿈꾸고 싶다 (Forever)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+96|2511767|로맨틱 겨울 (Feat. 김진호 Of SG워너비)|김진표|1136|745152|Romantic 겨울|https://cdnimg.melon.co.kr/cm/album/images/007/45/152/745152_500.jpg/melon/resize/48/quality/80/optimize
+97|2345593|Chu~♡|f(x)|428501|712753|'Chu~♡' The 1st Single|https://cdnimg.melon.co.kr/cm/album/images/007/12/753/712753_500.jpg/melon/resize/48/quality/80/optimize
+98|2573849|작년 겨울|박윤화~현아|455880~449401|797252|Love Parade|https://cdnimg.melon.co.kr/cm/album/images/007/97/252/797252_500.jpg/melon/resize/48/quality/80/optimize
+99|2583195|Love Me Love Me (Feat.김현민)|원써겐|160123|805457|Rewind|https://cdnimg.melon.co.kr/cm/album/images/008/05/457/805457_500.jpg/melon/resize/48/quality/80/optimize
+100|2579460|Umbrella|카라|222128|802252|루팡 (Lupin)|https://cdnimg.melon.co.kr/cm/album/images/008/02/252/802252_500.jpg/melon/resize/48/quality/80/optimize

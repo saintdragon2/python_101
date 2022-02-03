@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2008648|Stylish (The FILA)|BIGBANG|198094|455651|FILA Limited Edition With Bigbang|https://cdnimg.melon.co.kr/cm/album/images/004/55/651/455651_500.jpg/melon/resize/48/quality/80/optimize
+52|2135850|내사랑 울보|SG 워너비|108363|542651|Gift From SG Wanna Be|https://cdnimg.melon.co.kr/cm/album/images/005/42/651/542651_500.jpg/melon/resize/48/quality/80/optimize
+53|2143059|너를 비운다|란 (RAN)|236880|548452|This Is Ran|https://cdnimg.melon.co.kr/cm/album/images/005/48/452/548452_500.jpg/melon/resize/48/quality/80/optimize
+54|2017349|내 머리가 나빠서|SS501|170541|463151|꽃보다 남자 OST|https://cdnimg.melon.co.kr/cm/album/images/004/63/151/463151_500.jpg/melon/resize/48/quality/80/optimize
+55|1984049|Pretty Girl|카라|222128|432151|Pretty Girl (2nd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/004/32/151/432151_500.jpg/melon/resize/48/quality/80/optimize
+56|2138348|믿을 수 없는 말|황보|1719|544451|믿을 수 없는 말|https://cdnimg.melon.co.kr/cm/album/images/005/44/451/544451_500.jpg/melon/resize/48/quality/80/optimize
+57|2139673|지울꺼야|이수영|995|545753|2009 No.1 Diva's Love (지울꺼야)|https://cdnimg.melon.co.kr/cm/album/images/005/45/753/545753_500.jpg/melon/resize/48/quality/80/optimize
+58|2128624|사랑한단 말 못해|옥주현|1714|536658|신데렐라 맨 OST|https://cdnimg.melon.co.kr/cm/album/images/005/36/658/536658_500.jpg/melon/resize/48/quality/80/optimize
+59|2129648|Extreme (Feat. 제시카에이치오)|이민호|408680|537451|Extreme (Single)|https://cdnimg.melon.co.kr/cm/album/images/005/37/451/537451_500.jpg/melon/resize/48/quality/80/optimize
+60|2144082|Cry|오종혁|5599|549356|He's Story Vol.2 'Cry'|https://cdnimg.melon.co.kr/cm/album/images/005/49/356/549356_500.jpg/melon/resize/48/quality/80/optimize
+61|1958819|총맞은것처럼|백지영|1118|412157|Sensibility|https://cdnimg.melon.co.kr/cm/album/images/004/12/157/412157_500.jpg/melon/resize/48/quality/80/optimize
+62|2141048|마법같은 사랑|태사비애|229242|546951|마법같은 사랑|https://cdnimg.melon.co.kr/cm/album/images/005/46/951/546951_500.jpg/melon/resize/48/quality/80/optimize
+63|2108080|사랑한다 외쳐요 (Feat. 미료 From 브라운 아이드 걸스)|제이워크|102409|520252|사랑한다 외쳐요|https://cdnimg.melon.co.kr/cm/album/images/005/20/252/520252_500.jpg/melon/resize/48/quality/80/optimize
+64|2140853|오늘의 운세|김형중|5247|546752|Polaroid|https://cdnimg.melon.co.kr/cm/album/images/005/46/752/546752_500.jpg/melon/resize/48/quality/80/optimize
+65|2140949|봄, 여름 그 사이|박지윤|1121|546851|꽃, 다시 첫 번째|https://cdnimg.melon.co.kr/cm/album/images/005/46/851/546851_500.jpg/melon/resize/48/quality/80/optimize
+66|2113073|아직도 널|YB|100168|524452|공존|https://cdnimg.melon.co.kr/cm/album/images/005/24/452/524452_500.jpg/melon/resize/48/quality/80/optimize
+67|2139148|J Style|이준기|184019|545251|J Style|https://cdnimg.melon.co.kr/cm/album/images/005/45/251/545251_500.jpg/melon/resize/48/quality/80/optimize
+68|2124913|So Fresh, So Cool|BIGBANG|198094|533857|So Fresh, So Cool|https://cdnimg.melon.co.kr/cm/album/images/005/33/857/533857_500.jpg/melon/resize/48/quality/80/optimize
+69|2144448|앓아요|한경일|8314|549851|Sensibility|https://cdnimg.melon.co.kr/cm/album/images/005/49/851/549851_500.jpg/melon/resize/48/quality/80/optimize
+70|2066666|Beyond The Wall (Feat. Supreme Team)|다이나믹 듀오|108358|503553|Ballad For Fallen Soul Part 1|https://cdnimg.melon.co.kr/cm/album/images/005/03/553/503553_500.jpg/melon/resize/48/quality/80/optimize
+71|2043348|그런 사람 또 없습니다|이승철|1010|486251|슬픔보다 더 슬픈이야기 OST 2nd|https://cdnimg.melon.co.kr/cm/album/images/004/86/251/486251_500.jpg/melon/resize/48/quality/80/optimize
+72|2140396|그리워 비처럼 (Feat. 수호)|세이|222109|546354|그리워 비처럼|https://cdnimg.melon.co.kr/cm/album/images/005/46/354/546354_500.jpg/melon/resize/48/quality/80/optimize
+73|1928055|들리나요...|태연 (TAEYEON)|236797|397893|베토벤 바이러스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/97/893/397893_500.jpg/melon/resize/48/quality/80/optimize
+74|-1|Insomnia|Craig David|4804|501651|Greatest Hits|https://cdnimg.melon.co.kr/cm/album/images/005/01/651/501651_500.jpg/melon/resize/48/quality/80/optimize
+75|2144768|Never Ending Story|윤상현|411121|550053|내조의 여왕 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/005/50/053/550053_500.jpg/melon/resize/48/quality/80/optimize
+76|2139250|쿨하게 헤어지는 방법 (Feat. 잔디)|김진표|1136|545352|BlueBrand Part 2|https://cdnimg.melon.co.kr/cm/album/images/005/45/352/545352_500.jpg/melon/resize/48/quality/80/optimize
+77|2114649|미칠듯.. (Feat. 진주)|비욘드|169635|525251|미칠듯|https://cdnimg.melon.co.kr/cm/album/images/005/25/251/525251_500.jpg/melon/resize/48/quality/80/optimize
+78|2017263|Tell Me Why (Feat. 화영)|언터쳐블|190493|463052|Quiet Storm|https://cdnimg.melon.co.kr/cm/album/images/004/63/052/463052_500.jpg/melon/resize/48/quality/80/optimize
+79|2113264|여우랍니다|이수영|995|524463|내조의 여왕 OST|https://cdnimg.melon.co.kr/cm/album/images/005/24/463/524463_500.jpg/melon/resize/48/quality/80/optimize
+80|2119815|1초에 한방울 (Feat. 다이나믹듀오)|케이윌|175139|529655|눈물이 뚝뚝|https://cdnimg.melon.co.kr/cm/album/images/005/29/655/529655_500.jpg/melon/resize/48/quality/80/optimize
+81|2015662|힘 내! (Way To Go)|소녀시대 (GIRLS' GENERATION)|228069|458355|The First Mini Album 'Gee'|https://cdnimg.melon.co.kr/cm/album/images/004/58/355/458355_500.jpg/melon/resize/48/quality/80/optimize
+82|2098215|Girls (Feat. Lil Kim)|SE7EN|33513|512359|Girls (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/005/12/359/512359_500.jpg/melon/resize/48/quality/80/optimize
+83|2139722|하루하루 (Orchestra Ver.)|BIGBANG|198094|545759|2009 BigBang 콘서트 라이브 앨범 'Big Show'|https://cdnimg.melon.co.kr/cm/album/images/005/45/759/545759_500.jpg/melon/resize/48/quality/80/optimize
+84|2063744|짜라자짜 (Feat. 다비치)|주현미~서현 (SEOHYUN)|1173~401220|501959|짜라자짜|https://cdnimg.melon.co.kr/cm/album/images/005/01/959/501959_500.jpg/melon/resize/48/quality/80/optimize
+85|2049362|웃으며 안녕|이석훈|205858|491052|SG Wannabe ＆ 숙희|https://cdnimg.melon.co.kr/cm/album/images/004/91/052/491052_500.jpg/melon/resize/48/quality/80/optimize
+86|984646|애인 있어요|이은미|1055|309042|Ma Non Tanto|https://cdnimg.melon.co.kr/cm/album/images/003/09/042/309042_500.jpg/melon/resize/48/quality/80/optimize
+87|1913501|하루 하루|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+88|2114005|19금 Love Sex Magic (Feat. Justin Timberlake)|Ciara|55278|524754|Love Sex Magic|https://cdnimg.melon.co.kr/cm/album/images/005/24/754/524754_500.jpg/melon/resize/48/quality/80/optimize
+89|2040667|가버려 너|플라이 투 더 스카이|100183|483954|Decennium|https://cdnimg.melon.co.kr/cm/album/images/004/83/954/483954_500.jpg/melon/resize/48/quality/80/optimize
+90|2123958|보디가드 (애니콜 CF송 - 샤방 보디가드폰)|SHINee (샤이니)|247639|533052|보디가드|https://cdnimg.melon.co.kr/cm/album/images/005/33/052/533052_500.jpg/melon/resize/48/quality/80/optimize
+91|2070078|이별보다 슬픈말|V.O.S|108794|506158|카인과 아벨 OST|https://cdnimg.melon.co.kr/cm/album/images/005/06/158/506158_500.jpg/melon/resize/48/quality/80/optimize
+92|2132498|We Made You|Eminem|1986|539855|We Made You|https://cdnimg.melon.co.kr/cm/album/images/005/39/855/539855_500.jpg/melon/resize/48/quality/80/optimize
+93|2144292|Bling Bling (LGT 블링블링캔유폰 광고 삽입곡)|타루|184730|549653|Lovely Pink|https://cdnimg.melon.co.kr/cm/album/images/005/49/653/549653_500.jpg/melon/resize/48/quality/80/optimize
+94|2129148|화성남자 금성여자 (Feat. 미소)|김형준|759|537051|화성남자 금성여자|https://cdnimg.melon.co.kr/cm/album/images/005/37/051/537051_500.jpg/melon/resize/48/quality/80/optimize
+95|2130950|해피 엔드 (Happy And)|강균성 (노을)~니콜|21356~408880|538552|해피 엔드|https://cdnimg.melon.co.kr/cm/album/images/005/38/552/538552_500.jpg/melon/resize/48/quality/80/optimize
+96|2123959|좋아|유채영|7400|533053|Another Decade|https://cdnimg.melon.co.kr/cm/album/images/005/33/053/533053_500.jpg/melon/resize/48/quality/80/optimize
+97|2142749|그리워|메이트|410766|548151|Be Mate|https://cdnimg.melon.co.kr/cm/album/images/005/48/151/548151_500.jpg/melon/resize/48/quality/80/optimize
+98|2135761|Dynamite|에이 스타일|243727|542554|Dynamite|https://cdnimg.melon.co.kr/cm/album/images/005/42/554/542554_500.jpg/melon/resize/48/quality/80/optimize
+99|1983482|매력쟁이 (Feat. MC 몽)|린|8530|431753|매력쟁이 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/31/753/431753_500.jpg/melon/resize/48/quality/80/optimize
+100|2092386|비밀|박정현|1099|507954|10 Ways To Say I Love You|https://cdnimg.melon.co.kr/cm/album/images/005/07/954/507954_500.jpg/melon/resize/48/quality/80/optimize

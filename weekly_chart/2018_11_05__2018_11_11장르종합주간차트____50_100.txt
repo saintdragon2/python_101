@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|31399724|Sign|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+52|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+53|31199873|셋 셀테니 (1, 2, 3!)|승리|403841|10187129|THE GREAT SEUNGRI|https://cdnimg.melon.co.kr/cm/album/images/101/87/129/10187129_500.jpg/melon/resize/48/quality/80/optimize
+54|31131274|Forever Young|BLACKPINK|995169|10176415|SQUARE UP|https://cdnimg.melon.co.kr/cm/album/images/101/76/415/10176415_500.jpg/melon/resize/48/quality/80/optimize
+55|31133898|너 없인 안 된다|비투비|647971|10175106|THIS IS US|https://cdnimg.melon.co.kr/cm/album/images/101/75/106/10175106_500.jpg/melon/resize/48/quality/80/optimize
+56|31403263|Goodbye|웬디 (WENDY)|780915|10219307|뷰티 인사이드 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/102/19/307/10219307_500.jpg/melon/resize/48/quality/80/optimize
+57|30849733|You|멜로망스|839732|10131018|투유 프로젝트 - 슈가맨2 Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/31/018/10131018_500.jpg/melon/resize/48/quality/80/optimize
+58|31161280|1도 없어|Apink (에이핑크)|534360|10181013|ONE & SIX|https://cdnimg.melon.co.kr/cm/album/images/101/81/013/10181013_500.jpg/melon/resize/48/quality/80/optimize
+59|31399727|가끔 (With You)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+60|9642570|넋두리|닐로(Nilo)|896096|2710553|넋두리|https://cdnimg.melon.co.kr/cm/album/images/027/10/553/2710553_500.jpg/melon/resize/48/quality/80/optimize
+61|31035061|주지마|로꼬~화사 (Hwa Sa)|688432~756531|10160487|건반 위의 하이에나 Part.4|https://cdnimg.melon.co.kr/cm/album/images/101/60/487/10160487_500.jpg/melon/resize/48/quality/80/optimize
+62|31399731|여기 있을게 (Smile On My Face)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+63|31385181|Change (Feat. GRAY) (Prod. 코드 쿤스트)|Kid Milli|873162|10216630|쇼미더머니 777 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/102/16/630/10216630_500.jpg/melon/resize/48/quality/80/optimize
+64|8111603|HandClap|Fitz & The Tantrums|750471|2675179|Fitz and The Tantrums (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/026/75/179/2675179_500.jpg/melon/resize/48/quality/80/optimize
+65|31353993|Hate You (Feat. 우원재) (Prod. 코드 쿤스트)|pH-1|943511|10211750|쇼미더머니 777 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/102/11/750/10211750_500.jpg/melon/resize/48/quality/80/optimize
+66|30637982|DNA|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+67|31388146|잘 지내줘|하이라이트 (Highlight)|1624993|10217136|잘 지내줘|https://cdnimg.melon.co.kr/cm/album/images/102/17/136/10217136_500.jpg/melon/resize/48/quality/80/optimize
+68|31266282|Euphoria|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+69|30672529|그리워하다|비투비|647971|10102658|Brother Act.|https://cdnimg.melon.co.kr/cm/album/images/101/02/658/10102658_500.jpg/melon/resize/48/quality/80/optimize
+70|31385179|억 (Feat. CHANGMO) (Prod. CHANGMO)|수퍼비|695757|10216630|쇼미더머니 777 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/102/16/630/10216630_500.jpg/melon/resize/48/quality/80/optimize
+71|31399729|후폭풍 (Bad Dream)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+72|31215747|SoulMate (Feat. 아이유)|지코 (ZICO)|602056|10189402|SoulMate|https://cdnimg.melon.co.kr/cm/album/images/101/89/402/10189402_500.jpg/melon/resize/48/quality/80/optimize
+73|31399722|오아시스 (Oasis)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+74|31085238|전하지 못한 진심 (Feat. Steve Aoki)|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+75|31227367|좋은 날|멜로망스|839732|10191294|미스터 션샤인 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/101/91/294/10191294_500.jpg/melon/resize/48/quality/80/optimize
+76|31399793|MOMM (Feat. JUSTHIS) (Prod. 코드 쿤스트)|Kid Milli|873162|10218777|쇼미더머니 777 Semi Final|https://cdnimg.melon.co.kr/cm/album/images/102/18/777/10218777_500.jpg/melon/resize/48/quality/80/optimize
+77|30721801|My Way|이수 (엠씨더맥스)|214784|10110396|돈꽃 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/101/10/396/10110396_500.jpg/melon/resize/48/quality/80/optimize
+78|31399730|Damage|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+79|31299371|잘 지내요|정승환|792091|10202962|라이프 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/102/02/962/10202962_500.jpg/melon/resize/48/quality/80/optimize
+80|31409519|하루살이 (feat. 설리, Rad Museum)|DEAN|880630|10220257|하루살이 (feat. 설리, Rad Museum)|https://cdnimg.melon.co.kr/cm/album/images/102/20/257/10220257_500.jpg/melon/resize/48/quality/80/optimize
+81|31376228|Friend|비투비|647971|10215293|HOUR MOMENT|https://cdnimg.melon.co.kr/cm/album/images/102/15/293/10215293_500.jpg/melon/resize/48/quality/80/optimize
+82|31266291|Answer : Love Myself|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+83|31399797|주황색 (Feat. 박재범) (Prod. 코드 쿤스트)|pH-1|943511|10218777|쇼미더머니 777 Semi Final|https://cdnimg.melon.co.kr/cm/album/images/102/18/777/10218777_500.jpg/melon/resize/48/quality/80/optimize
+84|31246870|한(一)|(여자)아이들|2137482|10194362|한(一)|https://cdnimg.melon.co.kr/cm/album/images/101/94/362/10194362_500.jpg/melon/resize/48/quality/80/optimize
+85|31358698|벚꽃연가|첸 (CHEN)|715176|10212578|백일의 낭군님 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/102/12/578/10212578_500.jpg/melon/resize/48/quality/80/optimize
+86|30970444|소나기 (Feat. 10cm)|용준형|243232|10150572|소나기 (Feat. 10cm)|https://cdnimg.melon.co.kr/cm/album/images/101/50/572/10150572_500.jpg/melon/resize/48/quality/80/optimize
+87|31263577|매트리스|10CM|468244|10196980|4.1|https://cdnimg.melon.co.kr/cm/album/images/101/96/980/10196980_500.jpg/melon/resize/48/quality/80/optimize
+88|30188113|Shape of You|Ed Sheeran|549800|10028835|÷ (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/100/28/835/10028835_500.jpg/melon/resize/48/quality/80/optimize
+89|31266288|Epiphany|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+90|31379560|Waste It On Me (feat. BTS (방탄소년단))|Steve Aoki|487524|10215903|Waste It On Me (feat. BTS (방탄소년단))|https://cdnimg.melon.co.kr/cm/album/images/102/15/903/10215903_500.jpg/melon/resize/48/quality/80/optimize
+91|30568338|에너제틱 (Energetic)|Wanna One (워너원)|1865973|10085951|1X1=1(TO BE ONE)|https://cdnimg.melon.co.kr/cm/album/images/100/85/951/10085951_500.jpg/melon/resize/48/quality/80/optimize
+92|30567963|Havana (Feat. Young Thug)|Camila Cabello|928017|10085877|Camila|https://cdnimg.melon.co.kr/cm/album/images/100/85/877/10085877_500.jpg/melon/resize/48/quality/80/optimize
+93|31085244|Anpanman|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+94|31349614|너에게|김민석 (멜로망스)|839736|10211133|연애플레이리스트3 Part.2|https://cdnimg.melon.co.kr/cm/album/images/102/11/133/10211133_500.jpg/melon/resize/48/quality/80/optimize
+95|31224316|죽겠다 (KILLING ME)|iKON|895741|10190854|NEW KIDS : CONTINUE|https://cdnimg.melon.co.kr/cm/album/images/101/90/854/10190854_500.jpg/melon/resize/48/quality/80/optimize
+96|31266286|Trivia 轉 : Seesaw|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+97|31406483|그땐 그댄|케이윌|175139|10165823|The 4th Album Part.2 [想像; Mood Indigo]|https://cdnimg.melon.co.kr/cm/album/images/101/65/823/10165823_500.jpg/melon/resize/48/quality/80/optimize
+98|30725482|Beautiful|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+99|31399723|節奏 (Tempo)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+100|31385183|119 (Feat. GRAY)|나플라 (nafla)~pH-1~Kid Milli~OLNL (오르내림)~루피 (Loopy)~수퍼비|756738~943511~873162~1273302~957315~695757|10216630|쇼미더머니 777 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/102/16/630/10216630_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3156950|TONIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+2|3143550|나만 몰랐던 이야기|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+3|3156952|WHAT IS RIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+4|3156953|CAFE|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+5|3138749|내꺼중에 최고|이현|429480|1168952|내꺼중에 최고|https://cdnimg.melon.co.kr/cm/album/images/011/68/952/1168952_500.jpg/melon/resize/48/quality/80/optimize
+6|3110565|톡톡 (Tok Tok) (Feat. SOYA)|마이티 마우스|239366|1143054|Mighty Fresh|https://cdnimg.melon.co.kr/cm/album/images/011/43/054/1143054_500.jpg/melon/resize/48/quality/80/optimize
+7|3111583|Black & White|지나|482640|1143954|Black & White|https://cdnimg.melon.co.kr/cm/album/images/011/43/954/1143954_500.jpg/melon/resize/48/quality/80/optimize
+8|3140874|Dreaming|김수현|8433|1170953|드림하이 OST|https://cdnimg.melon.co.kr/cm/album/images/011/70/953/1170953_500.jpg/melon/resize/48/quality/80/optimize
+9|3156949|HANDS UP|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+10|3156951|SOMEBODY TO LOVE|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+11|3089448|샤이보이|시크릿|435121|1125351|샤이보이|https://cdnimg.melon.co.kr/cm/album/images/011/25/351/1125351_500.jpg/melon/resize/48/quality/80/optimize
+12|3088249|Someday|아이유|261143|1124351|드림하이 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/24/351/1124351_500.jpg/melon/resize/48/quality/80/optimize
+13|3110148|잘 된 일이야|나비|242868|1142651|Hello|https://cdnimg.melon.co.kr/cm/album/images/011/42/651/1142651_500.jpg/melon/resize/48/quality/80/optimize
+14|3154998|니가 천국이다|강승윤|28263|1182663|마이더스 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/82/663/1182663_500.jpg/melon/resize/48/quality/80/optimize
+15|3051244|좋은 날|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+16|3132048|사랑하면 안될까|이창민~정진운|443620~557582|1163151|드림하이 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/011/63/151/1163151_500.jpg/melon/resize/48/quality/80/optimize
+17|3145655|잔혹동화|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+18|3106066|처음 사랑하는 연인들을 위해 (반말송)|정용화 (CNBLUE)|20908|1139654|처음 사랑하는 연인들을 위해 (부제: 반말송)|https://cdnimg.melon.co.kr/cm/album/images/011/39/654/1139654_500.jpg/melon/resize/48/quality/80/optimize
+19|3145784|파파라치 (Feat. 에릭)|간미연|1636|1174452|Watch|https://cdnimg.melon.co.kr/cm/album/images/011/74/452/1174452_500.jpg/melon/resize/48/quality/80/optimize
+20|3118780|하루하루|김보경 (NEON)|60829|1150353|The First Day|https://cdnimg.melon.co.kr/cm/album/images/011/50/353/1150353_500.jpg/melon/resize/48/quality/80/optimize
+21|3087888|Supa Dupa Diva|달샤벳|514619|1123990|Supa Dupa Diva|https://cdnimg.melon.co.kr/cm/album/images/011/23/990/1123990_500.jpg/melon/resize/48/quality/80/optimize
+22|3157948|1분 1초|김현정|1177|1184951|1 MINUTE 1 SECOND|https://cdnimg.melon.co.kr/cm/album/images/011/84/951/1184951_500.jpg/melon/resize/48/quality/80/optimize
+23|3128548|달라|김범수~태연 (TAEYEON)|6502~236797|1159751|달라|https://cdnimg.melon.co.kr/cm/album/images/011/59/751/1159751_500.jpg/melon/resize/48/quality/80/optimize
+24|3065250|Oh Yeah (Feat. 박봄)|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+25|3116963|기가 차 (Feat. 슈프림팀 ＆ 씨스타)|케이윌|175139|1148952|기가 차|https://cdnimg.melon.co.kr/cm/album/images/011/48/952/1148952_500.jpg/melon/resize/48/quality/80/optimize
+26|3065249|High High|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+27|3107348|어쩌라고|승리|403841|1140251|승리 1st Mini Album V.V.I.P|https://cdnimg.melon.co.kr/cm/album/images/011/40/251/1140251_500.jpg/melon/resize/48/quality/80/optimize
+28|3164048|미친거니 (Feat. 방용국)|송지은|446200|1190551|미친거니|https://cdnimg.melon.co.kr/cm/album/images/011/90/551/1190551_500.jpg/melon/resize/48/quality/80/optimize
+29|3152817|다시|엠블랙|436980|1180761|BLAQ Style 3D Edition|https://cdnimg.melon.co.kr/cm/album/images/011/80/761/1180761_500.jpg/melon/resize/48/quality/80/optimize
+30|3065251|19금 집에 가지마|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+31|3110581|Back It Up|쥬얼리|101487|1143051|Back It Up|https://cdnimg.melon.co.kr/cm/album/images/011/43/051/1143051_500.jpg/melon/resize/48/quality/80/optimize
+32|3089348|왜 (Keep Your Head Down)|동방신기 (TVXQ!)|108316|1125251|왜 (Keep Your Head Down)|https://cdnimg.melon.co.kr/cm/album/images/011/25/251/1125251_500.jpg/melon/resize/48/quality/80/optimize
+33|3139048|돌아와 나쁜 너|가희|520900|1169351|돌아와 나쁜 너|https://cdnimg.melon.co.kr/cm/album/images/011/69/351/1169351_500.jpg/melon/resize/48/quality/80/optimize
+34|3129348|못 잊은 거죠 (If)|박진영|1130|1160451|드림하이 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/011/60/451/1160451_500.jpg/melon/resize/48/quality/80/optimize
+35|3140867|My Valentine (Feat. 박진영)|택연~닉쿤 (2PM)|514740~521583|1170953|드림하이 OST|https://cdnimg.melon.co.kr/cm/album/images/011/70/953/1170953_500.jpg/melon/resize/48/quality/80/optimize
+36|3096032|그남자|현빈|57798|1130759|시크릿 가든 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/011/30/759/1130759_500.jpg/melon/resize/48/quality/80/optimize
+37|3159989|기다리고 싶어|거미|30358|1186960|마이더스 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/011/86/960/1186960_500.jpg/melon/resize/48/quality/80/optimize
+38|3157048|듣고 있니...|전인혁 (야다)|228630|1184251|듣고 있니...|https://cdnimg.melon.co.kr/cm/album/images/011/84/251/1184251_500.jpg/melon/resize/48/quality/80/optimize
+39|3037051|니까짓게|씨스타|473181|1085053|니까짓게|https://cdnimg.melon.co.kr/cm/album/images/010/85/053/1085053_500.jpg/melon/resize/48/quality/80/optimize
+40|3106048|눈물자리|오스카|517301|1139651|시크릿 가든 오스카 싱글 OST|https://cdnimg.melon.co.kr/cm/album/images/011/39/651/1139651_500.jpg/melon/resize/48/quality/80/optimize
+41|3151428|누구보다 널 사랑해|디셈버|439021|1179761|조영수 All Star - 디셈버|https://cdnimg.melon.co.kr/cm/album/images/011/79/761/1179761_500.jpg/melon/resize/48/quality/80/optimize
+42|3141291|You Are My Everything|플라워|100391|1171355|Everything Inside Of Me|https://cdnimg.melon.co.kr/cm/album/images/011/71/355/1171355_500.jpg/melon/resize/48/quality/80/optimize
+43|3118474|내겐 너무 멋진 그대|씨야|181679|1150052|See You Again|https://cdnimg.melon.co.kr/cm/album/images/011/50/052/1150052_500.jpg/melon/resize/48/quality/80/optimize
+44|3099149|Stay|엠블랙|436980|1125352|BLAQ Style|https://cdnimg.melon.co.kr/cm/album/images/011/25/352/1125352_500.jpg/melon/resize/48/quality/80/optimize
+45|3151848|미쳐|엠투엠 (M To M)|108581|1180051|미쳐|https://cdnimg.melon.co.kr/cm/album/images/011/80/051/1180051_500.jpg/melon/resize/48/quality/80/optimize
+46|3160674|어베일러블 (Feat. 레이디 제인)|버벌진트|6985|1187355|어베일러블|https://cdnimg.melon.co.kr/cm/album/images/011/87/355/1187355_500.jpg/melon/resize/48/quality/80/optimize
+47|3156948|INTRO (THANK YOU & YOU)|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+48|3098048|Maybe|선예 (Wonder Girls)|227506|1132551|드림하이 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/011/32/551/1132551_500.jpg/melon/resize/48/quality/80/optimize
+49|3152756|두 남자 이야기|The One (더원)~KCM|160816~45995|1180753|Two Men's Story|https://cdnimg.melon.co.kr/cm/album/images/011/80/753/1180753_500.jpg/melon/resize/48/quality/80/optimize
+50|3152149|친한 사이|레이디 제인|497743|1180351|친한 사이|https://cdnimg.melon.co.kr/cm/album/images/011/80/351/1180351_500.jpg/melon/resize/48/quality/80/optimize

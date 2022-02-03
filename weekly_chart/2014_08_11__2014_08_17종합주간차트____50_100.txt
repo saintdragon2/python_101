@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4691278|Mr.애매모호|마마무 (Mamamoo)|750053|2261347|Hello|https://cdnimg.melon.co.kr/cm/album/images/022/61/347/2261347_500.jpg/melon/resize/48/quality/80/optimize
+52|4806690|척|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+53|4721314|Red Light|f(x)|428501|2264531|The 3rd Album 'Red Light'|https://cdnimg.melon.co.kr/cm/album/images/022/64/531/2264531_500.jpg/melon/resize/48/quality/80/optimize
+54|4633162|중독 (Overdose)|EXO-K|625511|2254734|The 2nd Mini Album '중독 (Overdose)'|https://cdnimg.melon.co.kr/cm/album/images/022/54/734/2254734_500.jpg/melon/resize/48/quality/80/optimize
+55|4749620|How Do I Look ?|빈지노 (Beenzino)|532029|2267501|Up All Night|https://cdnimg.melon.co.kr/cm/album/images/022/67/501/2267501_500.jpg/melon/resize/48/quality/80/optimize
+56|4603433|너를 원해 (Feat. Beenzino)|정기고|304967|2251373|Want U|https://cdnimg.melon.co.kr/cm/album/images/022/51/373/2251373_500.jpg/melon/resize/48/quality/80/optimize
+57|4806705|사랑하지마|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+58|4754435|Love Lane|마마무 (Mamamoo)|750053|2268012|연애말고 결혼 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/68/012/2268012_500.jpg/melon/resize/48/quality/80/optimize
+59|4722450|고백했는데|Bro|764630|2264632|고백했는데|https://cdnimg.melon.co.kr/cm/album/images/022/64/632/2264632_500.jpg/melon/resize/48/quality/80/optimize
+60|4527879|감아 (Feat. Crush)|로꼬|688432|2242936|감아|https://cdnimg.melon.co.kr/cm/album/images/022/42/936/2242936_500.jpg/melon/resize/48/quality/80/optimize
+61|4674167|헤어졌다 만났다|다비치|236815|2259461|Again|https://cdnimg.melon.co.kr/cm/album/images/022/59/461/2259461_500.jpg/melon/resize/48/quality/80/optimize
+62|4400561|짧은 치마 (Miniskirt)|AOA|686920|2226803|짧은 치마|https://cdnimg.melon.co.kr/cm/album/images/022/26/803/2226803_500.jpg/melon/resize/48/quality/80/optimize
+63|4743081|SOLO DAY|B1A4|535440|2266832|SOLO DAY|https://cdnimg.melon.co.kr/cm/album/images/022/66/832/2266832_500.jpg/melon/resize/48/quality/80/optimize
+64|4806737|이 밤|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+65|4800325|Hush|브라운아이드걸스|181694|2273055|Brown Eyed Girls BEST - Special Moments|https://cdnimg.melon.co.kr/cm/album/images/022/73/055/2273055_500.jpg/melon/resize/48/quality/80/optimize
+66|4585736|Bad (Feat. Vassy) (Radio Edit)|David Guetta~Showtek|182123~243157|2249404|Bad (Feat. Vassy) (Radio Edit)|https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/48/quality/80/optimize
+67|4691117|니가 빈 자리|신용재 (2F)~이해리 (다비치)|510537~259769|2261322|Acoustic Project #1. Cloud|https://cdnimg.melon.co.kr/cm/album/images/022/61/322/2261322_500.jpg/melon/resize/48/quality/80/optimize
+68|4583482|200%|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+69|-1|인연|윤민수(바이브)~신용재 (2F)|151315~510537|2249074|불후의 명곡 - 전설을 노래하다 (이선희 2편)|https://cdnimg.melon.co.kr/cm/album/images/022/49/074/2249074_500.jpg/melon/resize/48/quality/80/optimize
+70|3808189|Call You Mine (Feat. Geologic Of The Blue Scholars)|Jeff Bernat|673152|2124668|The Gentleman Approach|https://cdnimg.melon.co.kr/cm/album/images/021/24/668/2124668_500.jpg/melon/resize/48/quality/80/optimize
+71|4800500|8년만의 여름|버즈|160091|2273069|8년만의 여름|https://cdnimg.melon.co.kr/cm/album/images/022/73/069/2273069_500.jpg/melon/resize/48/quality/80/optimize
+72|4788387|Pool Party (Feat. 윤종신, 임슬옹, G.NA)|스윙스|236970|2271694|Pool Party|https://cdnimg.melon.co.kr/cm/album/images/022/71/694/2271694_500.jpg/melon/resize/48/quality/80/optimize
+73|4635740|Good-night Kiss|전효성|672325|2255094|TOP SECRET|https://cdnimg.melon.co.kr/cm/album/images/022/55/094/2255094_500.jpg/melon/resize/48/quality/80/optimize
+74|4764927|보기 드문 여자|블락비 (Block B)|532201|2250057|HER|https://cdnimg.melon.co.kr/cm/album/images/022/50/057/2250057_500.jpg/melon/resize/48/quality/80/optimize
+75|4810639|For You|휘성 (Realslow)|10577|2274205|괜찮아 사랑이야 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/74/205/2274205_500.jpg/melon/resize/48/quality/80/optimize
+76|4666402|To Love|신용재 (2F)|510537|2258646|To Love|https://cdnimg.melon.co.kr/cm/album/images/022/58/646/2258646_500.jpg/melon/resize/48/quality/80/optimize
+77|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+78|4688674|Summer Time (자리비움)|다이나믹 듀오|108358|2261121|CustoMIC Prologue|https://cdnimg.melon.co.kr/cm/album/images/022/61/121/2261121_500.jpg/melon/resize/48/quality/80/optimize
+79|4806738|Smile Again|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+80|4544242|그 중에 그대를 만나|이선희|966|2244913|15집 'SERENDIPITY' 30주년 기념앨범|https://cdnimg.melon.co.kr/cm/album/images/022/44/913/2244913_500.jpg/melon/resize/48/quality/80/optimize
+81|4800528|바라고 바라고|김나영|735094|2273073|연애말고 결혼 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/73/073/2273073_500.jpg/melon/resize/48/quality/80/optimize
+82|4782193|Ain't Nobody|핫펠트 (HA:TFELT)|602471|2270960|Me?|https://cdnimg.melon.co.kr/cm/album/images/022/70/960/2270960_500.jpg/melon/resize/48/quality/80/optimize
+83|4788410|꽃잎놀이|린~레오(LEO)|8530~673447|2271697|Y.BIRD From Jellyfish With LYn X LEO|https://cdnimg.melon.co.kr/cm/album/images/022/71/697/2271697_500.jpg/melon/resize/48/quality/80/optimize
+84|4579474|견딜만해 (Feat. 효린 Of 씨스타)|매드클라운|219621|2248665|표독|https://cdnimg.melon.co.kr/cm/album/images/022/48/665/2248665_500.jpg/melon/resize/48/quality/80/optimize
+85|4674344|Hug Me (Feat. Gaeko)|Crush|674710|2259487|Crush On You|https://cdnimg.melon.co.kr/cm/album/images/022/59/487/2259487_500.jpg/melon/resize/48/quality/80/optimize
+86|4503810|까탈레나 (Catallena)|오렌지 캬라멜|477632|2240082|The Third Single Catallena|https://cdnimg.melon.co.kr/cm/album/images/022/40/082/2240082_500.jpg/melon/resize/48/quality/80/optimize
+87|4796459|Ship And The Globe|Kae Sun|781491|2272626|괜찮아 사랑이야 Pop OST|https://cdnimg.melon.co.kr/cm/album/images/022/72/626/2272626_500.jpg/melon/resize/48/quality/80/optimize
+88|4774767|BACK SEAT|JYJ|499453|2270231|JUST US|https://cdnimg.melon.co.kr/cm/album/images/022/70/231/2270231_500.jpg/melon/resize/48/quality/80/optimize
+89|4729593|우리가 사는 이야기 (Feat. 메건리)|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+90|4796658|KISS KISS|레이디스 코드|718807|2272655|KISS KISS|https://cdnimg.melon.co.kr/cm/album/images/022/72/655/2272655_500.jpg/melon/resize/48/quality/80/optimize
+91|4446485|너의 모든 순간|성시경|3305|2232505|별에서 온 그대 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/48/quality/80/optimize
+92|4779217|다시 너를|손승연|661773|2270664|Sonnet Blooms|https://cdnimg.melon.co.kr/cm/album/images/022/70/664/2270664_500.jpg/melon/resize/48/quality/80/optimize
+93|4785802|그 해 여름|써니힐|229494|2271362|그 해 여름|https://cdnimg.melon.co.kr/cm/album/images/022/71/362/2271362_500.jpg/melon/resize/48/quality/80/optimize
+94|4793765|얼레리|육지담|781321|2272303|쇼미더머니3 올티vs육지담|https://cdnimg.melon.co.kr/cm/album/images/022/72/303/2272303_500.jpg/melon/resize/48/quality/80/optimize
+95|4782649|운명 같은 너|정동하|181188|2270998|운명처럼 널 사랑해 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/70/998/2270998_500.jpg/melon/resize/48/quality/80/optimize
+96|4785684|하루만|SHY (손호영)~데니안|1580~225888|2271349|연애말고 결혼 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/022/71/349/2271349_500.jpg/melon/resize/48/quality/80/optimize
+97|4756317|돌아오는 길|서인국|436700|2268226|고교처세왕 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/68/226/2268226_500.jpg/melon/resize/48/quality/80/optimize
+98|4665107|내가 할 수 없는 말 (Feat. 나비)|정키|570731|2258502|EMOTION|https://cdnimg.melon.co.kr/cm/album/images/022/58/502/2258502_500.jpg/melon/resize/48/quality/80/optimize
+99|4815044|사실은 말야|이종현~멜로디데이 (MelodyDay)|32833~693951|2274653|사실은 말야|https://cdnimg.melon.co.kr/cm/album/images/022/74/653/2274653_500.jpg/melon/resize/48/quality/80/optimize
+100|4807806|나였으면 좋겠어|DK|524801|2273870|CS NUMBERS Vol.8|https://cdnimg.melon.co.kr/cm/album/images/022/73/870/2273870_500.jpg/melon/resize/48/quality/80/optimize

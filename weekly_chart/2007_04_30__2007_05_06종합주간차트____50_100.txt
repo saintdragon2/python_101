@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1600268|Smile Again|럼블피쉬|108951|347886|Open The Safe|https://cdnimg.melon.co.kr/cm/album/images/003/47/886/347886_500.jpg/melon/resize/48/quality/80/optimize
+52|1597534|그녀가 없다 (Feat. 윤민수 Of 바이브)|라이머|6468|347683|Brand New Rhymer|https://cdnimg.melon.co.kr/cm/album/images/003/47/683/347683_500.jpg/melon/resize/48/quality/80/optimize
+53|1622952|Because Of You|Ne-Yo|181769|350011|Because Of You|https://cdnimg.melon.co.kr/cm/album/images/003/50/011/350011_500.jpg/melon/resize/48/quality/80/optimize
+54|1627440|한동안 뜸했었지|거북이|101463|350370|거북이 리메이크 앨범 - 몸풀기|https://cdnimg.melon.co.kr/cm/album/images/003/50/370/350370_500.jpg/melon/resize/48/quality/80/optimize
+55|1604528|이별앓이|팀|33614|348310|이별앓이|https://cdnimg.melon.co.kr/cm/album/images/003/48/310/348310_500.jpg/melon/resize/48/quality/80/optimize
+56|1583256|내 사랑|모세|165535|346236|사랑이죠.. 사랑|https://cdnimg.melon.co.kr/cm/album/images/003/46/236/346236_500.jpg/melon/resize/48/quality/80/optimize
+57|1556547|Fan|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+58|1613570|흔들어봐 (Feat. MC 타이푼)|길건|60360|349063|Born Again (본 어게인)|https://cdnimg.melon.co.kr/cm/album/images/003/49/063/349063_500.jpg/melon/resize/48/quality/80/optimize
+59|1564795|하루|포지션|100177|344101|애가 (愛歌)|https://cdnimg.melon.co.kr/cm/album/images/003/44/101/344101_500.jpg/melon/resize/48/quality/80/optimize
+60|1621405|하늘위로 (Feat. 김지은)|렉시|7664|349748|RUSH|https://cdnimg.melon.co.kr/cm/album/images/003/49/748/349748_500.jpg/melon/resize/48/quality/80/optimize
+61|1630451|19금 한번 더, OK?|천상지희 더 그레이스 (The Grace)|168015|350695|한번 더, OK?|https://cdnimg.melon.co.kr/cm/album/images/003/50/695/350695_500.jpg/melon/resize/48/quality/80/optimize
+62|1590152|감사|김동률|925|346951|Thanks (감사)|https://cdnimg.melon.co.kr/cm/album/images/003/46/951/346951_500.jpg/melon/resize/48/quality/80/optimize
+63|1522421|사랑...후에|신혜성~린|1741~8530|335571|동화 (冬話)|https://cdnimg.melon.co.kr/cm/album/images/003/35/571/335571_500.jpg/melon/resize/48/quality/80/optimize
+64|1622980|혼잣말|라씨|223486|350014|Be Born Again|https://cdnimg.melon.co.kr/cm/album/images/003/50/014/350014_500.jpg/melon/resize/48/quality/80/optimize
+65|1622966|좋은 사람 (Original Ver.)|신효범|1190|350012|좋은 사람 (Acoustic Ver.)|https://cdnimg.melon.co.kr/cm/album/images/003/50/012/350012_500.jpg/melon/resize/48/quality/80/optimize
+66|1629483|Sexy Girl|디카프리오|223993|350554|My First Flight|https://cdnimg.melon.co.kr/cm/album/images/003/50/554/350554_500.jpg/melon/resize/48/quality/80/optimize
+67|1538203|안녕|KCM|45995|338648|안녕 / 사랑이 올까봐|https://cdnimg.melon.co.kr/cm/album/images/003/38/648/338648_500.jpg/melon/resize/48/quality/80/optimize
+68|1621063|거짓말처럼 기적처럼|이현우|1176|349726|Heart Blossom|https://cdnimg.melon.co.kr/cm/album/images/003/49/726/349726_500.jpg/melon/resize/48/quality/80/optimize
+69|1610054|Break It|카라|222128|348747|Blooming|https://cdnimg.melon.co.kr/cm/album/images/003/48/747/348747_500.jpg/melon/resize/48/quality/80/optimize
+70|708754|Because Of You|Kelly Clarkson|36329|50321|Breakaway|https://cdnimg.melon.co.kr/cm/album/images/000/50/321/50321_500.jpg/melon/resize/48/quality/80/optimize
+71|1576533|로꾸거!!!|SUPER JUNIOR-T (슈퍼주니어 T)|251847|345483|로꾸거!!!|https://cdnimg.melon.co.kr/cm/album/images/003/45/483/345483_500.jpg/melon/resize/48/quality/80/optimize
+72|1579194|눈물도 미안해서|황보|1719|345776|Lady In Black|https://cdnimg.melon.co.kr/cm/album/images/003/45/776/345776_500.jpg/melon/resize/48/quality/80/optimize
+73|1617852|그림자|베이지|222697|349364|Something Like Beige Vol.1|https://cdnimg.melon.co.kr/cm/album/images/003/49/364/349364_500.jpg/melon/resize/48/quality/80/optimize
+74|1525541|별 (Original Dialog Ver.)|김아중|204828|336050|미녀는 괴로워 OST|https://cdnimg.melon.co.kr/cm/album/images/003/36/050/336050_500.jpg/melon/resize/48/quality/80/optimize
+75|1618992|버릇|영지|46744|349449|Young Ji The First Album|https://cdnimg.melon.co.kr/cm/album/images/003/49/449/349449_500.jpg/melon/resize/48/quality/80/optimize
+76|1613086|히트 (H.I.T)|SUPER JUNIOR (슈퍼주니어)|175404|349037|히트 OST|https://cdnimg.melon.co.kr/cm/album/images/003/49/037/349037_500.jpg/melon/resize/48/quality/80/optimize
+77|1610080|If|전혜빈|174009|348751|마녀유희 OST|https://cdnimg.melon.co.kr/cm/album/images/003/48/751/348751_500.jpg/melon/resize/48/quality/80/optimize
+78|1574670|사랑하니까|더 크로스|107224|345252|눈물 이야기 1 (사랑하니까)|https://cdnimg.melon.co.kr/cm/album/images/003/45/252/345252_500.jpg/melon/resize/48/quality/80/optimize
+79|1568640|바보처럼|버블 시스터즈|105696|344518|Dramatic Episode|https://cdnimg.melon.co.kr/cm/album/images/003/44/518/344518_500.jpg/melon/resize/48/quality/80/optimize
+80|1586098|어쩌다가|전초아~SHY (손호영)|37649~1580|346599|어쩌다가 (손호영 & 예인)|https://cdnimg.melon.co.kr/cm/album/images/003/46/599/346599_500.jpg/melon/resize/48/quality/80/optimize
+81|1550828|기다릴게...|타이푼|186309|341940|기다릴게...|https://cdnimg.melon.co.kr/cm/album/images/003/41/940/341940_500.jpg/melon/resize/48/quality/80/optimize
+82|1459456|흰눈|이루|173424|328069|이루 LEVEL II|https://cdnimg.melon.co.kr/cm/album/images/003/28/069/328069_500.jpg/melon/resize/48/quality/80/optimize
+83|1574663|반지하나|혜령|32201|345251|하늘아래...그리움...|https://cdnimg.melon.co.kr/cm/album/images/003/45/251/345251_500.jpg/melon/resize/48/quality/80/optimize
+84|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+85|1627760|I Love You|김종서|15|350401|20th Anniversary Greatest Hits|https://cdnimg.melon.co.kr/cm/album/images/003/50/401/350401_500.jpg/melon/resize/48/quality/80/optimize
+86|1615774|지상에서 영원으로|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+87|1618894|땡벌|이승기|58793|349441|Love|https://cdnimg.melon.co.kr/cm/album/images/003/49/441/349441_500.jpg/melon/resize/48/quality/80/optimize
+88|1627146|19금 Girlfriend (Explicit Version)|Avril Lavigne|30023|350344|The Best Damn Thing (Expanded Edition)|https://cdnimg.melon.co.kr/cm/album/images/003/50/344/350344_500.jpg/melon/resize/48/quality/80/optimize
+89|1539174|Evergreen (Feat. 이지혜)|PK 헤만|211782|338846|Evergreen|https://cdnimg.melon.co.kr/cm/album/images/003/38/846/338846_500.jpg/melon/resize/48/quality/80/optimize
+90|1583465|19금 Better Than Yesterday|MC 스나이퍼|7560|346354|How Bad Do U Want It?|https://cdnimg.melon.co.kr/cm/album/images/003/46/354/346354_500.jpg/melon/resize/48/quality/80/optimize
+91|1615781|이별하길 정말 잘했어요|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+92|1538204|사랑이 올까봐 (Feat. 화요비)|KCM|45995|338648|안녕 / 사랑이 올까봐|https://cdnimg.melon.co.kr/cm/album/images/003/38/648/338648_500.jpg/melon/resize/48/quality/80/optimize
+93|1627158|Never Again|Kelly Clarkson|36329|350345|Never Again (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/50/345/350345_500.jpg/melon/resize/48/quality/80/optimize
+94|1583299|Way Back Into Love|Hugh Grant|220449|346239|그 여자 작사 그 남자 작곡 OST|https://cdnimg.melon.co.kr/cm/album/images/003/46/239/346239_500.jpg/melon/resize/48/quality/80/optimize
+95|1616546|비오니까|싸이 (PSY)|3865|349283|2006 올나잇스탠드 LIVE & DVD|https://cdnimg.melon.co.kr/cm/album/images/003/49/283/349283_500.jpg/melon/resize/48/quality/80/optimize
+96|1552384|새 살|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+97|1587882|이별을 말하다|아이|35155|346838|Soul Mate|https://cdnimg.melon.co.kr/cm/album/images/003/46/838/346838_500.jpg/melon/resize/48/quality/80/optimize
+98|1622252|Wonder|에브리 싱글 데이|100840|349918|Tom's Diary|https://cdnimg.melon.co.kr/cm/album/images/003/49/918/349918_500.jpg/melon/resize/48/quality/80/optimize
+99|1563234|세사람|이기찬|6225|343998|Para Ti|https://cdnimg.melon.co.kr/cm/album/images/003/43/998/343998_500.jpg/melon/resize/48/quality/80/optimize
+100|1613663|With Love|Hilary Duff|39088|349069|Dignity|https://cdnimg.melon.co.kr/cm/album/images/003/49/069/349069_500.jpg/melon/resize/48/quality/80/optimize

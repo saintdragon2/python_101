@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4478193|Scream|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+52|4435548|진실 혹은 대담|가인|428821|2228802|Truth Or Dare|https://cdnimg.melon.co.kr/cm/album/images/022/28/802/2228802_500.jpg/melon/resize/48/quality/80/optimize
+53|4511982|그린라이트 (GREEN LIGHT)|트로이 (범키, 칸토, 재웅, 창우)|761256|2241137|그린라이트 (GREEN LIGHT)|https://cdnimg.melon.co.kr/cm/album/images/022/41/137/2241137_500.jpg/melon/resize/48/quality/80/optimize
+54|4389940|"Do You Want to Build a Snowman? (From ""Frozen""/Soundtrack Version)"|Kristen Bell~Agatha Lee Monn~Katie Lopez|746208~746210~746211|2225293|Frozen (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm2/album/images/022/25/293/2225293_20200528094453_500.jpg/melon/resize/48/quality/80/optimize
+55|4388702|별처럼|케이윌|175139|2225097|별에서 온 그대 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/25/097/2225097_500.jpg/melon/resize/48/quality/80/optimize
+56|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize
+57|4366156|Dali, Van, Picasso|빈지노 (Beenzino)|532029|2222076|Dali, Van, Picasso|https://cdnimg.melon.co.kr/cm/album/images/022/22/076/2222076_500.jpg/melon/resize/48/quality/80/optimize
+58|4507664|약속|김수현|8433|2240582|별에서 온 그대 OST Special|https://cdnimg.melon.co.kr/cm/album/images/022/40/582/2240582_500.jpg/melon/resize/48/quality/80/optimize
+59|4342054|이별남녀|서인국~지아|436700~227595|2218964|이별남녀|https://cdnimg.melon.co.kr/cm/album/images/022/18/964/2218964_500.jpg/melon/resize/48/quality/80/optimize
+60|4312933|향기만 남아|허각|28801|2215345|Reminisce|https://cdnimg.melon.co.kr/cm/album/images/022/15/345/2215345_500.jpg/melon/resize/48/quality/80/optimize
+61|4340421|Special Love|휘성 (Realslow)~거미|10577~30358|2218690|Special Love|https://cdnimg.melon.co.kr/cm/album/images/022/18/690/2218690_500.jpg/melon/resize/48/quality/80/optimize
+62|4389942|"Love Is an Open Door (From ""Frozen""/Soundtrack Version)"|Kristen Bell~Santino Fontana|746208~746213|2225293|Frozen (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm2/album/images/022/25/293/2225293_20200528094453_500.jpg/melon/resize/48/quality/80/optimize
+63|4511737|뷰티풀 (With 에일리)|이천원|718039|2241113|2000won 1st Single Album|https://cdnimg.melon.co.kr/cm/album/images/022/41/113/2241113_500.jpg/melon/resize/48/quality/80/optimize
+64|2903041|결혼까지 생각했어|휘성 (Realslow)|10577|1000465|Realslow Is Back|https://cdnimg.melon.co.kr/cm/album/images/010/00/465/1000465_500.jpg/melon/resize/48/quality/80/optimize
+65|4471543|Goodbye|소녀시대 (GIRLS' GENERATION)|228069|2235426|The 4th Mini Album 'Mr.Mr.'|https://cdnimg.melon.co.kr/cm/album/images/022/35/426/2235426_500.jpg/melon/resize/48/quality/80/optimize
+66|4490289|별 헤는 밤|40|542340|2238217|별 헤는 밤|https://cdnimg.melon.co.kr/cm/album/images/022/38/217/2238217_500.jpg/melon/resize/48/quality/80/optimize
+67|4478194|Baby I Miss You|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+68|3436083|끝사랑|김범수|6502|1302654|Solista Part.2|https://cdnimg.melon.co.kr/cm/album/images/013/02/654/1302654_500.jpg/melon/resize/48/quality/80/optimize
+69|4381721|그때 우리|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+70|4300699|너에게|성시경|3305|2213824|응답하라 1994 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/13/824/2213824_500.jpg/melon/resize/48/quality/80/optimize
+71|4528286|날 부르네요|거미|30358|2242978|쓰리 데이즈 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/42/978/2242978_500.jpg/melon/resize/48/quality/80/optimize
+72|4418413|You Don't Love Me|스피카|615471|2228827|You Don't Love Me|https://cdnimg.melon.co.kr/cm/album/images/022/28/827/2228827_500.jpg/melon/resize/48/quality/80/optimize
+73|4402769|내 생각날 거야 (Narr. 이시영)|거미|30358|2227065|The Lyrics - No.4|https://cdnimg.melon.co.kr/cm/album/images/022/27/065/2227065_500.jpg/melon/resize/48/quality/80/optimize
+74|4423574|나성에 가면|심은경|24809|2229427|수상한 그녀 OST|https://cdnimg.melon.co.kr/cm/album/images/022/29/427/2229427_500.jpg/melon/resize/48/quality/80/optimize
+75|4536624|고마워 내사랑|홍대광|699623|2228144|THE SILVER LINING|https://cdnimg.melon.co.kr/cm/album/images/022/28/144/2228144_500.jpg/melon/resize/48/quality/80/optimize
+76|4500966|그대라는 이유|먼데이 키즈 (Monday Kiz)|175155|2239719|그대라는 이유|https://cdnimg.melon.co.kr/cm/album/images/022/39/719/2239719_500.jpg/melon/resize/48/quality/80/optimize
+77|4362019|너에게만|범키~버벌진트|623851~6985|2221564|듀스 20주년 헌정앨범 Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/21/564/2221564_500.jpg/melon/resize/48/quality/80/optimize
+78|4232200|삐딱하게 (Crooked)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+79|4535038|그런 남자|Bro|764630|2243859|그런 남자|https://cdnimg.melon.co.kr/cm/album/images/022/43/859/2243859_500.jpg/melon/resize/48/quality/80/optimize
+80|4454340|뛰뛰빵빵|비투비|647971|2233451|뛰뛰빵빵|https://cdnimg.melon.co.kr/cm/album/images/022/33/451/2233451_500.jpg/melon/resize/48/quality/80/optimize
+81|4501245|해도 해도 너무했어|나비|242868|2239747|해도 해도 너무했어|https://cdnimg.melon.co.kr/cm/album/images/022/39/747/2239747_500.jpg/melon/resize/48/quality/80/optimize
+82|4367874|너를|브라운 아이드 소울|107728|2222342|Thank Your Soul|https://cdnimg.melon.co.kr/cm/album/images/022/22/342/2222342_500.jpg/melon/resize/48/quality/80/optimize
+83|4496046|잊고 있는중 (Ing)|DK|524801|2239090|CS Numbers Vol.5|https://cdnimg.melon.co.kr/cm/album/images/022/39/090/2239090_500.jpg/melon/resize/48/quality/80/optimize
+84|4404589|Cha Cha|레인보우 블랙|750398|2227348|Rainbow Blaxx Special Album (RB BLAXX)|https://cdnimg.melon.co.kr/cm/album/images/022/27/348/2227348_500.jpg/melon/resize/48/quality/80/optimize
+85|4328659|그리워해요|2NE1|406712|2217249|그리워해요|https://cdnimg.melon.co.kr/cm/album/images/022/17/249/2217249_500.jpg/melon/resize/48/quality/80/optimize
+86|4517480|24시간이 모자라|권진아|760046|2241656|SBS K팝 스타 시즌3 TOP8|https://cdnimg.melon.co.kr/cm/album/images/022/41/656/2241656_500.jpg/melon/resize/48/quality/80/optimize
+87|4421555|1004 (Angel)|B.A.P|623451|2229193|First Sensibility|https://cdnimg.melon.co.kr/cm/album/images/022/29/193/2229193_500.jpg/melon/resize/48/quality/80/optimize
+88|4393317|Good Morning Baby|Apink (에이핑크)|534360|2225857|Good Morning Baby|https://cdnimg.melon.co.kr/cm/album/images/022/25/857/2225857_500.jpg/melon/resize/48/quality/80/optimize
+89|4522290|뱅뱅사거리|일렉트로보이즈|475721|2242248|뱅뱅사거리|https://cdnimg.melon.co.kr/cm/album/images/022/42/248/2242248_500.jpg/melon/resize/48/quality/80/optimize
+90|4328770|이별식탁 (Feat. 산체스 Of 팬텀)|San E|402526|2217261|'Not' Based On The True Story|https://cdnimg.melon.co.kr/cm/album/images/022/17/261/2217261_500.jpg/melon/resize/48/quality/80/optimize
+91|4471545|Wait A Minute|소녀시대 (GIRLS' GENERATION)|228069|2235426|The 4th Mini Album 'Mr.Mr.'|https://cdnimg.melon.co.kr/cm/album/images/022/35/426/2235426_500.jpg/melon/resize/48/quality/80/optimize
+92|4518709|너에게 갈 수만 있다면|송지은|446200|2241805|신의 선물-14일 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/41/805/2241805_500.jpg/melon/resize/48/quality/80/optimize
+93|4532814|The Light|나윤권|58979|2243561|감격시대 : 투신의 탄생 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/43/561/2243561_500.jpg/melon/resize/48/quality/80/optimize
+94|4528288|앙큼한 상상|써니힐|229494|2242979|앙큼한 돌싱녀 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/022/42/979/2242979_500.jpg/melon/resize/48/quality/80/optimize
+95|4296990|눈물이 맘을 훔쳐서|에일리(Ailee)|629831|2213351|비밀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/13/351/2213351_500.jpg/melon/resize/48/quality/80/optimize
+96|4534771|내게기대 (Feat. 박세영)|스탠딩 에그|467880|2243819|The Artist Diary Project Pt.8|https://cdnimg.melon.co.kr/cm/album/images/022/43/819/2243819_500.jpg/melon/resize/48/quality/80/optimize
+97|4440763|"Let It Go (From ""Frozen"")"|효린|573812|2231762|"Let It Go (from ""Frozen"")"|https://cdnimg.melon.co.kr/cm/album/images/022/31/762/2231762_500.jpg/melon/resize/48/quality/80/optimize
+98|4333566|너 밖에 몰라 (One Way Love)|효린|573812|2217251|LOVE&HATE|https://cdnimg.melon.co.kr/cm/album/images/022/17/251/2217251_500.jpg/melon/resize/48/quality/80/optimize
+99|4389941|"For the First Time in Forever (From ""Frozen""/Soundtrack Version)"|Kristen Bell~Idina Menzel|746208~232538|2225293|Frozen (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm2/album/images/022/25/293/2225293_20200528094453_500.jpg/melon/resize/48/quality/80/optimize
+100|4452405|Pass Me By|브라운 아이드 소울|107728|2233196|Thank Your Soul - SIDE A|https://cdnimg.melon.co.kr/cm/album/images/022/33/196/2233196_500.jpg/melon/resize/48/quality/80/optimize

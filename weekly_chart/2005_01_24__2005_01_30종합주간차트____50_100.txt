@@ -1,0 +1,45 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+56|537208|흑백사진|KCM|45995|35465|Beautiful Mind|https://cdnimg.melon.co.kr/cm/album/images/000/35/465/35465_500.jpg/melon/resize/48/quality/80/optimize
+57|686654|Queen|박용석|152450|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+58|602302|누구와 사랑을 하다가|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+60|623241|반대가 끌리는 이유|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+61|622776|I Wanna (Drop It, Like It'S Hot! - Feat. Smash Of 45Rpm, Red-Roc)|DJ DOC|100005|43512|Love & Sex, Happiness 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/512/43512_500.jpg/melon/resize/48/quality/80/optimize
+62|665224|Sad Cafe (With Dynamic Duo)|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+63|622742|어머나!|장윤정|22836|43509|장윤정 - 어머나 !|https://cdnimg.melon.co.kr/cm/album/images/000/43/509/43509_500.jpg/melon/resize/48/quality/80/optimize
+64|686639|가려진 시간 사이로|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+65|667279|봄날|캔디맨|101224|47236|봄날 OST|https://cdnimg.melon.co.kr/cm/album/images/000/47/236/47236_500.jpg/melon/resize/48/quality/80/optimize
+66|619497|한번만...|혜령|32201|40847|아침보다 이른 이별 2집|https://cdnimg.melon.co.kr/cm/album/images/000/40/847/40847_500.jpg/melon/resize/48/quality/80/optimize
+67|-1|Superstar|Jamelia|56026|34495|Thank You|https://cdnimg.melon.co.kr/cm/album/images/000/34/495/34495_500.jpg/melon/resize/48/quality/80/optimize
+68|665225|흐린 가을 하늘에 편지를 써|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+69|686643|내가 너의 곁에 잠시 살았다는 걸|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+70|686657|그 속에서 (Inst.)|신피디|1462|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+71|686642|1994년 어느 늦은 밤|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+72|665228|한여름밤의 꿈|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+73|686640|오래된 사진처럼|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+74|665223|Back To The Soul Flight (Interlude)|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+75|686645|I Believe|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+76|665232|Ribbon In The Sky|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+77|686641|눈이 와요|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+78|533228|Life Is Cool|Sweetbox|100060|35191|Adagio|https://cdnimg.melon.co.kr/cm/album/images/000/35/191/35191_500.jpg/melon/resize/48/quality/80/optimize
+79|665219|Intro|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+80|686646|처음 느낌 그대로|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+81|534252|사랑의 바보|더 넛츠 (The NuTs)|108988|35269|The Nuts|https://cdnimg.melon.co.kr/cm/album/images/000/35/269/35269_500.jpg/melon/resize/48/quality/80/optimize
+82|686644|내 곁에서 떠나가지 말아요|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+83|691437|별 (別)|윤건|14801|49024|슬픈연가 OST|https://cdnimg.melon.co.kr/cm/album/images/000/49/024/49024_500.jpg/melon/resize/48/quality/80/optimize
+84|530124|삭제|이승기|58793|34984|나방의 꿈|https://cdnimg.melon.co.kr/cm/album/images/000/34/984/34984_500.jpg/melon/resize/48/quality/80/optimize
+85|632790|세월의 흔적 다 버리고 (Duet. Lyn)|에릭|1739|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+86|623161|이탈|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+87|665230|호랑나비|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+88|686636|Intro|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+89|677883|Goodies (Feat. Petey Pablo)|Ciara|55278|48114|Goodies|https://cdnimg.melon.co.kr/cm/album/images/000/48/114/48114_500.jpg/melon/resize/48/quality/80/optimize
+90|633409|힙합구조대 (Feat. 에픽하이, 김진표, 주석, 이준, 에릭, 조PD, 김창렬, 바스코)|이현도|3614|44653|The new Classik… And You Don’T Stop|https://cdnimg.melon.co.kr/cm/album/images/000/44/653/44653_500.jpg/melon/resize/48/quality/80/optimize
+91|623909|소중한 사람|김성필|60143|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+92|623248|헤어짐보다 아픈 그리움|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+93|667282|Sub Title|박준수|4599|47236|봄날 OST|https://cdnimg.melon.co.kr/cm/album/images/000/47/236/47236_500.jpg/melon/resize/48/quality/80/optimize
+94|642427|사랑하기 좋은 날|장나라|10575|45305|나의 이야기|https://cdnimg.melon.co.kr/cm/album/images/000/45/305/45305_500.jpg/melon/resize/48/quality/80/optimize
+95|622443|Tangled Up In me|Skye Sweetnam|81450|43366|Noise From The Basement|https://cdnimg.melon.co.kr/cm/album/images/000/43/366/43366_500.jpg/melon/resize/48/quality/80/optimize
+96|657254|Crazy|SE7EN|33513|46415|Crazy (Single)|https://cdnimg.melon.co.kr/cm/album/images/000/46/415/46415_500.jpg/melon/resize/48/quality/80/optimize
+97|663405|난 아직 모르잖아요|리즈 (Leeds)|26762|46872|Memory|https://cdnimg.melon.co.kr/cm/album/images/000/46/872/46872_500.jpg/melon/resize/48/quality/80/optimize
+98|667284|Main Title|최성욱|108|47236|봄날 OST|https://cdnimg.melon.co.kr/cm/album/images/000/47/236/47236_500.jpg/melon/resize/48/quality/80/optimize
+99|632786|그대 눈물까지도|신혜성|1741|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+100|665234|주여호와는 광대하시도다|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize

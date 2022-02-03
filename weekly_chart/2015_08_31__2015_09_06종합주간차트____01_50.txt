@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|5826461|레옹|이유 갓지(GOD G) 않은 이유 (박명수, 아이유)|889388|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+2|5824839|맙소사|황태지 (황광희, 태양, 지드래곤)|889387|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+3|5826447|겁 (Feat. 태양)|MINO (송민호)|742773|2336184|쇼미더머니 4 Episode 5|https://cdnimg.melon.co.kr/cm/album/images/023/36/184/2336184_500.jpg/melon/resize/48/quality/80/optimize
+4|5826462|스폰서 ($ponsor)|으뜨거따시 (하하, 자이언티)|889389|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+5|5826465|멋진헛간|오대천왕 (정형돈, 밴드 혁오)|889392|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+6|5826464|I'm So Sexy|댄싱게놈 (유재석, JYP)|889391|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+7|5818522|오빠차|인크레더블~Tablo~지누션|858852~231070~100054|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+8|5804040|19금 거북선 (Feat. 팔로알토)|Ja Mezz~Andup (앤덥)~MINO (송민호)|743761~340667~742773|2332701|쇼미더머니 4 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/023/32/701/2332701_500.jpg/melon/resize/48/quality/80/optimize
+9|5820368|Lion Heart|소녀시대 (GIRLS' GENERATION)|228069|2335204|Lion Heart - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/023/35/204/2335204_500.jpg/melon/resize/48/quality/80/optimize
+10|5385974|위잉위잉|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+11|5807274|우리 사랑하지 말아요|BIGBANG|198094|2333193|E|https://cdnimg.melon.co.kr/cm/album/images/023/33/193/2333193_500.jpg/melon/resize/48/quality/80/optimize
+12|5822923|가슴 뛰도록|SG 워너비|108363|2335653|THE VOICE|https://cdnimg.melon.co.kr/cm/album/images/023/35/653/2335653_500.jpg/melon/resize/48/quality/80/optimize
+13|5815785|사이먼 도미닉|사이먼 도미닉|428847|2334436|￦ & ONLY|https://cdnimg.melon.co.kr/cm/album/images/023/34/436/2334436_500.jpg/melon/resize/48/quality/80/optimize
+14|5835766|Okey Dokey|MINO (송민호)~지코 (ZICO)|742773~602056|2337492|쇼미더머니 4 Episode 6|https://cdnimg.melon.co.kr/cm/album/images/023/37/492/2337492_500.jpg/melon/resize/48/quality/80/optimize
+15|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+16|5826463|My Life (Feat. 효린 Of 씨스타)|상주나 (정준하, 윤상)|889390|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+17|5807273|쩔어 (GD & T.O.P)|BIGBANG|198094|2333193|E|https://cdnimg.melon.co.kr/cm/album/images/023/33/193/2333193_500.jpg/melon/resize/48/quality/80/optimize
+18|5713422|와리가리|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+19|5719286|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+20|5826448|19금 내가 할 수 있는 건 (Feat. 제시)|블랙넛 (Black Nut)|727519|2336184|쇼미더머니 4 Episode 5|https://cdnimg.melon.co.kr/cm/album/images/023/36/184/2336184_500.jpg/melon/resize/48/quality/80/optimize
+21|5804238|I Feel You|원더걸스|217764|2332752|REBOOT|https://cdnimg.melon.co.kr/cm/album/images/023/32/752/2332752_500.jpg/melon/resize/48/quality/80/optimize
+22|5702706|꺼내 먹어요|Zion.T|537920|2319240|Eat|https://cdnimg.melon.co.kr/cm/album/images/023/19/240/2319240_500.jpg/melon/resize/48/quality/80/optimize
+23|5748499|SHAKE IT|씨스타|473181|2325345|SHAKE IT|https://cdnimg.melon.co.kr/cm/album/images/023/25/345/2325345_500.jpg/melon/resize/48/quality/80/optimize
+24|5824767|잘나가서 그래 (Feat. 정일훈 Of BTOB)|현아|449401|2333883|A+|https://cdnimg.melon.co.kr/cm/album/images/023/33/883/2333883_500.jpg/melon/resize/48/quality/80/optimize
+25|5743804|음오아예 (Um Oh Ah Yeh)|마마무 (Mamamoo)|750053|2324685|Pink Funky|https://cdnimg.melon.co.kr/cm/album/images/023/24/685/2324685_500.jpg/melon/resize/48/quality/80/optimize
+26|5748406|심쿵해 (Heart Attack)|AOA|686920|2325321|Heart Attack|https://cdnimg.melon.co.kr/cm/album/images/023/25/321/2325321_500.jpg/melon/resize/48/quality/80/optimize
+27|5781104|Remember|Apink (에이핑크)|534360|2329610|Pink MEMORY|https://cdnimg.melon.co.kr/cm/album/images/023/29/610/2329610_500.jpg/melon/resize/48/quality/80/optimize
+28|5818487|19금 ON IT + BO$$|릴보이 (lIlBOI)~로꼬~박재범|623251~688432~443420|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+29|5704397|이럴거면 그러지말지 (Feat. Young K)|백아연|646173|2319508|이럴거면 그러지말지|https://cdnimg.melon.co.kr/cm/album/images/023/19/508/2319508_500.jpg/melon/resize/48/quality/80/optimize
+30|5791706|오늘부터 우리는 (Me Gustas Tu)|여자친구 (GFRIEND)|828478|2330981|여자친구 2nd Mini Album 'Flower Bud'|https://cdnimg.melon.co.kr/cm/album/images/023/30/981/2330981_500.jpg/melon/resize/48/quality/80/optimize
+31|5822925|좋은 기억|SG 워너비|108363|2335653|THE VOICE|https://cdnimg.melon.co.kr/cm/album/images/023/35/653/2335653_500.jpg/melon/resize/48/quality/80/optimize
+32|5811228|moneyflow (다 비켜봐)|MINO (송민호)~지코 (ZICO)~팔로알토 (Paloalto)|742773~602056~170978|2333774|쇼미더머니 4 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/023/33/774/2333774_500.jpg/melon/resize/48/quality/80/optimize
+33|5771304|Oasis (Feat. ZICO)|Crush|674710|2327886|Oasis|https://cdnimg.melon.co.kr/cm/album/images/023/27/886/2327886_500.jpg/melon/resize/48/quality/80/optimize
+34|5760115|IF YOU|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize
+35|5794982|RESPECT (Feat. 로꼬, GRAY & DJ Pumkin)|식케이 (Sik-K)~릴보이 (lIlBOI)~지구인|786648~623251~674725|2331489|쇼미더머니 4 Episode 1|https://cdnimg.melon.co.kr/cm/album/images/023/31/489/2331489_500.jpg/melon/resize/48/quality/80/optimize
+36|5684826|BAE BAE|BIGBANG|198094|2316478|M|https://cdnimg.melon.co.kr/cm/album/images/023/16/478/2316478_500.jpg/melon/resize/48/quality/80/optimize
+37|5760116|맨정신|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize
+38|5826449|Stand Up (Feat. 마마무)|베이식 (Basick)|241227|2336184|쇼미더머니 4 Episode 5|https://cdnimg.melon.co.kr/cm/album/images/023/36/184/2336184_500.jpg/melon/resize/48/quality/80/optimize
+39|5768980|PARTY|소녀시대 (GIRLS' GENERATION)|228069|2328091|PARTY|https://cdnimg.melon.co.kr/cm/album/images/023/28/091/2328091_500.jpg/melon/resize/48/quality/80/optimize
+40|5668985|그 남잔 말야|엠씨더맥스 (M.C the MAX)|161636|2314734|냄새를 보는 소녀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/14/734/2314734_500.jpg/melon/resize/48/quality/80/optimize
+41|5700639|마음|아이유|261143|2319008|마음|https://cdnimg.melon.co.kr/cm/album/images/023/19/008/2319008_500.jpg/melon/resize/48/quality/80/optimize
+42|5795006|예뻐서 (Feat. 루이 Of 긱스) (You're beautiful)|유승우|699637|2331496|예뻐서|https://cdnimg.melon.co.kr/cm/album/images/023/31/496/2331496_500.jpg/melon/resize/48/quality/80/optimize
+43|4857981|Sugar|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+44|5767424|링마벨 (Ring My Bell)|걸스데이|482762|2327866|Girl's Day Love Second Album|https://cdnimg.melon.co.kr/cm/album/images/023/27/866/2327866_500.jpg/melon/resize/48/quality/80/optimize
+45|5793206|아끼지마 (Don't Be Shy) (Feat. 초아 (AOA), 아이언)|프라이머리|35682|2331227|2-3|https://cdnimg.melon.co.kr/cm/album/images/023/31/227/2331227_500.jpg/melon/resize/48/quality/80/optimize
+46|5682700|LOSER|BIGBANG|198094|2316478|M|https://cdnimg.melon.co.kr/cm/album/images/023/16/478/2316478_500.jpg/melon/resize/48/quality/80/optimize
+47|5835767|좋은 날 (Feat. 거미)|베이식 (Basick)|241227|2337492|쇼미더머니 4 Episode 6|https://cdnimg.melon.co.kr/cm/album/images/023/37/492/2337492_500.jpg/melon/resize/48/quality/80/optimize
+48|5650996|우연히 봄|로꼬~유주 (여자친구)|688432~858238|2312287|냄새를 보는 소녀 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/12/287/2312287_500.jpg/melon/resize/48/quality/80/optimize
+49|5765885|사랑할수록 (화생방실 클레오파트라)|김연우|6017|2327658|복면가왕 14회|https://cdnimg.melon.co.kr/cm/album/images/023/27/658/2327658_500.jpg/melon/resize/48/quality/80/optimize
+50|5804038|19금 MY ZONE (Feat. 산이, 버벌진트)|블랙넛 (Black Nut)~마이크로닷 (Microdot)~베이식 (Basick)|727519~716177~241227|2332701|쇼미더머니 4 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/023/32/701/2332701_500.jpg/melon/resize/48/quality/80/optimize

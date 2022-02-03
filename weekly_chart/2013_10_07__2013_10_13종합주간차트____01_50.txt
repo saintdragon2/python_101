@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|4268435|분홍신|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+2|4252728|처음엔 사랑이란게|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+3|4268433|누구나 비밀은 있다 (Feat. 가인 Of Brown Eyed Girls)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+4|4237755|착해 빠졌어 (Stupid In Love)|소유 (SOYOU)~매드클라운|490981~219621|2200521|착해 빠졌어 (Stupid In Love)|https://cdnimg.melon.co.kr/cm/album/images/022/00/521/2200521_500.jpg/melon/resize/48/quality/80/optimize
+5|4252726|잘할 걸|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+6|4249547|나란놈이란|임창정|1142|2201988|나란놈이란|https://cdnimg.melon.co.kr/cm/album/images/022/01/988/2201988_500.jpg/melon/resize/48/quality/80/optimize
+7|4252727|사랑은 타이밍|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+8|4268432|을의 연애 (With 박주원)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+9|4221128|Touch Love|윤미래|1654|2198610|주군의 태양 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/98/610/2198610_500.jpg/melon/resize/48/quality/80/optimize
+10|4268434|입술 사이 (50cm)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+11|4268436|Modern Times|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+12|4252729|시원한 여자|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+13|4252730|그대 입술이 (With 채지연 - 풋풋)|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+14|4268437|싫은 날|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+15|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize
+16|4268441|우울시계 (Feat. 종현 Of SHINee)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+17|4232200|삐딱하게 (Crooked)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+18|4252733|밤|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+19|4226211|니가 뭔데 (Who You?)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+20|4262252|Very Good|블락비 (Block B)|532201|2201942|Very Good|https://cdnimg.melon.co.kr/cm/album/images/022/01/942/2201942_500.jpg/melon/resize/48/quality/80/optimize
+21|4252731|줄리엣|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+22|4264912|나를 사랑해줘 (Feat. 개코 Of 다이나믹 듀오)|서인영|26265|2206048|나를 사랑해줘|https://cdnimg.melon.co.kr/cm/album/images/022/06/048/2206048_500.jpg/melon/resize/48/quality/80/optimize
+23|4252732|아름다운 나이|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+24|4247632|겁도 없이|서인국|436700|2201724|주군의 태양 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/01/724/2201724_500.jpg/melon/resize/48/quality/80/optimize
+25|4212782|미치게 만들어|효린|573812|2197684|주군의 태양 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/97/684/2197684_500.jpg/melon/resize/48/quality/80/optimize
+26|4268438|Obliviate|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+27|4226210|Black (Feat. 제니 of BLACKPINK)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+28|4192787|아는사람 얘기|San E|402526|2195252|아는사람 얘기|https://cdnimg.melon.co.kr/cm/album/images/021/95/252/2195252_500.jpg/melon/resize/48/quality/80/optimize
+29|4230002|예뻐 예뻐|레이디스 코드|718807|2199646|CODE#02 PRETTY PRETTY|https://cdnimg.melon.co.kr/cm/album/images/021/99/646/2199646_500.jpg/melon/resize/48/quality/80/optimize
+30|4205993|갖고놀래 (Feat. 다이나믹 듀오)|범키|623851|2196906|갖고놀래|https://cdnimg.melon.co.kr/cm/album/images/021/96/906/2196906_500.jpg/melon/resize/48/quality/80/optimize
+31|4271854|이별 10분 전|정준영|25869|2203531|1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/022/03/531/2203531_500.jpg/melon/resize/48/quality/80/optimize
+32|4268442|한낮의 꿈 (Feat. 양희은)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+33|4163116|NoNoNo|Apink (에이핑크)|534360|2191397|Secret Garden|https://cdnimg.melon.co.kr/cm/album/images/021/91/397/2191397_500.jpg/melon/resize/48/quality/80/optimize
+34|4260529|병이에요 (Spotless Mind)|정준영|25869|2203531|1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/022/03/531/2203531_500.jpg/melon/resize/48/quality/80/optimize
+35|3953196|만약에 말야 (전우성 Solo)|노을|105623|2165918|TIME FOR LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/65/918/2165918_500.jpg/melon/resize/48/quality/80/optimize
+36|4268440|Havana|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+37|4268439|아이야 나랑 걷자 (Feat. 최백호)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+38|4212184|24시간이 모자라|선미|22938|2197599|24시간이 모자라|https://cdnimg.melon.co.kr/cm/album/images/021/97/599/2197599_500.jpg/melon/resize/48/quality/80/optimize
+39|4258695|희망고문|송지은|446200|2203229|희망고문|https://cdnimg.melon.co.kr/cm/album/images/022/03/229/2203229_500.jpg/melon/resize/48/quality/80/optimize
+40|4252725|가을밤|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+41|4148967|빠빠빠|크레용팝|685904|2189686|빠빠빠|https://cdnimg.melon.co.kr/cm/album/images/021/89/686/2189686_500.jpg/melon/resize/48/quality/80/optimize
+42|4232054|사랑했었다면|지아~이해리 (다비치)|227595~259769|2199844|사랑했었다면|https://cdnimg.melon.co.kr/cm/album/images/021/99/844/2199844_500.jpg/melon/resize/48/quality/80/optimize
+43|4271833|넘버나인 (No.9)|티아라|412000|2209941|Again|https://cdnimg.melon.co.kr/cm/album/images/022/09/941/2209941_500.jpg/melon/resize/48/quality/80/optimize
+44|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+45|4171462|U & I|에일리(Ailee)|629831|2192532|A's Doll House|https://cdnimg.melon.co.kr/cm/album/images/021/92/532/2192532_500.jpg/melon/resize/48/quality/80/optimize
+46|4142913|My Love|이승철|1010|2188937|MY LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/88/937/2188937_500.jpg/melon/resize/48/quality/80/optimize
+47|4130922|미친연애 (Bad Girl) (Feat. E-Sens Of 슈프림팀)|범키|623851|2187466|미친연애|https://cdnimg.melon.co.kr/cm/album/images/021/87/466/2187466_500.jpg/melon/resize/48/quality/80/optimize
+48|4260532|소독약 (Love medicine)|주원|16626|2203533|굿닥터 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/03/533/2203533_500.jpg/melon/resize/48/quality/80/optimize
+49|4268444|(Bonus Track) Voice Mail (Korean Ver.)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+50|4268443|기다려|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize

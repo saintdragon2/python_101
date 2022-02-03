@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|30669593|가을 안부|먼데이 키즈 (Monday Kiz)|175155|10102177|가을 안부|https://cdnimg.melon.co.kr/cm/album/images/101/02/177/10102177_500.jpg/melon/resize/48/quality/80/optimize
+52|4383833|바람이 불었으면 좋겠어|길구봉구|500421|2224353|바람이 불었으면 좋겠어|https://cdnimg.melon.co.kr/cm/album/images/022/24/353/2224353_500.jpg/melon/resize/48/quality/80/optimize
+53|30468654|남이 될 수 있을까|볼빨간사춘기~스무살|792022~714975|10070846|남이 될 수 있을까|https://cdnimg.melon.co.kr/cm/album/images/100/70/846/10070846_500.jpg/melon/resize/48/quality/80/optimize
+54|30492276|널 너무 모르고|헤이즈 (Heize)|751611|10074454|/// (너 먹구름 비)|https://cdnimg.melon.co.kr/cm/album/images/100/74/454/10074454_500.jpg/melon/resize/48/quality/80/optimize
+55|30637988|고민보다 Go|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+56|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+57|30725484|Twilight|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+58|30378156|팔레트 (Feat. G-DRAGON)|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+59|30646585|잠 못 드는 밤 비는 내리고|아이유|261143|10096855|꽃갈피 둘|https://cdnimg.melon.co.kr/cm/album/images/100/96/855/10096855_500.jpg/melon/resize/48/quality/80/optimize
+60|30667988|짙어져|멜로망스|839732|10101927|Yellow OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/01/927/10101927_500.jpg/melon/resize/48/quality/80/optimize
+61|30611680|폰서트|10CM|468244|10093077|4.0|https://cdnimg.melon.co.kr/cm/album/images/100/93/077/10093077_500.jpg/melon/resize/48/quality/80/optimize
+62|30715020|러브스토리 (Feat. 크러쉬)|SURAN (수란)|792765|10109526|러브스토리 (Love Story)|https://cdnimg.melon.co.kr/cm/album/images/101/09/526/10109526_500.jpg/melon/resize/48/quality/80/optimize
+63|30414090|처음부터 너와 나|볼빨간사춘기|792022|10062351|군주 - 가면의 주인 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/100/62/351/10062351_500.jpg/melon/resize/48/quality/80/optimize
+64|30755375|그날처럼|장덕철|829211|10115186|그날처럼|https://cdnimg.melon.co.kr/cm/album/images/101/15/186/10115186_500.jpg/melon/resize/48/quality/80/optimize
+65|4786735|Marry Me|마크툽 (MAKTUB)~구윤회|566431~441487|2271467|마크툽 프로젝트 Vol.03|https://cdnimg.melon.co.kr/cm/album/images/022/71/467/2271467_500.jpg/melon/resize/48/quality/80/optimize
+66|30786674|기우는 밤 (Feat. 긱스) (PROD. 프라이머리)|소유 (SOYOU)|490981|10111091|RE:BORN|https://cdnimg.melon.co.kr/cm/album/images/101/11/091/10111091_500.jpg/melon/resize/48/quality/80/optimize
+67|30390068|오늘 취하면 (Feat. 창모) (Prod. SUGA)|SURAN (수란)|792765|10058598|WINE|https://cdnimg.melon.co.kr/cm/album/images/100/58/598/10058598_500.jpg/melon/resize/48/quality/80/optimize
+68|30637987|MIC Drop|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+69|30341745|REALLY REALLY|WINNER|775197|10051659|FATE NUMBER FOR|https://cdnimg.melon.co.kr/cm/album/images/100/51/659/10051659_500.jpg/melon/resize/48/quality/80/optimize
+70|30675647|헤어질 수 밖에|김나영|735094|10103242|헤어질 수 밖에|https://cdnimg.melon.co.kr/cm/album/images/101/03/242/10103242_500.jpg/melon/resize/48/quality/80/optimize
+71|30776765|종이비행기 (Hello) (Feat. pH-1)|윤하 (YOUNHA)|203912|10118231|종이비행기 (Hello)|https://cdnimg.melon.co.kr/cm/album/images/101/18/231/10118231_500.jpg/melon/resize/48/quality/80/optimize
+72|30769470|크리스마스데이 (Christmas Day)|케이윌~소유 (SOYOU)~보이프렌드~몬스타엑스~우주소녀~매드클라운~정기고~#Gun~유승우~브라더수~마인드유~듀에토~정세운~이광현|175139~490981~541500~791216~943959~219621~304967~838923~699637~446175~1703188~1704571~1907398~1908574|10117008|STARSHIP PLANET 2017 (스타쉽플래닛)|https://cdnimg.melon.co.kr/cm/album/images/101/17/008/10117008_500.jpg/melon/resize/48/quality/80/optimize
+73|30725481|Nothing Without You (Intro.)|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+74|30029173|피 땀 눈물|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+75|30784303|좋았을걸|헤이즈 (Heize)|751611|10119348|슬기로운 감빵생활 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/101/19/348/10119348_500.jpg/melon/resize/48/quality/80/optimize
+76|8287788|Closer (Feat. Halsey)|The Chainsmokers|713297|2700553|Collage EP|https://cdnimg.melon.co.kr/cm/album/images/027/00/553/2700553_500.jpg/melon/resize/48/quality/80/optimize
+77|30781482|Merry & Happy|TWICE (트와이스)|905701|10118955|Merry & Happy|https://cdnimg.melon.co.kr/cm/album/images/101/18/955/10118955_500.jpg/melon/resize/48/quality/80/optimize
+78|30717645|Snowman|Sia|54103|10107511|Everyday is Christmas (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/101/07/511/10107511_500.jpg/melon/resize/48/quality/80/optimize
+79|30519033|Artist|지코 (ZICO)|602056|10078915|TELEVISION|https://cdnimg.melon.co.kr/cm/album/images/100/78/915/10078915_500.jpg/melon/resize/48/quality/80/optimize
+80|30529996|Ko Ko Bop|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+81|30739853|갈 수가 없어|벤|655051|10112930|이번 생은 처음이라 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/101/12/930/10112930_500.jpg/melon/resize/48/quality/80/optimize
+82|-1|What Lovers Do (Feat. SZA)|Maroon 5|107721|10006350|Red Pill Blues (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/100/06/350/10006350_500.jpg/melon/resize/48/quality/80/optimize
+83|30461396|무제(無題) (Untitled, 2014)|G-DRAGON|6984|10069644|권지용|https://cdnimg.melon.co.kr/cm/album/images/100/69/644/10069644_500.jpg/melon/resize/48/quality/80/optimize
+84|30637983|Best Of Me|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+85|30568337|활활 (Burn It Up)|Wanna One (워너원)|1865973|10085951|1X1=1(TO BE ONE)|https://cdnimg.melon.co.kr/cm/album/images/100/85/951/10085951_500.jpg/melon/resize/48/quality/80/optimize
+86|30767759|안 될 사랑|한동근|711476|10116825|이별할 사람들|https://cdnimg.melon.co.kr/cm/album/images/101/16/825/10116825_500.jpg/melon/resize/48/quality/80/optimize
+87|30661885|WHERE YOU AT|뉴이스트 W|1816966|10100941|W, HERE|https://cdnimg.melon.co.kr/cm/album/images/101/00/941/10100941_500.jpg/melon/resize/48/quality/80/optimize
+88|4032981|여보세요|뉴이스트|640891|2175137|THE SECOND MINI ALBUM '여보세요'|https://cdnimg.melon.co.kr/cm/album/images/021/75/137/2175137_500.jpg/melon/resize/48/quality/80/optimize
+89|30764674|첫사랑 (Feat. 유주 Of 여자친구)|정키|570731|10116425|CHERISH|https://cdnimg.melon.co.kr/cm/album/images/101/16/425/10116425_500.jpg/melon/resize/48/quality/80/optimize
+90|30789565|나침반|이적|1088|10120062|흔적 Part.1|https://cdnimg.melon.co.kr/cm/album/images/101/20/062/10120062_500.jpg/melon/resize/48/quality/80/optimize
+91|30751158|MIC Drop (Steve Aoki Remix) (Feat. Desiigner)|방탄소년단|672375|10114575|MIC Drop (Steve Aoki Remix) (Feat. Desiigner)|https://cdnimg.melon.co.kr/cm/album/images/101/14/575/10114575_500.jpg/melon/resize/48/quality/80/optimize
+92|30712793|박수|세븐틴|861436|10109208|SEVENTEEN 2ND ALBUM 'TEEN, AGE'|https://cdnimg.melon.co.kr/cm/album/images/101/09/208/10109208_500.jpg/melon/resize/48/quality/80/optimize
+93|30543235|있다면|뉴이스트 W|1816966|10082330|NU'EST W '있다면'|https://cdnimg.melon.co.kr/cm/album/images/100/82/330/10082330_500.jpg/melon/resize/48/quality/80/optimize
+94|30725490|To Be One (Outro.)|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+95|30616684|Power|EXO|724619|10093773|The Power of Music - The 4th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/100/93/773/10093773_500.jpg/melon/resize/48/quality/80/optimize
+96|-1|너를 찾아서|윤종신|437|10100704|건반 위의 하이에나|https://cdnimg.melon.co.kr/cm/album/images/101/00/704/10100704_500.jpg/melon/resize/48/quality/80/optimize
+97|30698332|나의 밤 나의 너|성시경|3305|10106733|나의 밤 나의 너|https://cdnimg.melon.co.kr/cm/album/images/101/06/733/10106733_500.jpg/melon/resize/48/quality/80/optimize
+98|30714007|Shall We Dance|블락비 (Block B)|532201|10109377|MONTAGE|https://cdnimg.melon.co.kr/cm/album/images/101/09/377/10109377_500.jpg/melon/resize/48/quality/80/optimize
+99|14776|All I Want for Christmas Is You|Mariah Carey|2274|829|Merry Christmas (Deluxe Anniversary Edition)|https://cdnimg.melon.co.kr/cm2/album/images/000/00/829/829_500.jpg/melon/resize/48/quality/80/optimize
+100|30605241|베베 (BABE)|현아|449401|10091938|Following|https://cdnimg.melon.co.kr/cm/album/images/100/91/938/10091938_500.jpg/melon/resize/48/quality/80/optimize

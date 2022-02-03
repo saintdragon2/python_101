@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|2587788|너 때문에 미쳐|티아라|412000|809262|Breaking Heart (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/008/09/262/809262_500.jpg/melon/resize/48/quality/80/optimize
+2|2579459|루팡 (Lupin)|카라|222128|802252|루팡 (Lupin)|https://cdnimg.melon.co.kr/cm/album/images/008/02/252/802252_500.jpg/melon/resize/48/quality/80/optimize
+3|2596161|Bubble Love|MC몽~서인영|11538~26265|817052|조영수 All Star 2.5|https://cdnimg.melon.co.kr/cm/album/images/008/17/052/817052_500.jpg/melon/resize/48/quality/80/optimize
+4|2601592|선물 (Feat. 은지원)|케이윌|175139|821856|선물|https://cdnimg.melon.co.kr/cm/album/images/008/21/856/821856_500.jpg/melon/resize/48/quality/80/optimize
+5|2596063|배운게 사랑이라|디셈버|439021|816957|Honesty|https://cdnimg.melon.co.kr/cm/album/images/008/16/957/816957_500.jpg/melon/resize/48/quality/80/optimize
+6|2609744|잘못했어|2AM|253866|828461|잘못했어|https://cdnimg.melon.co.kr/cm/album/images/008/28/461/828461_500.jpg/melon/resize/48/quality/80/optimize
+7|2593649|주변인|아웃사이더|181785|814651|주변인 : The Outsider|https://cdnimg.melon.co.kr/cm/album/images/008/14/651/814651_500.jpg/melon/resize/48/quality/80/optimize
+8|2593618|Shock|비스트|436981|814562|Shock Of The New Era|https://cdnimg.melon.co.kr/cm/album/images/008/14/562/814562_500.jpg/melon/resize/48/quality/80/optimize
+9|2611648|Run Devil Run|소녀시대 (GIRLS' GENERATION)|228069|830051|'Run Devil Run' The 2nd Album (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/008/30/051/830051_500.jpg/melon/resize/48/quality/80/optimize
+10|2544949|못해 (Feat. 美)|포맨 (4MEN)|100176|772051|The 3rd Generation (Special Album)|https://cdnimg.melon.co.kr/cm/album/images/007/72/051/772051_500.jpg/melon/resize/48/quality/80/optimize
+11|2601848|사랑이 올까요 (With 백지영)|마이티 마우스~백지영|239366~1118|822151|사랑이 올까요 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/008/22/151/822151_500.jpg/melon/resize/48/quality/80/optimize
+12|2554001|Oh!|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+13|2549955|죽어도 못 보내|2AM|253866|776152|죽어도 못 보내|https://cdnimg.melon.co.kr/cm/album/images/007/76/152/776152_500.jpg/melon/resize/48/quality/80/optimize
+14|2600849|Run|에픽하이 (EPIK HIGH)|108356|821151|Epilogue|https://cdnimg.melon.co.kr/cm/album/images/008/21/151/821151_500.jpg/melon/resize/48/quality/80/optimize
+15|2604975|미워요|정인|35989|824554|정인 From Andromeda|https://cdnimg.melon.co.kr/cm/album/images/008/24/554/824554_500.jpg/melon/resize/48/quality/80/optimize
+16|2546258|사랑이 술을 가르쳐 (Feat. 백찬 From 8eight)|이승기|58793|773051|Shadow (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/007/73/051/773051_500.jpg/melon/resize/48/quality/80/optimize
+17|2566853|아프니까 사랑이죠|민경훈|46187|790959|재회 (再會)|https://cdnimg.melon.co.kr/cm/album/images/007/90/959/790959_500.jpg/melon/resize/48/quality/80/optimize
+18|2540268|외톨이야|CNBLUE (씨엔블루)|450801|768154|Bluetory|https://cdnimg.melon.co.kr/cm/album/images/007/68/154/768154_500.jpg/melon/resize/48/quality/80/optimize
+19|2566835|가슴에 살아 (Feat. 나르샤 Of Brown Eyed Girls)|언터쳐블|190493|790957|Untouchable Mini Album 2nd|https://cdnimg.melon.co.kr/cm/album/images/007/90/957/790957_500.jpg/melon/resize/48/quality/80/optimize
+20|2598413|유효기간|에이트|228841|819055|유효기간|https://cdnimg.melon.co.kr/cm/album/images/008/19/055/819055_500.jpg/melon/resize/48/quality/80/optimize
+21|2584058|Lollipop Pt.2|BIGBANG|198094|806252|Lollipop Pt.2 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/008/06/252/806252_500.jpg/melon/resize/48/quality/80/optimize
+22|2590566|미안합니다.|V.O.S|108794|811953|This Is Voice Of Soul|https://cdnimg.melon.co.kr/cm/album/images/008/11/953/811953_500.jpg/melon/resize/48/quality/80/optimize
+23|2549956|웃어 줄 수 없어서 미안하다|2AM|253866|776152|죽어도 못 보내|https://cdnimg.melon.co.kr/cm/album/images/007/76/152/776152_500.jpg/melon/resize/48/quality/80/optimize
+24|2565275|빙글빙글|유키스|259928|782653|U-Kiss Only One Album|https://cdnimg.melon.co.kr/cm/album/images/007/82/653/782653_500.jpg/melon/resize/48/quality/80/optimize
+25|2572678|날 따라 해봐요|2NE1|406712|796052|날 따라 해봐요 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/96/052/796052_500.jpg/melon/resize/48/quality/80/optimize
+26|2537464|해바라기 (Feat. 써니사이드 MJ)|가비엔제이|174997|765653|해바라기|https://cdnimg.melon.co.kr/cm/album/images/007/65/653/765653_500.jpg/melon/resize/48/quality/80/optimize
+27|2529931|Change (Feat. 용준형 From Beast)|현아|449401|759051|Change|https://cdnimg.melon.co.kr/cm/album/images/007/59/051/759051_500.jpg/melon/resize/48/quality/80/optimize
+28|2603649|사랑은 변하지 않아 사람이 변하는 거야 (Duet. 드림걸스)|태사비애|229242|823451|請태사비애가|https://cdnimg.melon.co.kr/cm/album/images/008/23/451/823451_500.jpg/melon/resize/48/quality/80/optimize
+29|2590471|널 위한 멜로디|M4|458940|811853|The Story Of M4|https://cdnimg.melon.co.kr/cm/album/images/008/11/853/811853_500.jpg/melon/resize/48/quality/80/optimize
+30|2534748|원더우먼|씨야~다비치~티아라|181679~236815~412000|763251|원더우먼|https://cdnimg.melon.co.kr/cm/album/images/007/63/251/763251_500.jpg/melon/resize/48/quality/80/optimize
+31|2558735|별별별 (☆★☆)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+32|2511561|우리 사랑하게 됐어요.|가인~조권|428821~434621|744962|우리 사랑하게 됐어요|https://cdnimg.melon.co.kr/cm/album/images/007/44/962/744962_500.jpg/melon/resize/48/quality/80/optimize
+33|2585956|보란듯이 (Feat.정슬기)|조pd (ZoPD)|2071|807852|보란듯이|https://cdnimg.melon.co.kr/cm/album/images/008/07/852/807852_500.jpg/melon/resize/48/quality/80/optimize
+34|2371261|처음처럼|티아라|412000|727252|Absolute First Album|https://cdnimg.melon.co.kr/cm/album/images/007/27/252/727252_500.jpg/melon/resize/48/quality/80/optimize
+35|2586103|하루만|빅마마|105803|807954|하루만 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/008/07/954/807954_500.jpg/melon/resize/48/quality/80/optimize
+36|2605215|사랑이란건|부활|100594|824662|25th Anniversary : Retrospect Ⅱ|https://cdnimg.melon.co.kr/cm/album/images/008/24/662/824662_500.jpg/melon/resize/48/quality/80/optimize
+37|2388949|160 (Feat. 이수근)|은지원|1682|741259|Platonic|https://cdnimg.melon.co.kr/cm/album/images/007/41/259/741259_500.jpg/melon/resize/48/quality/80/optimize
+38|2542748|이 사람이다|김종국|1692|770351|Eleventh Story|https://cdnimg.melon.co.kr/cm/album/images/007/70/351/770351_500.jpg/melon/resize/48/quality/80/optimize
+39|2425149|술 한잔 해요|지아|227595|741758|술 한잔 해요|https://cdnimg.melon.co.kr/cm/album/images/007/41/758/741758_500.jpg/melon/resize/48/quality/80/optimize
+40|2371262|Bo Peep Bo Peep|티아라|412000|727252|Absolute First Album|https://cdnimg.melon.co.kr/cm/album/images/007/27/252/727252_500.jpg/melon/resize/48/quality/80/optimize
+41|2366796|너 때문에|애프터스쿨|322666|723759|너 때문에|https://cdnimg.melon.co.kr/cm/album/images/007/23/759/723759_500.jpg/melon/resize/48/quality/80/optimize
+42|2552034|가슴이 차가운 남자 (Let You Go)|TraxX (트랙스)|108965|778163|가슴이 차가운 남자|https://cdnimg.melon.co.kr/cm/album/images/007/78/163/778163_500.jpg/melon/resize/48/quality/80/optimize
+43|2535055|낙인|임재범|4838|763457|추노 OST|https://cdnimg.melon.co.kr/cm/album/images/007/63/457/763457_500.jpg/melon/resize/48/quality/80/optimize
+44|2590549|그대 내 맘에 들어오면은 (Feat. C-Luv)|엠블랙|436980|811952|The Artist (조덕배 25주년 기념앨범 Part.4)|https://cdnimg.melon.co.kr/cm/album/images/008/11/952/811952_500.jpg/melon/resize/48/quality/80/optimize
+45|2581291|못된사람 (Feat.엠블랙 미르)|안진경|457242|803858|An Jin Kyoung 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/008/03/858/803858_500.jpg/melon/resize/48/quality/80/optimize
+46|2575585|잊혀지는 이별|임창정|1142|798856|Remind|https://cdnimg.melon.co.kr/cm/album/images/007/98/856/798856_500.jpg/melon/resize/48/quality/80/optimize
+47|2425271|오늘 헤어졌어요|윤하 (YOUNHA)|203912|741853|3rd Album Part.B 'Growing Season'|https://cdnimg.melon.co.kr/cm/album/images/007/41/853/741853_500.jpg/melon/resize/48/quality/80/optimize
+48|2320882|Mystery|비스트|436981|690954|Beast Is The B2ST|https://cdnimg.melon.co.kr/cm/album/images/006/90/954/690954_500.jpg/melon/resize/48/quality/80/optimize
+49|2588847|다섯째 손가락|아이유|261143|810263|텔레시네마 프로젝트 Vol.6|https://cdnimg.melon.co.kr/cm/album/images/008/10/263/810263_500.jpg/melon/resize/48/quality/80/optimize
+50|2612451|괜히 내가|엠투엠 (M To M)|108581|830853|The Soul Of Men|https://cdnimg.melon.co.kr/cm/album/images/008/30/853/830853_500.jpg/melon/resize/48/quality/80/optimize

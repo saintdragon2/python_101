@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2705407|Push Push (푸시 푸시)|씨스타|473181|911357|Push Push|https://cdnimg.melon.co.kr/cm/album/images/009/11/357/911357_500.jpg/melon/resize/48/quality/80/optimize
+52|2769458|고래|명콜드라이브|485823|967752|고래|https://cdnimg.melon.co.kr/cm/album/images/009/67/752/967752_500.jpg/melon/resize/48/quality/80/optimize
+53|2738241|시간이 지나면|백지영|1118|940564|Timeless : The Best|https://cdnimg.melon.co.kr/cm/album/images/009/40/564/940564_500.jpg/melon/resize/48/quality/80/optimize
+54|2756660|DJ Got Us Fallin' In Love (feat. Pitbull)|Usher|4463|957452|Versus|https://cdnimg.melon.co.kr/cm2/album/images/009/57/452/957452_20191224121820_500.jpg/melon/resize/48/quality/80/optimize
+55|2745357|애인이 생기면 하고 싶은 일 (With 비)|지나|482640|947253|애인이 생기면 하고 싶은 일 (With 비)|https://cdnimg.melon.co.kr/cm/album/images/009/47/253/947253_500.jpg/melon/resize/48/quality/80/optimize
+56|2741360|미쳐가 (Feat. 엠블랙 미르)|간미연|1636|943459|미쳐가|https://cdnimg.melon.co.kr/cm/album/images/009/43/459/943459_500.jpg/melon/resize/48/quality/80/optimize
+57|2804028|여우비|이선희|966|997281|내 여자친구는 구미호 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/009/97/281/997281_500.jpg/melon/resize/48/quality/80/optimize
+58|2900194|연인선언 (With 성유리)|팀|33614|1000008|연인선언|https://cdnimg.melon.co.kr/cm/album/images/010/00/008/1000008_500.jpg/melon/resize/48/quality/80/optimize
+59|2774965|봐봐봐|채연|41894|972553|Look At|https://cdnimg.melon.co.kr/cm/album/images/009/72/553/972553_500.jpg/melon/resize/48/quality/80/optimize
+60|2679548|Love|CNBLUE (씨엔블루)|450801|884652|Bluelove|https://cdnimg.melon.co.kr/cm/album/images/008/84/652/884652_500.jpg/melon/resize/48/quality/80/optimize
+61|2682148|별이될께|디셈버|439021|890651|Tears In Heaven|https://cdnimg.melon.co.kr/cm/album/images/008/90/651/890651_500.jpg/melon/resize/48/quality/80/optimize
+62|2805680|No PlayBoy|나인뮤지스|465680|998568|Let's Have A Party|https://cdnimg.melon.co.kr/cm/album/images/009/98/568/998568_500.jpg/melon/resize/48/quality/80/optimize
+63|2728462|19금 Love The Way You Lie (Feat. Rihanna)|Eminem|1986|931351|Recovery|https://cdnimg.melon.co.kr/cm/album/images/009/31/351/931351_500.jpg/melon/resize/48/quality/80/optimize
+64|2895723|그리운 날에|초신성|229544|999222|Time To Shine|https://cdnimg.melon.co.kr/cm/album/images/009/99/222/999222_500.jpg/melon/resize/48/quality/80/optimize
+65|2684572|2 Different Tears|원더걸스|217764|892654|2 Different Tears|https://cdnimg.melon.co.kr/cm/album/images/008/92/654/892654_500.jpg/melon/resize/48/quality/80/optimize
+66|2905803|Fly To Seoul 'Boom Boom Boom'|2PM|259822|1001457|Fly To Seoul 'Boom Boom Boom'|https://cdnimg.melon.co.kr/cm/album/images/010/01/457/1001457_500.jpg/melon/resize/48/quality/80/optimize
+67|2898717|내가 사랑할 사람 (미호 Theme)|이슬비|493030|999645|내 여자친구는 구미호 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/009/99/645/999645_500.jpg/melon/resize/48/quality/80/optimize
+68|2703101|사랑이라 쓰고 아픔이라 부른다|서인영|26265|909755|Lov-Elly|https://cdnimg.melon.co.kr/cm/album/images/009/09/755/909755_500.jpg/melon/resize/48/quality/80/optimize
+69|2908275|둘이 하나 (Love Theme) (With 봉구 Of 길구봉구)|린|8530|1003254|내 여자친구는 구미호 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/010/03/254/1003254_500.jpg/melon/resize/48/quality/80/optimize
+70|2733251|너 때문이야 (Feat. Soulman)|Supreme Team|410162|935651|블루브랜드 Trauma Part 2|https://cdnimg.melon.co.kr/cm/album/images/009/35/651/935651_500.jpg/melon/resize/48/quality/80/optimize
+71|2675871|사랑 빛|CNBLUE (씨엔블루)|450801|884652|Bluelove|https://cdnimg.melon.co.kr/cm/album/images/008/84/652/884652_500.jpg/melon/resize/48/quality/80/optimize
+72|2688949|HUH|4minute|417985|896751|Hit Your Heart|https://cdnimg.melon.co.kr/cm/album/images/008/96/751/896751_500.jpg/melon/resize/48/quality/80/optimize
+73|1757006|Nothing Better|브라운 아이드 소울|107728|360077|The Wind, The Sea, The Rain|https://cdnimg.melon.co.kr/cm/album/images/003/60/077/360077_500.jpg/melon/resize/48/quality/80/optimize
+74|2742586|Can't U See|손담비|226582|944653|The Queen|https://cdnimg.melon.co.kr/cm/album/images/009/44/653/944653_500.jpg/melon/resize/48/quality/80/optimize
+75|2901832|헤어지자는 그말 (Feat. Jace)|리디아 (Lydia)|455161|1000198|Broken Love|https://cdnimg.melon.co.kr/cm/album/images/010/00/198/1000198_500.jpg/melon/resize/48/quality/80/optimize
+76|2901991|뚝뚝뚝|준케이 (JUN. K)~정우|570851~41244|1000214|소울 프로젝트.1|https://cdnimg.melon.co.kr/cm/album/images/010/00/214/1000214_500.jpg/melon/resize/48/quality/80/optimize
+77|2791103|미쳐서 너를 불러|테이|51893|986572|太利|https://cdnimg.melon.co.kr/cm/album/images/009/86/572/986572_500.jpg/melon/resize/48/quality/80/optimize
+78|2728048|Turn It Up|T.O.P|152192|931151|Turn It Up (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/009/31/151/931151_500.jpg/melon/resize/48/quality/80/optimize
+79|-1|Game|지피베이직|492173|996960|Game|https://cdnimg.melon.co.kr/cm/album/images/009/96/960/996960_500.jpg/melon/resize/48/quality/80/optimize
+80|2895062|너에게 주고 싶은 세가지 (Feat. 허첵 Of 슈퍼키드)|박지헌|231826|999140|너에게 주고 싶은 세가지|https://cdnimg.melon.co.kr/cm/album/images/009/99/140/999140_500.jpg/melon/resize/48/quality/80/optimize
+81|2901932|라라라|숙희|341370|1000208|라라라|https://cdnimg.melon.co.kr/cm/album/images/010/00/208/1000208_500.jpg/melon/resize/48/quality/80/optimize
+82|2895703|이젠 남 (Feat. 류재현 Of Vibe)|노블레스|160738|999219|이젠 남|https://cdnimg.melon.co.kr/cm/album/images/009/99/219/999219_500.jpg/melon/resize/48/quality/80/optimize
+83|2670748|시간아 멈춰라|다비치|236815|880151|Innocence|https://cdnimg.melon.co.kr/cm/album/images/008/80/151/880151_500.jpg/melon/resize/48/quality/80/optimize
+84|2904060|못잊어 (Feat. 허인창 Of B.N.R)|비욘드|169635|1001053|못잊어|https://cdnimg.melon.co.kr/cm/album/images/010/01/053/1001053_500.jpg/melon/resize/48/quality/80/optimize
+85|2743254|I'm In Love|나르샤 (Brown Eyed Girls)|261744|945354|I'm In Love|https://cdnimg.melon.co.kr/cm/album/images/009/45/354/945354_500.jpg/melon/resize/48/quality/80/optimize
+86|2730675|바람이 되어서라도|환희|1928|933454|로드 넘버원 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/009/33/454/933454_500.jpg/melon/resize/48/quality/80/optimize
+87|2896188|알거 없잖아|제이큐티|436621|999275|2010 Single Fourfume JQT|https://cdnimg.melon.co.kr/cm/album/images/009/99/275/999275_500.jpg/melon/resize/48/quality/80/optimize
+88|2796789|잘 가..지 마|지아|227595|987954|Difference|https://cdnimg.melon.co.kr/cm/album/images/009/87/954/987954_500.jpg/melon/resize/48/quality/80/optimize
+89|2667293|NU 예삐오 (NU ABO)|f(x)|428501|876652|NU 예삐오|https://cdnimg.melon.co.kr/cm/album/images/008/76/652/876652_500.jpg/melon/resize/48/quality/80/optimize
+90|2627301|고백|뜨거운 감자|101871|842655|시소|https://cdnimg.melon.co.kr/cm/album/images/008/42/655/842655_500.jpg/melon/resize/48/quality/80/optimize
+91|2680552|다시 와주라|바이브|160080|889152|Vibe In Praha|https://cdnimg.melon.co.kr/cm/album/images/008/89/152/889152_500.jpg/melon/resize/48/quality/80/optimize
+92|2769950|In To The Rain (Feat. YDG)|DJ DOC|100005|968252|풍류|https://cdnimg.melon.co.kr/cm/album/images/009/68/252/968252_500.jpg/melon/resize/48/quality/80/optimize
+93|2906135|그대만의 바보|박상민|956|1001496|일 더하기 삼|https://cdnimg.melon.co.kr/cm/album/images/010/01/496/1001496_500.jpg/melon/resize/48/quality/80/optimize
+94|2795100|희망은 잠들지 않는 꿈|규현 (KYUHYUN)|205880|990257|제빵왕 김탁구 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/009/90/257/990257_500.jpg/melon/resize/48/quality/80/optimize
+95|2752779|박수 (Clap)|틴탑|483581|953856|Come Into The World|https://cdnimg.melon.co.kr/cm/album/images/009/53/856/953856_500.jpg/melon/resize/48/quality/80/optimize
+96|2907094|아파도 괜찮아요|서현 (SEOHYUN)|401220|1002266|김수로 OST|https://cdnimg.melon.co.kr/cm/album/images/010/02/266/1002266_500.jpg/melon/resize/48/quality/80/optimize
+97|2766948|Superstar|4minute|417985|965251|Superstar (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/009/65/251/965251_500.jpg/melon/resize/48/quality/80/optimize
+98|2680562|미친거니|바이브|160080|889152|Vibe In Praha|https://cdnimg.melon.co.kr/cm/album/images/008/89/152/889152_500.jpg/melon/resize/48/quality/80/optimize
+99|2735074|죽도록 사랑해 (Feat. Soul Dive)|KCM|45995|937154|제빵왕 김탁구 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/009/37/154/937154_500.jpg/melon/resize/48/quality/80/optimize
+100|2795648|Dangerous|보아 (BoA)|2165|978853|Hurricane Venus|https://cdnimg.melon.co.kr/cm/album/images/009/78/853/978853_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,47 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+54|698979|그리움을 사랑한 가시나무|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+55|720153|믿음|아우라 (Aura)|164777|300024|Aura #Zero|https://cdnimg.melon.co.kr/cm/album/images/003/00/024/300024_500.jpg/melon/resize/48/quality/80/optimize
+56|696849|汝歌 (여가)|장연주|163816|49490|본심|https://cdnimg.melon.co.kr/cm/album/images/000/49/490/49490_500.jpg/melon/resize/48/quality/80/optimize
+57|721553|사랑할거야|박혜경|1790|300107|제니 주노 OST|https://cdnimg.melon.co.kr/cm/album/images/003/00/107/300107_500.jpg/melon/resize/48/quality/80/optimize
+58|602302|누구와 사랑을 하다가|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+59|-1|십년이 지나도|송승헌|19086|50318|슬픈연가 OST|https://cdnimg.melon.co.kr/cm/album/images/000/50/318/50318_500.jpg/melon/resize/48/quality/80/optimize
+60|698976|마음으로 부르는 소리|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+61|632788|말해줘 (Feat. 한예슬, 혜령)|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+62|622662|얼마나|거북이|101463|43466|Turtles 3집|https://cdnimg.melon.co.kr/cm/album/images/000/43/466/43466_500.jpg/melon/resize/48/quality/80/optimize
+63|708703|L.O.V.E|김희선|8896|50318|슬픈연가 OST|https://cdnimg.melon.co.kr/cm/album/images/000/50/318/50318_500.jpg/melon/resize/48/quality/80/optimize
+64|698974|나에게 머물다|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+65|622776|I Wanna (Drop It, Like It'S Hot! - Feat. Smash Of 45Rpm, Red-Roc)|DJ DOC|100005|43512|Love & Sex, Happiness 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/512/43512_500.jpg/melon/resize/48/quality/80/optimize
+66|642427|사랑하기 좋은 날|장나라|10575|45305|나의 이야기|https://cdnimg.melon.co.kr/cm/album/images/000/45/305/45305_500.jpg/melon/resize/48/quality/80/optimize
+67|698978|잘지내고 계시죠|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+68|708214|시간이 흘러도|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+69|670684|서신|박혜경|1790|47540|서신|https://cdnimg.melon.co.kr/cm/album/images/000/47/540/47540_500.jpg/melon/resize/48/quality/80/optimize
+70|686653|사랑해요|김형섭|4060|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+71|698977|나만의 너에게|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+72|677883|Goodies (Feat. Petey Pablo)|Ciara|55278|48114|Goodies|https://cdnimg.melon.co.kr/cm/album/images/000/48/114/48114_500.jpg/melon/resize/48/quality/80/optimize
+73|623750|Lose My Breath|Destiny's Child|100686|43775|Destiny Fulfilled|https://cdnimg.melon.co.kr/cm/album/images/000/43/775/43775_500.jpg/melon/resize/48/quality/80/optimize
+74|711628|광(狂)|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+75|533228|Life Is Cool|Sweetbox|100060|35191|Adagio|https://cdnimg.melon.co.kr/cm/album/images/000/35/191/35191_500.jpg/melon/resize/48/quality/80/optimize
+77|623243|Loving You|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+78|708216|Morning|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+79|698980|기침|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+80|708220|그대가 있어야...|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+81|-1|Show Time - 최홍만 테마송|키스 파이브|164035|50003|First Kiss|https://cdnimg.melon.co.kr/cm/album/images/000/50/003/50003_500.jpg/melon/resize/48/quality/80/optimize
+82|711630|입술만 깨물고있죠|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+83|698982|아파도 슬퍼도|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+84|537750|기억상실|거미|30358|35501|It's Different|https://cdnimg.melon.co.kr/cm/album/images/000/35/501/35501_500.jpg/melon/resize/48/quality/80/optimize
+85|708217|Gracie|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+86|698984|아프게 희망하기|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+87|632219|러브송|7공주|108299|44546|겨울...봄, 여름, 가을|https://cdnimg.melon.co.kr/cm/album/images/000/44/546/44546_500.jpg/melon/resize/48/quality/80/optimize
+88|708221|결혼해 주겠니???|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+89|711629|가|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+90|686655|이미 그댄|izi|164914|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+91|672045|쟈크와 래미 이야기|O2|4192|47647|The Story Of Zac & Lemi|https://cdnimg.melon.co.kr/cm/album/images/000/47/647/47647_500.jpg/melon/resize/48/quality/80/optimize
+92|708219|곁에 있어...|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+93|708735|그럼 된거죠|김성희|17493|50320|세잎클로버 OST|https://cdnimg.melon.co.kr/cm/album/images/000/50/320/50320_500.jpg/melon/resize/48/quality/80/optimize
+94|708218|축제|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+95|698981|목요일을 기억하세요|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+96|727900|너무 아파서|이기찬|6225|300243|홍콩익스프레스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/00/243/300243_500.jpg/melon/resize/48/quality/80/optimize
+97|698983|하얀의자|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+98|665222|우울한 편지|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+99|602126|하하하쏭|자우림|100094|41331|All You Need Is Love 5집|https://cdnimg.melon.co.kr/cm/album/images/000/41/331/41331_500.jpg/melon/resize/48/quality/80/optimize
+100|529686|중독|김종국|1692|34958|Evolution|https://cdnimg.melon.co.kr/cm/album/images/000/34/958/34958_500.jpg/melon/resize/48/quality/80/optimize

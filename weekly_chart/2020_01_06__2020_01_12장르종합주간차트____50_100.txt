@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|31870517|술이 문제야|장혜진~윤민수(바이브)|5675~151315|10297571|술이 문제야|https://cdnimg.melon.co.kr/cm/album/images/102/97/571/10297571_500.jpg/melon/resize/48/quality/80/optimize
+52|32282389|마음이 말하는 행복 (Happiness) (Feat.이라온)|마크툽 (MAKTUB)|566431|10369830|Red Moon : Happiness|https://cdnimg.melon.co.kr/cm2/album/images/103/69/830/10369830_20191230105943_500.jpg/melon/resize/48/quality/80/optimize
+53|32031043|가을밤 떠난 너|케이시 (Kassy)|858125|10325945|Rewind|https://cdnimg.melon.co.kr/cm2/album/images/103/25/945/10325945_500.jpg/melon/resize/48/quality/80/optimize
+54|31341518|Paris In The Rain|Lauv|1956543|10209752|I met you when I was 18. (the playlist)|https://cdnimg.melon.co.kr/cm/album/images/102/09/752/10209752_500.jpg/melon/resize/48/quality/80/optimize
+55|32271337|Flower|윤미래|1654|10367589|사랑의 불시착 OST Part 2|https://cdnimg.melon.co.kr/cm2/album/images/103/67/589/10367589_20191220151639_500.jpg/melon/resize/48/quality/80/optimize
+56|32225055|잘 살고 있다|V.O.S|108794|10359390|잘 살고 있다|https://cdnimg.melon.co.kr/cm2/album/images/103/59/390/10359390_500.jpg/melon/resize/48/quality/80/optimize
+57|32057802|Feel Special|TWICE (트와이스)|905701|10331167|Feel Special|https://cdnimg.melon.co.kr/cm2/album/images/103/31/167/10331167_500.jpg/melon/resize/48/quality/80/optimize
+58|8119658|꿈속에 너 (Feat. 전상근)|에이치코드 (H:CODE)|946910|2676167|두 번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/026/76/167/2676167_500.jpg/melon/resize/48/quality/80/optimize
+59|31688205|사계 (Four Seasons)|태연 (TAEYEON)|236797|10265079|사계 (Four Seasons)|https://cdnimg.melon.co.kr/cm/album/images/102/65/079/10265079_500.jpg/melon/resize/48/quality/80/optimize
+60|32081871|허전해|폴킴|752425|10335933|정규 2집 '마음, 하나'|https://cdnimg.melon.co.kr/cm2/album/images/103/35/933/10335933_500.jpg/melon/resize/48/quality/80/optimize
+61|32028531|헤어지자 (Prod. 정키)|휘인 (Whee In)|756533|10325421|soar|https://cdnimg.melon.co.kr/cm2/album/images/103/25/421/10325421_500.jpg/melon/resize/48/quality/80/optimize
+62|32180580|숨겨진 세상 (Into the Unknown End Credit Version) (겨울왕국2)|태연 (TAEYEON)|236797|10352534|겨울왕국 2 (한국어 버전)|https://cdnimg.melon.co.kr/cm2/album/images/103/52/534/10352534_500.jpg/melon/resize/48/quality/80/optimize
+63|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+64|31804010|너에게 못했던 내 마지막 말은|다비치|236815|10286309|너에게 못했던 내 마지막 말은|https://cdnimg.melon.co.kr/cm/album/images/102/86/309/10286309_500.jpg/melon/resize/48/quality/80/optimize
+65|31815967|"Speechless (Full) (From ""Aladdin""/Soundtrack Version)"|Naomi Scott|541364|10288448|Aladdin (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/48/quality/80/optimize
+66|31666417|주저하는 연인들을 위해|잔나비|772253|10260858|전설|https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/48/quality/80/optimize
+67|32125782|LION|(여자)아이들|2137482|10343701|퀸덤 <FINAL 컴백 싱글>|https://cdnimg.melon.co.kr/cm2/album/images/103/43/701/10343701_500.jpg/melon/resize/48/quality/80/optimize
+68|30717645|Snowman|Sia|54103|10107511|Everyday is Christmas (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/101/07/511/10107511_500.jpg/melon/resize/48/quality/80/optimize
+69|31938046|나의 어깨에 기대어요|10CM|468244|10309152|호텔 델루나 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/103/09/152/10309152_500.jpg/melon/resize/48/quality/80/optimize
+70|32274280|중2병|염따~딥플로우~팔로알토 (Paloalto)~The Quiett~사이먼 도미닉|202530~226587~170978~27744~428847|10368212|Dingo X DAMOIM (Part 3)|https://cdnimg.melon.co.kr/cm2/album/images/103/68/212/10368212_20191223182650_500.jpg/melon/resize/48/quality/80/optimize
+71|32280012|노을|다비치|236815|10369319|사랑의 불시착 OST Part 3|https://cdnimg.melon.co.kr/cm2/album/images/103/69/319/10369319_20191227105950_500.jpg/melon/resize/48/quality/80/optimize
+72|32136650|영화 속에 나오는 주인공처럼|펀치 (Punch)|749640|10345742|동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.6|https://cdnimg.melon.co.kr/cm2/album/images/103/45/742/10345742_500.jpg/melon/resize/48/quality/80/optimize
+73|5475060|Santa Tell Me|Ariana Grande|597451|2292117|Santa Tell Me|https://cdnimg.melon.co.kr/cm/album/images/022/92/117/2292117_500.jpg/melon/resize/48/quality/80/optimize
+74|32183384|unlucky|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+75|31901475|헤어져줘서 고마워|벤|655051|10302879|헤어져줘서 고마워|https://cdnimg.melon.co.kr/cm/album/images/103/02/879/10302879_500.jpg/melon/resize/48/quality/80/optimize
+76|32128105|샤넬 (Feat. 박봄)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+77|32187544|우리 왜 헤어져야 해|신예영|2740042|10353881|우리 왜 헤어져야 해|https://cdnimg.melon.co.kr/cm2/album/images/103/53/881/10353881_500.jpg/melon/resize/48/quality/80/optimize
+78|32254295|Amanda (Feat. Simon Dominic) (Prod. By UNTITLEDS)|염따|202530|10364601|Amanda|https://cdnimg.melon.co.kr/cm2/album/images/103/64/601/10364601_20191213145208_500.jpg/melon/resize/48/quality/80/optimize
+79|32006650|벗|닐로(Nilo)|896096|10321104|벗|https://cdnimg.melon.co.kr/cm2/album/images/103/21/104/10321104_500.jpg/melon/resize/48/quality/80/optimize
+80|32213920|날 보러 와요 (Come See Me)|AOA|686920|10357177|NEW MOON|https://cdnimg.melon.co.kr/cm2/album/images/103/57/177/10357177_500.jpg/melon/resize/48/quality/80/optimize
+81|32073454|우리 어떻게 할까요|첸 (CHEN)|715176|10334254|사랑하는 그대에게 - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm2/album/images/103/34/254/10334254_500.jpg/melon/resize/48/quality/80/optimize
+82|31854442|솔직하게 말해서 나|김나영|735094|10294763|솔직하게 말해서 나|https://cdnimg.melon.co.kr/cm/album/images/102/94/763/10294763_500.jpg/melon/resize/48/quality/80/optimize
+83|31524320|그때가 좋았어|케이시 (Kassy)|858125|10237420|그때가 좋았어|https://cdnimg.melon.co.kr/cm/album/images/102/37/420/10237420_500.jpg/melon/resize/48/quality/80/optimize
+84|32080223|이별행동|이우|2400004|10335543|이별행동|https://cdnimg.melon.co.kr/cm2/album/images/103/35/543/10335543_500.jpg/melon/resize/48/quality/80/optimize
+85|32295025|WINTER FLOWER(雪中梅)(Feat.RM)|윤하 (YOUNHA)|203912|10372085|UNSTABLE MINDSET|https://cdnimg.melon.co.kr/cm2/album/images/103/72/085/10372085_20200106153324_500.jpg/melon/resize/48/quality/80/optimize
+86|31266290|IDOL|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+87|31737198|소우주 (Mikrokosmos)|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+88|14776|All I Want for Christmas Is You|Mariah Carey|2274|829|Merry Christmas (Deluxe Anniversary Edition)|https://cdnimg.melon.co.kr/cm2/album/images/000/00/829/829_500.jpg/melon/resize/48/quality/80/optimize
+89|32183385|그 사람|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+90|32217922|Trouble|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+91|32217929|나비효과 (Butterfly Effect)|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+92|32180635|19금 ROXANNE|Arizona Zervas|2754967|10352538|ROXANNE|https://cdnimg.melon.co.kr/cm2/album/images/103/52/538/10352538_500.jpg/melon/resize/48/quality/80/optimize
+93|32217924|춤 (Groove)|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+94|3053259|미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+95|32307439|Nerdy Love (Feat. 백예린)|pH-1|943511|10373988|Nerdy Love (Feat. 백예린)|https://cdnimg.melon.co.kr/cm2/album/images/103/73/988/10373988_20200109140720_500.jpg/melon/resize/48/quality/80/optimize
+96|32217923|지킬 (Jekyll)|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+97|8235260|비|폴킴|752425|2692501|비|https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/48/quality/80/optimize
+98|32180564|사랑의 재개발|유산슬|2754958|10352532|뽕포유|https://cdnimg.melon.co.kr/cm2/album/images/103/52/532/10352532_500.jpg/melon/resize/48/quality/80/optimize
+99|32217925|Ya Ya Ya|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+100|32295064|가끔은|정효빈|2639564|10372095|가끔은|https://cdnimg.melon.co.kr/cm2/album/images/103/72/095/10372095_20200106153801_500.jpg/melon/resize/48/quality/80/optimize

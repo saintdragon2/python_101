@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|5765887|만약에 말야 (화생방실 클레오파트라) (Bonus Track)|김연우|6017|2327658|복면가왕 14회|https://cdnimg.melon.co.kr/cm/album/images/023/27/658/2327658_500.jpg/melon/resize/48/quality/80/optimize
+52|5807347|Sweet Girl|B1A4|535440|2333211|Sweet Girl|https://cdnimg.melon.co.kr/cm/album/images/023/33/211/2333211_500.jpg/melon/resize/48/quality/80/optimize
+53|5731941|아프다|지코 (ZICO)~소진 (Sojin)|602056~516080|2323162|가면 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/23/162/2323162_500.jpg/melon/resize/48/quality/80/optimize
+54|5767582|Bad|인피니트|476181|2327888|Reality|https://cdnimg.melon.co.kr/cm/album/images/023/27/888/2327888_500.jpg/melon/resize/48/quality/80/optimize
+55|5576417|같은 시간 속의 너|나얼|3959|2302870|브라운 아이드 소울 싱글 프로젝트 1st. 같은 시간 속의 너 By 나얼|https://cdnimg.melon.co.kr/cm/album/images/023/02/870/2302870_500.jpg/melon/resize/48/quality/80/optimize
+56|5660040|아예 (Ah Yeah)|EXID|630454|2313635|AH YEAH|https://cdnimg.melon.co.kr/cm/album/images/023/13/635/2313635_500.jpg/melon/resize/48/quality/80/optimize
+57|5658708|어머님이 누구니 (Feat. 제시)|박진영|1130|2313436|24/34|https://cdnimg.melon.co.kr/cm/album/images/023/13/436/2313436_500.jpg/melon/resize/48/quality/80/optimize
+58|4681146|한여름밤의 꿀|San E~레이나 (Raina)|402526~672337|2260223|San E, 레이나 Project Single '한여름밤의 꿀'|https://cdnimg.melon.co.kr/cm/album/images/022/60/223/2260223_500.jpg/melon/resize/48/quality/80/optimize
+59|5721440|LOVE ME RIGHT|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize
+60|5713423|큰새|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+61|5748398|사랑.. 그 놈 (화생방실 클레오파트라)|김연우|6017|2325319|복면가왕 12회|https://cdnimg.melon.co.kr/cm/album/images/023/25/319/2325319_500.jpg/melon/resize/48/quality/80/optimize
+62|5804080|Married To The Music|SHINee (샤이니)|247639|2332709|Married To The Music - The 4th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/32/709/2332709_500.jpg/melon/resize/48/quality/80/optimize
+63|5709750|사랑의 시작은 고백에서부터|김범수|6502|2320218|프로듀사 OST|https://cdnimg.melon.co.kr/cm/album/images/023/20/218/2320218_500.jpg/melon/resize/48/quality/80/optimize
+64|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+65|4646573|너의 의미 (Feat. 김창완)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+66|5700879|View|SHINee (샤이니)|247639|2319050|Odd - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/023/19/050/2319050_500.jpg/melon/resize/48/quality/80/optimize
+67|5818521|M.I.L.E. (Make It Look Easy)|블랙넛 (Black Nut)~버벌진트~San E|727519~6985~402526|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+68|5756880|괜찮아요|비투비|647971|2326467|Complete|https://cdnimg.melon.co.kr/cm/album/images/023/26/467/2326467_500.jpg/melon/resize/48/quality/80/optimize
+69|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+70|5818522|오빠차|인크레더블~Tablo~지누션|858852~231070~100054|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+71|5628083|두사랑 (Feat. 매드클라운)|다비치|236815|2309174|두사랑|https://cdnimg.melon.co.kr/cm/album/images/023/09/174/2309174_500.jpg/melon/resize/48/quality/80/optimize
+72|5765886|이 밤이 지나면 (화생방실 클레오파트라) (Bonus Track)|김연우|6017|2327658|복면가왕 14회|https://cdnimg.melon.co.kr/cm/album/images/023/27/658/2327658_500.jpg/melon/resize/48/quality/80/optimize
+73|5815789|러버 (Feat. 오혁) (Rubber)|프라이머리|35682|2334438|2|https://cdnimg.melon.co.kr/cm/album/images/023/34/438/2334438_500.jpg/melon/resize/48/quality/80/optimize
+74|5779813|My Last (Feat. 로꼬 & GRAY)|박재범|443420|2329416|My Last|https://cdnimg.melon.co.kr/cm/album/images/023/29/416/2329416_500.jpg/melon/resize/48/quality/80/optimize
+75|4800324|19금 100 (Feat. 천재노창)|블랙넛 (Black Nut)|727519|2273054|100|https://cdnimg.melon.co.kr/cm/album/images/022/73/054/2273054_500.jpg/melon/resize/48/quality/80/optimize
+76|5634219|19금 Puss (Prod.by 라이머)|지민~아이언|687001~781841|2310080|언프리티 랩스타 SEMI FINAL|https://cdnimg.melon.co.kr/cm/album/images/023/10/080/2310080_500.jpg/melon/resize/48/quality/80/optimize
+77|5482064|바라보기|엠씨더맥스 (M.C the MAX)|161636|2292762|미녀의 탄생 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/92/762/2292762_500.jpg/melon/resize/48/quality/80/optimize
+78|5704765|동네술집|허각~정인|28801~35989|2319548|동네술집|https://cdnimg.melon.co.kr/cm/album/images/023/19/548/2319548_500.jpg/melon/resize/48/quality/80/optimize
+79|5781707|New Thang|Redfoo|674833|2329696|New Thang|https://cdnimg.melon.co.kr/cm/album/images/023/29/696/2329696_500.jpg/melon/resize/48/quality/80/optimize
+80|3910821|바람기억|나얼|3959|2150856|Principle Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/48/quality/80/optimize
+81|5787474|심상치 않아 (Feat. 주영)|키썸 (Kisum)|748510|2330431|심상치 않아 (Feat. 주영)|https://cdnimg.melon.co.kr/cm/album/images/023/30/431/2330431_500.jpg/melon/resize/48/quality/80/optimize
+82|5385973|Ohio|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+83|5629186|사월의 눈|허각|28801|2309363|사월의 눈|https://cdnimg.melon.co.kr/cm/album/images/023/09/363/2309363_500.jpg/melon/resize/48/quality/80/optimize
+84|4836118|Best Mistake (Feat. Big Sean)|Ariana Grande|597451|2276959|My Everything|https://cdnimg.melon.co.kr/cm/album/images/022/76/959/2276959_500.jpg/melon/resize/48/quality/80/optimize
+85|5644636|다른 남자 말고 너|미쓰에이|481481|2311419|Colors|https://cdnimg.melon.co.kr/cm/album/images/023/11/419/2311419_500.jpg/melon/resize/48/quality/80/optimize
+86|4743560|Lost Stars|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+87|5804120|닥쳐줘요 (Feat. 솔지 Of EXID)|배치기|101886|2332714|甲中甲 (갑중갑)|https://cdnimg.melon.co.kr/cm/album/images/023/32/714/2332714_500.jpg/melon/resize/48/quality/80/optimize
+88|5644620|CALL ME BABY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+89|5781346|Devil|SUPER JUNIOR (슈퍼주니어)|175404|2329647|DEVIL - SUPER JUNIOR SPECIAL ALBUM|https://cdnimg.melon.co.kr/cm/album/images/023/29/647/2329647_500.jpg/melon/resize/48/quality/80/optimize
+90|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+91|5805844|완전 미쳤네 (Korean Ver.)|티아라|412000|2332960|So Good|https://cdnimg.melon.co.kr/cm/album/images/023/32/960/2332960_500.jpg/melon/resize/48/quality/80/optimize
+92|5742255|느껴 (My Everything)|범키|623851|2324472|느껴 (My Everything)|https://cdnimg.melon.co.kr/cm/album/images/023/24/472/2324472_500.jpg/melon/resize/48/quality/80/optimize
+93|5775671|너를 사랑한 시간|정승환|792091|2328858|너를 사랑한 시간 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/023/28/858/2328858_500.jpg/melon/resize/48/quality/80/optimize
+94|5794746|왜 이럴까|수지 (SUZY)|514741|2331441|너를 사랑한 시간 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/31/441/2331441_500.jpg/melon/resize/48/quality/80/optimize
+95|5798366|니가 보여|신용재 (2F)|510537|2331959|너를 기억해 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/023/31/959/2331959_500.jpg/melon/resize/48/quality/80/optimize
+96|5674470|연예할래|박보람|499464|2315407|CELEPRETTY|https://cdnimg.melon.co.kr/cm/album/images/023/15/407/2315407_500.jpg/melon/resize/48/quality/80/optimize
+97|5756651|우리가 사랑한 시간|규현 (KYUHYUN)|205880|2326443|너를 사랑한 시간 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/023/26/443/2326443_500.jpg/melon/resize/48/quality/80/optimize
+98|5810311|여름밤에|나비|242868|2333661|여름밤에|https://cdnimg.melon.co.kr/cm/album/images/023/33/661/2333661_500.jpg/melon/resize/48/quality/80/optimize
+99|4840271|위아래|EXID|630454|2277372|위아래|https://cdnimg.melon.co.kr/cm/album/images/022/77/372/2277372_500.jpg/melon/resize/48/quality/80/optimize
+100|5811677|꽃피는 봄이 오면 (노래하는 트리케라톱스)|이영현|10210|2333867|복면가왕 19회|https://cdnimg.melon.co.kr/cm/album/images/023/33/867/2333867_500.jpg/melon/resize/48/quality/80/optimize

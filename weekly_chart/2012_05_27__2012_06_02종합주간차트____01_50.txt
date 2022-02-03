@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3795586|하루 끝|아이유|261143|2121646|스무 살의 봄|https://cdnimg.melon.co.kr/cm/album/images/021/21/646/2121646_500.jpg/melon/resize/48/quality/80/optimize
+2|3783041|Twinkle|소녀시대-태티서 (Girls' Generation-TTS)|663691|2117429|'Twinkle' Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/17/429/2117429_500.jpg/melon/resize/48/quality/80/optimize
+3|3791867|목소리 (Feat. 개리 Of 리쌍)|백지영|1118|2121835|Good Boy|https://cdnimg.melon.co.kr/cm/album/images/021/21/835/2121835_500.jpg/melon/resize/48/quality/80/optimize
+4|3763493|나혼자 (Alone)|씨스타|473181|2107508|ALONE|https://cdnimg.melon.co.kr/cm/album/images/021/07/508/2107508_500.jpg/melon/resize/48/quality/80/optimize
+5|3808405|2HOT|지나|482640|2124707|BLOOM|https://cdnimg.melon.co.kr/cm/album/images/021/24/707/2124707_500.jpg/melon/resize/48/quality/80/optimize
+6|-1|I 돈 Care (Feat. 서수민PD)|용감한 녀석들|649953|2123770|용감한 녀석들|https://cdnimg.melon.co.kr/cm/album/images/021/23/770/2123770_500.jpg/melon/resize/48/quality/80/optimize
+7|3804268|Good Boy (Feat. 용준형 Of 비스트)|백지영|1118|2121835|Good Boy|https://cdnimg.melon.co.kr/cm/album/images/021/21/835/2121835_500.jpg/melon/resize/48/quality/80/optimize
+8|3798160|아름다운 밤|울랄라세션|569214|2123522|ULALA SENSATION Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/23/522/2123522_500.jpg/melon/resize/48/quality/80/optimize
+9|3796159|나쁜놈 (Feat. 소야)|마이티 마우스|239366|2123313|나쁜놈|https://cdnimg.melon.co.kr/cm/album/images/021/23/313/2123313_500.jpg/melon/resize/48/quality/80/optimize
+10|3809215|너에게 배운다 (My Love)|리쌍|103289|2124385|Unplugged|https://cdnimg.melon.co.kr/cm/album/images/021/24/385/2124385_500.jpg/melon/resize/48/quality/80/optimize
+11|3786914|너뿐이야 (You're The One)|박진영|1130|2115691|Spring 새로운 사랑에게 보내는 다섯곡의 노래|https://cdnimg.melon.co.kr/cm/album/images/021/15/691/2115691_500.jpg/melon/resize/48/quality/80/optimize
+12|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+13|3813439|올림픽대로 (Feat. MC날유)|형돈이와 대준이|673585|2125267|껭스타랩 볼륨 1|https://cdnimg.melon.co.kr/cm/album/images/021/25/267/2125267_500.jpg/melon/resize/48/quality/80/optimize
+14|3811405|Someday (피쳐링. 윤도현 Of YB)|리쌍|103289|2124385|Unplugged|https://cdnimg.melon.co.kr/cm/album/images/021/24/385/2124385_500.jpg/melon/resize/48/quality/80/optimize
+15|3805780|겸손은 힘들어|리쌍|103289|2124385|Unplugged|https://cdnimg.melon.co.kr/cm/album/images/021/24/385/2124385_500.jpg/melon/resize/48/quality/80/optimize
+16|3801396|추격자|인피니트|476181|2123894|INFINITIZE|https://cdnimg.melon.co.kr/cm/album/images/021/23/894/2123894_500.jpg/melon/resize/48/quality/80/optimize
+17|3787653|She's Gone|디셈버|439021|2119766|She's Gone|https://cdnimg.melon.co.kr/cm/album/images/021/19/766/2119766_500.jpg/melon/resize/48/quality/80/optimize
+18|3811406|잘자요 굿나잇|B1A4|535440|2125061|THE B1A4Ⅰ'IGNITION' SPECIAL EDITION|https://cdnimg.melon.co.kr/cm/album/images/021/25/061/2125061_500.jpg/melon/resize/48/quality/80/optimize
+19|3805813|오늘같은 밤이면|2BIC(투빅)~다비치|643551~236815|2124390|조영수 All Star - 투빅&다비치|https://cdnimg.melon.co.kr/cm/album/images/021/24/390/2124390_500.jpg/melon/resize/48/quality/80/optimize
+20|3796613|HUSH|Apink (에이핑크)|534360|2123373|UNE ANNEE|https://cdnimg.melon.co.kr/cm/album/images/021/23/373/2123373_500.jpg/melon/resize/48/quality/80/optimize
+21|3753302|첫사랑|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+22|3764899|Volume Up|4minute|417985|2108004|Volume Up|https://cdnimg.melon.co.kr/cm/album/images/021/08/004/2108004_500.jpg/melon/resize/48/quality/80/optimize
+23|3758104|나를 사랑했던 사람아|허각|28801|2105027|LACRIMOSO|https://cdnimg.melon.co.kr/cm/album/images/021/05/027/2105027_500.jpg/melon/resize/48/quality/80/optimize
+24|3791293|복숭아|아이유|261143|2121646|스무 살의 봄|https://cdnimg.melon.co.kr/cm/album/images/021/21/646/2121646_500.jpg/melon/resize/48/quality/80/optimize
+25|3753303|여수 밤바다|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+26|3715676|FANTASTIC BABY|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+27|3804405|다 쓰고 없다|울랄라세션|569214|2124268|ULALA SENSATION Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/24/268/2124268_500.jpg/melon/resize/48/quality/80/optimize
+28|3779252|다른 사람 품에 안겨서 (Someone Else) (Duet With 가인)|박진영|1130|2115691|Spring 새로운 사랑에게 보내는 다섯곡의 노래|https://cdnimg.melon.co.kr/cm/album/images/021/15/691/2115691_500.jpg/melon/resize/48/quality/80/optimize
+29|3753309|꽃송이가|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+30|3814176|High High|김태우|182430|2125328|신사의 품격 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/25/328/2125328_500.jpg/melon/resize/48/quality/80/optimize
+31|3772625|떠나간다|노을|105623|2112227|떠나간다|https://cdnimg.melon.co.kr/cm/album/images/021/12/227/2112227_500.jpg/melon/resize/48/quality/80/optimize
+32|-1|Payphone (Feat. Wiz Khalifa)|Maroon 5|107721|2112986|Payphone|https://cdnimg.melon.co.kr/cm/album/images/021/12/986/2112986_500.jpg/melon/resize/48/quality/80/optimize
+33|3786713|Venus|헬로비너스|668491|2119306|1st Mini Album 'Venus'|https://cdnimg.melon.co.kr/cm/album/images/021/19/306/2119306_500.jpg/melon/resize/48/quality/80/optimize
+34|3811437|To You|틴탑|483581|2125064|aRtisT|https://cdnimg.melon.co.kr/cm/album/images/021/25/064/2125064_500.jpg/melon/resize/48/quality/80/optimize
+35|3763333|두 마리|배치기|101886|2107446|두 마리|https://cdnimg.melon.co.kr/cm/album/images/021/07/446/2107446_500.jpg/melon/resize/48/quality/80/optimize
+36|3750173|미치게 보고싶은|태연 (TAEYEON)|236797|2100766|더킹 투하츠 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/00/766/2100766_500.jpg/melon/resize/48/quality/80/optimize
+37|3701333|Heaven|에일리(Ailee)|629831|2077426|Heaven|https://cdnimg.melon.co.kr/cm/album/images/020/77/426/2077426_500.jpg/melon/resize/48/quality/80/optimize
+38|3809486|빙글빙글|티아라|412000|2124848|빙글빙글|https://cdnimg.melon.co.kr/cm/album/images/021/24/848/2124848_500.jpg/melon/resize/48/quality/80/optimize
+39|3753305|외로움증폭장치 (브래드 드럼 한판 쉬기)|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+40|3743293|이상형|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+41|3776153|찢긴 가슴|아이비|171127|2114086|Interview|https://cdnimg.melon.co.kr/cm/album/images/021/14/086/2114086_500.jpg/melon/resize/48/quality/80/optimize
+42|3812037|살아도 꿈인 것처럼|김재중|52614|2125136|닥터 진 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/25/136/2125136_500.jpg/melon/resize/48/quality/80/optimize
+43|3779134|씨스루 (Feat. 개코, Zion.T)|프라이머리|35682|2115647|Primary And The Messengers Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/15/647/2115647_500.jpg/melon/resize/48/quality/80/optimize
+44|3759927|사랑은 다 그런거래요|양파~다비치~HANNA|3854~236815~656371|2106226|Together|https://cdnimg.melon.co.kr/cm/album/images/021/06/226/2106226_500.jpg/melon/resize/48/quality/80/optimize
+45|3734735|LOVE DAY|양요섭~정은지|510565~644871|2093190|'A Cube' For Season # Green|https://cdnimg.melon.co.kr/cm/album/images/020/93/190/2093190_500.jpg/melon/resize/48/quality/80/optimize
+46|3771082|Oh! My God|걸스데이|482762|2111267|Everyday II|https://cdnimg.melon.co.kr/cm/album/images/021/11/267/2111267_500.jpg/melon/resize/48/quality/80/optimize
+47|3809307|조금씩 멀어지네요|이영현|10210|2124818|PLUS+|https://cdnimg.melon.co.kr/cm/album/images/021/24/818/2124818_500.jpg/melon/resize/48/quality/80/optimize
+48|3807294|Do It|써니힐|229494|2124563|아이러브 이태리 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/24/563/2124563_500.jpg/melon/resize/48/quality/80/optimize
+49|3813657|입장정리 (Feat. 최자, Simon D)|프라이머리|35682|2125281|Primary And The Messengers Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/25/281/2125281_500.jpg/melon/resize/48/quality/80/optimize
+50|3796596|알아요|양파~이보람 (씨야)~소연|3854~46751~473461|2123365|Together|https://cdnimg.melon.co.kr/cm/album/images/021/23/365/2123365_500.jpg/melon/resize/48/quality/80/optimize

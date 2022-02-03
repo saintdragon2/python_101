@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2921860|O-IWI-O|지오 (G.O)~낯선|468640~261429|1009854|O-IWI-O|https://cdnimg.melon.co.kr/cm/album/images/010/09/854/1009854_500.jpg/melon/resize/48/quality/80/optimize
+52|2788462|사랑을 믿어요|아이유~유승호|261143~489281|984452|사랑의 리퀘스트|https://cdnimg.melon.co.kr/cm/album/images/009/84/452/984452_500.jpg/melon/resize/48/quality/80/optimize
+53|2741566|고백하던 날|조권|434621|943653|고백하던 날|https://cdnimg.melon.co.kr/cm/album/images/009/43/653/943653_500.jpg/melon/resize/48/quality/80/optimize
+54|2916590|못난 남자야|구피|100023|1006956|Unplugged Soul|https://cdnimg.melon.co.kr/cm/album/images/010/06/956/1006956_500.jpg/melon/resize/48/quality/80/optimize
+55|2925863|히비예 히비요 (Hibiye Hibiyo)|문지은|242972|1013252|Hibiye Hibiyo|https://cdnimg.melon.co.kr/cm/album/images/010/13/252/1013252_500.jpg/melon/resize/48/quality/80/optimize
+56|2719683|마법소녀 (魔法少女)|오렌지 캬라멜|477632|924053|The First Mini Album|https://cdnimg.melon.co.kr/cm/album/images/009/24/053/924053_500.jpg/melon/resize/48/quality/80/optimize
+57|2782368|Game|보아 (BoA)|2165|978853|Hurricane Venus|https://cdnimg.melon.co.kr/cm/album/images/009/78/853/978853_500.jpg/melon/resize/48/quality/80/optimize
+58|2802840|바람필래|조성모|969|996759|성모 Meet Brave|https://cdnimg.melon.co.kr/cm/album/images/009/96/759/996759_500.jpg/melon/resize/48/quality/80/optimize
+59|2929086|기분 좋은 말|럼블피쉬|108951|1015956|기분 좋은 말|https://cdnimg.melon.co.kr/cm/album/images/010/15/956/1015956_500.jpg/melon/resize/48/quality/80/optimize
+60|2897374|사랑아 ('제빵왕 김탁구' 삽입곡)|이루|173424|999430|사랑아|https://cdnimg.melon.co.kr/cm/album/images/009/99/430/999430_500.jpg/melon/resize/48/quality/80/optimize
+61|2933662|이 나이 먹고 뭐했길래 (Feat. 정슬기)|미스에스|275266|1019852|Miss Independent|https://cdnimg.melon.co.kr/cm/album/images/010/19/852/1019852_500.jpg/melon/resize/48/quality/80/optimize
+62|2746858|삐리빠빠|나르샤 (Brown Eyed Girls)|261744|948853|Narsha|https://cdnimg.melon.co.kr/cm/album/images/009/48/853/948853_500.jpg/melon/resize/48/quality/80/optimize
+63|2759655|여자라서|아이유|261143|960252|로드 넘버원 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/009/60/252/960252_500.jpg/melon/resize/48/quality/80/optimize
+64|2773066|미치겠다 (With V.O.S)|먼데이 키즈 (Monday Kiz)~V.O.S|175155~108794|970759|Summer|https://cdnimg.melon.co.kr/cm/album/images/009/70/759/970759_500.jpg/melon/resize/48/quality/80/optimize
+65|2919019|나쁜남자 착한여자 (Feat. 허가윤 Of 4minute)|써니사이드|425521|1007663|나쁜남자 착한여자|https://cdnimg.melon.co.kr/cm/album/images/010/07/663/1007663_500.jpg/melon/resize/48/quality/80/optimize
+66|2896740|사랑해서 사랑해서|남격밴드|492882|999347|사랑해서 사랑해서|https://cdnimg.melon.co.kr/cm/album/images/009/99/347/999347_500.jpg/melon/resize/48/quality/80/optimize
+67|2804028|여우비|이선희|966|997281|내 여자친구는 구미호 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/009/97/281/997281_500.jpg/melon/resize/48/quality/80/optimize
+68|2783156|투게더|DJ DOC|100005|968252|풍류|https://cdnimg.melon.co.kr/cm/album/images/009/68/252/968252_500.jpg/melon/resize/48/quality/80/optimize
+69|2901993|샤랄라|신민아|107768|1000215|내 여자친구는 구미호 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/010/00/215/1000215_500.jpg/melon/resize/48/quality/80/optimize
+70|-1|FREE W Song|비|17671|1007462|W Song|https://cdnimg.melon.co.kr/cm/album/images/010/07/462/1007462_500.jpg/melon/resize/48/quality/80/optimize
+71|2757170|믿어줄래 (Full Melody Korean Ver.)|박재범|443420|957953|믿어줄래|https://cdnimg.melon.co.kr/cm/album/images/009/57/953/957953_500.jpg/melon/resize/48/quality/80/optimize
+72|2925548|사랑해 저 빛처럼 꺼지지 않게 (Duet. 드림걸스, C-Boy)|태사비애|229242|1012951|사랑해 저 빛처럼 꺼지지 않게|https://cdnimg.melon.co.kr/cm/album/images/010/12/951/1012951_500.jpg/melon/resize/48/quality/80/optimize
+73|2728462|19금 Love The Way You Lie (Feat. Rihanna)|Eminem|1986|931351|Recovery|https://cdnimg.melon.co.kr/cm/album/images/009/31/351/931351_500.jpg/melon/resize/48/quality/80/optimize
+74|2921653|전화 좀 받아줄래요|에스진|172890|1009652|전화 좀 받아줄래요|https://cdnimg.melon.co.kr/cm/album/images/010/09/652/1009652_500.jpg/melon/resize/48/quality/80/optimize
+75|2795074|...하다가|환희|1928|986573|H-hour|https://cdnimg.melon.co.kr/cm/album/images/009/86/573/986573_500.jpg/melon/resize/48/quality/80/optimize
+76|2930973|You And I|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+77|2931072|Nori For U|2PM|259822|1017260|Nori For U|https://cdnimg.melon.co.kr/cm/album/images/010/17/260/1017260_500.jpg/melon/resize/48/quality/80/optimize
+78|2921148|후회 왕|윤종신~김연우|437~6017|1009151|Monthly 2010 September|https://cdnimg.melon.co.kr/cm/album/images/010/09/151/1009151_500.jpg/melon/resize/48/quality/80/optimize
+79|2756660|DJ Got Us Fallin' In Love (feat. Pitbull)|Usher|4463|957452|Versus|https://cdnimg.melon.co.kr/cm2/album/images/009/57/452/957452_20191224121820_500.jpg/melon/resize/48/quality/80/optimize
+80|2910953|Say I Love You|포맨 (4MEN)|100176|1004461|You|https://cdnimg.melon.co.kr/cm/album/images/010/04/461/1004461_500.jpg/melon/resize/48/quality/80/optimize
+81|2783155|19금 오늘밤 (Feat. 아이비)|DJ DOC|100005|968252|풍류|https://cdnimg.melon.co.kr/cm/album/images/009/68/252/968252_500.jpg/melon/resize/48/quality/80/optimize
+82|2908275|둘이 하나 (Love Theme) (With 봉구 Of 길구봉구)|린|8530|1003254|내 여자친구는 구미호 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/010/03/254/1003254_500.jpg/melon/resize/48/quality/80/optimize
+83|2705407|Push Push (푸시 푸시)|씨스타|473181|911357|Push Push|https://cdnimg.melon.co.kr/cm/album/images/009/11/357/911357_500.jpg/melon/resize/48/quality/80/optimize
+84|2733251|너 때문이야 (Feat. Soulman)|Supreme Team|410162|935651|블루브랜드 Trauma Part 2|https://cdnimg.melon.co.kr/cm/album/images/009/35/651/935651_500.jpg/melon/resize/48/quality/80/optimize
+85|2738241|시간이 지나면|백지영|1118|940564|Timeless : The Best|https://cdnimg.melon.co.kr/cm/album/images/009/40/564/940564_500.jpg/melon/resize/48/quality/80/optimize
+86|2183857|Because Of You|Kelly Clarkson|36329|574752|Because Of You (Remixes)|https://cdnimg.melon.co.kr/cm/album/images/005/74/752/574752_500.jpg/melon/resize/48/quality/80/optimize
+87|1757006|Nothing Better|브라운 아이드 소울|107728|360077|The Wind, The Sea, The Rain|https://cdnimg.melon.co.kr/cm/album/images/003/60/077/360077_500.jpg/melon/resize/48/quality/80/optimize
+88|2745357|애인이 생기면 하고 싶은 일 (With 비)|지나|482640|947253|애인이 생기면 하고 싶은 일 (With 비)|https://cdnimg.melon.co.kr/cm/album/images/009/47/253/947253_500.jpg/melon/resize/48/quality/80/optimize
+89|2917123|너에게 (Dear Music)|김정은|9375|1007085|나는 전설이다 OST|https://cdnimg.melon.co.kr/cm/album/images/010/07/085/1007085_500.jpg/melon/resize/48/quality/80/optimize
+90|2682148|별이될께|디셈버|439021|890651|Tears In Heaven|https://cdnimg.melon.co.kr/cm/album/images/008/90/651/890651_500.jpg/melon/resize/48/quality/80/optimize
+91|2675871|사랑 빛|CNBLUE (씨엔블루)|450801|884652|Bluelove|https://cdnimg.melon.co.kr/cm/album/images/008/84/652/884652_500.jpg/melon/resize/48/quality/80/optimize
+92|2916885|Give Me One More (Feat.워레)|나몰라패밀리 (Namolla Family)|194009|1007065|Give Me One More|https://cdnimg.melon.co.kr/cm/album/images/010/07/065/1007065_500.jpg/melon/resize/48/quality/80/optimize
+93|2897689|Thank You|2PM|259822|999487|Thank You|https://cdnimg.melon.co.kr/cm/album/images/009/99/487/999487_500.jpg/melon/resize/48/quality/80/optimize
+94|2679548|Love|CNBLUE (씨엔블루)|450801|884652|Bluelove|https://cdnimg.melon.co.kr/cm/album/images/008/84/652/884652_500.jpg/melon/resize/48/quality/80/optimize
+95|2684572|2 Different Tears|원더걸스|217764|892654|2 Different Tears|https://cdnimg.melon.co.kr/cm/album/images/008/92/654/892654_500.jpg/melon/resize/48/quality/80/optimize
+96|2930974|Please Don't Go|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+97|2769458|고래|명콜드라이브|485823|967752|고래|https://cdnimg.melon.co.kr/cm/album/images/009/67/752/967752_500.jpg/melon/resize/48/quality/80/optimize
+98|2741360|미쳐가 (Feat. 엠블랙 미르)|간미연|1636|943459|미쳐가|https://cdnimg.melon.co.kr/cm/album/images/009/43/459/943459_500.jpg/melon/resize/48/quality/80/optimize
+99|2924662|독한여자 (Feat. 박시내, J Me)|My05|496102|1012152|독한여자|https://cdnimg.melon.co.kr/cm/album/images/010/12/152/1012152_500.jpg/melon/resize/48/quality/80/optimize
+100|2930975|Kiss|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize

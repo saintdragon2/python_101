@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4023744|지우개|알리 (ALi)|312266|2173934|지우개|https://cdnimg.melon.co.kr/cm/album/images/021/73/934/2173934_500.jpg/melon/resize/48/quality/80/optimize
+52|4070278|너는 사랑이다|서인영|26265|2179606|돈의 화신 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/021/79/606/2179606_500.jpg/melon/resize/48/quality/80/optimize
+53|4047415|뻔한 멜로디 (Feat. Crush)|Zion.T|537920|2176909|뻔한 멜로디|https://cdnimg.melon.co.kr/cm/album/images/021/76/909/2176909_500.jpg/melon/resize/48/quality/80/optimize
+54|4011608|I'm Sorry|CNBLUE (씨엔블루)|450801|2172462|Re:BLUE|https://cdnimg.melon.co.kr/cm/album/images/021/72/462/2172462_500.jpg/melon/resize/48/quality/80/optimize
+55|-1|Call Me Maybe|Carly Rae Jepsen|641311|2088869|Call Me Maybe|https://cdnimg.melon.co.kr/cm/album/images/020/88/869/2088869_500.jpg/melon/resize/48/quality/80/optimize
+56|4026975|너 땜에 못살아 (Feat. 버벌진트)|서인국|436700|2174359|Y.BIRD From Jellyfish With 서인국|https://cdnimg.melon.co.kr/cm/album/images/021/74/359/2174359_500.jpg/melon/resize/48/quality/80/optimize
+57|3910821|바람기억|나얼|3959|2150856|Principle Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/48/quality/80/optimize
+58|4071860|아마도|10CM|468244|2179811|직장의 신 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/79/811/2179811_500.jpg/melon/resize/48/quality/80/optimize
+59|2544954|My Angel (Feat. 윤후) (MBC '아빠! 어디가?' 윤후 자장가 삽입곡)|포맨 (4MEN)|100176|772051|The 3rd Generation (Special Album)|https://cdnimg.melon.co.kr/cm/album/images/007/72/051/772051_500.jpg/melon/resize/48/quality/80/optimize
+60|4050616|나쁜여자|레이디스 코드|718807|2177338|CODE#01 나쁜여자|https://cdnimg.melon.co.kr/cm/album/images/021/77/338/2177338_500.jpg/melon/resize/48/quality/80/optimize
+61|4058541|Bye Bye Love|2BIC(투빅)|643551|2178260|Back To Black|https://cdnimg.melon.co.kr/cm/album/images/021/78/260/2178260_500.jpg/melon/resize/48/quality/80/optimize
+62|4027796|오랜만이죠 (Feat. 신지수)|라디 (Ra. D)|8876|2174462|오랜만이죠|https://cdnimg.melon.co.kr/cm/album/images/021/74/462/2174462_500.jpg/melon/resize/48/quality/80/optimize
+63|4070314|봄에게 바라는 것|더 포지션|100177|2179608|봄에게 바라는 것|https://cdnimg.melon.co.kr/cm/album/images/021/79/608/2179608_500.jpg/melon/resize/48/quality/80/optimize
+64|3996508|혼자라고 생각말기 (슈퍼스타 K5 송희진 오디션 참가곡)|김보경 (NEON)|60829|2170926|학교 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/70/926/2170926_500.jpg/melon/resize/48/quality/80/optimize
+65|4001331|I Got A Boy|소녀시대 (GIRLS' GENERATION)|228069|2170744|I Got A Boy|https://cdnimg.melon.co.kr/cm/album/images/021/70/744/2170744_500.jpg/melon/resize/48/quality/80/optimize
+66|4062730|웃고 떠나 (With 주이, Mr. Tyfoon)|길미|14490|2178718|웃고 떠나|https://cdnimg.melon.co.kr/cm/album/images/021/78/718/2178718_500.jpg/melon/resize/48/quality/80/optimize
+67|4054905|그 뻔한 말|정인|35989|2177807|그니|https://cdnimg.melon.co.kr/cm/album/images/021/77/807/2177807_500.jpg/melon/resize/48/quality/80/optimize
+68|4038859|어떤가요|노을|105623|2175838|아이리스Ⅱ OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/75/838/2175838_500.jpg/melon/resize/48/quality/80/optimize
+69|3968836|되돌리다|이승기|58793|2167822|숲|https://cdnimg.melon.co.kr/cm/album/images/021/67/822/2167822_500.jpg/melon/resize/48/quality/80/optimize
+70|3948908|씨스루 (Feat. Zion.T, 개코 Of 다이나믹듀오)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+71|3170749|Officially Missing You|긱스 (Geeks)|525805|1196552|Officially Missing You|https://cdnimg.melon.co.kr/cm/album/images/011/96/552/1196552_500.jpg/melon/resize/48/quality/80/optimize
+72|4035640|될 대로 되라고 해 (느낌 So Good)|개코|3264|2175465|GAEKO ATTIC's 1st PIECE|https://cdnimg.melon.co.kr/cm/album/images/021/75/465/2175465_500.jpg/melon/resize/48/quality/80/optimize
+73|3953192|하지 못한 말|노을|105623|2165918|TIME FOR LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/65/918/2165918_500.jpg/melon/resize/48/quality/80/optimize
+74|4021392|그런 너 (Disturbance)|보아 (BoA)|2165|2173644|그런 너|https://cdnimg.melon.co.kr/cm/album/images/021/73/644/2173644_500.jpg/melon/resize/48/quality/80/optimize
+75|-1|꽃송이가|버스커 버스커|569233|2162866|슈퍼스타K 4|https://cdnimg.melon.co.kr/cm/album/images/021/62/866/2162866_500.jpg/melon/resize/48/quality/80/optimize
+76|4070586|지구인?|10CM|468244|2179639|지구인?|https://cdnimg.melon.co.kr/cm/album/images/021/79/639/2179639_500.jpg/melon/resize/48/quality/80/optimize
+77|3971021|카페인 (Feat. 용준형 Of BEAST)|양요섭|510565|2168099|The First Collage|https://cdnimg.melon.co.kr/cm/album/images/021/68/099/2168099_500.jpg/melon/resize/48/quality/80/optimize
+78|4074710|Fly To Love|루나플라이|698579|2180180|Fly To Love|https://cdnimg.melon.co.kr/cm/album/images/021/80/180/2180180_500.jpg/melon/resize/48/quality/80/optimize
+79|4004361|시작이 좋아 (Feat. 강민희 Of 미스에스)|버벌진트|6985|2171790|시작이 좋아|https://cdnimg.melon.co.kr/cm/album/images/021/71/790/2171790_500.jpg/melon/resize/48/quality/80/optimize
+80|4009751|Special Girl (Feat. Bumkey)|인피니트H|715422|2172287|FLY HIGH|https://cdnimg.melon.co.kr/cm/album/images/021/72/287/2172287_500.jpg/melon/resize/48/quality/80/optimize
+81|4019328|돌스 (Dolls)|나인뮤지스|465680|2173386|DOLLS|https://cdnimg.melon.co.kr/cm/album/images/021/73/386/2173386_500.jpg/melon/resize/48/quality/80/optimize
+82|4004021|강북멋쟁이|정형돈|39333|2171751|박명수의 어떤가요|https://cdnimg.melon.co.kr/cm/album/images/021/71/751/2171751_500.jpg/melon/resize/48/quality/80/optimize
+83|4063905|어렸나 봐 (Feat. 유성은)|김진표|1136|2178871|어렸나 봐|https://cdnimg.melon.co.kr/cm/album/images/021/78/871/2178871_500.jpg/melon/resize/48/quality/80/optimize
+84|4076053|Lay Back|케이윌|175139|2180379|The 3rd Album Part.2 'Love Blossom (러브블러썸)'|https://cdnimg.melon.co.kr/cm/album/images/021/80/379/2180379_500.jpg/melon/resize/48/quality/80/optimize
+85|4053414|너였나봐|아이비|171127|2177658|돈의 화신 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/77/658/2177658_500.jpg/melon/resize/48/quality/80/optimize
+86|4069137|날 닮은 너|이예준~이현주|718655~720320|2179463|보이스코리아2 Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/79/463/2179463_500.jpg/melon/resize/48/quality/80/optimize
+87|3832098|그댈 마주하는건 힘들어 (그마힘)|버스커 버스커|569233|2128229|버스커 버스커 1집 마무리|https://cdnimg.melon.co.kr/cm/album/images/021/28/229/2128229_500.jpg/melon/resize/48/quality/80/optimize
+88|3987723|매력있어|AKMU (악뮤)|712452|2170030|SBS K팝 스타 시즌2 '매력있어'|https://cdnimg.melon.co.kr/cm/album/images/021/70/030/2170030_500.jpg/melon/resize/48/quality/80/optimize
+89|4070418|희재|이수영|995|2179613|클래식: 더 리메이크 두번째|https://cdnimg.melon.co.kr/cm/album/images/021/79/613/2179613_500.jpg/melon/resize/48/quality/80/optimize
+90|3753305|외로움증폭장치 (브래드 드럼 한판 쉬기)|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+91|4066003|헤어지던 날|제아파이브|719888|2179124|Voulez-vous|https://cdnimg.melon.co.kr/cm/album/images/021/79/124/2179124_500.jpg/melon/resize/48/quality/80/optimize
+92|4044851|가수가 된 이유|이예준|718655|2176574|보이스코리아2 Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/76/574/2176574_500.jpg/melon/resize/48/quality/80/optimize
+93|4038811|Cosmic Girl|김태우|182430|2175829|T-LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/75/829/2175829_500.jpg/melon/resize/48/quality/80/optimize
+94|3929469|보여줄게|에일리(Ailee)|629831|2153251|Invitation|https://cdnimg.melon.co.kr/cm/album/images/021/53/251/2153251_500.jpg/melon/resize/48/quality/80/optimize
+95|4069087|매일하는 이별|아미|720317|2179457|매일하는 이별|https://cdnimg.melon.co.kr/cm/album/images/021/79/457/2179457_500.jpg/melon/resize/48/quality/80/optimize
+96|3929471|저녁 하늘|에일리(Ailee)|629831|2153251|Invitation|https://cdnimg.melon.co.kr/cm/album/images/021/53/251/2153251_500.jpg/melon/resize/48/quality/80/optimize
+97|4061511|아닌가봐|이영현|10210|2178558|야왕 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/021/78/558/2178558_500.jpg/melon/resize/48/quality/80/optimize
+98|3986978|Goodbye To Romance|써니힐|229494|2169918|Antique Romance|https://cdnimg.melon.co.kr/cm/album/images/021/69/918/2169918_500.jpg/melon/resize/48/quality/80/optimize
+99|4066080|그대라서|김연우|6017|2179131|나인 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/79/131/2179131_500.jpg/melon/resize/48/quality/80/optimize
+100|4074701|I'm In Love|김민지~박의성|720761~720763|2180177|보이스코리아2 Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/80/177/2180177_500.jpg/melon/resize/48/quality/80/optimize

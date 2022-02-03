@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3999213|이사람|효린~전효성~현아~니콜~나나 (애프터스쿨)|573812~672325~449401~408880~672334|2171212|2012 SBS 가요대전 The Color Of K-Pop 'Dazzling Red'|https://cdnimg.melon.co.kr/cm/album/images/021/71/212/2171212_500.jpg/melon/resize/48/quality/80/optimize
+52|3884575|I Need You|허각~지아|28801~227595|2145068|I Need You|https://cdnimg.melon.co.kr/cm/album/images/021/45/068/2145068_500.jpg/melon/resize/48/quality/80/optimize
+53|3995096|회상 (Feat. 주석)|김종국|1692|2170770|김종국 2012 Remake : 회상|https://cdnimg.melon.co.kr/cm/album/images/021/70/770/2170770_500.jpg/melon/resize/48/quality/80/optimize
+54|3948917|If You Love Me (Feat. 박재범)|NS 윤지|433746|2165341|If You Love Me (Feat. 박재범)|https://cdnimg.melon.co.kr/cm/album/images/021/65/341/2165341_500.jpg/melon/resize/48/quality/80/optimize
+55|3963395|눈물이 툭 (Feat. 박경 Of 블락비)|지아|227595|2167172|눈물이 툭|https://cdnimg.melon.co.kr/cm/album/images/021/67/172/2167172_500.jpg/melon/resize/48/quality/80/optimize
+56|3995016|서랍정리|빅마마|105803|2170757|서랍정리|https://cdnimg.melon.co.kr/cm/album/images/021/70/757/2170757_500.jpg/melon/resize/48/quality/80/optimize
+57|3922586|춥다 (Feat. 이하이)|에픽하이 (EPIK HIGH)|108356|2152351|99|https://cdnimg.melon.co.kr/cm/album/images/021/52/351/2152351_500.jpg/melon/resize/48/quality/80/optimize
+58|3982256|독약 (毒藥) (Feat. 해리 Of 다비치)|더 씨야|710965|2169298|LOVE U|https://cdnimg.melon.co.kr/cm/album/images/021/69/298/2169298_500.jpg/melon/resize/48/quality/80/optimize
+59|1589050|사랑이 다른 사랑으로 잊혀지네|하림|6706|346909|Whistle In A Maze|https://cdnimg.melon.co.kr/cm/album/images/003/46/909/346909_500.jpg/melon/resize/48/quality/80/optimize
+60|-1|Call Me Maybe|Carly Rae Jepsen|641311|2088869|Call Me Maybe|https://cdnimg.melon.co.kr/cm/album/images/020/88/869/2088869_500.jpg/melon/resize/48/quality/80/optimize
+61|3957743|응급실|정준영|25869|2166553|슈퍼스타K4 Top 12 Part.5|https://cdnimg.melon.co.kr/cm/album/images/021/66/553/2166553_500.jpg/melon/resize/48/quality/80/optimize
+62|3929471|저녁 하늘|에일리(Ailee)|629831|2153251|Invitation|https://cdnimg.melon.co.kr/cm/album/images/021/53/251/2153251_500.jpg/melon/resize/48/quality/80/optimize
+63|3990669|인연 (원곡가수 이선희)|소향|11752|2170303|'나는 가수다 2' 2012 가왕전 4강전|https://cdnimg.melon.co.kr/cm/album/images/021/70/303/2170303_500.jpg/melon/resize/48/quality/80/optimize
+64|3906377|크레용 (Crayon)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+65|3958817|있기 없기|달샤벳|514619|2166681|있기 없기|https://cdnimg.melon.co.kr/cm/album/images/021/66/681/2166681_500.jpg/melon/resize/48/quality/80/optimize
+66|3999205|Yesterday|정진운~L.Joe~이준~HOYA (호야)~이기광|557582~672545~514380~672264~458181|2171208|2012 SBS 가요대전 The Color Of K-Pop 'Dynamic Black'|https://cdnimg.melon.co.kr/cm/album/images/021/71/208/2171208_500.jpg/melon/resize/48/quality/80/optimize
+67|3980980|니 얼굴 떠올라 (Feat. 스윙스)|별|27033|2169144|보고싶다 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/69/144/2169144_500.jpg/melon/resize/48/quality/80/optimize
+68|3990947|From Mark|하동균|43806|2170323|Mark|https://cdnimg.melon.co.kr/cm/album/images/021/70/323/2170323_500.jpg/melon/resize/48/quality/80/optimize
+69|3903316|립스틱 (LIPSTICK)|오렌지 캬라멜|477632|2149881|립스틱 (LIPSTICK)|https://cdnimg.melon.co.kr/cm/album/images/021/49/881/2149881_500.jpg/melon/resize/48/quality/80/optimize
+70|3914860|사랑은 눈꽃처럼|XIA (준수)|52607|2151384|세상 어디에도 없는 착한남자 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/51/384/2151384_500.jpg/melon/resize/48/quality/80/optimize
+71|3968837|숲|이승기|58793|2167822|숲|https://cdnimg.melon.co.kr/cm/album/images/021/67/822/2167822_500.jpg/melon/resize/48/quality/80/optimize
+72|3953475|눈물이 주르륵|손담비|226582|2165966|눈물이 주르륵|https://cdnimg.melon.co.kr/cm/album/images/021/65/966/2165966_500.jpg/melon/resize/48/quality/80/optimize
+73|3906383|Missing You (Feat. 김윤아 Of 자우림)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+74|3971070|쩔어|뚱스|475402|2168105|쩔어|https://cdnimg.melon.co.kr/cm/album/images/021/68/105/2168105_500.jpg/melon/resize/48/quality/80/optimize
+75|3996819|One Day More|Les Miserables Cast|714818|2170975|레미제라블 OST|https://cdnimg.melon.co.kr/cm/album/images/021/70/975/2170975_500.jpg/melon/resize/48/quality/80/optimize
+76|3987108|오늘 뭐해?|헬로비너스|668491|2169935|오늘 뭐해?|https://cdnimg.melon.co.kr/cm/album/images/021/69/935/2169935_500.jpg/melon/resize/48/quality/80/optimize
+77|3939070|나를 잊지마요|걸스데이|482762|2159947|Girl's Day Party #5|https://cdnimg.melon.co.kr/cm/album/images/021/59/947/2159947_500.jpg/melon/resize/48/quality/80/optimize
+78|3940613|독 (Feat. E-Sens Of 슈프림팀)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+79|3986045|Young Girls|Bruno Mars|495811|2169778|Unorthodox Jukebox|https://cdnimg.melon.co.kr/cm/album/images/021/69/778/2169778_500.jpg/melon/resize/48/quality/80/optimize
+80|3987106|사랑하면 안돼요|이석훈|205858|2169934|보고싶다 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/69/934/2169934_500.jpg/melon/resize/48/quality/80/optimize
+81|3987104|우리는 없다|정엽|265067|2169933|Part II : 우리는 없다|https://cdnimg.melon.co.kr/cm/album/images/021/69/933/2169933_500.jpg/melon/resize/48/quality/80/optimize
+82|3962253|멀어질까봐|C-CLOWN|685624|2167016|Young Love|https://cdnimg.melon.co.kr/cm/album/images/021/67/016/2167016_500.jpg/melon/resize/48/quality/80/optimize
+83|3997781|천국이니까 (Winter Rain)|엠블랙|436980|2171073|드라마의 제왕 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/71/073/2171073_500.jpg/melon/resize/48/quality/80/optimize
+84|3968838|사랑한다는 말|이승기|58793|2167822|숲|https://cdnimg.melon.co.kr/cm/album/images/021/67/822/2167822_500.jpg/melon/resize/48/quality/80/optimize
+85|3853978|강남스타일|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+86|3971177|Tears Always Win|Alicia Keys|5917|2168116|Girl On Fire|https://cdnimg.melon.co.kr/cm/album/images/021/68/116/2168116_500.jpg/melon/resize/48/quality/80/optimize
+87|3964142|사랑아|The One (더원)|160816|2167286|'나는 가수다 2' 2012 가왕전 개막제|https://cdnimg.melon.co.kr/cm/album/images/021/67/286/2167286_500.jpg/melon/resize/48/quality/80/optimize
+88|3981059|Happy Brand New Year|버벌진트~팬텀~애즈원~미스에스~스윙스~시진~범키|6985~588431~100093~275266~236970~402940~623851|2169154|Brand New Year|https://cdnimg.melon.co.kr/cm/album/images/021/69/154/2169154_500.jpg/melon/resize/48/quality/80/optimize
+89|3972110|깊은밤 슬픈노래|DK|524801|2168233|깊은밤 슬픈노래|https://cdnimg.melon.co.kr/cm/album/images/021/68/233/2168233_500.jpg/melon/resize/48/quality/80/optimize
+90|3997737|인어공주|강지영~보라~한선화~허가윤 (4minute)~리지 (오렌지 캬라멜)|512342~668711~672329~454903~539120|2171068|2012 SBS 가요대전 The Color Of K-Pop 'Mystic White'|https://cdnimg.melon.co.kr/cm/album/images/021/71/068/2171068_500.jpg/melon/resize/48/quality/80/optimize
+91|3996324|썸데이 (원곡가수 김동희)|The One (더원)|160816|2170909|'나는 가수다 2' 2012 가왕전 세미파이널|https://cdnimg.melon.co.kr/cm/album/images/021/70/909/2170909_500.jpg/melon/resize/48/quality/80/optimize
+92|3893934|SEXY LOVE|티아라|412000|2148527|MIRAGE|https://cdnimg.melon.co.kr/cm/album/images/021/48/527/2148527_500.jpg/melon/resize/48/quality/80/optimize
+93|3980118|함께라면 (Feat. 김진표) (JTBC 드라마 '우리 결혼할 수 있을까' 삽입)|클래지콰이|107725|2169090|함께라면 (Can't Go On My Own)|https://cdnimg.melon.co.kr/cm/album/images/021/69/090/2169090_500.jpg/melon/resize/48/quality/80/optimize
+94|3957639|걸어 본다|B1A4|535440|2166544|IN THE WIND|https://cdnimg.melon.co.kr/cm/album/images/021/66/544/2166544_500.jpg/melon/resize/48/quality/80/optimize
+95|3987009|난리good!!! (AIR)|개코~최자~사이먼 도미닉~프라이머리|3264~3262~428847~35682|2169924|난리good!!! (AIR)|https://cdnimg.melon.co.kr/cm/album/images/021/69/924/2169924_500.jpg/melon/resize/48/quality/80/optimize
+96|3996321|슬픈 인연 (원곡가수 나미)|이은미|1055|2170909|'나는 가수다 2' 2012 가왕전 세미파이널|https://cdnimg.melon.co.kr/cm/album/images/021/70/909/2170909_500.jpg/melon/resize/48/quality/80/optimize
+97|3053259|미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+98|3992531|눈물 같은 사람|최강창민 (MAX CHANGMIN)|52604|2170459|전우치 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/70/459/2170459_500.jpg/melon/resize/48/quality/80/optimize
+99|3966937|사랑해 봤니|이정|39256|2167625|Thank You|https://cdnimg.melon.co.kr/cm/album/images/021/67/625/2167625_500.jpg/melon/resize/48/quality/80/optimize
+100|4000627|아프지마 (Feat. 현아 Of 4Minute)|이루|173424|2171345|아프지마|https://cdnimg.melon.co.kr/cm/album/images/021/71/345/2171345_500.jpg/melon/resize/48/quality/80/optimize

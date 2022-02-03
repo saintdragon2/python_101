@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3088249|Someday|아이유|261143|1124351|드림하이 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/24/351/1124351_500.jpg/melon/resize/48/quality/80/optimize
+2|3111583|Black & White|지나|482640|1143954|Black & White|https://cdnimg.melon.co.kr/cm/album/images/011/43/954/1143954_500.jpg/melon/resize/48/quality/80/optimize
+3|3110565|톡톡 (Tok Tok) (Feat. SOYA)|마이티 마우스|239366|1143054|Mighty Fresh|https://cdnimg.melon.co.kr/cm/album/images/011/43/054/1143054_500.jpg/melon/resize/48/quality/80/optimize
+4|3089448|샤이보이|시크릿|435121|1125351|샤이보이|https://cdnimg.melon.co.kr/cm/album/images/011/25/351/1125351_500.jpg/melon/resize/48/quality/80/optimize
+5|3143550|나만 몰랐던 이야기|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+6|3132048|사랑하면 안될까|이창민~정진운|443620~557582|1163151|드림하이 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/011/63/151/1163151_500.jpg/melon/resize/48/quality/80/optimize
+7|3106066|처음 사랑하는 연인들을 위해 (반말송)|정용화 (CNBLUE)|20908|1139654|처음 사랑하는 연인들을 위해 (부제: 반말송)|https://cdnimg.melon.co.kr/cm/album/images/011/39/654/1139654_500.jpg/melon/resize/48/quality/80/optimize
+8|3051244|좋은 날|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+9|3128548|달라|김범수~태연 (TAEYEON)|6502~236797|1159751|달라|https://cdnimg.melon.co.kr/cm/album/images/011/59/751/1159751_500.jpg/melon/resize/48/quality/80/optimize
+10|3116963|기가 차 (Feat. 슈프림팀 ＆ 씨스타)|케이윌|175139|1148952|기가 차|https://cdnimg.melon.co.kr/cm/album/images/011/48/952/1148952_500.jpg/melon/resize/48/quality/80/optimize
+11|3110148|잘 된 일이야|나비|242868|1142651|Hello|https://cdnimg.melon.co.kr/cm/album/images/011/42/651/1142651_500.jpg/melon/resize/48/quality/80/optimize
+12|3138749|내꺼중에 최고|이현|429480|1168952|내꺼중에 최고|https://cdnimg.melon.co.kr/cm/album/images/011/68/952/1168952_500.jpg/melon/resize/48/quality/80/optimize
+13|3107348|어쩌라고|승리|403841|1140251|승리 1st Mini Album V.V.I.P|https://cdnimg.melon.co.kr/cm/album/images/011/40/251/1140251_500.jpg/melon/resize/48/quality/80/optimize
+14|3118780|하루하루|김보경 (NEON)|60829|1150353|The First Day|https://cdnimg.melon.co.kr/cm/album/images/011/50/353/1150353_500.jpg/melon/resize/48/quality/80/optimize
+15|3065250|Oh Yeah (Feat. 박봄)|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+16|3065249|High High|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+17|3096032|그남자|현빈|57798|1130759|시크릿 가든 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/011/30/759/1130759_500.jpg/melon/resize/48/quality/80/optimize
+18|3087888|Supa Dupa Diva|달샤벳|514619|1123990|Supa Dupa Diva|https://cdnimg.melon.co.kr/cm/album/images/011/23/990/1123990_500.jpg/melon/resize/48/quality/80/optimize
+19|3129348|못 잊은 거죠 (If)|박진영|1130|1160451|드림하이 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/011/60/451/1160451_500.jpg/melon/resize/48/quality/80/optimize
+20|3089348|왜 (Keep Your Head Down)|동방신기 (TVXQ!)|108316|1125251|왜 (Keep Your Head Down)|https://cdnimg.melon.co.kr/cm/album/images/011/25/251/1125251_500.jpg/melon/resize/48/quality/80/optimize
+21|3106048|눈물자리|오스카|517301|1139651|시크릿 가든 오스카 싱글 OST|https://cdnimg.melon.co.kr/cm/album/images/011/39/651/1139651_500.jpg/melon/resize/48/quality/80/optimize
+22|3139048|돌아와 나쁜 너|가희|520900|1169351|돌아와 나쁜 너|https://cdnimg.melon.co.kr/cm/album/images/011/69/351/1169351_500.jpg/melon/resize/48/quality/80/optimize
+23|3132763|눈물을 움켜쥐고|장혜진~먼데이 키즈 (Monday Kiz)~시몬|5675~175155~520201|1163755|보이스원|https://cdnimg.melon.co.kr/cm/album/images/011/63/755/1163755_500.jpg/melon/resize/48/quality/80/optimize
+24|3110581|Back It Up|쥬얼리|101487|1143051|Back It Up|https://cdnimg.melon.co.kr/cm/album/images/011/43/051/1143051_500.jpg/melon/resize/48/quality/80/optimize
+25|3065251|19금 집에 가지마|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+26|3098048|Maybe|선예 (Wonder Girls)|227506|1132551|드림하이 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/011/32/551/1132551_500.jpg/melon/resize/48/quality/80/optimize
+27|3118474|내겐 너무 멋진 그대|씨야|181679|1150052|See You Again|https://cdnimg.melon.co.kr/cm/album/images/011/50/052/1150052_500.jpg/melon/resize/48/quality/80/optimize
+28|3099149|Stay|엠블랙|436980|1125352|BLAQ Style|https://cdnimg.melon.co.kr/cm/album/images/011/25/352/1125352_500.jpg/melon/resize/48/quality/80/optimize
+29|3135248|헤어진 두사람 (Feat. 태인)|나몰라패밀리JW|520600|1165851|헤어진 두사람|https://cdnimg.melon.co.kr/cm/album/images/011/65/851/1165851_500.jpg/melon/resize/48/quality/80/optimize
+30|3037051|니까짓게|씨스타|473181|1085053|니까짓게|https://cdnimg.melon.co.kr/cm/album/images/010/85/053/1085053_500.jpg/melon/resize/48/quality/80/optimize
+31|3136448|뷰티풀 걸 (Feat. 일렉트로 보이즈)|티아라~용감한 형제|412000~426860|1166951|Beautiful Girl|https://cdnimg.melon.co.kr/cm/album/images/011/66/951/1166951_500.jpg/melon/resize/48/quality/80/optimize
+32|3145655|잔혹동화|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+33|3089992|나쁜 남자|JOO|232696|1125854|Heartmade|https://cdnimg.melon.co.kr/cm/album/images/011/25/854/1125854_500.jpg/melon/resize/48/quality/80/optimize
+34|3140874|Dreaming|김수현|8433|1170953|드림하이 OST|https://cdnimg.melon.co.kr/cm/album/images/011/70/953/1170953_500.jpg/melon/resize/48/quality/80/optimize
+35|3140867|My Valentine (Feat. 박진영)|택연~닉쿤 (2PM)|514740~521583|1170953|드림하이 OST|https://cdnimg.melon.co.kr/cm/album/images/011/70/953/1170953_500.jpg/melon/resize/48/quality/80/optimize
+36|3137648|여자를 울렸으니까|신지|5907|1167951|여자를 울렸으니까|https://cdnimg.melon.co.kr/cm/album/images/011/67/951/1167951_500.jpg/melon/resize/48/quality/80/optimize
+37|3136652|같이 있어줘|박화요비~태하|2017~7047|1167152|같이 있어줘|https://cdnimg.melon.co.kr/cm/album/images/011/67/152/1167152_500.jpg/melon/resize/48/quality/80/optimize
+38|3114672|겨울아이|수지 (SUZY)|514741|1146753|드림하이 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/011/46/753/1146753_500.jpg/melon/resize/48/quality/80/optimize
+39|-1|어떻게 니가|배다해|252174|1166051|어떻게 니가|https://cdnimg.melon.co.kr/cm/album/images/011/66/051/1166051_500.jpg/melon/resize/48/quality/80/optimize
+40|3101348|라떼 한잔 (Feat.길미)|가비엔제이|174997|1135451|라떼 한잔|https://cdnimg.melon.co.kr/cm/album/images/011/35/451/1135451_500.jpg/melon/resize/48/quality/80/optimize
+41|3053253|이게 아닌데|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+42|3059926|사랑해요 (I Love You)|태연 (TAEYEON)|236797|1100004|'사랑해요' 아테나 OST|https://cdnimg.melon.co.kr/cm/album/images/011/00/004/1100004_500.jpg/melon/resize/48/quality/80/optimize
+43|3132748|밤하늘의 별을 3 (Feat. 김하늘)|양정승|3493|1163751|밤하늘의 별을 3|https://cdnimg.melon.co.kr/cm/album/images/011/63/751/1163751_500.jpg/melon/resize/48/quality/80/optimize
+44|3059678|사랑이 고프다 (I Promise You)|박효신|1191|1099988|Gift (Part.2)|https://cdnimg.melon.co.kr/cm/album/images/010/99/988/1099988_500.jpg/melon/resize/48/quality/80/optimize
+45|3125448|그때 난 사는거야|이해리 (다비치)|259769|1156851|그때 난 사는거야|https://cdnimg.melon.co.kr/cm/album/images/011/56/851/1156851_500.jpg/melon/resize/48/quality/80/optimize
+46|3116348|V.V.I.P|승리|403841|1140251|승리 1st Mini Album V.V.I.P|https://cdnimg.melon.co.kr/cm/album/images/011/40/251/1140251_500.jpg/melon/resize/48/quality/80/optimize
+47|3141291|You Are My Everything|플라워|100391|1171355|Everything Inside Of Me|https://cdnimg.melon.co.kr/cm/album/images/011/71/355/1171355_500.jpg/melon/resize/48/quality/80/optimize
+48|-1|Born This Way|Lady Gaga|253688|1169455|Born This Way|https://cdnimg.melon.co.kr/cm/album/images/011/69/455/1169455_500.jpg/melon/resize/48/quality/80/optimize
+49|3065253|19금 뻑이가요|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+50|3079872|너는 나의 봄이다|성시경|3305|1117461|시크릿 가든 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/011/17/461/1117461_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|5495681|Angel|타이거JK, 윤미래, 비지 (Bizzy)|716279|2294107|Angel|https://cdnimg.melon.co.kr/cm/album/images/022/94/107/2294107_500.jpg/melon/resize/48/quality/80/optimize
+52|5612284|안녕 (Hi~)|러블리즈|789331|2306957|Hi~|https://cdnimg.melon.co.kr/cm/album/images/023/06/957/2306957_500.jpg/melon/resize/48/quality/80/optimize
+53|5465008|세 사람 (With 성시경)|토이|100014|2291053|Da Capo|https://cdnimg.melon.co.kr/cm/album/images/022/91/053/2291053_500.jpg/melon/resize/48/quality/80/optimize
+54|5600224|표적|신화|100078|2305495|WE|https://cdnimg.melon.co.kr/cm/album/images/023/05/495/2305495_500.jpg/melon/resize/48/quality/80/optimize
+55|5419682|19금 BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO, BOBBY)|에픽하이 (EPIK HIGH)|108356|2286432|신발장|https://cdnimg.melon.co.kr/cm/album/images/022/86/432/2286432_500.jpg/melon/resize/48/quality/80/optimize
+56|5482064|바라보기|엠씨더맥스 (M.C the MAX)|161636|2292762|미녀의 탄생 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/92/762/2292762_500.jpg/melon/resize/48/quality/80/optimize
+57|5627960|끝난 사이|별|27033|2309144|끝난 사이|https://cdnimg.melon.co.kr/cm/album/images/023/09/144/2309144_500.jpg/melon/resize/48/quality/80/optimize
+58|5638507|Bawling|프라이머리~오혁|35682~757777|2310605|Lucky You!|https://cdnimg.melon.co.kr/cm/album/images/023/10/605/2310605_500.jpg/melon/resize/48/quality/80/optimize
+59|5442687|내 생애 가장 행복한 시간 (Feat. 허각)|MC몽|11538|2288687|MISS ME OR DISS ME|https://cdnimg.melon.co.kr/cm/album/images/022/88/687/2288687_500.jpg/melon/resize/48/quality/80/optimize
+60|4433490|썸 (Feat. 릴보이 Of 긱스)|소유 (SOYOU)~정기고|490981~304967|2230890|썸|https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/48/quality/80/optimize
+61|5627513|왕복 30분 (Feat. 신지수)|기리보이|585492|2309059|성인식|https://cdnimg.melon.co.kr/cm/album/images/023/09/059/2309059_500.jpg/melon/resize/48/quality/80/optimize
+62|5567464|Because Of You|백지영|1118|2301948|하이드 지킬, 나 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/023/01/948/2301948_500.jpg/melon/resize/48/quality/80/optimize
+63|5493729|싱숭생숭 (SsSs)|다이나믹 듀오~박정현|108358~1099|2293914|싱숭생숭 (SsSs)|https://cdnimg.melon.co.kr/cm/album/images/022/93/914/2293914_500.jpg/melon/resize/48/quality/80/optimize
+64|4646573|너의 의미 (Feat. 김창완)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+65|-1|Maps|Maroon 5|107721|2261073|Maps|https://cdnimg.melon.co.kr/cm/album/images/022/61/073/2261073_500.jpg/melon/resize/48/quality/80/optimize
+66|5632934|방뛰기방방|윤미래, 타이거JK, Bizzy (MFBTY)|716279|2309887|WondaLand|https://cdnimg.melon.co.kr/cm/album/images/023/09/887/2309887_500.jpg/melon/resize/48/quality/80/optimize
+67|3753309|꽃송이가|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+68|5593327|이별공식|VIXX (빅스)|672560|2304638|Boys' Record|https://cdnimg.melon.co.kr/cm/album/images/023/04/638/2304638_500.jpg/melon/resize/48/quality/80/optimize
+69|4864206|묘해, 너와|어쿠스틱 콜라보|192827|2279896|연애의 발견 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/79/896/2279896_500.jpg/melon/resize/48/quality/80/optimize
+70|5610344|권태중독 (Feat. 선우정아)|MC몽|11538|2306686|SONG FOR YOU|https://cdnimg.melon.co.kr/cm/album/images/023/06/686/2306686_500.jpg/melon/resize/48/quality/80/optimize
+71|5599020|오직 너만|김범수|6502|2305315|하이드 지킬, 나 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/05/315/2305315_500.jpg/melon/resize/48/quality/80/optimize
+72|5413256|12시 30분|비스트|436981|2285785|TIME|https://cdnimg.melon.co.kr/cm/album/images/022/85/785/2285785_500.jpg/melon/resize/48/quality/80/optimize
+73|4806686|공허해|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+74|4681146|한여름밤의 꿀|San E~레이나 (Raina)|402526~672337|2260223|San E, 레이나 Project Single '한여름밤의 꿀'|https://cdnimg.melon.co.kr/cm/album/images/022/60/223/2260223_500.jpg/melon/resize/48/quality/80/optimize
+75|5582180|밤샜지 (Prod. By ZICO)|육지담|781321|2303452|언프리티 랩스타 Track 1|https://cdnimg.melon.co.kr/cm/album/images/023/03/452/2303452_500.jpg/melon/resize/48/quality/80/optimize
+76|5394265|손대지마|에일리(Ailee)|629831|2283510|Magazine|https://cdnimg.melon.co.kr/cm/album/images/022/83/510/2283510_500.jpg/melon/resize/48/quality/80/optimize
+77|5552430|드라마 (DRAMA)|나인뮤지스|465680|2300431|DRAMA|https://cdnimg.melon.co.kr/cm/album/images/023/00/431/2300431_500.jpg/melon/resize/48/quality/80/optimize
+78|5442688|내가 그리웠니 (Feat. 진실 Of Mad Soul Child)|MC몽|11538|2288687|MISS ME OR DISS ME|https://cdnimg.melon.co.kr/cm/album/images/022/88/687/2288687_500.jpg/melon/resize/48/quality/80/optimize
+79|5386171|너무 보고싶어|어쿠스틱 콜라보|192827|2282532|연애의 발견 OST Part 6|https://cdnimg.melon.co.kr/cm/album/images/022/82/532/2282532_500.jpg/melon/resize/48/quality/80/optimize
+80|5462666|지워 (Feat. 아이언)|효린~주영|573812~511108|2290866|지워|https://cdnimg.melon.co.kr/cm/album/images/022/90/866/2290866_500.jpg/melon/resize/48/quality/80/optimize
+81|4854588|연결고리#힙합|BOBBY|742763|2278895|쇼미더머니3 Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/78/895/2278895_500.jpg/melon/resize/48/quality/80/optimize
+82|5612295|꽃 (Feat. 타블로 Of 에픽하이)|XIA (준수)|52607|2306958|Flower|https://cdnimg.melon.co.kr/cm/album/images/023/06/958/2306958_500.jpg/melon/resize/48/quality/80/optimize
+83|5622592|잊는다는 게|윤현상|646177|2308345|파랑:WAVE|https://cdnimg.melon.co.kr/cm/album/images/023/08/345/2308345_500.jpg/melon/resize/48/quality/80/optimize
+84|3360476|별 짓 다해봤는데|알리 (ALi)|312266|1244754|별 짓 다해봤는데|https://cdnimg.melon.co.kr/cm/album/images/012/44/754/1244754_500.jpg/melon/resize/48/quality/80/optimize
+85|5450271|산다는 건 (Cheer Up)|홍진영|418700|2289464|인생노트 (LIFE NOTE)|https://cdnimg.melon.co.kr/cm/album/images/022/89/464/2289464_500.jpg/melon/resize/48/quality/80/optimize
+86|4091105|봄봄봄|로이킴|699632|2182026|봄봄봄|https://cdnimg.melon.co.kr/cm/album/images/021/82/026/2182026_500.jpg/melon/resize/48/quality/80/optimize
+87|5638551|Listen (Feat. 로꼬)|신지수|569172|2310607|Listen|https://cdnimg.melon.co.kr/cm/album/images/023/10/607/2310607_500.jpg/melon/resize/48/quality/80/optimize
+88|5632927|Hello Happy (Feat. 유희열)|윤미래, 타이거JK, Bizzy (MFBTY)|716279|2309887|WondaLand|https://cdnimg.melon.co.kr/cm/album/images/023/09/887/2309887_500.jpg/melon/resize/48/quality/80/optimize
+89|665226|귀로|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+90|5610945|우린 알아|양다일~정키|695994~570731|2306771|우린 알아|https://cdnimg.melon.co.kr/cm/album/images/023/06/771/2306771_500.jpg/melon/resize/48/quality/80/optimize
+91|5421427|헤픈엔딩 (Feat. 조원선 Of 롤러코스터)|에픽하이 (EPIK HIGH)|108356|2286432|신발장|https://cdnimg.melon.co.kr/cm/album/images/022/86/432/2286432_500.jpg/melon/resize/48/quality/80/optimize
+92|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+93|5639932|그 남자 작곡|케이윌|175139|2310810|[RE:]|https://cdnimg.melon.co.kr/cm/album/images/023/10/810/2310810_500.jpg/melon/resize/48/quality/80/optimize
+94|5625755|19금 T4SA (Prod. by MC메타)|지민~MC Meta~넋업샨|687001~6315~23259|2308786|언프리티 랩스타 Track 4|https://cdnimg.melon.co.kr/cm/album/images/023/08/786/2308786_500.jpg/melon/resize/48/quality/80/optimize
+95|5634954|Wifey (Feat. MC몽)|NS 윤지|433746|2310146|Sincerely,|https://cdnimg.melon.co.kr/cm/album/images/023/10/146/2310146_500.jpg/melon/resize/48/quality/80/optimize
+96|4076051|Love Blossom (러브블러썸)|케이윌|175139|2180379|The 3rd Album Part.2 'Love Blossom (러브블러썸)'|https://cdnimg.melon.co.kr/cm/album/images/021/80/379/2180379_500.jpg/melon/resize/48/quality/80/optimize
+97|5644636|다른 남자 말고 너|미쓰에이|481481|2311419|Colors|https://cdnimg.melon.co.kr/cm/album/images/023/11/419/2311419_500.jpg/melon/resize/48/quality/80/optimize
+98|5439395|언제쯤이면 (Duet.아이유)|윤현상|646177|2288324|피아노포르테 (PIANOFORTE)|https://cdnimg.melon.co.kr/cm/album/images/022/88/324/2288324_500.jpg/melon/resize/48/quality/80/optimize
+99|5644363|19금 Multillionaire|Dok2|314367|2311361|Multillionaire|https://cdnimg.melon.co.kr/cm/album/images/023/11/361/2311361_500.jpg/melon/resize/48/quality/80/optimize
+100|5582684|못된 여자 (Feat. Dok2)|니엘|672543|2303509|NIEL 1ST SOLO 'oNIELy'|https://cdnimg.melon.co.kr/cm/album/images/023/03/509/2303509_500.jpg/melon/resize/48/quality/80/optimize

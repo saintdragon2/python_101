@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|7877918|U R|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+52|5820368|Lion Heart|소녀시대 (GIRLS' GENERATION)|228069|2335204|Lion Heart - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/023/35/204/2335204_500.jpg/melon/resize/48/quality/80/optimize
+53|7863752|커피 (Prod. by G-Park 박명수)|유재환~김예림 (Lim Kim)|680551~643851|2641732|커피 (Prod. by G-Park 박명수)|https://cdnimg.melon.co.kr/cm/album/images/026/41/732/2641732_500.jpg/melon/resize/48/quality/80/optimize
+54|7912749|아마도 그건|Crush~로꼬|674710~688432|2648529|투유 프로젝트 - 슈가맨 Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/48/529/2648529_500.jpg/melon/resize/48/quality/80/optimize
+55|5719286|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+56|7924215|사슬 (Chained Up)|VIXX (빅스)|672560|2649810|Chained Up|https://cdnimg.melon.co.kr/cm/album/images/026/49/810/2649810_500.jpg/melon/resize/48/quality/80/optimize
+57|5748406|심쿵해 (Heart Attack)|AOA|686920|2325321|Heart Attack|https://cdnimg.melon.co.kr/cm/album/images/023/25/321/2325321_500.jpg/melon/resize/48/quality/80/optimize
+58|7868989|너나 잘해|에일리(Ailee)|629831|2642436|VIVID|https://cdnimg.melon.co.kr/cm/album/images/026/42/436/2642436_500.jpg/melon/resize/48/quality/80/optimize
+59|5704397|이럴거면 그러지말지 (Feat. Young K)|백아연|646173|2319508|이럴거면 그러지말지|https://cdnimg.melon.co.kr/cm/album/images/023/19/508/2319508_500.jpg/melon/resize/48/quality/80/optimize
+60|7886210|밀리언조각 (A Million Pieces)|규현 (KYUHYUN)|205880|2645019|다시, 가을이 오면 - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/45/019/2645019_500.jpg/melon/resize/48/quality/80/optimize
+61|7942949|사랑은 가슴이 시킨다 Part.3|버즈|160091|2652151|사랑은 가슴이 시킨다 Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/52/151/2652151_500.jpg/melon/resize/48/quality/80/optimize
+62|4857981|Sugar|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+63|5668985|그 남잔 말야|엠씨더맥스 (M.C the MAX)|161636|2314734|냄새를 보는 소녀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/14/734/2314734_500.jpg/melon/resize/48/quality/80/optimize
+64|5804040|19금 거북선 (Feat. 팔로알토)|Ja Mezz~Andup (앤덥)~MINO (송민호)|743761~340667~742773|2332701|쇼미더머니 4 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/023/32/701/2332701_500.jpg/melon/resize/48/quality/80/optimize
+65|7948056|고칠게|진원|243303|2652803|고칠게 - 다시부르기|https://cdnimg.melon.co.kr/cm/album/images/026/52/803/2652803_500.jpg/melon/resize/48/quality/80/optimize
+66|7896510|Red Queen (Feat. Zion.T)|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+67|7943657|세상이 완벽했다면 (Feat. 태연 of 소녀시대)|버벌진트|6985|2652215|GO HARD Part 1 : 양가치|https://cdnimg.melon.co.kr/cm/album/images/026/52/215/2652215_500.jpg/melon/resize/48/quality/80/optimize
+68|7935701|눈치 없이 (INSENSIBLE)|이홍기 (FT아일랜드)|42554|2651380|FM302|https://cdnimg.melon.co.kr/cm/album/images/026/51/380/2651380_500.jpg/melon/resize/48/quality/80/optimize
+69|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+70|7881449|밤을 새 (Feat. 베이식)|허각|28801|2644208|밤을 새|https://cdnimg.melon.co.kr/cm/album/images/026/44/208/2644208_500.jpg/melon/resize/48/quality/80/optimize
+71|7931724|19금 야유회 (Feat. 지코(ZICO))|다이나믹 듀오|108358|2650829|GRAND CARNIVAL|https://cdnimg.melon.co.kr/cm/album/images/026/50/829/2650829_500.jpg/melon/resize/48/quality/80/optimize
+72|5743804|음오아예 (Um Oh Ah Yeh)|마마무 (Mamamoo)|750053|2324685|Pink Funky|https://cdnimg.melon.co.kr/cm/album/images/023/24/685/2324685_500.jpg/melon/resize/48/quality/80/optimize
+73|7943054|그리워합니다|허각|28801|2652160|겨울동화|https://cdnimg.melon.co.kr/cm/album/images/026/52/160/2652160_500.jpg/melon/resize/48/quality/80/optimize
+74|5807274|우리 사랑하지 말아요|BIGBANG|198094|2333193|E|https://cdnimg.melon.co.kr/cm/album/images/023/33/193/2333193_500.jpg/melon/resize/48/quality/80/optimize
+75|7931728|19금 먹고하고자고|다이나믹 듀오|108358|2650829|GRAND CARNIVAL|https://cdnimg.melon.co.kr/cm/album/images/026/50/829/2650829_500.jpg/melon/resize/48/quality/80/optimize
+76|7866804|내가 그댈|린~하동균~이정|8530~43806~39256|2642181|심폐소생송 Special Album Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/42/181/2642181_500.jpg/melon/resize/48/quality/80/optimize
+77|4743560|Lost Stars|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+78|5771304|Oasis (Feat. ZICO)|Crush|674710|2327886|Oasis|https://cdnimg.melon.co.kr/cm/album/images/023/27/886/2327886_500.jpg/melon/resize/48/quality/80/optimize
+79|7931644|함부로 해줘 (Feat. 한해)|예지|695332|2650815|언프리티 랩스타 2 FINAL X SEMI FINAL Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/50/815/2650815_500.jpg/melon/resize/48/quality/80/optimize
+80|7945893|잠은 안오고 배는 고프고|나인뮤지스|465680|2652486|LOST|https://cdnimg.melon.co.kr/cm/album/images/026/52/486/2652486_500.jpg/melon/resize/48/quality/80/optimize
+81|7926004|너라는 시간이 흐른다|XIA (준수)|52607|2650064|육룡이 나르샤 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/50/064/2650064_500.jpg/melon/resize/48/quality/80/optimize
+82|5760115|IF YOU|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize
+83|7943045|위성|정진우|916005|2652163|K팝 스타 시즌 5 '위성'|https://cdnimg.melon.co.kr/cm/album/images/026/52/163/2652163_500.jpg/melon/resize/48/quality/80/optimize
+84|7931729|겨울이오면|다이나믹 듀오|108358|2650829|GRAND CARNIVAL|https://cdnimg.melon.co.kr/cm/album/images/026/50/829/2650829_500.jpg/melon/resize/48/quality/80/optimize
+85|5824839|맙소사|황태지 (황광희, 태양, 지드래곤)|889387|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+86|7888413|꼭 어제|XIA (준수)|52607|2645321|꼭 어제|https://cdnimg.melon.co.kr/cm/album/images/026/45/321/2645321_500.jpg/melon/resize/48/quality/80/optimize
+87|686651|응급실|izi|164914|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+88|7870707|AIRPLANE|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+89|7852842|그렇게 됐어|플라이 투 더 스카이|100183|2639984|Love & Hate|https://cdnimg.melon.co.kr/cm/album/images/026/39/984/2639984_500.jpg/melon/resize/48/quality/80/optimize
+90|2101367|그런가 봐요...|V.One|2239|515053|2004 History Will Begine...|https://cdnimg.melon.co.kr/cm/album/images/005/15/053/515053_500.jpg/melon/resize/48/quality/80/optimize
+91|7926003|LIGHTSABER|EXO|724619|2650063|LIGHTSABER|https://cdnimg.melon.co.kr/cm/album/images/026/50/063/2650063_500.jpg/melon/resize/48/quality/80/optimize
+92|5721440|LOVE ME RIGHT|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize
+93|7863754|쿵쿵쿵|김민승|2561048|2641734|그녀는 예뻤다 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/41/734/2641734_500.jpg/melon/resize/48/quality/80/optimize
+94|7881338|집으로 가는 길|비투비|647971|2644202|I Mean|https://cdnimg.melon.co.kr/cm/album/images/026/44/202/2644202_500.jpg/melon/resize/48/quality/80/optimize
+95|7931720|요즘어때? (Feat. DEAN)|다이나믹 듀오|108358|2650829|GRAND CARNIVAL|https://cdnimg.melon.co.kr/cm/album/images/026/50/829/2650829_500.jpg/melon/resize/48/quality/80/optimize
+96|5713422|와리가리|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+97|7943649|멈춰진 (Feat. 케이트)|2LSON|524121|2652214|멈춰진 (Feat. 케이트)|https://cdnimg.melon.co.kr/cm/album/images/026/52/214/2652214_500.jpg/melon/resize/48/quality/80/optimize
+98|5644620|CALL ME BABY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+99|5822923|가슴 뛰도록|SG 워너비|108363|2335653|THE VOICE|https://cdnimg.melon.co.kr/cm/album/images/023/35/653/2335653_500.jpg/melon/resize/48/quality/80/optimize
+100|3973781|크리스마스니까|성시경~박효신~이석훈~서인국~VIXX (빅스)|3305~1191~205858~436700~672560|2168409|Jelly Christmas 2012 HEART PROJECT|https://cdnimg.melon.co.kr/cm/album/images/021/68/409/2168409_500.jpg/melon/resize/48/quality/80/optimize

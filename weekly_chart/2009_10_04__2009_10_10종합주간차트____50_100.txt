@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2269963|안 줄래|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+52|2241848|울고 싶어 우는 사람이 있겠어 (Cry Mix)|에이트|228841|623151|울고 싶어 우는 사람이 있겠어|https://cdnimg.melon.co.kr/cm/album/images/006/23/151/623151_500.jpg/melon/resize/48/quality/80/optimize
+53|2219848|Candy Man|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+54|2185577|외톨이|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+55|2312252|우리 지금 만나 (Feat. 장기하와 얼굴들)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+56|2231895|Indian Boy (Feat. 장근이, B.I)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+57|2308383|말할걸 그랬지|박지헌|231826|679154|말할걸 그랬지 (유영석 20주년 기념앨범 Part. 3)|https://cdnimg.melon.co.kr/cm/album/images/006/79/154/679154_500.jpg/melon/resize/48/quality/80/optimize
+58|2285551|사랑한다면서|오종혁|5599|659352|상심: Heartbreak|https://cdnimg.melon.co.kr/cm/album/images/006/59/352/659352_500.jpg/melon/resize/48/quality/80/optimize
+59|2285181|이 노래를 들으면 (Feat. 수호)|태사비애|229242|658957|이 노래를 들으면|https://cdnimg.melon.co.kr/cm/album/images/006/58/957/658957_500.jpg/melon/resize/48/quality/80/optimize
+60|2315961|Chocolate Love (Retro Pop Ver.)|소녀시대 (GIRLS' GENERATION)|228069|686452|Chocolate Love|https://cdnimg.melon.co.kr/cm/album/images/006/86/452/686452_500.jpg/melon/resize/48/quality/80/optimize
+61|2311048|기억이 안나|별|27033|681751|2009 No.1 Diva's Love (기억이 안나)|https://cdnimg.melon.co.kr/cm/album/images/006/81/751/681751_500.jpg/melon/resize/48/quality/80/optimize
+62|2308293|슬프지 않아요 (Feat. 소윤)|PK 헤만|211782|679058|Taste Of Love|https://cdnimg.melon.co.kr/cm/album/images/006/79/058/679058_500.jpg/melon/resize/48/quality/80/optimize
+63|2298659|N-Time (Feat. 티아라)|황정음|8265|670852|N-Time|https://cdnimg.melon.co.kr/cm/album/images/006/70/852/670852_500.jpg/melon/resize/48/quality/80/optimize
+64|2307407|Girl|유리|428760|678157|Chocolate #2 - Lovely Taste|https://cdnimg.melon.co.kr/cm/album/images/006/78/157/678157_500.jpg/melon/resize/48/quality/80/optimize
+65|2203097|소원을 말해봐 (Genie)|소녀시대 (GIRLS' GENERATION)|228069|590853|'소원을 말해봐 (Genie)' The Second Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/90/853/590853_500.jpg/melon/resize/48/quality/80/optimize
+66|-1|사랑할 수도 미워할 수도|애즈원|100093|670057|드라뮤지끄 Vol.1 (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/70/057/670057_500.jpg/melon/resize/48/quality/80/optimize
+67|2295277|가을로 (Feat. 프리스타일 미노, Daylight, 이상)|타우|255466|668355|우리들의 행복한 시간 그 후...내 머리속의 지우개 Part 2|https://cdnimg.melon.co.kr/cm/album/images/006/68/355/668355_500.jpg/melon/resize/48/quality/80/optimize
+68|2231948|아몰레드 (Amoled)|손담비~애프터스쿨|226582~322666|614451|아몰레드|https://cdnimg.melon.co.kr/cm/album/images/006/14/451/614451_500.jpg/melon/resize/48/quality/80/optimize
+69|2314380|불꽃놀이 (Fireworks)|다이나믹 듀오|108358|684955|Band Of Dynamic Brothers|https://cdnimg.melon.co.kr/cm/album/images/006/84/955/684955_500.jpg/melon/resize/48/quality/80/optimize
+70|2312266|19금 내 몸은 너를 지웠다 (Feat. Enzo.B)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+71|2197448|Hot Issue|4minute|417985|586251|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/005/86/251/586251_500.jpg/melon/resize/48/quality/80/optimize
+72|2312257|19금 일터 (Feat. Bizzy)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+73|2312262|Canvas (Feat. Tiger JK, Dynamic Duo, Bizzy)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+74|2304449|One Way Ticket|키네틱 플로우|181678|675651|G-days|https://cdnimg.melon.co.kr/cm/album/images/006/75/651/675651_500.jpg/melon/resize/48/quality/80/optimize
+75|2312256|부서진 동네 (Feat. Lucid Fall)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+76|2306956|덩크슛|조권~웨일|434621~222176|677852|환타스틱 프로젝트 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/006/77/852/677852_500.jpg/melon/resize/48/quality/80/optimize
+77|2135470|니가 밉다|2PM|259822|542253|2:00PM Time For Change|https://cdnimg.melon.co.kr/cm/album/images/005/42/253/542253_500.jpg/melon/resize/48/quality/80/optimize
+78|2218823|Let's Go Party|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+79|2200798|결혼해 줄래 (Feat. BIZNIZ)|이승기|58793|589178|결혼해줄래|https://cdnimg.melon.co.kr/cm/album/images/005/89/178/589178_500.jpg/melon/resize/48/quality/80/optimize
+80|2312263|Run (Feat. YB)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+81|2312178|나는... (Feat. Ivy)|MC몽|11538|682858|Humanimal (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/006/82/858/682858_500.jpg/melon/resize/48/quality/80/optimize
+82|2258767|The Leaders (Feat. Teddy, CL)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+83|2284766|I Love You (Feat. 미료)|나르샤 (Brown Eyed Girls)|261744|658553|아가씨를 부탁해 OST 1.5집|https://cdnimg.melon.co.kr/cm/album/images/006/58/553/658553_500.jpg/melon/resize/48/quality/80/optimize
+84|2312258|Journey (Feat. Casker)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+85|2306449|나사 (螺絲)|자우림|100094|677351|제목 없는 음반|https://cdnimg.melon.co.kr/cm/album/images/006/77/351/677351_500.jpg/melon/resize/48/quality/80/optimize
+86|2312261|19금 운명 (Feat. Malo)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+87|2304753|Angels Cry|Mariah Carey|2274|675861|Memoirs of an imperfect Angel (International Version)|https://cdnimg.melon.co.kr/cm/album/images/006/75/861/675861_500.jpg/melon/resize/48/quality/80/optimize
+88|2258765|Gossip Man (Feat. 김건모)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+89|2194773|잘가요 내사랑|에이트|228841|583952|잘가요 내사랑|https://cdnimg.melon.co.kr/cm/album/images/005/83/952/583952_500.jpg/melon/resize/48/quality/80/optimize
+90|2257473|Strong Girl|쥬얼리|101487|634254|Sophisticated|https://cdnimg.melon.co.kr/cm/album/images/006/34/254/634254_500.jpg/melon/resize/48/quality/80/optimize
+91|2223049|Supermagic|Supreme Team|410162|606451|Supreme Team Guide To Excellent Adventure|https://cdnimg.melon.co.kr/cm/album/images/006/06/451/606451_500.jpg/melon/resize/48/quality/80/optimize
+92|2312264|To. LeeSSang|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+93|2317348|TTL Listen 2|티아라~초신성|412000~229544|687651|TTL Listen 2|https://cdnimg.melon.co.kr/cm/album/images/006/87/651/687651_500.jpg/melon/resize/48/quality/80/optimize
+94|2293484|사랑이 맴돈다|이승기|58793|666758|Shadow|https://cdnimg.melon.co.kr/cm/album/images/006/66/758/666758_500.jpg/melon/resize/48/quality/80/optimize
+95|2312259|Dying Freedom (Feat. 김바다)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+96|2183950|What You Do (Feat. Ne-Yo)|Chrisette Michele|227390|574851|Epiphany|https://cdnimg.melon.co.kr/cm/album/images/005/74/851/574851_500.jpg/melon/resize/48/quality/80/optimize
+97|2101157|심장이 없어|에이트|228841|514852|골든에이지|https://cdnimg.melon.co.kr/cm/album/images/005/14/852/514852_500.jpg/melon/resize/48/quality/80/optimize
+98|2285350|아픔 (Play 장은아)|러브홀릭스|242066|659151|In The Air|https://cdnimg.melon.co.kr/cm/album/images/006/59/151/659151_500.jpg/melon/resize/48/quality/80/optimize
+100|2312260|Skit (벌칙)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|5562520|예뻐|인피니트H|715422|2301442|Second Mini Album 'Fly Again'|https://cdnimg.melon.co.kr/cm/album/images/023/01/442/2301442_500.jpg/melon/resize/48/quality/80/optimize
+52|5421427|헤픈엔딩 (Feat. 조원선 Of 롤러코스터)|에픽하이 (EPIK HIGH)|108356|2286432|신발장|https://cdnimg.melon.co.kr/cm/album/images/022/86/432/2286432_500.jpg/melon/resize/48/quality/80/optimize
+53|5456526|나는 달라 (Feat. BOBBY)|HI SUHYUN|789978|2290103|나는 달라|https://cdnimg.melon.co.kr/cm/album/images/022/90/103/2290103_500.jpg/melon/resize/48/quality/80/optimize
+54|4646573|너의 의미 (Feat. 김창완)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+55|-1|Maps|Maroon 5|107721|2261073|Maps|https://cdnimg.melon.co.kr/cm/album/images/022/61/073/2261073_500.jpg/melon/resize/48/quality/80/optimize
+56|4433490|썸 (Feat. 릴보이 Of 긱스)|소유 (SOYOU)~정기고|490981~304967|2230890|썸|https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/48/quality/80/optimize
+57|5526865|악몽 (Feat. 박수진)|배치기|101886|2297653|악몽|https://cdnimg.melon.co.kr/cm/album/images/022/97/653/2297653_500.jpg/melon/resize/48/quality/80/optimize
+58|4864206|묘해, 너와|어쿠스틱 콜라보|192827|2279896|연애의 발견 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/79/896/2279896_500.jpg/melon/resize/48/quality/80/optimize
+59|5482636|잊지 말기로 해 (Bonus Track)|성시경~권진아|3305~760046|2292827|Winter Wonderland|https://cdnimg.melon.co.kr/cm/album/images/022/92/827/2292827_500.jpg/melon/resize/48/quality/80/optimize
+60|4854588|연결고리#힙합|BOBBY|742763|2278895|쇼미더머니3 Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/78/895/2278895_500.jpg/melon/resize/48/quality/80/optimize
+61|5459290|쓰담쓰담|10CM|468244|2290452|3.0|https://cdnimg.melon.co.kr/cm/album/images/022/90/452/2290452_500.jpg/melon/resize/48/quality/80/optimize
+62|4806688|끼부리지마|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+63|5595462|바람이 분다|스윗소로우 (SWEET SORROW)|175203|2304893|나는 가수다 시즌3 3회 '내가 부르고 싶은 노래'|https://cdnimg.melon.co.kr/cm/album/images/023/04/893/2304893_500.jpg/melon/resize/48/quality/80/optimize
+64|5439395|언제쯤이면 (Duet.아이유)|윤현상|646177|2288324|피아노포르테 (PIANOFORTE)|https://cdnimg.melon.co.kr/cm/album/images/022/88/324/2288324_500.jpg/melon/resize/48/quality/80/optimize
+65|5449581|19금 Tough Cookie (Feat. Don Mills)|지코 (ZICO)|602056|2289391|Tough Cookie|https://cdnimg.melon.co.kr/cm/album/images/022/89/391/2289391_500.jpg/melon/resize/48/quality/80/optimize
+66|5415175|화장 지웠어 (Feat. Zion.T, HA:TFELT) (No Make Up)|개코|3264|2285974|REDINGRAY|https://cdnimg.melon.co.kr/cm/album/images/022/85/974/2285974_500.jpg/melon/resize/48/quality/80/optimize
+67|4671151|눈, 코, 입|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+68|5587009|SHAKE THAT BRASS (Feat. 태연 (소녀시대))|Amber Liu (엠버)|668851|2303942|The 1st Mini Album 'Beautiful'|https://cdnimg.melon.co.kr/cm/album/images/023/03/942/2303942_500.jpg/melon/resize/48/quality/80/optimize
+69|3360476|별 짓 다해봤는데|알리 (ALi)|312266|1244754|별 짓 다해봤는데|https://cdnimg.melon.co.kr/cm/album/images/012/44/754/1244754_500.jpg/melon/resize/48/quality/80/optimize
+70|4764928|HER|블락비 (Block B)|532201|2250057|HER|https://cdnimg.melon.co.kr/cm/album/images/022/50/057/2250057_500.jpg/melon/resize/48/quality/80/optimize
+71|4681146|한여름밤의 꿀|San E~레이나 (Raina)|402526~672337|2260223|San E, 레이나 Project Single '한여름밤의 꿀'|https://cdnimg.melon.co.kr/cm/album/images/022/60/223/2260223_500.jpg/melon/resize/48/quality/80/optimize
+72|38547|그녀와의 이별|김현정|1177|3014|Legend|https://cdnimg.melon.co.kr/cm/album/images/000/03/014/3014_500.jpg/melon/resize/48/quality/80/optimize
+73|5431090|술이 너보다 낫더라|포스트맨(Postmen)~6 to 8|495401~773241|2287562|술이 너보다 낫더라|https://cdnimg.melon.co.kr/cm/album/images/022/87/562/2287562_500.jpg/melon/resize/48/quality/80/optimize
+74|3604753|사랑에 빠지고 싶다|김조한|1873|2032026|사랑에 빠지고 싶다|https://cdnimg.melon.co.kr/cm/album/images/020/32/026/2032026_500.jpg/melon/resize/48/quality/80/optimize
+75|5549372|My Love|에디킴|601979|2300069|Sing Sing Sing|https://cdnimg.melon.co.kr/cm/album/images/023/00/069/2300069_500.jpg/melon/resize/48/quality/80/optimize
+76|5386171|너무 보고싶어|어쿠스틱 콜라보|192827|2282532|연애의 발견 OST Part 6|https://cdnimg.melon.co.kr/cm/album/images/022/82/532/2282532_500.jpg/melon/resize/48/quality/80/optimize
+77|315872|잠시만 안녕 (Original)|엠씨더맥스 (M.C the MAX)|161636|22287|M.C The Max!|https://cdnimg.melon.co.kr/cm/album/images/000/22/287/22287_500.jpg/melon/resize/48/quality/80/optimize
+78|5557985|Cheers (Feat. Beenzino, Babylon)|개코~얀키 (YANKIE)|3264~511640|2301002|Cheers|https://cdnimg.melon.co.kr/cm/album/images/023/01/002/2301002_500.jpg/melon/resize/48/quality/80/optimize
+79|4789747|예뻐졌다 (Feat. 지코 Of Block B)|박보람|499464|2271880|예뻐졌다|https://cdnimg.melon.co.kr/cm/album/images/022/71/880/2271880_500.jpg/melon/resize/48/quality/80/optimize
+80|5480966|피노키오|로이킴|699632|2292646|피노키오 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/92/646/2292646_500.jpg/melon/resize/48/quality/80/optimize
+81|4843704|너를 사랑해|윤미래|1654|2277787|괜찮아 사랑이야 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/77/787/2277787_500.jpg/melon/resize/48/quality/80/optimize
+82|5552200|그대도 같은가요|에일리(Ailee)|629831|2300411|빛나거나 미치거나 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/023/00/411/2300411_500.jpg/melon/resize/48/quality/80/optimize
+83|-1|옛사랑|윤민수(바이브)|151315|2304894|불후의 명곡 - 전설을 노래하다 (작곡가 이영훈 편)|https://cdnimg.melon.co.kr/cm/album/images/023/04/894/2304894_500.jpg/melon/resize/48/quality/80/optimize
+84|5523079|오빠야|술제이 (Sool J)~현영 (레인보우)|409522~471744|2297137|오빠야|https://cdnimg.melon.co.kr/cm/album/images/022/97/137/2297137_500.jpg/melon/resize/48/quality/80/optimize
+85|5472103|Piano Man|마마무 (Mamamoo)|750053|2291790|Piano Man|https://cdnimg.melon.co.kr/cm/album/images/022/91/790/2291790_500.jpg/melon/resize/48/quality/80/optimize
+86|5465067|U & I (With Crush & 빈지노)|토이|100014|2291053|Da Capo|https://cdnimg.melon.co.kr/cm/album/images/022/91/053/2291053_500.jpg/melon/resize/48/quality/80/optimize
+87|5546489|유리구슬 (Glass Bead)|여자친구 (GFRIEND)|828478|2299776|여자친구 1st Mini Album 'Season Of Glass'|https://cdnimg.melon.co.kr/cm/album/images/022/99/776/2299776_500.jpg/melon/resize/48/quality/80/optimize
+88|5442696|죽을만큼 아파서 Part.2 (Feat. 스웨덴세탁소)|MC몽|11538|2288687|MISS ME OR DISS ME|https://cdnimg.melon.co.kr/cm/album/images/022/88/687/2288687_500.jpg/melon/resize/48/quality/80/optimize
+89|5562500|말리꽃|유성은|658092|2301439|칠전팔기 구해라 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/023/01/439/2301439_500.jpg/melon/resize/48/quality/80/optimize
+90|5562748|추운 비|4minute|417985|2301463|Crazy|https://cdnimg.melon.co.kr/cm/album/images/023/01/463/2301463_500.jpg/melon/resize/48/quality/80/optimize
+91|622649|전화번호|지누션|100054|43465|노.라.보.세. 4집|https://cdnimg.melon.co.kr/cm/album/images/000/43/465/43465_500.jpg/melon/resize/48/quality/80/optimize
+92|5590515|Kiss|휘성 (Realslow)~에일리(Ailee)|10577~629831|2304334|WS Duet Project No.4 Kiss|https://cdnimg.melon.co.kr/cm/album/images/023/04/334/2304334_500.jpg/melon/resize/48/quality/80/optimize
+93|5511318|하나뿐인 사람|케이윌|175139|2295834|피노키오 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/95/834/2295834_500.jpg/melon/resize/48/quality/80/optimize
+94|38426|멍|김현정|1177|3009|The Third Eye|https://cdnimg.melon.co.kr/cm/album/images/000/03/009/3009_500.jpg/melon/resize/48/quality/80/optimize
+95|5576267|그리워 그리워하다|포스트맨(Postmen)|495401|2302860|빛나거나 미치거나 OST Part. 3|https://cdnimg.melon.co.kr/cm/album/images/023/02/860/2302860_500.jpg/melon/resize/48/quality/80/optimize
+96|5578668|Angel 2 Me (Duet. Jeff Bernat)|맥케이 (McKay)|831639|2303098|Angel 2 Me|https://cdnimg.melon.co.kr/cm/album/images/023/03/098/2303098_500.jpg/melon/resize/48/quality/80/optimize
+97|5585061|어차피 한번은 아파야 해|유성은|658092|2303732|어차피 한번은 아파야 해|https://cdnimg.melon.co.kr/cm/album/images/023/03/732/2303732_500.jpg/melon/resize/48/quality/80/optimize
+98|5566596|좋아 (JOA)|길구봉구|500421|2301842|좋아 (JOA)|https://cdnimg.melon.co.kr/cm/album/images/023/01/842/2301842_500.jpg/melon/resize/48/quality/80/optimize
+99|5598412|너만 봐 (Feat. The Channels)|정유지(유지)|728130|2305246|너만 봐|https://cdnimg.melon.co.kr/cm/album/images/023/05/246/2305246_500.jpg/melon/resize/48/quality/80/optimize
+100|5442691|도망가자 (Feat. 린)|MC몽|11538|2288687|MISS ME OR DISS ME|https://cdnimg.melon.co.kr/cm/album/images/022/88/687/2288687_500.jpg/melon/resize/48/quality/80/optimize

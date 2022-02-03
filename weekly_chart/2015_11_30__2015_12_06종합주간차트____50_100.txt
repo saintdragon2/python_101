@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|7956370|사르르 (Softly)|케이윌~씨스타~보이프렌드~매드클라운~정기고~주영~몬스타엑스~유승우~브라더수~엑시 (우주소녀)|175139~473181~541500~219621~304967~511108~791216~699637~446175~923695|2653866|STARSHIP PLANET 2015 (스타쉽플래닛)|https://cdnimg.melon.co.kr/cm/album/images/026/53/866/2653866_500.jpg/melon/resize/48/quality/80/optimize
+52|7847861|Dumb Dumb|Red Velvet (레드벨벳)|780066|2639273|The Red - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/026/39/273/2639273_500.jpg/melon/resize/48/quality/80/optimize
+53|7958267|가질 수 없는 너|거미|30358|2654077|투유 프로젝트 - 슈가맨 Part.7|https://cdnimg.melon.co.kr/cm/album/images/026/54/077/2654077_500.jpg/melon/resize/48/quality/80/optimize
+54|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+55|5702706|꺼내 먹어요|Zion.T|537920|2319240|Eat|https://cdnimg.melon.co.kr/cm/album/images/023/19/240/2319240_500.jpg/melon/resize/48/quality/80/optimize
+56|7912749|아마도 그건|Crush~로꼬|674710~688432|2648529|투유 프로젝트 - 슈가맨 Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/48/529/2648529_500.jpg/melon/resize/48/quality/80/optimize
+57|5826461|레옹|이유 갓지(GOD G) 않은 이유 (박명수, 아이유)|889388|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+58|5385974|위잉위잉|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+59|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+60|7963607|북두칠성|로이킴|699632|2654724|북두칠성|https://cdnimg.melon.co.kr/cm/album/images/026/54/724/2654724_500.jpg/melon/resize/48/quality/80/optimize
+61|7956309|SING (PSYmix) (with Ed Sheeran)|싸이 (PSY)|3865|2653861|칠집싸이다|https://cdnimg.melon.co.kr/cm/album/images/026/53/861/2653861_500.jpg/melon/resize/48/quality/80/optimize
+62|7911686|날 (Feat. JTONG)|지코 (ZICO)|602056|2648403|Boys and Girls|https://cdnimg.melon.co.kr/cm/album/images/026/48/403/2648403_500.jpg/melon/resize/48/quality/80/optimize
+63|5748406|심쿵해 (Heart Attack)|AOA|686920|2325321|Heart Attack|https://cdnimg.melon.co.kr/cm/album/images/023/25/321/2325321_500.jpg/melon/resize/48/quality/80/optimize
+64|5818522|오빠차|인크레더블~Tablo~지누션|858852~231070~100054|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+65|5820368|Lion Heart|소녀시대 (GIRLS' GENERATION)|228069|2335204|Lion Heart - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/023/35/204/2335204_500.jpg/melon/resize/48/quality/80/optimize
+66|7896511|무릎|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+67|5704397|이럴거면 그러지말지 (Feat. Young K)|백아연|646173|2319508|이럴거면 그러지말지|https://cdnimg.melon.co.kr/cm/album/images/023/19/508/2319508_500.jpg/melon/resize/48/quality/80/optimize
+68|5719286|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+69|7964823|네게 줄 수 있는건 오직 사랑뿐|디셈버|439021|2654874|응답하라 1988 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/54/874/2654874_500.jpg/melon/resize/48/quality/80/optimize
+70|7877918|U R|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+71|7954002|19금 We Are Going To|빈지노 (Beenzino)|532029|2653587|We Are Going To|https://cdnimg.melon.co.kr/cm/album/images/026/53/587/2653587_500.jpg/melon/resize/48/quality/80/optimize
+72|7931713|이리오너라 (B.I&BOBBY)|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+73|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+74|7896506|새 신발|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+75|5668985|그 남잔 말야|엠씨더맥스 (M.C the MAX)|161636|2314734|냄새를 보는 소녀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/14/734/2314734_500.jpg/melon/resize/48/quality/80/optimize
+76|4857981|Sugar|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+77|7863752|커피 (Prod. by G-Park 박명수)|유재환~김예림 (Lim Kim)|680551~643851|2641732|커피 (Prod. by G-Park 박명수)|https://cdnimg.melon.co.kr/cm/album/images/026/41/732/2641732_500.jpg/melon/resize/48/quality/80/optimize
+78|7915771|신세계|브라운아이드걸스|181694|2648875|BASIC|https://cdnimg.melon.co.kr/cm/album/images/026/48/875/2648875_500.jpg/melon/resize/48/quality/80/optimize
+79|7924215|사슬 (Chained Up)|VIXX (빅스)|672560|2649810|Chained Up|https://cdnimg.melon.co.kr/cm/album/images/026/49/810/2649810_500.jpg/melon/resize/48/quality/80/optimize
+80|7963665|Merry Christmas|소녀시대-태티서 (Girls' Generation-TTS)|663691|2654730|Dear Santa - X-Mas Special|https://cdnimg.melon.co.kr/cm/album/images/026/54/730/2654730_500.jpg/melon/resize/48/quality/80/optimize
+81|7947906|But (Feat. 백지영)|길|410161|2652776|R.O.A.D PROJECT #1|https://cdnimg.melon.co.kr/cm/album/images/026/52/776/2652776_500.jpg/melon/resize/48/quality/80/optimize
+82|7965433|Hello Bitches|CL|441844|2655011|Hello Bitches|https://cdnimg.melon.co.kr/cm/album/images/026/55/011/2655011_500.jpg/melon/resize/48/quality/80/optimize
+83|7956372|매일매일 (Feat. 스윗소로우)|별|27033|2653870|Everyday Christmas|https://cdnimg.melon.co.kr/cm/album/images/026/53/870/2653870_500.jpg/melon/resize/48/quality/80/optimize
+84|7935701|눈치 없이 (INSENSIBLE)|이홍기 (FT아일랜드)|42554|2651380|FM302|https://cdnimg.melon.co.kr/cm/album/images/026/51/380/2651380_500.jpg/melon/resize/48/quality/80/optimize
+85|7953787|Whalien 52|방탄소년단|672375|2653551|화양연화 pt.2|https://cdnimg.melon.co.kr/cm/album/images/026/53/551/2653551_500.jpg/melon/resize/48/quality/80/optimize
+86|7948056|고칠게|진원|243303|2652803|고칠게 - 다시부르기|https://cdnimg.melon.co.kr/cm/album/images/026/52/803/2652803_500.jpg/melon/resize/48/quality/80/optimize
+87|7868989|너나 잘해|에일리(Ailee)|629831|2642436|VIVID|https://cdnimg.melon.co.kr/cm/album/images/026/42/436/2642436_500.jpg/melon/resize/48/quality/80/optimize
+88|5804040|19금 거북선 (Feat. 팔로알토)|Ja Mezz~Andup (앤덥)~MINO (송민호)|743761~340667~742773|2332701|쇼미더머니 4 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/023/32/701/2332701_500.jpg/melon/resize/48/quality/80/optimize
+89|7952331|그 사람, 그 사랑|임재범|4838|2653358|그 사람, 그 사랑|https://cdnimg.melon.co.kr/cm/album/images/026/53/358/2653358_500.jpg/melon/resize/48/quality/80/optimize
+90|7926004|너라는 시간이 흐른다|XIA (준수)|52607|2650064|육룡이 나르샤 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/50/064/2650064_500.jpg/melon/resize/48/quality/80/optimize
+91|7931725|있어줘 (Feat. Lydia Paek)|다이나믹 듀오|108358|2650829|GRAND CARNIVAL|https://cdnimg.melon.co.kr/cm/album/images/026/50/829/2650829_500.jpg/melon/resize/48/quality/80/optimize
+92|7886210|밀리언조각 (A Million Pieces)|규현 (KYUHYUN)|205880|2645019|다시, 가을이 오면 - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/45/019/2645019_500.jpg/melon/resize/48/quality/80/optimize
+93|7953788|Ma City|방탄소년단|672375|2653551|화양연화 pt.2|https://cdnimg.melon.co.kr/cm/album/images/026/53/551/2653551_500.jpg/melon/resize/48/quality/80/optimize
+94|7888413|꼭 어제|XIA (준수)|52607|2645321|꼭 어제|https://cdnimg.melon.co.kr/cm/album/images/026/45/321/2645321_500.jpg/melon/resize/48/quality/80/optimize
+95|7953959|As I am|백예린 (Yerin Baek)|698776|2653573|FRANK|https://cdnimg.melon.co.kr/cm/album/images/026/53/573/2653573_500.jpg/melon/resize/48/quality/80/optimize
+96|7953791|고엽|방탄소년단|672375|2653551|화양연화 pt.2|https://cdnimg.melon.co.kr/cm/album/images/026/53/551/2653551_500.jpg/melon/resize/48/quality/80/optimize
+97|7953957|Blue|백예린 (Yerin Baek)|698776|2653573|FRANK|https://cdnimg.melon.co.kr/cm/album/images/026/53/573/2653573_500.jpg/melon/resize/48/quality/80/optimize
+98|7965449|19금 유레카 (Feat. Zion.T)|지코 (ZICO)|602056|2655015|GALLERY|https://cdnimg.melon.co.kr/cm/album/images/026/55/015/2655015_500.jpg/melon/resize/48/quality/80/optimize
+99|5743804|음오아예 (Um Oh Ah Yeh)|마마무 (Mamamoo)|750053|2324685|Pink Funky|https://cdnimg.melon.co.kr/cm/album/images/023/24/685/2324685_500.jpg/melon/resize/48/quality/80/optimize
+100|5721440|LOVE ME RIGHT|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize

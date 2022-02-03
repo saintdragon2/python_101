@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|864906|Smile Again|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+2|864433|Girls On Top|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+3|837567|사랑했나봐|윤도현|923|301886|Difference|https://cdnimg.melon.co.kr/cm/album/images/003/01/886/301886_500.jpg/melon/resize/48/quality/80/optimize
+4|848156|가슴 아파도|환희|1928|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+5|732519|가시|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+6|866705|제자리 걸음|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+7|847132|체념 後(후)|빅마마|105803|303106|It's Unique|https://cdnimg.melon.co.kr/cm/album/images/003/03/106/303106_500.jpg/melon/resize/48/quality/80/optimize
+8|845586|I Love U Oh Thank U (Feat. 김태우 Of God)|MC몽|11538|302961|His Story|https://cdnimg.melon.co.kr/cm/album/images/003/02/961/302961_500.jpg/melon/resize/48/quality/80/optimize
+9|845580|천하무적 (Feat. 박장근 Of Supersta)|MC몽|11538|302961|His Story|https://cdnimg.melon.co.kr/cm/album/images/003/02/961/302961_500.jpg/melon/resize/48/quality/80/optimize
+10|847126|여자|빅마마|105803|303106|It's Unique|https://cdnimg.melon.co.kr/cm/album/images/003/03/106/303106_500.jpg/melon/resize/48/quality/80/optimize
+11|863192|Hi Ya Ya 여름날|동방신기 (TVXQ!)|108316|304259|2005 Summer: Hi Ya Ya (여름날) (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/04/259/304259_500.jpg/melon/resize/48/quality/80/optimize
+12|851423|흩어진 나날들|박효신|1191|303582|Neo Classicism|https://cdnimg.melon.co.kr/cm/album/images/003/03/582/303582_500.jpg/melon/resize/48/quality/80/optimize
+13|860577|보통여자|린|8530|304135|One And Only Feeling|https://cdnimg.melon.co.kr/cm/album/images/003/04/135/304135_500.jpg/melon/resize/48/quality/80/optimize
+14|845591|홈런 (Feat. 옥주현)|MC몽|11538|302961|His Story|https://cdnimg.melon.co.kr/cm/album/images/003/02/961/302961_500.jpg/melon/resize/48/quality/80/optimize
+15|855659|She Is|클래지콰이|107725|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+16|842022|같은 생각|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+17|711628|광(狂)|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+18|672010|꽃피는 봄이오면|BMK|36142|47645|Soul Food|https://cdnimg.melon.co.kr/cm/album/images/000/47/645/47645_500.jpg/melon/resize/48/quality/80/optimize
+19|851277|떠나가요, 떠나지마요|더 크로스|107224|303566|Rush|https://cdnimg.melon.co.kr/cm/album/images/003/03/566/303566_500.jpg/melon/resize/48/quality/80/optimize
+20|848804|나비무덤|테이크 (TAKE)|105789|303280|To Girl|https://cdnimg.melon.co.kr/cm/album/images/003/03/280/303280_500.jpg/melon/resize/48/quality/80/optimize
+21|711627|죄와벌|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+22|884783|한숨만|이정|39256|305084|한숨만|https://cdnimg.melon.co.kr/cm/album/images/003/05/084/305084_500.jpg/melon/resize/48/quality/80/optimize
+23|-1|Passion (Summer Ver.)|쥬얼리|101487|304151|Passion (Remake New Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/04/151/304151_500.jpg/melon/resize/48/quality/80/optimize
+24|732512|겁쟁이|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+25|843729|그녀에게|유엔|100737|302691|그녀에게|https://cdnimg.melon.co.kr/cm/album/images/003/02/691/302691_500.jpg/melon/resize/48/quality/80/optimize
+26|863194|너희들 것이니까 (I Wish...)|동방신기 (TVXQ!)|108316|304259|2005 Summer: Hi Ya Ya (여름날) (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/04/259/304259_500.jpg/melon/resize/48/quality/80/optimize
+27|848286|Hold Me Now|소찬휘|3897|303242|The True|https://cdnimg.melon.co.kr/cm/album/images/003/03/242/303242_500.jpg/melon/resize/48/quality/80/optimize
+28|711626|살다가|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+29|864431|Moto|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+30|864907|은영이에게 Part 2|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+31|855658|Be My Love (Feat. 이승열)|클래지콰이|107725|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+32|854321|기억 때문에|이승철|1010|303787|20th Anniversary - A Walk To Remember|https://cdnimg.melon.co.kr/cm/album/images/003/03/787/303787_500.jpg/melon/resize/48/quality/80/optimize
+33|732373|사랑인걸|모세|165535|300617|사랑, 그 간절한 그리움 1집|https://cdnimg.melon.co.kr/cm/album/images/003/00/617/300617_500.jpg/melon/resize/48/quality/80/optimize
+34|732513|벌|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+35|858982|Funky Town|김현정|1177|304018|Fun Town 20|https://cdnimg.melon.co.kr/cm/album/images/003/04/018/304018_500.jpg/melon/resize/48/quality/80/optimize
+36|854324|열을 세어 보아요 (롯데가스보일러 CF 이민영편)|이승철|1010|303787|20th Anniversary - A Walk To Remember|https://cdnimg.melon.co.kr/cm/album/images/003/03/787/303787_500.jpg/melon/resize/48/quality/80/optimize
+37|863656|경고|SS501|170541|304287|SS501|https://cdnimg.melon.co.kr/cm/album/images/003/04/287/304287_500.jpg/melon/resize/48/quality/80/optimize
+38|833665|중독|서영은|3033|301561|Sunny Side Of My Heart|https://cdnimg.melon.co.kr/cm/album/images/003/01/561/301561_500.jpg/melon/resize/48/quality/80/optimize
+39|863026|서울의 달|김건모|889|304251|Be Like...|https://cdnimg.melon.co.kr/cm/album/images/003/04/251/304251_500.jpg/melon/resize/48/quality/80/optimize
+40|-1|닮았잖아|m.e.l.o.n|170259|302392|Think Of Me|https://cdnimg.melon.co.kr/cm/album/images/003/02/392/302392_500.jpg/melon/resize/48/quality/80/optimize
+41|732515|거짓말|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+42|742312|내 남자의 여자친구|별|27033|301021|별 2집|https://cdnimg.melon.co.kr/cm/album/images/003/01/021/301021_500.jpg/melon/resize/48/quality/80/optimize
+43|866706|그녀의 남자에게|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+44|860582|Naughty Girl|린|8530|304135|One And Only Feeling|https://cdnimg.melon.co.kr/cm/album/images/003/04/135/304135_500.jpg/melon/resize/48/quality/80/optimize
+45|698979|그리움을 사랑한 가시나무|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+46|842024|Buen Camino (Feat. 강수지)|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+47|732514|1st|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+48|827216|잘 지내나요|성시경|3305|301311|다시 꿈꾸고 싶다|https://cdnimg.melon.co.kr/cm/album/images/003/01/311/301311_500.jpg/melon/resize/48/quality/80/optimize
+49|864916|너에게 전하는 아홉가지 바램|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+50|775130|여기까진가요|플라워|100391|301149|플라워 4th|https://cdnimg.melon.co.kr/cm/album/images/003/01/149/301149_500.jpg/melon/resize/48/quality/80/optimize

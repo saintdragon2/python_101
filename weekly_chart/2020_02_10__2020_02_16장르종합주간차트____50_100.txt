@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|31877297|Señorita|Shawn Mendes~Camila Cabello|776533~928017|10298832|Señorita|https://cdnimg.melon.co.kr/cm/album/images/102/98/832/10298832_500.jpg/melon/resize/48/quality/80/optimize
+52|31788850|니 소식|송하예|722098|10283614|니 소식|https://cdnimg.melon.co.kr/cm/album/images/102/83/614/10283614_500.jpg/melon/resize/48/quality/80/optimize
+53|32187544|우리 왜 헤어져야 해|신예영|2740042|10353881|우리 왜 헤어져야 해|https://cdnimg.melon.co.kr/cm2/album/images/103/53/881/10353881_500.jpg/melon/resize/48/quality/80/optimize
+54|32171791|이 번호로 전화해줘|바이브|160080|10351268|이 번호로 전화해줘|https://cdnimg.melon.co.kr/cm2/album/images/103/51/268/10351268_500.jpg/melon/resize/48/quality/80/optimize
+55|32128104|인기 (Feat. 송가인, 챈슬러)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+56|32315692|너의 하루는 좀 어때|거미|30358|10375675|낭만닥터 김사부 2 OST Part.2|https://cdnimg.melon.co.kr/cm2/album/images/103/75/675/10375675_20200114151552_500.jpg/melon/resize/48/quality/80/optimize
+57|31938460|그대라는 시|태연 (TAEYEON)|236797|10309213|호텔 델루나 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/103/09/213/10309213_500.jpg/melon/resize/48/quality/80/optimize
+58|32280012|노을|다비치|236815|10369319|사랑의 불시착 OST Part 3|https://cdnimg.melon.co.kr/cm2/album/images/103/69/319/10369319_20191227105950_500.jpg/melon/resize/48/quality/80/optimize
+59|32362644|Birthday|Anne-Marie|870307|10385597|Birthday|https://cdnimg.melon.co.kr/cm2/album/images/103/85/597/10385597_20210712171539_500.jpg/melon/resize/48/quality/80/optimize
+60|32130396|불티 (Spark)|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+61|31621518|comethru|Jeremy Zucker|1758307|10252905|summer,|https://cdnimg.melon.co.kr/cm/album/images/102/52/905/10252905_500.jpg/melon/resize/48/quality/80/optimize
+62|32038651|워커홀릭|볼빨간사춘기|792022|10327581|Two Five|https://cdnimg.melon.co.kr/cm2/album/images/103/27/581/10327581_500.jpg/melon/resize/48/quality/80/optimize
+63|32225055|잘 살고 있다|V.O.S|108794|10359390|잘 살고 있다|https://cdnimg.melon.co.kr/cm2/album/images/103/59/390/10359390_500.jpg/melon/resize/48/quality/80/optimize
+64|32168238|차가워진 이 바람엔 우리가 써있어 (Bad Love)|HYNN (박혜원)|1229685|10350708|차가워진 이 바람엔 우리가 써있어(Bad Love)|https://cdnimg.melon.co.kr/cm2/album/images/103/50/708/10350708_500.jpg/melon/resize/48/quality/80/optimize
+65|8119658|꿈속에 너 (Feat. 전상근)|에이치코드 (H:CODE)|946910|2676167|두 번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/026/76/167/2676167_500.jpg/melon/resize/48/quality/80/optimize
+66|31688205|사계 (Four Seasons)|태연 (TAEYEON)|236797|10265079|사계 (Four Seasons)|https://cdnimg.melon.co.kr/cm/album/images/102/65/079/10265079_500.jpg/melon/resize/48/quality/80/optimize
+67|32347747|나의 모든 날|김세정|968261|10382988|사랑의 불시착 OST Part 8|https://cdnimg.melon.co.kr/cm2/album/images/103/82/988/10382988_20200131151311_500.jpg/melon/resize/48/quality/80/optimize
+68|32235310|십이월 이십오일의 고백|정승환|792091|10361322|십이월 이십오일의 고백|https://cdnimg.melon.co.kr/cm2/album/images/103/61/322/10361322_500.jpg/melon/resize/48/quality/80/optimize
+69|31737199|Make It Right|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+70|32180635|19금 ROXANNE|Arizona Zervas|2754967|10352538|ROXANNE|https://cdnimg.melon.co.kr/cm2/album/images/103/52/538/10352538_500.jpg/melon/resize/48/quality/80/optimize
+71|32318751|내게 들려주고 싶은 말 (Dear Me)|태연 (TAEYEON)|236797|10376260|Purpose - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm2/album/images/103/76/260/10376260_20200115153625_500.jpg/melon/resize/48/quality/80/optimize
+72|31870517|술이 문제야|장혜진~윤민수(바이브)|5675~151315|10297571|술이 문제야|https://cdnimg.melon.co.kr/cm/album/images/102/97/571/10297571_500.jpg/melon/resize/48/quality/80/optimize
+73|31666417|주저하는 연인들을 위해|잔나비|772253|10260858|전설|https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/48/quality/80/optimize
+74|32182535|시간의 바깥|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+75|32077651|Know Me Too Well|New Hope Club~Danna Paola|1705084~202306|10335107|Know Me Too Well|https://cdnimg.melon.co.kr/cm2/album/images/103/35/107/10335107_500.jpg/melon/resize/48/quality/80/optimize
+76|31737202|Dionysus|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+77|32318549|하루에도 열두 번|윤건|14801|10376234|하루에도 열두 번|https://cdnimg.melon.co.kr/cm2/album/images/103/76/234/10376234_20200115152047_500.jpg/melon/resize/48/quality/80/optimize
+78|32333475|버릇처럼 셋을 센다|KCM|45995|10379389|버릇처럼 셋을 센다|https://cdnimg.melon.co.kr/cm2/album/images/103/79/389/10379389_20200123100248_500.jpg/melon/resize/48/quality/80/optimize
+79|32031043|가을밤 떠난 너|케이시 (Kassy)|858125|10325945|Rewind|https://cdnimg.melon.co.kr/cm2/album/images/103/25/945/10325945_500.jpg/melon/resize/48/quality/80/optimize
+80|32325829|Go away go away|찬열 (CHANYEOL)~펀치 (Punch)|672857~749640|10377809|낭만닥터 김사부 2 OST Part.3|https://cdnimg.melon.co.kr/cm2/album/images/103/77/809/10377809_20200120151212_500.jpg/melon/resize/48/quality/80/optimize
+81|32057802|Feel Special|TWICE (트와이스)|905701|10331167|Feel Special|https://cdnimg.melon.co.kr/cm2/album/images/103/31/167/10331167_500.jpg/melon/resize/48/quality/80/optimize
+82|32028531|헤어지자 (Prod. 정키)|휘인 (Whee In)|756533|10325421|soar|https://cdnimg.melon.co.kr/cm2/album/images/103/25/421/10325421_500.jpg/melon/resize/48/quality/80/optimize
+83|31804010|너에게 못했던 내 마지막 말은|다비치|236815|10286309|너에게 못했던 내 마지막 말은|https://cdnimg.melon.co.kr/cm/album/images/102/86/309/10286309_500.jpg/melon/resize/48/quality/80/optimize
+84|32217921|Obsession|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+85|31938046|나의 어깨에 기대어요|10CM|468244|10309152|호텔 델루나 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/103/09/152/10309152_500.jpg/melon/resize/48/quality/80/optimize
+86|32325827|내가 많이 사랑해요|이승철|1010|10377808|달빛조각사 웹툰 OST Part.1|https://cdnimg.melon.co.kr/cm2/album/images/103/77/808/10377808_20200120151734_500.jpg/melon/resize/48/quality/80/optimize
+87|32136650|영화 속에 나오는 주인공처럼|펀치 (Punch)|749640|10345742|동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.6|https://cdnimg.melon.co.kr/cm2/album/images/103/45/742/10345742_500.jpg/melon/resize/48/quality/80/optimize
+88|31768993|Painkiller|Ruel|1438336|10279656|Painkiller|https://cdnimg.melon.co.kr/cm/album/images/102/79/656/10279656_500.jpg/melon/resize/48/quality/80/optimize
+89|32081871|허전해|폴킴|752425|10335933|정규 2집 '마음, 하나'|https://cdnimg.melon.co.kr/cm2/album/images/103/35/933/10335933_500.jpg/melon/resize/48/quality/80/optimize
+90|32125782|LION|(여자)아이들|2137482|10343701|퀸덤 <FINAL 컴백 싱글>|https://cdnimg.melon.co.kr/cm2/album/images/103/43/701/10343701_500.jpg/melon/resize/48/quality/80/optimize
+91|32321303|이 노랜 꽤 오래된 거야 (A song from the past)|솔라 (마마무)~케이시 (Kassy)|756530~858125|10376787|이 노랜 꽤 오래된 거야 (A song from the past)|https://cdnimg.melon.co.kr/cm2/album/images/103/76/787/10376787_20200116151048_500.jpg/melon/resize/48/quality/80/optimize
+92|31524320|그때가 좋았어|케이시 (Kassy)|858125|10237420|그때가 좋았어|https://cdnimg.melon.co.kr/cm/album/images/102/37/420/10237420_500.jpg/melon/resize/48/quality/80/optimize
+93|32351139|교차로 (Crossroads)|여자친구 (GFRIEND)|828478|10383590|回:LABYRINTH|https://cdnimg.melon.co.kr/cm2/album/images/103/83/590/10383590_20200203151505_500.jpg/melon/resize/48/quality/80/optimize
+94|32291102|Yummy|Justin Bieber|420621|10371527|Yummy|https://cdnimg.melon.co.kr/cm2/album/images/103/71/527/10371527_20200103135814_500.jpg/melon/resize/48/quality/80/optimize
+95|32331742|신촌에 왔어|가비엔제이|174997|10379033|신촌에 왔어|https://cdnimg.melon.co.kr/cm2/album/images/103/79/033/10379033_20200122151425_500.jpg/melon/resize/48/quality/80/optimize
+96|32348835|안녕|김재환|945663|10383155|안녕|https://cdnimg.melon.co.kr/cm2/album/images/103/83/155/10383155_20200131165047_500.jpg/melon/resize/48/quality/80/optimize
+97|31815967|"Speechless (Full) (From ""Aladdin""/Soundtrack Version)"|Naomi Scott|541364|10288448|Aladdin (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/48/quality/80/optimize
+98|32180594|"Show Yourself (From ""Frozen 2""/Soundtrack Version)"|Idina Menzel~Evan Rachel Wood|232538~230593|10352535|Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)|https://cdnimg.melon.co.kr/cm2/album/images/103/52/535/10352535_500.jpg/melon/resize/48/quality/80/optimize
+99|32345931|시작|가호 (Gaho)|13494|10381712|이태원 클라쓰 OST Part.2|https://cdnimg.melon.co.kr/cm2/album/images/103/81/712/10381712_20200131110358_500.jpg/melon/resize/48/quality/80/optimize
+100|32240554|첫 겨울이니까|성시경~아이유|3305~261143|10362285|첫 겨울이니까|https://cdnimg.melon.co.kr/cm2/album/images/103/62/285/10362285_20191209152506_500.jpg/melon/resize/48/quality/80/optimize

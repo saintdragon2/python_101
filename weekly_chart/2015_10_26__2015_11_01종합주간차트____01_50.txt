@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|7896508|스물셋|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+2|7896509|푸르던|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+3|7877917|I (Feat. 버벌진트)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+4|7861392|또 다시 사랑|임창정|1142|2638798|또 다시 사랑|https://cdnimg.melon.co.kr/cm/album/images/026/38/798/2638798_500.jpg/melon/resize/48/quality/80/optimize
+5|7881505|No Make Up|Zion.T|537920|2644221|No Make Up|https://cdnimg.melon.co.kr/cm/album/images/026/44/221/2644221_500.jpg/melon/resize/48/quality/80/optimize
+6|7900822|4 Walls|f(x)|428501|2646918|4 Walls - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/026/46/918/2646918_500.jpg/melon/resize/48/quality/80/optimize
+7|7896506|새 신발|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+8|7884171|모르나봐|소유 (SOYOU)~브라더수|490981~446175|2644698|그녀는 예뻤다 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/026/44/698/2644698_500.jpg/melon/resize/48/quality/80/optimize
+9|7896511|무릎|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+10|7858908|바람이나 좀 쐐 (Feat. 우혜미)|개리|1732|2640915|2002|https://cdnimg.melon.co.kr/cm/album/images/026/40/915/2640915_500.jpg/melon/resize/48/quality/80/optimize
+11|7896507|Zeze|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+12|7854179|취향저격|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+13|7888412|말해 Yes Or No (Feat. PENOMECO, The Quiett)|지코 (ZICO)|602056|2645320|말해 Yes Or No|https://cdnimg.melon.co.kr/cm/album/images/026/45/320/2645320_500.jpg/melon/resize/48/quality/80/optimize
+14|7896510|Red Queen (Feat. Zion.T)|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+15|7858989|어깨|소유 (SOYOU)~권정열|490981~607226|2640930|어깨|https://cdnimg.melon.co.kr/cm/album/images/026/40/930/2640930_500.jpg/melon/resize/48/quality/80/optimize
+16|5826447|겁 (Feat. 태양)|MINO (송민호)|742773|2336184|쇼미더머니 4 Episode 5|https://cdnimg.melon.co.kr/cm/album/images/023/36/184/2336184_500.jpg/melon/resize/48/quality/80/optimize
+17|7860122|보통연애 (Feat. 박보람)|박경|650832|2641140|보통연애|https://cdnimg.melon.co.kr/cm/album/images/026/41/140/2641140_500.jpg/melon/resize/48/quality/80/optimize
+18|7865089|가끔|지아|227595|2641976|그녀는 예뻤다 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/41/976/2641976_500.jpg/melon/resize/48/quality/80/optimize
+19|7881233|Break|빈지노 (Beenzino)|532029|2644190|Break|https://cdnimg.melon.co.kr/cm/album/images/026/44/190/2644190_500.jpg/melon/resize/48/quality/80/optimize
+20|7896512|안경|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+21|7870705|리듬 타 (RHYTHM TA)|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+22|7877918|U R|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+23|5826461|레옹|이유 갓지(GOD G) 않은 이유 (박명수, 아이유)|889388|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+24|5835766|Okey Dokey|MINO (송민호)~지코 (ZICO)|742773~602056|2337492|쇼미더머니 4 Episode 6|https://cdnimg.melon.co.kr/cm/album/images/023/37/492/2337492_500.jpg/melon/resize/48/quality/80/optimize
+25|7863752|커피 (Prod. by G-Park 박명수)|유재환~김예림 (Lim Kim)|680551~643851|2641732|커피 (Prod. by G-Park 박명수)|https://cdnimg.melon.co.kr/cm/album/images/026/41/732/2641732_500.jpg/melon/resize/48/quality/80/optimize
+26|5791706|오늘부터 우리는 (Me Gustas Tu)|여자친구 (GFRIEND)|828478|2330981|여자친구 2nd Mini Album 'Flower Bud'|https://cdnimg.melon.co.kr/cm/album/images/023/30/981/2330981_500.jpg/melon/resize/48/quality/80/optimize
+27|7886210|밀리언조각 (A Million Pieces)|규현 (KYUHYUN)|205880|2645019|다시, 가을이 오면 - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/45/019/2645019_500.jpg/melon/resize/48/quality/80/optimize
+28|7899186|일주일 (247) (Feat. Zion.T, Crush, DEAN)|정기고|304967|2646653|247|https://cdnimg.melon.co.kr/cm/album/images/026/46/653/2646653_500.jpg/melon/resize/48/quality/80/optimize
+29|7847861|Dumb Dumb|Red Velvet (레드벨벳)|780066|2639273|The Red - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/026/39/273/2639273_500.jpg/melon/resize/48/quality/80/optimize
+30|7868989|너나 잘해|에일리(Ailee)|629831|2642436|VIVID|https://cdnimg.melon.co.kr/cm/album/images/026/42/436/2642436_500.jpg/melon/resize/48/quality/80/optimize
+31|5818522|오빠차|인크레더블~Tablo~지누션|858852~231070~100054|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+32|7881449|밤을 새 (Feat. 베이식)|허각|28801|2644208|밤을 새|https://cdnimg.melon.co.kr/cm/album/images/026/44/208/2644208_500.jpg/melon/resize/48/quality/80/optimize
+33|7891119|OOH-AHH하게|TWICE (트와이스)|905701|2645617|THE STORY BEGINS|https://cdnimg.melon.co.kr/cm/album/images/026/45/617/2645617_500.jpg/melon/resize/48/quality/80/optimize
+34|5385974|위잉위잉|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+35|5820368|Lion Heart|소녀시대 (GIRLS' GENERATION)|228069|2335204|Lion Heart - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/023/35/204/2335204_500.jpg/melon/resize/48/quality/80/optimize
+36|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+37|7888413|꼭 어제|XIA (준수)|52607|2645321|꼭 어제|https://cdnimg.melon.co.kr/cm/album/images/026/45/321/2645321_500.jpg/melon/resize/48/quality/80/optimize
+38|7899235|Hello|Adele|241925|2646659|Hello|https://cdnimg.melon.co.kr/cm/album/images/026/46/659/2646659_500.jpg/melon/resize/48/quality/80/optimize
+39|5804040|19금 거북선 (Feat. 팔로알토)|Ja Mezz~Andup (앤덥)~MINO (송민호)|743761~340667~742773|2332701|쇼미더머니 4 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/023/32/701/2332701_500.jpg/melon/resize/48/quality/80/optimize
+40|5824839|맙소사|황태지 (황광희, 태양, 지드래곤)|889387|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+41|7881338|집으로 가는 길|비투비|647971|2644202|I Mean|https://cdnimg.melon.co.kr/cm/album/images/026/44/202/2644202_500.jpg/melon/resize/48/quality/80/optimize
+42|7852842|그렇게 됐어|플라이 투 더 스카이|100183|2639984|Love & Hate|https://cdnimg.melon.co.kr/cm/album/images/026/39/984/2639984_500.jpg/melon/resize/48/quality/80/optimize
+43|7902888|19금 거북선 Remix (Feat. G2, B-Free, Okasian & ZICO)|팔로알토 (Paloalto)|170978|2647256|거북선 Remix|https://cdnimg.melon.co.kr/cm/album/images/026/47/256/2647256_500.jpg/melon/resize/48/quality/80/optimize
+44|5719286|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+45|7898238|너를 그리다|라디 (Ra. D)~디어 (d.ear)~브라더수~주영|8876~714580~446175~511108|2646527|너를 그리다|https://cdnimg.melon.co.kr/cm/album/images/026/46/527/2646527_500.jpg/melon/resize/48/quality/80/optimize
+46|7892770|PARACHUTE (Feat. 오혁 & Dok2)|코드 쿤스트 (CODE KUNST)|724086|2645763|PARACHUTE|https://cdnimg.melon.co.kr/cm/album/images/026/45/763/2645763_500.jpg/melon/resize/48/quality/80/optimize
+47|5743804|음오아예 (Um Oh Ah Yeh)|마마무 (Mamamoo)|750053|2324685|Pink Funky|https://cdnimg.melon.co.kr/cm/album/images/023/24/685/2324685_500.jpg/melon/resize/48/quality/80/optimize
+48|5807274|우리 사랑하지 말아요|BIGBANG|198094|2333193|E|https://cdnimg.melon.co.kr/cm/album/images/023/33/193/2333193_500.jpg/melon/resize/48/quality/80/optimize
+49|7880306|10월의 날씨|10CM|468244|2644090|3.1|https://cdnimg.melon.co.kr/cm/album/images/026/44/090/2644090_500.jpg/melon/resize/48/quality/80/optimize
+50|7888331|19금 Bandz Up (Prod. by Dok2) (Feat. Dok2)|트루디 (Truedy)|896141|2645311|언프리티 랩스타 2 Track 6 & 7|https://cdnimg.melon.co.kr/cm/album/images/026/45/311/2645311_500.jpg/melon/resize/48/quality/80/optimize

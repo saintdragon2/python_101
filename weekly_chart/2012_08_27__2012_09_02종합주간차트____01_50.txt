@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3884575|I Need You|허각~지아|28801~227595|2145068|I Need You|https://cdnimg.melon.co.kr/cm/album/images/021/45/068/2145068_500.jpg/melon/resize/48/quality/80/optimize
+2|3890826|All For You|서인국~정은지|436700~644871|2148020|응답하라 1997 Love Story Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/48/020/2148020_500.jpg/melon/resize/48/quality/80/optimize
+3|3853978|강남스타일|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+4|3886294|Pandora|카라|222128|2146186|PANDORA|https://cdnimg.melon.co.kr/cm/album/images/021/46/186/2146186_500.jpg/melon/resize/48/quality/80/optimize
+5|3837683|Loving U (러빙유)|씨스타|473181|2131509|Summer Special 'Loving U'|https://cdnimg.melon.co.kr/cm/album/images/021/31/509/2131509_500.jpg/melon/resize/48/quality/80/optimize
+6|3859894|Only One|보아 (BoA)|2165|2138075|Only One|https://cdnimg.melon.co.kr/cm/album/images/021/38/075/2138075_500.jpg/melon/resize/48/quality/80/optimize
+7|3860282|아름다운 밤이야|비스트|436981|2138116|Midnight Sun|https://cdnimg.melon.co.kr/cm/album/images/021/38/116/2138116_500.jpg/melon/resize/48/quality/80/optimize
+8|3848972|내 사랑아|이종현|32833|2136688|신사의 품격 OST Part 5|https://cdnimg.melon.co.kr/cm/album/images/021/36/688/2136688_500.jpg/melon/resize/48/quality/80/optimize
+9|3853977|뜨거운 안녕 (Feat. 성시경)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+10|3866006|남자도 우나요|다비치|236815|2138790|THE S Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/38/790/2138790_500.jpg/melon/resize/48/quality/80/optimize
+11|3847197|I Love You|2NE1|406712|2136463|I Love You|https://cdnimg.melon.co.kr/cm/album/images/021/36/463/2136463_500.jpg/melon/resize/48/quality/80/optimize
+12|3820647|illa illa (일라 일라)|JUNIEL(서아)|673198|2124713|My First June|https://cdnimg.melon.co.kr/cm/album/images/021/24/713/2124713_500.jpg/melon/resize/48/quality/80/optimize
+13|3853980|어땠을까 (Feat. 박정현)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+14|3854238|Midnight (별 헤는 밤)|비스트|436981|2137318|Midnight (별 헤는 밤)|https://cdnimg.melon.co.kr/cm/album/images/021/37/318/2137318_500.jpg/melon/resize/48/quality/80/optimize
+15|3894730|19금 그XX|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+16|3832101|정말로 사랑한다면|버스커 버스커|569233|2128229|버스커 버스커 1집 마무리|https://cdnimg.melon.co.kr/cm/album/images/021/28/229/2128229_500.jpg/melon/resize/48/quality/80/optimize
+17|3832079|충분히 예뻐 (feat. 산체스 Of 팬텀)|버벌진트|6985|2128226|10년동안의오독 I|https://cdnimg.melon.co.kr/cm/album/images/021/28/226/2128226_500.jpg/melon/resize/48/quality/80/optimize
+18|3822632|가슴이 시린 게|이현|429480|2126378|신사의 품격 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/26/378/2126378_500.jpg/melon/resize/48/quality/80/optimize
+19|3864962|자꾸만 자꾸만|신용재 (2F)|510537|2138690|24|https://cdnimg.melon.co.kr/cm/album/images/021/38/690/2138690_500.jpg/melon/resize/48/quality/80/optimize
+20|3840800|DAY BY DAY|티아라|412000|2133148|DAY BY DAY|https://cdnimg.melon.co.kr/cm/album/images/021/33/148/2133148_500.jpg/melon/resize/48/quality/80/optimize
+21|3883073|ANYMORE|서인영|26265|2144146|ANYMORE|https://cdnimg.melon.co.kr/cm/album/images/021/44/146/2144146_500.jpg/melon/resize/48/quality/80/optimize
+22|3866219|부산 바캉스|레게 강 같은 평화|727100|2138805|Ya Man !!|https://cdnimg.melon.co.kr/cm/album/images/021/38/805/2138805_500.jpg/melon/resize/48/quality/80/optimize
+23|3834908|한사람|허각|28801|2130010|한사람 (빅 OST)|https://cdnimg.melon.co.kr/cm/album/images/021/30/010/2130010_500.jpg/melon/resize/48/quality/80/optimize
+24|3890546|두 뺨에 닿기 전에|별|27033|2147978|골든타임 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/021/47/978/2147978_500.jpg/melon/resize/48/quality/80/optimize
+25|3832098|그댈 마주하는건 힘들어 (그마힘)|버스커 버스커|569233|2128229|버스커 버스커 1집 마무리|https://cdnimg.melon.co.kr/cm/album/images/021/28/229/2128229_500.jpg/melon/resize/48/quality/80/optimize
+26|3892808|너 그렇게 살지마|럼블피쉬|108951|2148356|너 그렇게 살지마|https://cdnimg.melon.co.kr/cm/album/images/021/48/356/2148356_500.jpg/melon/resize/48/quality/80/optimize
+27|3853074|한 여름 밤의 꿈|브라운아이드걸스|181694|2137191|Brown Eyed Girls The Original|https://cdnimg.melon.co.kr/cm/album/images/021/37/191/2137191_500.jpg/melon/resize/48/quality/80/optimize
+28|3889519|Blue Rain 2012|걸스데이|482762|2147829|THE S Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/47/829/2147829_500.jpg/melon/resize/48/quality/80/optimize
+29|3820695|굿모닝 (Feat. 권정열 Of 10cm)|버벌진트|6985|2126130|굿모닝|https://cdnimg.melon.co.kr/cm/album/images/021/26/130/2126130_500.jpg/melon/resize/48/quality/80/optimize
+30|3891852|대박사건 (Crash)|B.A.P|623451|2148171|대박사건|https://cdnimg.melon.co.kr/cm/album/images/021/48/171/2148171_500.jpg/melon/resize/48/quality/80/optimize
+31|3853976|청개구리 (Feat. G-Dragon)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+32|3869344|나랑 사귈래?|틴탑|483581|2139260|Summer Special '나랑 사귈래?'|https://cdnimg.melon.co.kr/cm/album/images/021/39/260/2139260_500.jpg/melon/resize/48/quality/80/optimize
+33|3859717|봄 여름 여름 여름|용감한 녀석들|649953|2138050|용감한 녀석들 Summer Single|https://cdnimg.melon.co.kr/cm/album/images/021/38/050/2138050_500.jpg/melon/resize/48/quality/80/optimize
+34|3837815|안되겠더라|포맨 (4MEN)|100176|2131593|각시탈 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/31/593/2131593_500.jpg/melon/resize/48/quality/80/optimize
+35|3863651|달빛바다|아이유~피에스타|261143~686679|2138516|LOEN TREE Summer Story|https://cdnimg.melon.co.kr/cm/album/images/021/38/516/2138516_500.jpg/melon/resize/48/quality/80/optimize
+36|3818487|MONSTER|BIGBANG|198094|2125847|BIGBANG SPECIAL EDITION 'STILL ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/021/25/847/2125847_500.jpg/melon/resize/48/quality/80/optimize
+37|3840677|미안해서 미안해 (Feat. G.NA)|김진표|1136|2133136|JP6|https://cdnimg.melon.co.kr/cm/album/images/021/33/136/2133136_500.jpg/melon/resize/48/quality/80/optimize
+38|3853979|19금 77학개론 (Feat. 리쌍, 김진표)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+39|3822622|Electric Shock|f(x)|428501|2126375|'Electric Shock' The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/26/375/2126375_500.jpg/melon/resize/48/quality/80/optimize
+40|3892828|Over And Over (R.Tee Mix)|4minute|417985|2148359|신사동호랭이 프로젝트앨범 슈퍼마켓|https://cdnimg.melon.co.kr/cm/album/images/021/48/359/2148359_500.jpg/melon/resize/48/quality/80/optimize
+41|3884595|Carry On|알리 (ALi)|312266|2145087|신의 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/45/087/2145087_500.jpg/melon/resize/48/quality/80/optimize
+42|3876875|사랑이 방울지네|10CM|468244|2141166|오렌지 레볼루션 페스티벌 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/41/166/2141166_500.jpg/melon/resize/48/quality/80/optimize
+43|3846001|후유증|제국의아이들 (ZE:A)|449941|2136112|SPECTACULAR|https://cdnimg.melon.co.kr/cm/album/images/021/36/112/2136112_500.jpg/melon/resize/48/quality/80/optimize
+44|3835666|One More Night|Maroon 5|107721|2130347|Overexposed (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/021/30/347/2130347_500.jpg/melon/resize/48/quality/80/optimize
+45|3815739|Like this|원더걸스|217764|2125515|Wonder Party|https://cdnimg.melon.co.kr/cm/album/images/021/25/515/2125515_500.jpg/melon/resize/48/quality/80/optimize
+46|3892773|Tell Me Now|지나|482640|2148346|천번째 남자 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/48/346/2148346_500.jpg/melon/resize/48/quality/80/optimize
+47|3763493|나혼자 (Alone)|씨스타|473181|2107508|ALONE|https://cdnimg.melon.co.kr/cm/album/images/021/07/508/2107508_500.jpg/melon/resize/48/quality/80/optimize
+48|3795586|하루 끝|아이유|261143|2121646|스무 살의 봄|https://cdnimg.melon.co.kr/cm/album/images/021/21/646/2121646_500.jpg/melon/resize/48/quality/80/optimize
+49|3879559|BURNING|팬텀|588431|2142148|Phantom City|https://cdnimg.melon.co.kr/cm/album/images/021/42/148/2142148_500.jpg/melon/resize/48/quality/80/optimize
+50|3889384|차마 하지 못한 말|이장우|687896|2147759|차마 하지 못한 말|https://cdnimg.melon.co.kr/cm/album/images/021/47/759/2147759_500.jpg/melon/resize/48/quality/80/optimize

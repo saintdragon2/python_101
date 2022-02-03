@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|8009716|이젠 잊기로 해요|여은|758847|2661197|응답하라 1988 OST Part.10|https://cdnimg.melon.co.kr/cm/album/images/026/61/197/2661197_500.jpg/melon/resize/48/quality/80/optimize
+52|7979764|화이트(WHITE) (Feat. 박재범)|다비치|236815|2657061|D-MAKE|https://cdnimg.melon.co.kr/cm/album/images/026/57/061/2657061_500.jpg/melon/resize/48/quality/80/optimize
+53|7847861|Dumb Dumb|Red Velvet (레드벨벳)|780066|2639273|The Red - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/026/39/273/2639273_500.jpg/melon/resize/48/quality/80/optimize
+54|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+55|8033529|아스라이|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+56|8032418|서프라이즈 (Feat. Beenzino)|범키|623851|2663118|U-TURN|https://cdnimg.melon.co.kr/cm/album/images/026/63/118/2663118_500.jpg/melon/resize/48/quality/80/optimize
+57|7946059|이별밖에|노을|105623|2652515|이별밖에|https://cdnimg.melon.co.kr/cm/album/images/026/52/515/2652515_500.jpg/melon/resize/48/quality/80/optimize
+58|5702706|꺼내 먹어요|Zion.T|537920|2319240|Eat|https://cdnimg.melon.co.kr/cm/album/images/023/19/240/2319240_500.jpg/melon/resize/48/quality/80/optimize
+59|7956305|Dream (Feat. XIA of JYJ)|싸이 (PSY)|3865|2653861|칠집싸이다|https://cdnimg.melon.co.kr/cm/album/images/026/53/861/2653861_500.jpg/melon/resize/48/quality/80/optimize
+60|7953785|RUN|방탄소년단|672375|2653551|화양연화 pt.2|https://cdnimg.melon.co.kr/cm/album/images/026/53/551/2653551_500.jpg/melon/resize/48/quality/80/optimize
+61|7858989|어깨|소유 (SOYOU)~권정열|490981~607226|2640930|어깨|https://cdnimg.melon.co.kr/cm/album/images/026/40/930/2640930_500.jpg/melon/resize/48/quality/80/optimize
+62|8015549|Better Man (Feat. 타블로)|범키|623851|2661963|Better Man|https://cdnimg.melon.co.kr/cm/album/images/026/61/963/2661963_500.jpg/melon/resize/48/quality/80/optimize
+63|7860122|보통연애 (Feat. 박보람)|박경|650832|2641140|보통연애|https://cdnimg.melon.co.kr/cm/album/images/026/41/140/2641140_500.jpg/melon/resize/48/quality/80/optimize
+64|7931712|지못미|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+65|7870705|리듬 타 (RHYTHM TA)|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+66|8020880|선 (Feat. 우효) (45.7cm)|유승우|699637|2662695|Pit a Pat|https://cdnimg.melon.co.kr/cm/album/images/026/62/695/2662695_500.jpg/melon/resize/48/quality/80/optimize
+67|5835766|Okey Dokey|MINO (송민호)~지코 (ZICO)|742773~602056|2337492|쇼미더머니 4 Episode 6|https://cdnimg.melon.co.kr/cm/album/images/023/37/492/2337492_500.jpg/melon/resize/48/quality/80/optimize
+68|5704397|이럴거면 그러지말지 (Feat. Young K)|백아연|646173|2319508|이럴거면 그러지말지|https://cdnimg.melon.co.kr/cm/album/images/023/19/508/2319508_500.jpg/melon/resize/48/quality/80/optimize
+69|8009782|사랑가시 (민호&태현)|WINNER|775197|2661204|EXIT : E|https://cdnimg.melon.co.kr/cm/album/images/026/61/204/2661204_500.jpg/melon/resize/48/quality/80/optimize
+70|5719286|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+71|8033532|어김없이|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+72|5721440|LOVE ME RIGHT|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize
+73|5668985|그 남잔 말야|엠씨더맥스 (M.C the MAX)|161636|2314734|냄새를 보는 소녀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/14/734/2314734_500.jpg/melon/resize/48/quality/80/optimize
+74|8034012|어린왕자 (The Little Prince)|려욱 (RYEOWOOK)|209406|2664381|어린왕자 (The Little Prince) - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/64/381/2664381_500.jpg/melon/resize/48/quality/80/optimize
+75|7967337|밤의 멜로디|브라운 아이드 소울|107728|2655298|BROWN EYED SOUL 정규 4집 'SOUL COOKE'|https://cdnimg.melon.co.kr/cm/album/images/026/55/298/2655298_500.jpg/melon/resize/48/quality/80/optimize
+76|5385974|위잉위잉|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+77|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+78|8034004|What 2 Do (Feat. Crush & Jeff Bernat)|DEAN|880630|2664375|What 2 Do|https://cdnimg.melon.co.kr/cm/album/images/026/64/375/2664375_500.jpg/melon/resize/48/quality/80/optimize
+79|7987620|열두 시가 되면|가인|428821|2658098|열두 시가 되면|https://cdnimg.melon.co.kr/cm/album/images/026/58/098/2658098_500.jpg/melon/resize/48/quality/80/optimize
+80|7896509|푸르던|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+81|8030385|너와 나의 시간은|바닐라 어쿠스틱|305169|2663902|치즈인더트랩 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/026/63/902/2663902_500.jpg/melon/resize/48/quality/80/optimize
+82|7956302|I Remember You (Feat. Zion.T)|싸이 (PSY)|3865|2653861|칠집싸이다|https://cdnimg.melon.co.kr/cm/album/images/026/53/861/2653861_500.jpg/melon/resize/48/quality/80/optimize
+83|5644620|CALL ME BABY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+84|7958267|가질 수 없는 너|거미|30358|2654077|투유 프로젝트 - 슈가맨 Part.7|https://cdnimg.melon.co.kr/cm/album/images/026/54/077/2654077_500.jpg/melon/resize/48/quality/80/optimize
+85|8034017|사이다|예지|695332|2664382|Foresight Dream|https://cdnimg.melon.co.kr/cm/album/images/026/64/382/2664382_500.jpg/melon/resize/48/quality/80/optimize
+86|7911686|날 (Feat. JTONG)|지코 (ZICO)|602056|2648403|Boys and Girls|https://cdnimg.melon.co.kr/cm/album/images/026/48/403/2648403_500.jpg/melon/resize/48/quality/80/optimize
+87|7896507|Zeze|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+88|7865089|가끔|지아|227595|2641976|그녀는 예뻤다 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/41/976/2641976_500.jpg/melon/resize/48/quality/80/optimize
+89|8033531|pale blue note|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+90|7888412|말해 Yes Or No (Feat. PENOMECO, The Quiett)|지코 (ZICO)|602056|2645320|말해 Yes Or No|https://cdnimg.melon.co.kr/cm/album/images/026/45/320/2645320_500.jpg/melon/resize/48/quality/80/optimize
+91|7971053|Girl x Friend|EXO|724619|2655828|SING FOR YOU - 겨울 스페셜 앨범, 2015|https://cdnimg.melon.co.kr/cm/album/images/026/55/828/2655828_500.jpg/melon/resize/48/quality/80/optimize
+92|8038458|회상|장범준|648551|2664932|시그널 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/64/932/2664932_500.jpg/melon/resize/48/quality/80/optimize
+93|8028717|유복하게 살았는데|정진우|916005|2663672|K팝 스타 시즌 5 Part.6 (정진우, 마진가 S)|https://cdnimg.melon.co.kr/cm/album/images/026/63/672/2663672_500.jpg/melon/resize/48/quality/80/optimize
+94|7884171|모르나봐|소유 (SOYOU)~브라더수|490981~446175|2644698|그녀는 예뻤다 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/026/44/698/2644698_500.jpg/melon/resize/48/quality/80/optimize
+95|7971054|발자국 (On the snow)|EXO|724619|2655828|SING FOR YOU - 겨울 스페셜 앨범, 2015|https://cdnimg.melon.co.kr/cm/album/images/026/55/828/2655828_500.jpg/melon/resize/48/quality/80/optimize
+96|7900822|4 Walls|f(x)|428501|2646918|4 Walls - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/026/46/918/2646918_500.jpg/melon/resize/48/quality/80/optimize
+97|8013829|잘 지내고 있니|윤미래~펀치 (Punch)|1654~749640|2661701|잘 지내고 있니|https://cdnimg.melon.co.kr/cm/album/images/026/61/701/2661701_500.jpg/melon/resize/48/quality/80/optimize
+98|7931723|꿀잼|다이나믹 듀오|108358|2650829|GRAND CARNIVAL|https://cdnimg.melon.co.kr/cm/album/images/026/50/829/2650829_500.jpg/melon/resize/48/quality/80/optimize
+99|8030764|그 집 앞 (Feat. 김진호 Of SG워너비)|베이식 (Basick)|241227|2663951|그 집 앞|https://cdnimg.melon.co.kr/cm/album/images/026/63/951/2663951_500.jpg/melon/resize/48/quality/80/optimize
+100|7963662|Dear Santa|소녀시대-태티서 (Girls' Generation-TTS)|663691|2654730|Dear Santa - X-Mas Special|https://cdnimg.melon.co.kr/cm/album/images/026/54/730/2654730_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|5644636|다른 남자 말고 너|미쓰에이|481481|2311419|Colors|https://cdnimg.melon.co.kr/cm/album/images/023/11/419/2311419_500.jpg/melon/resize/48/quality/80/optimize
+2|5634219|19금 Puss (Prod.by 라이머)|지민~아이언|687001~781841|2310080|언프리티 랩스타 SEMI FINAL|https://cdnimg.melon.co.kr/cm/album/images/023/10/080/2310080_500.jpg/melon/resize/48/quality/80/optimize
+3|5652555|Shine Your Light|박효신|1191|2312480|Shine Your Light|https://cdnimg.melon.co.kr/cm/album/images/023/12/480/2312480_500.jpg/melon/resize/48/quality/80/optimize
+4|5629186|사월의 눈|허각|28801|2309363|사월의 눈|https://cdnimg.melon.co.kr/cm/album/images/023/09/363/2309363_500.jpg/melon/resize/48/quality/80/optimize
+5|5628083|두사랑 (Feat. 매드클라운)|다비치|236815|2309174|두사랑|https://cdnimg.melon.co.kr/cm/album/images/023/09/174/2309174_500.jpg/melon/resize/48/quality/80/optimize
+6|5644620|CALL ME BABY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+7|5642918|아무도 모르게 (Prod. by MC몽)|치타 (CHEETAH)~에일리(Ailee)|674719~629831|2311184|언프리티 랩스타 Track 6|https://cdnimg.melon.co.kr/cm/album/images/023/11/184/2311184_500.jpg/melon/resize/48/quality/80/optimize
+8|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+9|5639931|꽃이 핀다|케이윌|175139|2310810|[RE:]|https://cdnimg.melon.co.kr/cm/album/images/023/10/810/2310810_500.jpg/melon/resize/48/quality/80/optimize
+10|5576417|같은 시간 속의 너|나얼|3959|2302870|브라운 아이드 소울 싱글 프로젝트 1st. 같은 시간 속의 너 By 나얼|https://cdnimg.melon.co.kr/cm/album/images/023/02/870/2302870_500.jpg/melon/resize/48/quality/80/optimize
+11|5629148|Ice Cream Cake|Red Velvet (레드벨벳)|780066|2309156|The 1st Mini Album 'Ice Cream Cake'|https://cdnimg.melon.co.kr/cm/album/images/023/09/156/2309156_500.jpg/melon/resize/48/quality/80/optimize
+12|5657052|조만간 봐요 (Feat. BSK, 개코)|프라이머리|35682|2313239|2-1|https://cdnimg.melon.co.kr/cm/album/images/023/13/239/2313239_500.jpg/melon/resize/48/quality/80/optimize
+13|5634218|19금 Coma 07' (Prod.by DJ Juice, D.Theo)|치타 (CHEETAH)|674719|2310080|언프리티 랩스타 SEMI FINAL|https://cdnimg.melon.co.kr/cm/album/images/023/10/080/2310080_500.jpg/melon/resize/48/quality/80/optimize
+14|5610343|사랑 범벅 (Feat. 챈슬러 of the channels)|MC몽|11538|2306686|SONG FOR YOU|https://cdnimg.melon.co.kr/cm/album/images/023/06/686/2306686_500.jpg/melon/resize/48/quality/80/optimize
+15|4579468|봄 사랑 벚꽃 말고|HIGH4 (하이포)~아이유|767374~261143|2248659|봄 사랑 벚꽃 말고|https://cdnimg.melon.co.kr/cm/album/images/022/48/659/2248659_500.jpg/melon/resize/48/quality/80/optimize
+16|5622359|Apple (Feat. 박재범)|가인|428821|2307996|Hawwah|https://cdnimg.melon.co.kr/cm/album/images/023/07/996/2307996_500.jpg/melon/resize/48/quality/80/optimize
+17|5608760|시작이 좋아 2015 (Prod. By 버벌진트)|지민~임슬옹|687001~474423|2306498|언프리티 랩스타 Track 2|https://cdnimg.melon.co.kr/cm/album/images/023/06/498/2306498_500.jpg/melon/resize/48/quality/80/optimize
+18|5616999|슈퍼스타 (Prod. by D.O)|키썸 (Kisum)~San E~태완 (Taewan)|748510~402526~181295|2307604|언프리티 랩스타 Track 5|https://cdnimg.melon.co.kr/cm/album/images/023/07/604/2307604_500.jpg/melon/resize/48/quality/80/optimize
+19|5459268|Uptown Funk (Feat. Bruno Mars)|Mark Ronson|45077|2290446|Uptown Funk (Feat. Bruno Mars)|https://cdnimg.melon.co.kr/cm/album/images/022/90/446/2290446_500.jpg/melon/resize/48/quality/80/optimize
+20|5653958|봄바람 (Feat. 나얼)|이문세|43|2312722|NEW DIRECTION|https://cdnimg.melon.co.kr/cm/album/images/023/12/722/2312722_500.jpg/melon/resize/48/quality/80/optimize
+21|5592623|19금 My Type (Prod. By 버벌진트)|제시 (Jessi)~치타 (CHEETAH)~강남|176393~674719~573432|2304541|언프리티 랩스타 Track 3|https://cdnimg.melon.co.kr/cm/album/images/023/04/541/2304541_500.jpg/melon/resize/48/quality/80/optimize
+22|5653497|하기나 해 (Feat. Loco)|GRAY (그레이)|672625|2312636|grayground. 01|https://cdnimg.melon.co.kr/cm/album/images/023/12/636/2312636_500.jpg/melon/resize/48/quality/80/optimize
+23|5637019|새벽 가로수길 (With 송유빈)|백지영|1118|2310395|새벽 가로수길|https://cdnimg.melon.co.kr/cm/album/images/023/10/395/2310395_500.jpg/melon/resize/48/quality/80/optimize
+24|4857981|Sugar|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+25|5536206|목소리|노을|105623|2298684|보이지 않는 것들|https://cdnimg.melon.co.kr/cm/album/images/022/98/684/2298684_500.jpg/melon/resize/48/quality/80/optimize
+26|5572312|그냥 (Just)|Zion.T~Crush|537920~674710|2302415|Young|https://cdnimg.melon.co.kr/cm/album/images/023/02/415/2302415_500.jpg/melon/resize/48/quality/80/optimize
+27|4840271|위아래|EXID|630454|2277372|위아래|https://cdnimg.melon.co.kr/cm/album/images/022/77/372/2277372_500.jpg/melon/resize/48/quality/80/optimize
+28|5634221|19금 Unpretty Dreams (Prod.by GRAY)|제시 (Jessi)|176393|2310080|언프리티 랩스타 SEMI FINAL|https://cdnimg.melon.co.kr/cm/album/images/023/10/080/2310080_500.jpg/melon/resize/48/quality/80/optimize
+29|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+30|5555751|또 운다 또|다비치|236815|2300803|DAVICHI HUG|https://cdnimg.melon.co.kr/cm/album/images/023/00/803/2300803_500.jpg/melon/resize/48/quality/80/optimize
+31|5531227|화 (Feat. 진실 Of Mad Soul Child) (Fire)|매드클라운|219621|2298221|Piece Of Mine|https://cdnimg.melon.co.kr/cm/album/images/022/98/221/2298221_500.jpg/melon/resize/48/quality/80/optimize
+32|5647453|On & On (Prod.by The Quiett)|육지담~백예린 (Yerin Baek)|781321~698776|2311805|언프리티 랩스타 SEMI FINAL 2|https://cdnimg.melon.co.kr/cm/album/images/023/11/805/2311805_500.jpg/melon/resize/48/quality/80/optimize
+33|5584641|미쳐|4minute|417985|2301463|Crazy|https://cdnimg.melon.co.kr/cm/album/images/023/01/463/2301463_500.jpg/melon/resize/48/quality/80/optimize
+34|5647454|To.Mom (Feat. 인순이)|키썸 (Kisum)|748510|2311805|언프리티 랩스타 SEMI FINAL 2|https://cdnimg.melon.co.kr/cm/album/images/023/11/805/2311805_500.jpg/melon/resize/48/quality/80/optimize
+35|5622398|19금 어쩌라고 (So What)|빈지노 (Beenzino)|532029|2308316|어쩌라고 (So What)|https://cdnimg.melon.co.kr/cm/album/images/023/08/316/2308316_500.jpg/melon/resize/48/quality/80/optimize
+36|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+37|5545022|환청 (Feat. 나쑈 (NaShow))|장재인|28498|2299602|킬미힐미 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/99/602/2299602_500.jpg/melon/resize/48/quality/80/optimize
+38|5584400|사랑은 미친짓 (Feat. 칸토 of 트로이)|15& (박지민, 백예린)|698291|2303679|사랑은 미친짓|https://cdnimg.melon.co.kr/cm/album/images/023/03/679/2303679_500.jpg/melon/resize/48/quality/80/optimize
+39|5620321|Paradise Lost|가인|428821|2307996|Hawwah|https://cdnimg.melon.co.kr/cm/album/images/023/07/996/2307996_500.jpg/melon/resize/48/quality/80/optimize
+40|5627962|나도 여자예요|민아 (걸스데이)|488423|2309146|I am a Woman too|https://cdnimg.melon.co.kr/cm/album/images/023/09/146/2309146_500.jpg/melon/resize/48/quality/80/optimize
+41|5458267|광화문에서 (At Gwanghwamun)|규현 (KYUHYUN)|205880|2290324|The 1st Mini Album '광화문에서 (At Gwanghwamun)'|https://cdnimg.melon.co.kr/cm/album/images/022/90/324/2290324_500.jpg/melon/resize/48/quality/80/optimize
+42|5546828|팔베개 (Feat. 기현) (Pillow)|소유 (SOYOU)~기리보이|490981~585492|2299818|NO.MERCY (노머시) Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/99/818/2299818_500.jpg/melon/resize/48/quality/80/optimize
+43|5495296|사랑에 빠지고 싶다|정승환|792091|2294058|K팝 스타 시즌4 '사랑에 빠지고 싶다'|https://cdnimg.melon.co.kr/cm/album/images/022/94/058/2294058_500.jpg/melon/resize/48/quality/80/optimize
+44|5473905|LUV|Apink (에이핑크)|534360|2291986|Pink LUV|https://cdnimg.melon.co.kr/cm/album/images/022/91/986/2291986_500.jpg/melon/resize/48/quality/80/optimize
+45|5546489|유리구슬 (Glass Bead)|여자친구 (GFRIEND)|828478|2299776|여자친구 1st Mini Album 'Season Of Glass'|https://cdnimg.melon.co.kr/cm/album/images/022/99/776/2299776_500.jpg/melon/resize/48/quality/80/optimize
+46|-1|Problem (Feat. Iggy Azalea)|Ariana Grande|597451|2254403|Problem|https://cdnimg.melon.co.kr/cm/album/images/022/54/403/2254403_500.jpg/melon/resize/48/quality/80/optimize
+47|1764208|대낮에 한 이별 (Feat. 선예 (Wonder Girls))|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+48|5456521|사뿐사뿐|AOA|686920|2290102|사뿐사뿐|https://cdnimg.melon.co.kr/cm/album/images/022/90/102/2290102_500.jpg/melon/resize/48/quality/80/optimize
+49|4743560|Lost Stars|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+50|5650996|우연히 봄|로꼬~유주 (여자친구)|688432~858238|2312287|냄새를 보는 소녀 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/12/287/2312287_500.jpg/melon/resize/48/quality/80/optimize

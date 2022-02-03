@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2280185|Kiss (Feat. CL)|산다라박|165537|653653|Kiss|https://cdnimg.melon.co.kr/cm/album/images/006/53/653/653653_500.jpg/melon/resize/48/quality/80/optimize
+52|2330968|웃어 (Feat. 인순이)|마이티 마우스|239366|700354|Smile|https://cdnimg.melon.co.kr/cm/album/images/007/00/354/700354_500.jpg/melon/resize/48/quality/80/optimize
+53|2354532|마쉬멜로우|아이유|261143|718505|IU...IM|https://cdnimg.melon.co.kr/cm/album/images/007/18/505/718505_500.jpg/melon/resize/48/quality/80/optimize
+54|2353708|꿈을 꾸다 (Main Ver.)|김태우|182430|718422|아이리스 OST (Part 4)|https://cdnimg.melon.co.kr/cm/album/images/007/18/422/718422_500.jpg/melon/resize/48/quality/80/optimize
+55|2322749|내 이름 부르지마|이수영|995|692751|9th Dazzle|https://cdnimg.melon.co.kr/cm/album/images/006/92/751/692751_500.jpg/melon/resize/48/quality/80/optimize
+56|2347849|미안해, 사랑해서...|이영현|10210|707652|Take It|https://cdnimg.melon.co.kr/cm/album/images/007/07/652/707652_500.jpg/melon/resize/48/quality/80/optimize
+57|2229259|Abracadabra|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+58|2351773|나란 남자 (Feat. 메이비)|MC몽|11538|717753|천하무적 이평강 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/007/17/753/717753_500.jpg/melon/resize/48/quality/80/optimize
+59|2299311|사랑인걸요|태연 (TAEYEON)~써니 (SUNNY)|236797~257449|671260|맨땅에 헤딩 OST|https://cdnimg.melon.co.kr/cm/album/images/006/71/260/671260_500.jpg/melon/resize/48/quality/80/optimize
+60|-1|사랑할 줄은 몰랐어|V.O.S|108794|715459|인연만들기 OST|https://cdnimg.melon.co.kr/cm/album/images/007/15/459/715459_500.jpg/melon/resize/48/quality/80/optimize
+61|2347066|라떼처럼|윤건|14801|714053|라떼처럼|https://cdnimg.melon.co.kr/cm/album/images/007/14/053/714053_500.jpg/melon/resize/48/quality/80/optimize
+62|2269961|What A Girl Wants|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+63|2253748|내 귀에 캔디 (Feat. 택연 Of 2PM)|백지영|1118|628465|Ego|https://cdnimg.melon.co.kr/cm/album/images/006/28/465/628465_500.jpg/melon/resize/48/quality/80/optimize
+64|2330271|Love Of Iris|신승훈|25|699853|아이리스 OST (Part 2)|https://cdnimg.melon.co.kr/cm/album/images/006/99/853/699853_500.jpg/melon/resize/48/quality/80/optimize
+65|2319000|I Want You Back|시크릿|435121|689256|I Want You Back|https://cdnimg.melon.co.kr/cm/album/images/006/89/256/689256_500.jpg/melon/resize/48/quality/80/optimize
+66|2352750|Gimme The Light|2PM|259822|711451|1:59PM|https://cdnimg.melon.co.kr/cm/album/images/007/11/451/711451_500.jpg/melon/resize/48/quality/80/optimize
+67|2355858|웨딩드레스 (Wedding Dress)|태양|247621|718664|웨딩드레스|https://cdnimg.melon.co.kr/cm/album/images/007/18/664/718664_500.jpg/melon/resize/48/quality/80/optimize
+68|2304171|가인 (Feat. Nemo Of 미스에스)|배치기|101886|675364|367일|https://cdnimg.melon.co.kr/cm/album/images/006/75/364/675364_500.jpg/melon/resize/48/quality/80/optimize
+69|2351452|사랑탓|박화요비|2017|717451|내눈에 콩깍지 OST|https://cdnimg.melon.co.kr/cm/album/images/007/17/451/717451_500.jpg/melon/resize/48/quality/80/optimize
+70|2352751|Back 2U|2PM|259822|711451|1:59PM|https://cdnimg.melon.co.kr/cm/album/images/007/11/451/711451_500.jpg/melon/resize/48/quality/80/optimize
+71|2354546|사랑치|신승훈|25|718507|Love O'Clock|https://cdnimg.melon.co.kr/cm/album/images/007/18/507/718507_500.jpg/melon/resize/48/quality/80/optimize
+72|2291966|따라해 (Wannabe) (Feat. Mellow)|에픽하이 (EPIK HIGH)|108356|665451|[e]|https://cdnimg.melon.co.kr/cm/album/images/006/65/451/665451_500.jpg/melon/resize/48/quality/80/optimize
+73|2320748|사랑이라서|임재범|4838|690851|사랑이라서|https://cdnimg.melon.co.kr/cm/album/images/006/90/851/690851_500.jpg/melon/resize/48/quality/80/optimize
+74|2334482|러브레터 (FT.Triple)|FTISLAND (FT아일랜드)|226490|703553|Double Date|https://cdnimg.melon.co.kr/cm/album/images/007/03/553/703553_500.jpg/melon/resize/48/quality/80/optimize
+75|-1|19금 Baby By Me (Feat. Ne-Yo)|50 Cent|33241|715152|Baby By Me|https://cdnimg.melon.co.kr/cm/album/images/007/15/152/715152_500.jpg/melon/resize/48/quality/80/optimize
+76|2218822|In The Club|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+77|2312252|우리 지금 만나 (Feat. 장기하와 얼굴들)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+78|2278748|사랑 참 어렵다|이승철|1010|652251|사랑 참 어렵다 (이승철 10th 리패키지)|https://cdnimg.melon.co.kr/cm/album/images/006/52/251/652251_500.jpg/melon/resize/48/quality/80/optimize
+79|2322588|헤어질 거 같애 (Feat. MJ Of Sunnyside, 신혜)|박지헌|231826|692559|헤어질 거 같애|https://cdnimg.melon.co.kr/cm/album/images/006/92/559/692559_500.jpg/melon/resize/48/quality/80/optimize
+80|2352752|All Night Long|2PM|259822|711451|1:59PM|https://cdnimg.melon.co.kr/cm/album/images/007/11/451/711451_500.jpg/melon/resize/48/quality/80/optimize
+81|2312254|Carousel (Feat. 이적)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+82|2312178|나는... (Feat. Ivy)|MC몽|11538|682858|Humanimal (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/006/82/858/682858_500.jpg/melon/resize/48/quality/80/optimize
+83|2266940|사랑이 뭐길래|미스에스|275266|642809|Miss $ S Class|https://cdnimg.melon.co.kr/cm/album/images/006/42/809/642809_500.jpg/melon/resize/48/quality/80/optimize
+84|2291014|Honesty|Beyonce|3535|664561|I Am... Sasha Fierce (Platinum Edition)|https://cdnimg.melon.co.kr/cm/album/images/006/64/561/664561_500.jpg/melon/resize/48/quality/80/optimize
+85|2347604|뻔한여자|투앤비 (2NB)|182234|714452|2comfortable|https://cdnimg.melon.co.kr/cm/album/images/007/14/452/714452_500.jpg/melon/resize/48/quality/80/optimize
+86|2341748|잘지내|정엽|265067|710152|잘지내|https://cdnimg.melon.co.kr/cm/album/images/007/10/152/710152_500.jpg/melon/resize/48/quality/80/optimize
+87|2321563|여전히|이홍기 (FT아일랜드)|42554|691654|미남이시네요 OST|https://cdnimg.melon.co.kr/cm/album/images/006/91/654/691654_500.jpg/melon/resize/48/quality/80/optimize
+88|2350899|"Never Knew I Needed (From ""The Princess and the Frog""/Soundtrack Version)"|Ne-Yo|181769|716858|Never Knew I Needed|https://cdnimg.melon.co.kr/cm/album/images/007/16/858/716858_500.jpg/melon/resize/48/quality/80/optimize
+90|2321569|말도 없이|박신혜|437043|691654|미남이시네요 OST|https://cdnimg.melon.co.kr/cm/album/images/006/91/654/691654_500.jpg/melon/resize/48/quality/80/optimize
+91|2212365|I Don't Care|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+92|2336217|Young Love|서인국|436700|705159|부른다|https://cdnimg.melon.co.kr/cm/album/images/007/05/159/705159_500.jpg/melon/resize/48/quality/80/optimize
+93|2347677|사랑을 삼키다|정석|242957|714458|사랑을 삼키다|https://cdnimg.melon.co.kr/cm/album/images/007/14/458/714458_500.jpg/melon/resize/48/quality/80/optimize
+94|2258760|소년이여|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+95|2280287|심장병|아웃사이더~MC 스나이퍼~호란|181785~7560~221838|653756|환타스틱 프로젝트 Vol.1|https://cdnimg.melon.co.kr/cm/album/images/006/53/756/653756_500.jpg/melon/resize/48/quality/80/optimize
+96|2352748|My Heart|2PM|259822|711451|1:59PM|https://cdnimg.melon.co.kr/cm/album/images/007/11/451/711451_500.jpg/melon/resize/48/quality/80/optimize
+97|2315962|Chocolate Love (Electronic Pop Ver.)|f(x)|428501|686453|Chocolate Love|https://cdnimg.melon.co.kr/cm/album/images/006/86/453/686453_500.jpg/melon/resize/48/quality/80/optimize
+98|2253769|눈물도 아까워 (Feat. 현아 From 4Minute)|나비|242868|631953|눈물도 아까워|https://cdnimg.melon.co.kr/cm/album/images/006/31/953/631953_500.jpg/melon/resize/48/quality/80/optimize
+99|2293481|면사포|이승기|58793|666758|Shadow|https://cdnimg.melon.co.kr/cm/album/images/006/66/758/666758_500.jpg/melon/resize/48/quality/80/optimize
+100|2352690|아프다...|MC 한새~박소연 (bora)|3519~231575|718254|7th 'Rap & Blues' Take2|https://cdnimg.melon.co.kr/cm/album/images/007/18/254/718254_500.jpg/melon/resize/48/quality/80/optimize

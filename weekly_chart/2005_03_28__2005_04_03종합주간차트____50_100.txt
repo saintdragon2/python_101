@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|775191|하루|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+52|823828|잠이 늘었어|조규찬|525|301241|Guitology|https://cdnimg.melon.co.kr/cm/album/images/003/01/241/301241_500.jpg/melon/resize/48/quality/80/optimize
+53|602014|불치병 (Feat. Masta Wu)|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+55|623241|반대가 끌리는 이유|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+56|623161|이탈|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+57|634613|Tonight|홍경민|891|44763|Listen & Repeat|https://cdnimg.melon.co.kr/cm/album/images/000/44/763/44763_500.jpg/melon/resize/48/quality/80/optimize
+58|711637|보관함|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+59|827216|잘 지내나요|성시경|3305|301311|다시 꿈꾸고 싶다|https://cdnimg.melon.co.kr/cm/album/images/003/01/311/301311_500.jpg/melon/resize/48/quality/80/optimize
+60|632780|세월의 흔적 다 버리고|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+61|827785|가면 (Persona)|강타 (KANGTA)|1582|301360|Persona|https://cdnimg.melon.co.kr/cm/album/images/003/01/360/301360_500.jpg/melon/resize/48/quality/80/optimize
+62|827215|다시 시작해도 될까요|성시경|3305|301311|다시 꿈꾸고 싶다|https://cdnimg.melon.co.kr/cm/album/images/003/01/311/301311_500.jpg/melon/resize/48/quality/80/optimize
+63|737513|Love Song|롤러 코스터|100195|300976|열여덟 스물아홉 OST|https://cdnimg.melon.co.kr/cm/album/images/003/00/976/300976_500.jpg/melon/resize/48/quality/80/optimize
+64|731087|Do Something (Album Version)|Britney Spears|8046|300511|Do Something (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/00/511/300511_500.jpg/melon/resize/48/quality/80/optimize
+65|733357|바보|박혜경|1790|300768|원더풀 라이프 OST|https://cdnimg.melon.co.kr/cm/album/images/003/00/768/300768_500.jpg/melon/resize/48/quality/80/optimize
+66|732518|내가 아니죠...|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+67|708701|몇번을 헤어져도|김희선|8896|50318|슬픈연가 OST|https://cdnimg.melon.co.kr/cm/album/images/000/50/318/50318_500.jpg/melon/resize/48/quality/80/optimize
+68|632779|천생연분|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+69|775215|My Way|캔|100139|301186|My Way|https://cdnimg.melon.co.kr/cm/album/images/003/01/186/301186_500.jpg/melon/resize/48/quality/80/optimize
+70|827116|충전|이재진|1679|301296|It's New|https://cdnimg.melon.co.kr/cm/album/images/003/01/296/301296_500.jpg/melon/resize/48/quality/80/optimize
+71|705329|Full Moon|Brandy|16383|50088|Full Moon|https://cdnimg.melon.co.kr/cm/album/images/000/50/088/50088_500.jpg/melon/resize/48/quality/80/optimize
+72|775214|답 (Answer)|캔|100139|301186|My Way|https://cdnimg.melon.co.kr/cm/album/images/003/01/186/301186_500.jpg/melon/resize/48/quality/80/optimize
+73|775161|눈물잔|박상민|956|301162|서랍속 이야기|https://cdnimg.melon.co.kr/cm/album/images/003/01/162/301162_500.jpg/melon/resize/48/quality/80/optimize
+74|827583|If You..|M (이민우)|1742|301341|If You..|https://cdnimg.melon.co.kr/cm/album/images/003/01/341/301341_500.jpg/melon/resize/48/quality/80/optimize
+75|732320|Get Right (CF - 베이직 하우스)|Jennifer Lopez|2845|300609|Rebirth|https://cdnimg.melon.co.kr/cm/album/images/003/00/609/300609_500.jpg/melon/resize/48/quality/80/optimize
+76|642420|겨울일기|장나라|10575|45305|나의 이야기|https://cdnimg.melon.co.kr/cm/album/images/000/45/305/45305_500.jpg/melon/resize/48/quality/80/optimize
+77|728541|사랑가|하하|35007|300314|The Beautiful Rhyme Diary|https://cdnimg.melon.co.kr/cm/album/images/003/00/314/300314_500.jpg/melon/resize/48/quality/80/optimize
+78|-1|My Happy Ending|Avril Lavigne|30023|300882|Under My Skin (Special Edition)|https://cdnimg.melon.co.kr/cm/album/images/003/00/882/300882_500.jpg/melon/resize/48/quality/80/optimize
+79|634612|To My Friend|홍경민|891|44763|Listen & Repeat|https://cdnimg.melon.co.kr/cm/album/images/000/44/763/44763_500.jpg/melon/resize/48/quality/80/optimize
+80|686649|행복하길 바래|임형주|11937|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+81|708215|못다한 한마디...|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+82|775129|오빠는...|플라워|100391|301149|플라워 4th|https://cdnimg.melon.co.kr/cm/album/images/003/01/149/301149_500.jpg/melon/resize/48/quality/80/optimize
+83|622776|I Wanna (Drop It, Like It'S Hot! - Feat. Smash Of 45Rpm, Red-Roc)|DJ DOC|100005|43512|Love & Sex, Happiness 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/512/43512_500.jpg/melon/resize/48/quality/80/optimize
+84|827894|그대는 모르죠 (Good-bye)|플라이 투 더 스카이|100183|301369|중력 (Gravity)|https://cdnimg.melon.co.kr/cm/album/images/003/01/369/301369_500.jpg/melon/resize/48/quality/80/optimize
+85|623750|Lose My Breath|Destiny's Child|100686|43775|Destiny Fulfilled|https://cdnimg.melon.co.kr/cm/album/images/000/43/775/43775_500.jpg/melon/resize/48/quality/80/optimize
+86|732519|가시|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+87|533228|Life Is Cool|Sweetbox|100060|35191|Adagio|https://cdnimg.melon.co.kr/cm/album/images/000/35/191/35191_500.jpg/melon/resize/48/quality/80/optimize
+88|623157|빙고|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+89|732522|일기|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+90|732516|나에게로 떠나는 여행|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+91|686652|미안해야 하는거니|애즈원|100093|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+92|698973|녹|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+93|698979|그리움을 사랑한 가시나무|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+94|775261|Funky Station (Feat. 한상원 )|펑키 스테이션|167403|301205|Funky Station|https://cdnimg.melon.co.kr/cm/album/images/003/01/205/301205_500.jpg/melon/resize/48/quality/80/optimize
+95|601846|My Prerogative (라네즈 슬라이딩 팩트 CF 전지현편)|Britney Spears|8046|41985|Greatest Hits : My Prerogative|https://cdnimg.melon.co.kr/cm/album/images/000/41/985/41985_500.jpg/melon/resize/48/quality/80/optimize
+96|827491|It's Alright|퍼퓸|167798|301335|Colors Of Temptation|https://cdnimg.melon.co.kr/cm/album/images/003/01/335/301335_500.jpg/melon/resize/48/quality/80/optimize
+97|537210|은영이에게|KCM|45995|35465|Beautiful Mind|https://cdnimg.melon.co.kr/cm/album/images/000/35/465/35465_500.jpg/melon/resize/48/quality/80/optimize
+98|732520|비망록 (스물의노래)|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+99|742312|내 남자의 여자친구|별|27033|301021|별 2집|https://cdnimg.melon.co.kr/cm/album/images/003/01/021/301021_500.jpg/melon/resize/48/quality/80/optimize
+100|601488|Toxic|Britney Spears|8046|41985|Greatest Hits : My Prerogative|https://cdnimg.melon.co.kr/cm/album/images/000/41/985/41985_500.jpg/melon/resize/48/quality/80/optimize

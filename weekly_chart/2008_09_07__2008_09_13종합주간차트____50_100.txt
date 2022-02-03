@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1871159|Too Much (With 서인영) (우리결혼했어요 화제곡)|크라운제이 (CROWN J)|182206|380143|Too Much (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/80/143/380143_500.jpg/melon/resize/48/quality/80/optimize
+52|1841034|가슴으로 외쳐 (Rap Feat. Rhymer)|먼데이 키즈 (Monday Kiz)|175155|374973|Inside Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/973/374973_500.jpg/melon/resize/48/quality/80/optimize
+53|1917571|Solo (Feat. Alex)|다이나믹 듀오|108358|392969|Last Days|https://cdnimg.melon.co.kr/cm/album/images/003/92/969/392969_500.jpg/melon/resize/48/quality/80/optimize
+54|1914694|운명을 거슬러|SG 워너비~김종욱|108363~4388|393023|에덴의 동쪽 OST|https://cdnimg.melon.co.kr/cm/album/images/003/93/023/393023_500.jpg/melon/resize/48/quality/80/optimize
+55|1851229|서커스 (Feat. 임유경 - 달래 음악단 , ＄howgun)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+56|1911466|우리들의 행복한 시간 (Feat. 주(Joo) Narr. 안혜경)|미노 (프리스타일)~타우|428828~255466|391552|The First Songs For You To Remember Our Happy Days|https://cdnimg.melon.co.kr/cm/album/images/003/91/552/391552_500.jpg/melon/resize/48/quality/80/optimize
+57|1922252|D.I.S.C.O Part.2 (Feat. G-Dragon)|엄정화|1100|396209|D.I.S.C.O. Part.2 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/96/209/396209_500.jpg/melon/resize/48/quality/80/optimize
+58|1902386|그대만 보여요 (Feat. BigBang T.O.P)|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+59|1908650|미쳐미쳐미쳐|바나나 걸|108613|390552|Colorful|https://cdnimg.melon.co.kr/cm/album/images/003/90/552/390552_500.jpg/melon/resize/48/quality/80/optimize
+60|1918895|그대라서|신혜성|1741|395257|Live And Let Live|https://cdnimg.melon.co.kr/cm/album/images/003/95/257/395257_500.jpg/melon/resize/48/quality/80/optimize
+61|1913500|Intro (Stand Up)|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+62|1851232|죽도록 사랑해 (Feat. 박정현)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+63|1918226|내 여자|The One (더원)|160816|394863|내 여자|https://cdnimg.melon.co.kr/cm/album/images/003/94/863/394863_500.jpg/melon/resize/48/quality/80/optimize
+64|1923550|미안해, 고마워, 사랑해|먼데이 키즈 (Monday Kiz)|175155|396351|Recollection|https://cdnimg.melon.co.kr/cm/album/images/003/96/351/396351_500.jpg/melon/resize/48/quality/80/optimize
+65|1884797|Honey|옥주현|1714|383155|Remind|https://cdnimg.melon.co.kr/cm/album/images/003/83/155/383155_500.jpg/melon/resize/48/quality/80/optimize
+66|1924483|상심증후군 (Feat.Daylight)|노블레스~Daylight|160738~27784|397154|Broken Heart Syndrome|https://cdnimg.melon.co.kr/cm/album/images/003/97/154/397154_500.jpg/melon/resize/48/quality/80/optimize
+67|1924380|난 너에게 (Feat. 박혜경)|마리오|243278|397053|난 너에게|https://cdnimg.melon.co.kr/cm/album/images/003/97/053/397053_500.jpg/melon/resize/48/quality/80/optimize
+68|1919085|웨딩데이|서지영|1819|395260|Chocolate#1 - Happiness|https://cdnimg.melon.co.kr/cm/album/images/003/95/260/395260_500.jpg/melon/resize/48/quality/80/optimize
+69|1923444|죽도록|The One (더원)|160816|396318|The Last|https://cdnimg.melon.co.kr/cm/album/images/003/96/318/396318_500.jpg/melon/resize/48/quality/80/optimize
+70|-1|Miss Independent|Ne-Yo|181769|394860|Miss Independent|https://cdnimg.melon.co.kr/cm/album/images/003/94/860/394860_500.jpg/melon/resize/48/quality/80/optimize
+71|1922342|Remember|장혜진~수호|5675~184926|396216|Remember|https://cdnimg.melon.co.kr/cm/album/images/003/96/216/396216_500.jpg/melon/resize/48/quality/80/optimize
+72|1906440|남자 (男子)|남규리|223392|389061|고死(사): 피의 중간고사 OST|https://cdnimg.melon.co.kr/cm/album/images/003/89/061/389061_500.jpg/melon/resize/48/quality/80/optimize
+73|1874398|This Time|원더걸스|217764|381932|So Hot|https://cdnimg.melon.co.kr/cm/album/images/003/81/932/381932_500.jpg/melon/resize/48/quality/80/optimize
+74|1890407|이순간 이대로|브라운 아이즈|100742|386400|Two Things Needed For The Same Purpose And 5 Objets|https://cdnimg.melon.co.kr/cm/album/images/003/86/400/386400_500.jpg/melon/resize/48/quality/80/optimize
+75|1902382|난 행복해|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+76|1850253|우산 (Feat. 윤하)|에픽하이 (EPIK HIGH)|108356|376100|Pieces, Part One|https://cdnimg.melon.co.kr/cm/album/images/003/76/100/376100_500.jpg/melon/resize/48/quality/80/optimize
+77|1885992|사랑해요|이수 (엠씨더맥스)|214784|384260|M.C The Max 이수 ‘사랑해요’|https://cdnimg.melon.co.kr/cm/album/images/003/84/260/384260_500.jpg/melon/resize/48/quality/80/optimize
+78|1923202|연애 (Title) (Feat. 허밍어반스테레오)|메이비 (Maybee)~하울|43443~175136|396303|연애결혼 OST|https://cdnimg.melon.co.kr/cm/album/images/003/96/303/396303_500.jpg/melon/resize/48/quality/80/optimize
+79|1917222|어깨 쫙|거북이|101463|394374|못다한 이야기|https://cdnimg.melon.co.kr/cm/album/images/003/94/374/394374_500.jpg/melon/resize/48/quality/80/optimize
+80|1921302|살다가 (R&B Ver.)|SG 워너비|108363|396126|뮤직2.0 스페셜에디션|https://cdnimg.melon.co.kr/cm/album/images/003/96/126/396126_500.jpg/melon/resize/48/quality/80/optimize
+81|1914208|Good Love (Feat. BSK a.k.a 김범수)|다이나믹 듀오|108358|392969|Last Days|https://cdnimg.melon.co.kr/cm/album/images/003/92/969/392969_500.jpg/melon/resize/48/quality/80/optimize
+82|1923473|다가갈게요|에스진|172890|396320|다가갈게요|https://cdnimg.melon.co.kr/cm/album/images/003/96/320/396320_500.jpg/melon/resize/48/quality/80/optimize
+83|526391|청혼|노을|105623|34746|These Are The Times|https://cdnimg.melon.co.kr/cm/album/images/000/34/746/34746_500.jpg/melon/resize/48/quality/80/optimize
+84|1854857|멋지게 이별|SG 워너비|108363|376502|My Friend|https://cdnimg.melon.co.kr/cm/album/images/003/76/502/376502_500.jpg/melon/resize/48/quality/80/optimize
+85|1698598|거짓말|BIGBANG|198094|355853|Always|https://cdnimg.melon.co.kr/cm/album/images/003/55/853/355853_500.jpg/melon/resize/48/quality/80/optimize
+86|1746426|Brave|Jennifer Lopez|2845|359268|Brave|https://cdnimg.melon.co.kr/cm/album/images/003/59/268/359268_500.jpg/melon/resize/48/quality/80/optimize
+87|1892695|결혼 (Feat. 가인 For 브라운아이드걸스)|정철 (최정철)|12872|386747|결혼|https://cdnimg.melon.co.kr/cm/album/images/003/86/747/386747_500.jpg/melon/resize/48/quality/80/optimize
+88|1920518|운명을 거슬러|SG 워너비~김종욱|108363~4388|395958|에덴의 동쪽 OST|https://cdnimg.melon.co.kr/cm/album/images/003/95/958/395958_500.jpg/melon/resize/48/quality/80/optimize
+89|1903048|천하무적 이효리|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+90|1850242|One (Feat. 지선)|에픽하이 (EPIK HIGH)|108356|376100|Pieces, Part One|https://cdnimg.melon.co.kr/cm/album/images/003/76/100/376100_500.jpg/melon/resize/48/quality/80/optimize
+91|1904001|해뜰날 (Feat. 마이티 마우스)|신지|5907|389812|1st Album|https://cdnimg.melon.co.kr/cm/album/images/003/89/812/389812_500.jpg/melon/resize/48/quality/80/optimize
+92|1765767|마지막 인사|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+93|1916552|아버지 (Feat. Ra.D)|다이나믹 듀오|108358|392969|Last Days|https://cdnimg.melon.co.kr/cm/album/images/003/92/969/392969_500.jpg/melon/resize/48/quality/80/optimize
+94|1913507|어쩜 좋아|메이비 (Maybee)|43443|392871|어쩜 좋아|https://cdnimg.melon.co.kr/cm/album/images/003/92/871/392871_500.jpg/melon/resize/48/quality/80/optimize
+95|1884223|화신 (花信)|박효신|1191|382883|일지매 OST|https://cdnimg.melon.co.kr/cm/album/images/003/82/883/382883_500.jpg/melon/resize/48/quality/80/optimize
+96|1918889|Moonlight Girl|현영|181704|395256|Moonlight Girl|https://cdnimg.melon.co.kr/cm/album/images/003/95/256/395256_500.jpg/melon/resize/48/quality/80/optimize
+97|1907014|헤픈여자|일 락|57315|390281|Footloose|https://cdnimg.melon.co.kr/cm/album/images/003/90/281/390281_500.jpg/melon/resize/48/quality/80/optimize
+98|1920485|기억 (Feat. 타블로) (Rap Mix Ver.)|윤하 (YOUNHA)|203912|395955|Someday|https://cdnimg.melon.co.kr/cm/album/images/003/95/955/395955_500.jpg/melon/resize/48/quality/80/optimize
+99|1871543|그대만 보며|이정|39256|381172|그대만 보며 (KBS 일일시트콤 '못말리는 결혼' 삽입곡)|https://cdnimg.melon.co.kr/cm/album/images/003/81/172/381172_500.jpg/melon/resize/48/quality/80/optimize
+100|1912291|사랑해 (Fall In Love)|김건모|889|392154|Soul Groove|https://cdnimg.melon.co.kr/cm/album/images/003/92/154/392154_500.jpg/melon/resize/48/quality/80/optimize

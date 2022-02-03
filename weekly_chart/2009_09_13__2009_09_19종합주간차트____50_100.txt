@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2194773|잘가요 내사랑|에이트|228841|583952|잘가요 내사랑|https://cdnimg.melon.co.kr/cm/album/images/005/83/952/583952_500.jpg/melon/resize/48/quality/80/optimize
+52|2276249|사랑한다는 말 (Duet. 알렉스)|제이|1203|650258|Dream Catcher|https://cdnimg.melon.co.kr/cm/album/images/006/50/258/650258_500.jpg/melon/resize/48/quality/80/optimize
+53|2258763|Butterfly (Feat. Jin Jung)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+54|2277740|너를 향한 마음|리즈 (Leeds)|26762|651265|너를 향한 마음|https://cdnimg.melon.co.kr/cm/album/images/006/51/265/651265_500.jpg/melon/resize/48/quality/80/optimize
+55|2221852|냉면|명카드라이브|421624|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+56|2258768|19금 She's Gone (Feat. Kush)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+57|2285181|이 노래를 들으면 (Feat. 수호)|태사비애|229242|658957|이 노래를 들으면|https://cdnimg.melon.co.kr/cm/album/images/006/58/957/658957_500.jpg/melon/resize/48/quality/80/optimize
+58|2210155|True Romance (Feat. T)|드렁큰 타이거|100027|596251|Feel gHood Muzik : The 8th Wonder|https://cdnimg.melon.co.kr/cm/album/images/005/96/251/596251_500.jpg/melon/resize/48/quality/80/optimize
+59|2293481|면사포|이승기|58793|666758|Shadow|https://cdnimg.melon.co.kr/cm/album/images/006/66/758/666758_500.jpg/melon/resize/48/quality/80/optimize
+60|2284766|I Love You (Feat. 미료)|나르샤 (Brown Eyed Girls)|261744|658553|아가씨를 부탁해 OST 1.5집|https://cdnimg.melon.co.kr/cm/album/images/006/58/553/658553_500.jpg/melon/resize/48/quality/80/optimize
+61|2255158|생각이나|부활|100594|632858|25th Anniversary: Retrospect|https://cdnimg.melon.co.kr/cm/album/images/006/32/858/632858_500.jpg/melon/resize/48/quality/80/optimize
+62|2286835|Slow Man (Feat. 찬양)|김범수|6502|660567|Slow Man (10주년 디지털 싱글)|https://cdnimg.melon.co.kr/cm/album/images/006/60/567/660567_500.jpg/melon/resize/48/quality/80/optimize
+63|2140978|있잖아 (Rock Ver.)|아이유|261143|546853|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/005/46/853/546853_500.jpg/melon/resize/48/quality/80/optimize
+64|2245550|Mad (Feat. 언터쳐블)|바다 (BADA)|1605|625651|바다를 바라보다...|https://cdnimg.melon.co.kr/cm/album/images/006/25/651/625651_500.jpg/melon/resize/48/quality/80/optimize
+65|2287548|미련도 사랑이다|Ashgray~윤도현|405025~923|661351|미련도 사랑이다|https://cdnimg.melon.co.kr/cm/album/images/006/61/351/661351_500.jpg/melon/resize/48/quality/80/optimize
+66|2135469|Again＆Again|2PM|259822|542253|2:00PM Time For Change|https://cdnimg.melon.co.kr/cm/album/images/005/42/253/542253_500.jpg/melon/resize/48/quality/80/optimize
+67|2289601|세상이 그대를 속일지라도|김건모|889|663258|세상이 그대를 속일지라도 (유영석 20주년 기념앨범 Part. 2)|https://cdnimg.melon.co.kr/cm/album/images/006/63/258/663258_500.jpg/melon/resize/48/quality/80/optimize
+68|2221848|Let's Dance|퓨처라이거|421620|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+69|2218823|Let's Go Party|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+70|2160048|Fire|2NE1|406712|554651|Fire (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/005/54/651/554651_500.jpg/melon/resize/48/quality/80/optimize
+71|2213637|별이 빛나는 밤에|원투|106928|598572|별이 빛나는 밤에|https://cdnimg.melon.co.kr/cm/album/images/005/98/572/598572_500.jpg/melon/resize/48/quality/80/optimize
+72|2289925|널바라기|박효신|1191|663561|Gift (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/63/561/663561_500.jpg/melon/resize/48/quality/80/optimize
+73|2258766|19금 Korean Dream (Feat. 태양)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+74|2281107|자랑해|라이언|302367|654653|Ryan Learns To Love|https://cdnimg.melon.co.kr/cm/album/images/006/54/653/654653_500.jpg/melon/resize/48/quality/80/optimize
+75|2223049|Supermagic|Supreme Team|410162|606451|Supreme Team Guide To Excellent Adventure|https://cdnimg.melon.co.kr/cm/album/images/006/06/451/606451_500.jpg/melon/resize/48/quality/80/optimize
+76|2291954|트로트|에픽하이 (EPIK HIGH)|108356|665451|[e]|https://cdnimg.melon.co.kr/cm/album/images/006/65/451/665451_500.jpg/melon/resize/48/quality/80/optimize
+77|2269961|What A Girl Wants|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+78|2258769|1년 정거장|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+79|2289923|Gift|박효신|1191|663561|Gift (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/63/561/663561_500.jpg/melon/resize/48/quality/80/optimize
+80|2259950|Dash Girl|윤은혜|1639|636651|아가씨를 부탁해 OST|https://cdnimg.melon.co.kr/cm/album/images/006/36/651/636651_500.jpg/melon/resize/48/quality/80/optimize
+81|2285248|Just Drag (저스트 드래그)|장근석|57789|659051|Just Drag|https://cdnimg.melon.co.kr/cm/album/images/006/59/051/659051_500.jpg/melon/resize/48/quality/80/optimize
+82|2101157|심장이 없어|에이트|228841|514852|골든에이지|https://cdnimg.melon.co.kr/cm/album/images/005/14/852/514852_500.jpg/melon/resize/48/quality/80/optimize
+83|2180148|큰일이다|V.O.S|108794|571951|Routine Free|https://cdnimg.melon.co.kr/cm/album/images/005/71/951/571951_500.jpg/melon/resize/48/quality/80/optimize
+84|2289926|이상하다|박효신|1191|663561|Gift (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/63/561/663561_500.jpg/melon/resize/48/quality/80/optimize
+85|2245640|장미|박화요비|2017|625662|Summer|https://cdnimg.melon.co.kr/cm/album/images/006/25/662/625662_500.jpg/melon/resize/48/quality/80/optimize
+86|2183950|What You Do (Feat. Ne-Yo)|Chrisette Michele|227390|574851|Epiphany|https://cdnimg.melon.co.kr/cm/album/images/005/74/851/574851_500.jpg/melon/resize/48/quality/80/optimize
+87|2293512|속았다 (Narration Of 이요원)|태군|323676|666763|The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/006/66/763/666763_500.jpg/melon/resize/48/quality/80/optimize
+88|2289927|이름 모를 새|박효신|1191|663561|Gift (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/63/561/663561_500.jpg/melon/resize/48/quality/80/optimize
+89|2285191|너 다시 군대가|수빈|314166|658959|너 다시 군대가|https://cdnimg.melon.co.kr/cm/album/images/006/58/959/658959_500.jpg/melon/resize/48/quality/80/optimize
+90|2285411|서로가 (2009 New Ver.)|이문세|43|659157|2009 이문세 붉은 노을|https://cdnimg.melon.co.kr/cm/album/images/006/59/157/659157_500.jpg/melon/resize/48/quality/80/optimize
+91|2126448|마음이 다쳐서 (Feat. Crown J)|나비|242868|534851|마음이 다쳐서|https://cdnimg.melon.co.kr/cm/album/images/005/34/851/534851_500.jpg/melon/resize/48/quality/80/optimize
+92|2218825|Stay Together|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+93|2227760|보고보고|쿨 (COOL)|100004|610452|쿨 11집|https://cdnimg.melon.co.kr/cm/album/images/006/10/452/610452_500.jpg/melon/resize/48/quality/80/optimize
+94|2195885|커플 (Feat. 황정음)|김용준|417791|584953|우리 결혼했어요|https://cdnimg.melon.co.kr/cm/album/images/005/84/953/584953_500.jpg/melon/resize/48/quality/80/optimize
+95|-1|Cry Me Out|Pixie Lott|421442|661759|Turn It Up|https://cdnimg.melon.co.kr/cm/album/images/006/61/759/661759_500.jpg/melon/resize/48/quality/80/optimize
+96|2289948|로맨틱 코메디|유승찬|408640|663651|How Are Yoo?|https://cdnimg.melon.co.kr/cm/album/images/006/63/651/663651_500.jpg/melon/resize/48/quality/80/optimize
+97|2268150|고래의 꿈|버블 시스터즈|105696|643175|슈퍼스타 #1: 바늘에 찔린 포도왕자 OST|https://cdnimg.melon.co.kr/cm/album/images/006/43/175/643175_500.jpg/melon/resize/48/quality/80/optimize
+98|2289928|Deja-vu|박효신|1191|663561|Gift (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/63/561/663561_500.jpg/melon/resize/48/quality/80/optimize
+99|2272472|Energetic (Radio Edit)|보아 (BoA)|2165|646953|BoA Deluxe (1st US Album Repack)|https://cdnimg.melon.co.kr/cm/album/images/006/46/953/646953_500.jpg/melon/resize/48/quality/80/optimize
+100|2276190|원해|티맥스|227372|650255|Love Parade 2|https://cdnimg.melon.co.kr/cm/album/images/006/50/255/650255_500.jpg/melon/resize/48/quality/80/optimize

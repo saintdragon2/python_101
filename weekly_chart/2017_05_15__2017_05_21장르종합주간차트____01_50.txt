@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|30403589|I LUV IT|싸이 (PSY)|3865|10060647|PSY 8th 4X2=8|https://cdnimg.melon.co.kr/cm/album/images/100/60/647/10060647_500.jpg/melon/resize/48/quality/80/optimize
+2|30408193|맞지?|언니쓰|990909|10061398|언니들의 슬램덩크 시즌 2|https://cdnimg.melon.co.kr/cm/album/images/100/61/398/10061398_500.jpg/melon/resize/48/quality/80/optimize
+3|30403590|New Face|싸이 (PSY)|3865|10060647|PSY 8th 4X2=8|https://cdnimg.melon.co.kr/cm/album/images/100/60/647/10060647_500.jpg/melon/resize/48/quality/80/optimize
+4|30413326|SIGNAL|TWICE (트와이스)|905701|10062172|SIGNAL|https://cdnimg.melon.co.kr/cm/album/images/100/62/172/10062172_500.jpg/melon/resize/48/quality/80/optimize
+5|30390068|오늘 취하면 (Feat. 창모) (Prod. SUGA)|SURAN (수란)|792765|10058598|WINE|https://cdnimg.melon.co.kr/cm/album/images/100/58/598/10058598_500.jpg/melon/resize/48/quality/80/optimize
+6|30378156|팔레트 (Feat. G-DRAGON)|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+7|30341745|REALLY REALLY|WINNER|775197|10051659|FATE NUMBER FOR|https://cdnimg.melon.co.kr/cm/album/images/100/51/659/10051659_500.jpg/melon/resize/48/quality/80/optimize
+8|30349593|사랑이 잘 (With 오혁)|아이유|261143|10052968|사랑이 잘|https://cdnimg.melon.co.kr/cm/album/images/100/52/968/10052968_500.jpg/melon/resize/48/quality/80/optimize
+9|30367365|BLUE MOON (Prod. GroovyRoom)|효린~창모 (CHANGMO)|573812~774900|10055259|BLUE MOON|https://cdnimg.melon.co.kr/cm/album/images/100/55/259/10055259_500.jpg/melon/resize/48/quality/80/optimize
+10|30188113|Shape of You|Ed Sheeran|549800|10028835|÷ (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/100/28/835/10028835_500.jpg/melon/resize/48/quality/80/optimize
+11|30383949|TOMBOY|혁오 (HYUKOH)|785589|10057570|23|https://cdnimg.melon.co.kr/cm/album/images/100/57/570/10057570_500.jpg/melon/resize/48/quality/80/optimize
+12|30314784|밤편지|아이유|261143|10047890|밤편지|https://cdnimg.melon.co.kr/cm/album/images/100/47/890/10047890_500.jpg/melon/resize/48/quality/80/optimize
+13|4786735|Marry Me|마크툽 (MAKTUB)~구윤회|566431~441487|2271467|마크툽 프로젝트 Vol.03|https://cdnimg.melon.co.kr/cm/album/images/022/71/467/2271467_500.jpg/melon/resize/48/quality/80/optimize
+14|30190630|첫눈처럼 너에게 가겠다|에일리(Ailee)|629831|10029181|도깨비 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/100/29/181/10029181_500.jpg/melon/resize/48/quality/80/optimize
+15|30261007|KNOCK KNOCK|TWICE (트와이스)|905701|10040060|TWICEcoaster : LANE 2|https://cdnimg.melon.co.kr/cm/album/images/100/40/060/10040060_500.jpg/melon/resize/48/quality/80/optimize
+16|30399360|미치고 싶다|한동근|711476|10059997|한동근 1ST ALBUM 'Your Diary'|https://cdnimg.melon.co.kr/cm/album/images/100/59/997/10059997_500.jpg/melon/resize/48/quality/80/optimize
+17|30355842|She's a Baby|지코 (ZICO)|602056|10053651|She's a Baby|https://cdnimg.melon.co.kr/cm/album/images/100/53/651/10053651_500.jpg/melon/resize/48/quality/80/optimize
+18|30163110|좋다고 말해|볼빨간사춘기|792022|10024816|Full Album RED PLANET 'Hidden Track'|https://cdnimg.melon.co.kr/cm/album/images/100/24/816/10024816_500.jpg/melon/resize/48/quality/80/optimize
+19|30310862|얼굴 찌푸리지 말아요|하이라이트 (Highlight)|1624993|10044814|CAN YOU FEEL IT?|https://cdnimg.melon.co.kr/cm/album/images/100/44/814/10044814_500.jpg/melon/resize/48/quality/80/optimize
+20|30378157|이런 엔딩|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+21|30378155|이 지금|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+22|8276709|아름다워|창모 (CHANGMO)|774900|2698920|돈 벌 시간 2|https://cdnimg.melon.co.kr/cm/album/images/026/98/920/2698920_500.jpg/melon/resize/48/quality/80/optimize
+23|5605860|오빠야|신현희와김루트|724318|2306170|신현희와김루트|https://cdnimg.melon.co.kr/cm/album/images/023/06/170/2306170_500.jpg/melon/resize/48/quality/80/optimize
+24|30403591|마지막 장면 (Feat. 이성경)|싸이 (PSY)|3865|10060647|PSY 8th 4X2=8|https://cdnimg.melon.co.kr/cm/album/images/100/60/647/10060647_500.jpg/melon/resize/48/quality/80/optimize
+25|30403595|19금 팩트폭행 (Feat. G-DRAGON)|싸이 (PSY)|3865|10060647|PSY 8th 4X2=8|https://cdnimg.melon.co.kr/cm/album/images/100/60/647/10060647_500.jpg/melon/resize/48/quality/80/optimize
+26|30290011|부담이 돼 (Feat. 휘인 Of 마마무)|정키|570731|10043982|EMPTY|https://cdnimg.melon.co.kr/cm/album/images/100/43/982/10043982_500.jpg/melon/resize/48/quality/80/optimize
+27|8276708|19금 마에스트로 (Maestro)|창모 (CHANGMO)|774900|2698920|돈 벌 시간 2|https://cdnimg.melon.co.kr/cm/album/images/026/98/920/2698920_500.jpg/melon/resize/48/quality/80/optimize
+28|30181278|오랜 날 오랜 밤|AKMU (악뮤)|712452|10027786|사춘기 하 (思春記 下)|https://cdnimg.melon.co.kr/cm/album/images/100/27/786/10027786_500.jpg/melon/resize/48/quality/80/optimize
+29|30049271|All I Wanna Do (K) (Feat. Hoody, Loco)|박재범|443420|10008163|EVERYTHING YOU WANTED|https://cdnimg.melon.co.kr/cm/album/images/100/08/163/10008163_500.jpg/melon/resize/48/quality/80/optimize
+30|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+31|30378159|잼잼|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+32|9620469|우주를 줄게|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+33|9620473|나만 안되는 연애|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+34|30403593|BOMB (Feat. B.I, BOBBY)|싸이 (PSY)|3865|10060647|PSY 8th 4X2=8|https://cdnimg.melon.co.kr/cm/album/images/100/60/647/10060647_500.jpg/melon/resize/48/quality/80/optimize
+35|30227054|Rookie|Red Velvet (레드벨벳)|780066|10035026|Rookie - The 4th Mini Album|https://cdnimg.melon.co.kr/cm/album/images/100/35/026/10035026_500.jpg/melon/resize/48/quality/80/optimize
+36|30069773|불장난|BLACKPINK|995169|10011491|SQUARE TWO|https://cdnimg.melon.co.kr/cm/album/images/100/11/491/10011491_500.jpg/melon/resize/48/quality/80/optimize
+37|30278209|Fine|태연 (TAEYEON)|236797|10040265|My Voice - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/100/40/265/10040265_500.jpg/melon/resize/48/quality/80/optimize
+38|30054344|TT|TWICE (트와이스)|905701|10008861|TWICEcoaster : LANE 1|https://cdnimg.melon.co.kr/cm/album/images/100/08/861/10008861_500.jpg/melon/resize/48/quality/80/optimize
+39|30403592|LOVE (Feat. 태양)|싸이 (PSY)|3865|10060647|PSY 8th 4X2=8|https://cdnimg.melon.co.kr/cm/album/images/100/60/647/10060647_500.jpg/melon/resize/48/quality/80/optimize
+40|9614761|그대라는 사치|한동근|711476|2706226|The 3rd Digital Single '그대라는 사치'|https://cdnimg.melon.co.kr/cm/album/images/027/06/226/2706226_500.jpg/melon/resize/48/quality/80/optimize
+41|30157753|Beautiful|Crush|674710|10024106|도깨비 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/100/24/106/10024106_500.jpg/melon/resize/48/quality/80/optimize
+42|8203900|너였다면|정승환|792091|2687963|또 오해영 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/87/963/2687963_500.jpg/melon/resize/48/quality/80/optimize
+43|30294022|나야 나 (PICK ME)|PRODUCE 101|926037|10044713|PRODUCE 101 - 나야 나 (PICK ME)|https://cdnimg.melon.co.kr/cm/album/images/100/44/713/10044713_500.jpg/melon/resize/48/quality/80/optimize
+44|30147445|에라 모르겠다|BIGBANG|198094|10022709|MADE|https://cdnimg.melon.co.kr/cm/album/images/100/22/709/10022709_500.jpg/melon/resize/48/quality/80/optimize
+45|8155478|심술|볼빨간사춘기|792022|2680986|Half Album RED ICKLE|https://cdnimg.melon.co.kr/cm/album/images/026/80/986/2680986_500.jpg/melon/resize/48/quality/80/optimize
+46|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+47|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+48|8287788|Closer (Feat. Halsey)|The Chainsmokers|713297|2700553|Collage EP|https://cdnimg.melon.co.kr/cm/album/images/027/00/553/2700553_500.jpg/melon/resize/48/quality/80/optimize
+49|30416232|그러나, 밤|이수 (엠씨더맥스)|214784|10062642|inhale|https://cdnimg.melon.co.kr/cm/album/images/100/62/642/10062642_500.jpg/melon/resize/48/quality/80/optimize
+50|30232778|YESTERDAY|블락비 (Block B)|532201|10036123|YESTERDAY|https://cdnimg.melon.co.kr/cm/album/images/100/36/123/10036123_500.jpg/melon/resize/48/quality/80/optimize

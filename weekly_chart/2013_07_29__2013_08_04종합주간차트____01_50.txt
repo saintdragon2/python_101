@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|4184826|첫 사랑니 (Rum Pum Pum Pum)|f(x)|428501|2194266|'Pink Tape' f(x) The 2nd Album|https://cdnimg.melon.co.kr/cm/album/images/021/94/266/2194266_500.jpg/melon/resize/48/quality/80/optimize
+2|4171462|U & I|에일리(Ailee)|629831|2192532|A's Doll House|https://cdnimg.melon.co.kr/cm/album/images/021/92/532/2192532_500.jpg/melon/resize/48/quality/80/optimize
+3|4148967|빠빠빠|크레용팝|685904|2189686|빠빠빠|https://cdnimg.melon.co.kr/cm/album/images/021/89/686/2189686_500.jpg/melon/resize/48/quality/80/optimize
+4|4163116|NoNoNo|Apink (에이핑크)|534360|2191397|Secret Garden|https://cdnimg.melon.co.kr/cm/album/images/021/91/397/2191397_500.jpg/melon/resize/48/quality/80/optimize
+5|4188687|Kill Bill|브라운아이드걸스|181694|2194702|Black Box|https://cdnimg.melon.co.kr/cm/album/images/021/94/702/2194702_500.jpg/melon/resize/48/quality/80/optimize
+6|4163613|오늘따라 보고싶어서 그래|다비치|236815|2191473|여름날의 추억|https://cdnimg.melon.co.kr/cm/album/images/021/91/473/2191473_500.jpg/melon/resize/48/quality/80/optimize
+7|4160246|BAAAM (Feat. Muzie Of UV)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+8|4180409|Shadow (그림자)|비스트|436981|2193615|Hard to love, How to love|https://cdnimg.melon.co.kr/cm/album/images/021/93/615/2193615_500.jpg/melon/resize/48/quality/80/optimize
+9|4165390|Falling In Love|2NE1|406712|2191762|Falling In Love|https://cdnimg.melon.co.kr/cm/album/images/021/91/762/2191762_500.jpg/melon/resize/48/quality/80/optimize
+10|4138606|Give It To Me|씨스타|473181|2188413|Give It To Me|https://cdnimg.melon.co.kr/cm/album/images/021/88/413/2188413_500.jpg/melon/resize/48/quality/80/optimize
+11|4142913|My Love|이승철|1010|2188937|MY LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/88/937/2188937_500.jpg/melon/resize/48/quality/80/optimize
+12|4172962|Be OK (Feat. 배치기)|유성은|658092|2192706|Be OK|https://cdnimg.melon.co.kr/cm/album/images/021/92/706/2192706_500.jpg/melon/resize/48/quality/80/optimize
+13|4175139|비가 온다|강승윤|28263|2192973|비가 온다|https://cdnimg.melon.co.kr/cm/album/images/021/92/973/2192973_500.jpg/melon/resize/48/quality/80/optimize
+14|4175021|Destiny|인피니트|476181|2192958|Destiny|https://cdnimg.melon.co.kr/cm/album/images/021/92/958/2192958_500.jpg/melon/resize/48/quality/80/optimize
+15|4192787|아는사람 얘기|San E|402526|2195252|아는사람 얘기|https://cdnimg.melon.co.kr/cm/album/images/021/95/252/2195252_500.jpg/melon/resize/48/quality/80/optimize
+16|4130922|미친연애 (Bad Girl) (Feat. E-Sens Of 슈프림팀)|범키|623851|2187466|미친연애|https://cdnimg.melon.co.kr/cm/album/images/021/87/466/2187466_500.jpg/melon/resize/48/quality/80/optimize
+17|4152253|여자 대통령|걸스데이|482762|2190068|여자 대통령|https://cdnimg.melon.co.kr/cm/album/images/021/90/068/2190068_500.jpg/melon/resize/48/quality/80/optimize
+18|4129672|짧은머리|허각~정은지|28801~644871|2187275|'A Cube' For Season # Blue|https://cdnimg.melon.co.kr/cm/album/images/021/87/275/2187275_500.jpg/melon/resize/48/quality/80/optimize
+19|4144408|All Right|김예림 (Lim Kim)|643851|2187662|A Voice|https://cdnimg.melon.co.kr/cm/album/images/021/87/662/2187662_500.jpg/melon/resize/48/quality/80/optimize
+20|4143937|왜 이제야 왔니|정엽|265067|2189083|너의 목소리가 들려 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/89/083/2189083_500.jpg/melon/resize/48/quality/80/optimize
+21|4167370|레시피|브라운아이드걸스|181694|2192010|레시피|https://cdnimg.melon.co.kr/cm/album/images/021/92/010/2192010_500.jpg/melon/resize/48/quality/80/optimize
+22|4168688|Fly|긱스 (Geeks)|525805|2192175|Fly|https://cdnimg.melon.co.kr/cm/album/images/021/92/175/2192175_500.jpg/melon/resize/48/quality/80/optimize
+23|4153450|슬피 우는 새 (Feat. 이수영)|아웃사이더|181785|2190225|슬피 우는 새|https://cdnimg.melon.co.kr/cm/album/images/021/90/225/2190225_500.jpg/melon/resize/48/quality/80/optimize
+24|4184827|미행 (그림자: Shadow)|f(x)|428501|2194266|'Pink Tape' f(x) The 2nd Album|https://cdnimg.melon.co.kr/cm/album/images/021/94/266/2194266_500.jpg/melon/resize/48/quality/80/optimize
+25|4138607|넌 너무 야해 (Feat. 긱스) (The Way You Make Me Melt)|씨스타|473181|2188413|Give It To Me|https://cdnimg.melon.co.kr/cm/album/images/021/88/413/2188413_500.jpg/melon/resize/48/quality/80/optimize
+26|4190076|말해줘요|걸스데이|482762|2194903|Girl's Day Party #6|https://cdnimg.melon.co.kr/cm/album/images/021/94/903/2194903_500.jpg/melon/resize/48/quality/80/optimize
+27|4154505|물 좋아?|4minute|417985|2190338|물 좋아?|https://cdnimg.melon.co.kr/cm/album/images/021/90/338/2190338_500.jpg/melon/resize/48/quality/80/optimize
+28|4160243|쌔끈해 (Three Dopeboyz) (Feat. Zion.T)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+29|4132144|너 하나야|포맨 (4MEN)|100176|2187663|구가의 서 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/021/87/663/2187663_500.jpg/melon/resize/48/quality/80/optimize
+30|4099280|이름이 뭐예요?|4minute|417985|2183128|Name Is 4minute|https://cdnimg.melon.co.kr/cm/album/images/021/83/128/2183128_500.jpg/melon/resize/48/quality/80/optimize
+31|4150987|비범벅 (Feat. 범키)|버벌진트|6985|2189912|비범벅|https://cdnimg.melon.co.kr/cm/album/images/021/89/912/2189912_500.jpg/melon/resize/48/quality/80/optimize
+32|4153481|Love Love Love|로이킴|699632|2190230|Love Love Love|https://cdnimg.melon.co.kr/cm/album/images/021/90/230/2190230_500.jpg/melon/resize/48/quality/80/optimize
+33|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+34|4160250|날개뼈 (Hot Wings) (Feat. 효린 Of Sistar)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+35|4184832|Goodbye Summer (f(Amber+Luna+Krystal) (Feat. D.O. Of EXO-K)|f(x)|428501|2194266|'Pink Tape' f(x) The 2nd Album|https://cdnimg.melon.co.kr/cm/album/images/021/94/266/2194266_500.jpg/melon/resize/48/quality/80/optimize
+36|4108714|청혼하는 거예요|포맨 (4MEN)|100176|2184411|The 5th Album Vol.2 'Thank You'|https://cdnimg.melon.co.kr/cm/album/images/021/84/411/2184411_500.jpg/melon/resize/48/quality/80/optimize
+37|4138608|바빠 (Bad Boy)|씨스타|473181|2188413|Give It To Me|https://cdnimg.melon.co.kr/cm/album/images/021/88/413/2188413_500.jpg/melon/resize/48/quality/80/optimize
+38|4164425|핫 앤 콜드 (Hot & Cold)|쥬얼리|101487|2191606|Hot & Cold|https://cdnimg.melon.co.kr/cm/album/images/021/91/606/2191606_500.jpg/melon/resize/48/quality/80/optimize
+39|4191445|대.다.나.다.너|VIXX (빅스)|672560|2195068|Jekyll|https://cdnimg.melon.co.kr/cm/album/images/021/95/068/2195068_500.jpg/melon/resize/48/quality/80/optimize
+40|4168680|미친게 아니라구요 (Feat. MC 스나이퍼)|손승연|661773|2192171|미친게 아니라구요|https://cdnimg.melon.co.kr/cm/album/images/021/92/171/2192171_500.jpg/melon/resize/48/quality/80/optimize
+41|4178683|니가 아니었기를 (Narr. 버벌진트)|미스에스|275266|2193392|Lo$t & Found|https://cdnimg.melon.co.kr/cm/album/images/021/93/392/2193392_500.jpg/melon/resize/48/quality/80/optimize
+42|4183832|썸머시즌 (Feat. 이퀄리티, XOXO)|프리스타일|100144|2194115|썸머시즌|https://cdnimg.melon.co.kr/cm/album/images/021/94/115/2194115_500.jpg/melon/resize/48/quality/80/optimize
+43|4189582|비키니 (Feat. 스컬)|티아라~다비치|412000~236815|2194823|비키니|https://cdnimg.melon.co.kr/cm/album/images/021/94/823/2194823_500.jpg/melon/resize/48/quality/80/optimize
+44|3843565|Boogie On & On|빈지노 (Beenzino)|532029|2134788|2 4 : 2 6|https://cdnimg.melon.co.kr/cm/album/images/021/34/788/2134788_500.jpg/melon/resize/48/quality/80/optimize
+45|4191389|Wild And Young|강승윤|28263|2195063|Wild And Young|https://cdnimg.melon.co.kr/cm/album/images/021/95/063/2195063_500.jpg/melon/resize/48/quality/80/optimize
+46|4070694|19금 The Bad Touch (Gordon & Doyle Edit)|DJ Gollum~Empyre One|353536~720484|2179667|The Bad Touch|https://cdnimg.melon.co.kr/cm/album/images/021/79/667/2179667_500.jpg/melon/resize/48/quality/80/optimize
+47|4117702|잘 있나요|The One (더원)|160816|2185652|구가의 서 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/021/85/652/2185652_500.jpg/melon/resize/48/quality/80/optimize
+48|-1|그대 내 품에|하동균|43806|2193778|불후의 명곡 - 전설을 노래하다 (유재하 편)|https://cdnimg.melon.co.kr/cm/album/images/021/93/778/2193778_500.jpg/melon/resize/48/quality/80/optimize
+49|4091105|봄봄봄|로이킴|699632|2182026|봄봄봄|https://cdnimg.melon.co.kr/cm/album/images/021/82/026/2182026_500.jpg/melon/resize/48/quality/80/optimize
+50|4141700|첫사랑|애프터스쿨|322666|2188765|After School The 6th Maxi Single '첫사랑'|https://cdnimg.melon.co.kr/cm/album/images/021/88/765/2188765_500.jpg/melon/resize/48/quality/80/optimize

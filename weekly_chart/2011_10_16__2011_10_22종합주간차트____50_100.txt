@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3524625|가슴으로 운다 (Feat. 아이린, 윤미)|디셈버~제이세라|439021~484881|2007385|Love Harmony|https://cdnimg.melon.co.kr/cm/album/images/020/07/385/2007385_500.jpg/melon/resize/48/quality/80/optimize
+52|3570026|Desperado (Eagles)|이정아|151961|2019070|슈퍼스타K 3 Top11 Part 2|https://cdnimg.melon.co.kr/cm/album/images/020/19/070/2019070_500.jpg/melon/resize/48/quality/80/optimize
+53|3584075|나쁘다 (feat. 진실)|Tablo|231070|2020402|열꽃, Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/20/402/2020402_500.jpg/melon/resize/48/quality/80/optimize
+54|3577493|사랑하는 사람아|이해리 (다비치)|259769|2021446|포세이돈 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/21/446/2021446_500.jpg/melon/resize/48/quality/80/optimize
+55|3488849|Good-bye Baby|미쓰에이|481481|1339951|A Class|https://cdnimg.melon.co.kr/cm/album/images/013/39/951/1339951_500.jpg/melon/resize/48/quality/80/optimize
+56|3568873|새들처럼|FTISLAND (FT아일랜드)|226490|2018666|MEMORY IN FTISLAND|https://cdnimg.melon.co.kr/cm/album/images/020/18/666/2018666_500.jpg/melon/resize/48/quality/80/optimize
+57|3569455|체념 (With 이영현) (빅마마)|윤민수(바이브)|151315|2018966|[나는 가수다] 경연10-1. '듀엣곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/020/18/966/2018966_500.jpg/melon/resize/48/quality/80/optimize
+58|3573818|이젠 그랬으면 좋겠네|손예림|572371|2020266|슈퍼스타K3 SPECIAL|https://cdnimg.melon.co.kr/cm/album/images/020/20/266/2020266_500.jpg/melon/resize/48/quality/80/optimize
+59|3427926|살다가 한번쯤|포맨 (4MEN)|100176|1294153|The Artist|https://cdnimg.melon.co.kr/cm/album/images/012/94/153/1294153_500.jpg/melon/resize/48/quality/80/optimize
+60|3559933|어제보다 슬픈 오늘|김건모|889|2015586|自敍傳 (자서전) & Best|https://cdnimg.melon.co.kr/cm/album/images/020/15/586/2015586_500.jpg/melon/resize/48/quality/80/optimize
+61|3569457|물레방아 인생 (With 부가킹즈) (조영남)|바비 킴|6027|2018966|[나는 가수다] 경연10-1. '듀엣곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/020/18/966/2018966_500.jpg/melon/resize/48/quality/80/optimize
+62|3452769|내가 제일 잘 나가|2NE1|406712|1315551|내가 제일 잘 나가 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/013/15/551/1315551_500.jpg/melon/resize/48/quality/80/optimize
+63|-1|Who Am I (Feat. 유희열, 정재형)|UV|467060|2013827|Who Am I|https://cdnimg.melon.co.kr/cm/album/images/020/13/827/2013827_500.jpg/melon/resize/48/quality/80/optimize
+64|3572892|문나이트 (Feat. D.O)|UV|467060|2019970|문나이트90|https://cdnimg.melon.co.kr/cm/album/images/020/19/970/2019970_500.jpg/melon/resize/48/quality/80/optimize
+65|485727|Brown City|브라운 아이드 소울|107728|32695|Soul Free|https://cdnimg.melon.co.kr/cm/album/images/000/32/695/32695_500.jpg/melon/resize/48/quality/80/optimize
+66|3516563|Mr. Simple|SUPER JUNIOR (슈퍼주니어)|175404|1360352|'Mr. Simple' The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/013/60/352/1360352_500.jpg/melon/resize/48/quality/80/optimize
+67|3467463|바람났어 (Feat. 박봄)|GG (박명수 & G-Dragon)|550442|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+68|3397448|비가 오는 날엔|비스트|436981|1272951|비가 오는 날엔|https://cdnimg.melon.co.kr/cm/album/images/012/72/951/1272951_500.jpg/melon/resize/48/quality/80/optimize
+69|3488667|내꺼하자|인피니트|476181|1339753|Over The Top|https://cdnimg.melon.co.kr/cm/album/images/013/39/753/1339753_500.jpg/melon/resize/48/quality/80/optimize
+70|3574066|그게 너라서|서영은|3033|2020395|그게 너라서|https://cdnimg.melon.co.kr/cm/album/images/020/20/395/2020395_500.jpg/melon/resize/48/quality/80/optimize
+71|3486450|오늘도 사랑해|백지영|1118|1338452|공주의 남자 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/013/38/452/1338452_500.jpg/melon/resize/48/quality/80/optimize
+72|3566254|다음 사람에게는|먼데이 키즈 (Monday Kiz)|175155|2017827|Nostalgia Part 3-2|https://cdnimg.melon.co.kr/cm/album/images/020/17/827/2017827_500.jpg/melon/resize/48/quality/80/optimize
+73|2992122|I Got My Eye On You (Cristian Marchi & Paolo Sandrini Perfect Edit) (Feat. Luciana)|Nari & Milani~Cristian Marchi|466821~456600|1054082|I Got My Eye On You|https://cdnimg.melon.co.kr/cm/album/images/010/54/082/1054082_500.jpg/melon/resize/48/quality/80/optimize
+74|3488750|Hate You|2NE1|406712|1356152|2NE1 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/013/56/152/1356152_500.jpg/melon/resize/48/quality/80/optimize
+75|3562113|내 여자 손대지마 (Don't Touch My Girl)|보이프렌드|541500|2016246|내 여자 손대지마|https://cdnimg.melon.co.kr/cm/album/images/020/16/246/2016246_500.jpg/melon/resize/48/quality/80/optimize
+76|3579341|MR.TAXI (Korean Ver.)|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+77|3579333|Trick|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+78|3550111|In Heaven (Narr. 김정은)|JYJ|499453|2012768|IN HEAVEN|https://cdnimg.melon.co.kr/cm/album/images/020/12/768/2012768_500.jpg/melon/resize/48/quality/80/optimize
+79|-1|내가 고백을 하면 깜짝 놀랄 거야|알리 (ALi)|312266|2020297|Reborn 산울림 Track 5|https://cdnimg.melon.co.kr/cm/album/images/020/20/297/2020297_500.jpg/melon/resize/48/quality/80/optimize
+80|3526967|안아줘요|10CM|468244|2007718|안아줘요|https://cdnimg.melon.co.kr/cm/album/images/020/07/718/2007718_500.jpg/melon/resize/48/quality/80/optimize
+81|3579321|텔레파시 (Telepathy)|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+82|3566429|No No No No No|씨리얼|569973|2017864|Round 1|https://cdnimg.melon.co.kr/cm/album/images/020/17/864/2017864_500.jpg/melon/resize/48/quality/80/optimize
+83|3565219|못찾겠다 꾀꼬리 (조용필)|김경호|895|2017446|[나는 가수다] 경연9-2. '조용필 스페셜'|https://cdnimg.melon.co.kr/cm/album/images/020/17/446/2017446_500.jpg/melon/resize/48/quality/80/optimize
+84|3545207|오 나의 여신님|성시경|3305|2011288|처음|https://cdnimg.melon.co.kr/cm/album/images/020/11/288/2011288_500.jpg/melon/resize/48/quality/80/optimize
+85|3467466|압구정 날라리|처진 달팽이 (유재석 & 이적)|550445|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+86|3579332|Say Yes|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+87|3554844|Goodbye Valentine|메이비 (Maybee)|43443|2014268|Goodbye Valentine|https://cdnimg.melon.co.kr/cm/album/images/020/14/268/2014268_500.jpg/melon/resize/48/quality/80/optimize
+88|3579334|봄날 (How Great Is Your Love)|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+89|3580489|2love|2보람|574236|2022284|2love|https://cdnimg.melon.co.kr/cm/album/images/020/22/284/2022284_500.jpg/melon/resize/48/quality/80/optimize
+90|3579337|Top Secret|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+91|3540493|너, 한눈 팔지마!|걸스데이|482762|2010106|Girl's Day Party #4|https://cdnimg.melon.co.kr/cm/album/images/020/10/106/2010106_500.jpg/melon/resize/48/quality/80/optimize
+92|3468048|Bubble Pop!|현아|449401|1324851|Bubble Pop!|https://cdnimg.melon.co.kr/cm/album/images/013/24/851/1324851_500.jpg/melon/resize/48/quality/80/optimize
+93|3579340|비타민 (Vitamin)|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+94|3579335|My J|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+95|3579338|Lazy Girl (Dolce Far Niente)|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+96|3579336|Oscar|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+97|3566807|썸데이 ...그리고|에이트|228841|2018028|RE:Feel theme 설레임+사랑|https://cdnimg.melon.co.kr/cm/album/images/020/18/028/2018028_500.jpg/melon/resize/48/quality/80/optimize
+98|3571896|Family Man (Feat. Taeil Of Block B) (2009)|조pd (ZoPD)|2071|2019626|Part.2 - Art Of Business|https://cdnimg.melon.co.kr/cm/album/images/020/19/626/2019626_500.jpg/melon/resize/48/quality/80/optimize
+99|3552380|A-CHA|SUPER JUNIOR (슈퍼주니어)|175404|2013637|'Mr. Simple' The 5th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/020/13/637/2013637_500.jpg/melon/resize/48/quality/80/optimize
+100|3565237|나는 나비|김도현|18498|2017466|슈퍼스타K 3 Top11 Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/17/466/2017466_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3037051|니까짓게|씨스타|473181|1085053|니까짓게|https://cdnimg.melon.co.kr/cm/album/images/010/85/053/1085053_500.jpg/melon/resize/48/quality/80/optimize
+2|3037107|똑같다면|브라운 아이드 소울|107728|1085056|Browneyed Soul|https://cdnimg.melon.co.kr/cm/album/images/010/85/056/1085056_500.jpg/melon/resize/48/quality/80/optimize
+3|3018898|그여자|백지영|1118|1071555|시크릿 가든 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/71/555/1071555_500.jpg/melon/resize/48/quality/80/optimize
+4|3037048|왜 이러니|티아라|412000|1085051|왜 이러니|https://cdnimg.melon.co.kr/cm/album/images/010/85/051/1085051_500.jpg/melon/resize/48/quality/80/optimize
+5|3028777|별처럼|태연 (TAEYEON)~The One (더원)|236797~160816|1079253|별처럼|https://cdnimg.melon.co.kr/cm/album/images/010/79/253/1079253_500.jpg/melon/resize/48/quality/80/optimize
+6|3043748|yayaya|티아라|412000|1087651|Vol.2 Temptastic|https://cdnimg.melon.co.kr/cm/album/images/010/87/651/1087651_500.jpg/melon/resize/48/quality/80/optimize
+7|3051244|좋은 날|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+8|-1|러브 (L.O.V.E) (Feat.슈프림팀)|이기찬|6225|1091062|L.O.V.E|https://cdnimg.melon.co.kr/cm/album/images/010/91/062/1091062_500.jpg/melon/resize/48/quality/80/optimize
+9|3006873|언제나|허각|28801|1063754|언제나|https://cdnimg.melon.co.kr/cm/album/images/010/63/754/1063754_500.jpg/melon/resize/48/quality/80/optimize
+10|3013948|점핑 (Jumping)|카라|222128|1068498|점핑|https://cdnimg.melon.co.kr/cm/album/images/010/68/498/1068498_500.jpg/melon/resize/48/quality/80/optimize
+11|3041356|몇 월 며칠 몇 시 (Feat. 마이티 마우스)|지아|227595|1086158|겨울에 내리는 눈물|https://cdnimg.melon.co.kr/cm/album/images/010/86/158/1086158_500.jpg/melon/resize/48/quality/80/optimize
+12|2979880|전활 받지 않는 너에게|2AM|253866|1046966|Saint o'clock|https://cdnimg.melon.co.kr/cm/album/images/010/46/966/1046966_500.jpg/melon/resize/48/quality/80/optimize
+13|2987448|훗 (Hoot)|소녀시대 (GIRLS' GENERATION)|228069|1051951|'훗 (Hoot)' The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/010/51/951/1051951_500.jpg/melon/resize/48/quality/80/optimize
+14|3051494|Love Love Love|애프터스쿨|322666|1093582|Happy Pledis 1st Album|https://cdnimg.melon.co.kr/cm/album/images/010/93/582/1093582_500.jpg/melon/resize/48/quality/80/optimize
+15|3014305|Beautiful|비스트|436981|1068570|Lights Go On Again|https://cdnimg.melon.co.kr/cm/album/images/010/68/570/1068570_500.jpg/melon/resize/48/quality/80/optimize
+16|3025148|아잉♡|오렌지 캬라멜|477632|1076151|아잉♡|https://cdnimg.melon.co.kr/cm/album/images/010/76/151/1076151_500.jpg/melon/resize/48/quality/80/optimize
+17|3040227|이유|신용재 (2F)|510537|1085903|시크릿 가든 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/010/85/903/1085903_500.jpg/melon/resize/48/quality/80/optimize
+18|3026177|하늘을 달리다|허각|28801|1077154|허각 1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/010/77/154/1077154_500.jpg/melon/resize/48/quality/80/optimize
+19|-1|아름다운 널|박칼린~임정희|21323~150529|1093655|아름다운 널|https://cdnimg.melon.co.kr/cm/album/images/010/93/655/1093655_500.jpg/melon/resize/48/quality/80/optimize
+20|2951700|그땐 그땐 그땐|Supreme Team~영준 (브라운 아이드 소울)|410162~45162|1030195|Ames Room|https://cdnimg.melon.co.kr/cm/album/images/010/30/195/1030195_500.jpg/melon/resize/48/quality/80/optimize
+21|2979490|Right Now|싸이 (PSY)|3865|1044555|PSYFIVE|https://cdnimg.melon.co.kr/cm/album/images/010/44/555/1044555_500.jpg/melon/resize/48/quality/80/optimize
+22|3030884|나타나|김범수|6502|1080955|시크릿 가든 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/010/80/955/1080955_500.jpg/melon/resize/48/quality/80/optimize
+23|2967751|본능적으로 (Feat. Swings)|강승윤|28263|1040256|슈퍼스타K 2 Top11 Part.3|https://cdnimg.melon.co.kr/cm/album/images/010/40/256/1040256_500.jpg/melon/resize/48/quality/80/optimize
+24|3037049|러브 레시피|거미~바비 킴|30358~6027|1085052|러브 레시피|https://cdnimg.melon.co.kr/cm/album/images/010/85/052/1085052_500.jpg/melon/resize/48/quality/80/optimize
+25|3026178|행복한 나를 (Feat. 존박)|허각|28801|1077154|허각 1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/010/77/154/1077154_500.jpg/melon/resize/48/quality/80/optimize
+26|3035370|전화 좀 받어|가비엔제이|174997|1083957|Glossy|https://cdnimg.melon.co.kr/cm/album/images/010/83/957/1083957_500.jpg/melon/resize/48/quality/80/optimize
+27|2989873|가로수 그늘 아래 서면|장재인|28498|1053361|슈퍼스타K 2 Top11 Part.4|https://cdnimg.melon.co.kr/cm/album/images/010/53/361/1053361_500.jpg/melon/resize/48/quality/80/optimize
+28|2979881|미친 듯이|2AM|253866|1046966|Saint o'clock|https://cdnimg.melon.co.kr/cm/album/images/010/46/966/1046966_500.jpg/melon/resize/48/quality/80/optimize
+29|3043153|This Christmas|JYP Nation|14252|1087152|This Christmas|https://cdnimg.melon.co.kr/cm/album/images/010/87/152/1087152_500.jpg/melon/resize/48/quality/80/optimize
+30|2998356|눈부신 눈물|디셈버|439021|1058352|A Story To The Sky|https://cdnimg.melon.co.kr/cm/album/images/010/58/352/1058352_500.jpg/melon/resize/48/quality/80/optimize
+31|3053852|내 남자친구를 부탁해|윤하 (YOUNHA)|203912|1094551|Lost In Love|https://cdnimg.melon.co.kr/cm/album/images/010/94/551/1094551_500.jpg/melon/resize/48/quality/80/optimize
+32|2974750|해바라기|SG 워너비|108363|1044551|SG Wannabe 7 Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/44/551/1044551_500.jpg/melon/resize/48/quality/80/optimize
+33|2954935|죽어도 사랑해|거미|30358|1031855|대물 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/31/855/1031855_500.jpg/melon/resize/48/quality/80/optimize
+34|3035311|널 지우는 일|김지수|8806|1083937|널 지우는 일|https://cdnimg.melon.co.kr/cm/album/images/010/83/937/1083937_500.jpg/melon/resize/48/quality/80/optimize
+35|3018899|Here I Am|포맨 (4MEN)~미(MIIII)|100176~197910|1071555|시크릿 가든 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/71/555/1071555_500.jpg/melon/resize/48/quality/80/optimize
+36|2930971|아파 (Slow)|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+37|3036426|사랑합니다 (Feat. 부활)|엠씨더맥스 (M.C the MAX)|161636|1084760|사랑합니다|https://cdnimg.melon.co.kr/cm/album/images/010/84/760/1084760_500.jpg/melon/resize/48/quality/80/optimize
+38|2948449|Breathe|미쓰에이|481481|1028251|Step Up|https://cdnimg.melon.co.kr/cm/album/images/010/28/251/1028251_500.jpg/melon/resize/48/quality/80/optimize
+39|3040684|너무 그리워 (Miss You)|S.M. The Ballad '제규종지'|254581|1085937|'너무 그리워' S.M. The Ballad Vol.1|https://cdnimg.melon.co.kr/cm/album/images/010/85/937/1085937_500.jpg/melon/resize/48/quality/80/optimize
+40|2978062|Mach|레인보우|440320|1046252|Mach|https://cdnimg.melon.co.kr/cm/album/images/010/46/252/1046252_500.jpg/melon/resize/48/quality/80/optimize
+41|3051202|Christmas Time|성시경~박효신~서인국~브라이언~리사~박학기~김형중~견우 (Kyunwoo)|3305~1191~436700~1929~48312~1163~5247~172281|1093556|Jelly Christmas|https://cdnimg.melon.co.kr/cm/album/images/010/93/556/1093556_500.jpg/melon/resize/48/quality/80/optimize
+42|2930968|Go Away|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+43|3053259|미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+44|3030886|그남자|백지영|1118|1080955|시크릿 가든 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/010/80/955/1080955_500.jpg/melon/resize/48/quality/80/optimize
+45|2972778|울고, 불고…|지아~포맨 (4MEN)|227595~100176|1043268|울고, 불고...|https://cdnimg.melon.co.kr/cm/album/images/010/43/268/1043268_500.jpg/melon/resize/48/quality/80/optimize
+46|2962948|I'll Be Back|2PM|259822|1035164|Still 2:00pm|https://cdnimg.melon.co.kr/cm/album/images/010/35/164/1035164_500.jpg/melon/resize/48/quality/80/optimize
+47|3053253|이게 아닌데|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+48|3041500|사랑의 눈보라|린|8530|1086177|Winter's Melody|https://cdnimg.melon.co.kr/cm/album/images/010/86/177/1086177_500.jpg/melon/resize/48/quality/80/optimize
+49|3039728|약속해 약속해 (Feat. G.NA)|버벌진트|6985|1085863|Go Easy 0.5|https://cdnimg.melon.co.kr/cm/album/images/010/85/863/1085863_500.jpg/melon/resize/48/quality/80/optimize
+50|3035482|너라는 걸|조문근|230235|1083970|길 잃은 고양이|https://cdnimg.melon.co.kr/cm/album/images/010/83/970/1083970_500.jpg/melon/resize/48/quality/80/optimize

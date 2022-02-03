@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3088249|Someday|아이유|261143|1124351|드림하이 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/24/351/1124351_500.jpg/melon/resize/48/quality/80/optimize
+2|3089448|샤이보이|시크릿|435121|1125351|샤이보이|https://cdnimg.melon.co.kr/cm/album/images/011/25/351/1125351_500.jpg/melon/resize/48/quality/80/optimize
+3|3106066|처음 사랑하는 연인들을 위해 (반말송)|정용화 (CNBLUE)|20908|1139654|처음 사랑하는 연인들을 위해 (부제: 반말송)|https://cdnimg.melon.co.kr/cm/album/images/011/39/654/1139654_500.jpg/melon/resize/48/quality/80/optimize
+4|3116963|기가 차 (Feat. 슈프림팀 ＆ 씨스타)|케이윌|175139|1148952|기가 차|https://cdnimg.melon.co.kr/cm/album/images/011/48/952/1148952_500.jpg/melon/resize/48/quality/80/optimize
+5|3128548|달라|김범수~태연 (TAEYEON)|6502~236797|1159751|달라|https://cdnimg.melon.co.kr/cm/album/images/011/59/751/1159751_500.jpg/melon/resize/48/quality/80/optimize
+6|3051244|좋은 날|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+7|3096032|그남자|현빈|57798|1130759|시크릿 가든 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/011/30/759/1130759_500.jpg/melon/resize/48/quality/80/optimize
+8|3111583|Black & White|지나|482640|1143954|Black & White|https://cdnimg.melon.co.kr/cm/album/images/011/43/954/1143954_500.jpg/melon/resize/48/quality/80/optimize
+9|3106048|눈물자리|오스카|517301|1139651|시크릿 가든 오스카 싱글 OST|https://cdnimg.melon.co.kr/cm/album/images/011/39/651/1139651_500.jpg/melon/resize/48/quality/80/optimize
+10|3107348|어쩌라고|승리|403841|1140251|승리 1st Mini Album V.V.I.P|https://cdnimg.melon.co.kr/cm/album/images/011/40/251/1140251_500.jpg/melon/resize/48/quality/80/optimize
+11|3065249|High High|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+12|3065250|Oh Yeah (Feat. 박봄)|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+13|3110148|잘 된 일이야|나비|242868|1142651|Hello|https://cdnimg.melon.co.kr/cm/album/images/011/42/651/1142651_500.jpg/melon/resize/48/quality/80/optimize
+14|3089348|왜 (Keep Your Head Down)|동방신기 (TVXQ!)|108316|1125251|왜 (Keep Your Head Down)|https://cdnimg.melon.co.kr/cm/album/images/011/25/251/1125251_500.jpg/melon/resize/48/quality/80/optimize
+15|3118474|내겐 너무 멋진 그대|씨야|181679|1150052|See You Again|https://cdnimg.melon.co.kr/cm/album/images/011/50/052/1150052_500.jpg/melon/resize/48/quality/80/optimize
+16|3118780|하루하루|김보경 (NEON)|60829|1150353|The First Day|https://cdnimg.melon.co.kr/cm/album/images/011/50/353/1150353_500.jpg/melon/resize/48/quality/80/optimize
+17|3098048|Maybe|선예 (Wonder Girls)|227506|1132551|드림하이 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/011/32/551/1132551_500.jpg/melon/resize/48/quality/80/optimize
+18|3110565|톡톡 (Tok Tok) (Feat. SOYA)|마이티 마우스|239366|1143054|Mighty Fresh|https://cdnimg.melon.co.kr/cm/album/images/011/43/054/1143054_500.jpg/melon/resize/48/quality/80/optimize
+19|3089992|나쁜 남자|JOO|232696|1125854|Heartmade|https://cdnimg.melon.co.kr/cm/album/images/011/25/854/1125854_500.jpg/melon/resize/48/quality/80/optimize
+20|3110581|Back It Up|쥬얼리|101487|1143051|Back It Up|https://cdnimg.melon.co.kr/cm/album/images/011/43/051/1143051_500.jpg/melon/resize/48/quality/80/optimize
+21|3037051|니까짓게|씨스타|473181|1085053|니까짓게|https://cdnimg.melon.co.kr/cm/album/images/010/85/053/1085053_500.jpg/melon/resize/48/quality/80/optimize
+22|3099149|Stay|엠블랙|436980|1125352|BLAQ Style|https://cdnimg.melon.co.kr/cm/album/images/011/25/352/1125352_500.jpg/melon/resize/48/quality/80/optimize
+23|3087888|Supa Dupa Diva|달샤벳|514619|1123990|Supa Dupa Diva|https://cdnimg.melon.co.kr/cm/album/images/011/23/990/1123990_500.jpg/melon/resize/48/quality/80/optimize
+24|3114672|겨울아이|수지 (SUZY)|514741|1146753|드림하이 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/011/46/753/1146753_500.jpg/melon/resize/48/quality/80/optimize
+25|3101348|라떼 한잔 (Feat.길미)|가비엔제이|174997|1135451|라떼 한잔|https://cdnimg.melon.co.kr/cm/album/images/011/35/451/1135451_500.jpg/melon/resize/48/quality/80/optimize
+26|3129348|못 잊은 거죠 (If)|박진영|1130|1160451|드림하이 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/011/60/451/1160451_500.jpg/melon/resize/48/quality/80/optimize
+27|3059678|사랑이 고프다 (I Promise You)|박효신|1191|1099988|Gift (Part.2)|https://cdnimg.melon.co.kr/cm/album/images/010/99/988/1099988_500.jpg/melon/resize/48/quality/80/optimize
+28|3059926|사랑해요 (I Love You)|태연 (TAEYEON)|236797|1100004|'사랑해요' 아테나 OST|https://cdnimg.melon.co.kr/cm/album/images/011/00/004/1100004_500.jpg/melon/resize/48/quality/80/optimize
+29|3079872|너는 나의 봄이다|성시경|3305|1117461|시크릿 가든 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/011/17/461/1117461_500.jpg/melon/resize/48/quality/80/optimize
+30|3065251|19금 집에 가지마|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+31|3018898|그여자|백지영|1118|1071555|시크릿 가든 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/71/555/1071555_500.jpg/melon/resize/48/quality/80/optimize
+32|3065253|19금 뻑이가요|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+33|3037048|왜 이러니|티아라|412000|1085051|왜 이러니|https://cdnimg.melon.co.kr/cm/album/images/010/85/051/1085051_500.jpg/melon/resize/48/quality/80/optimize
+34|3125448|그때 난 사는거야|이해리 (다비치)|259769|1156851|그때 난 사는거야|https://cdnimg.melon.co.kr/cm/album/images/011/56/851/1156851_500.jpg/melon/resize/48/quality/80/optimize
+35|3116348|V.V.I.P|승리|403841|1140251|승리 1st Mini Album V.V.I.P|https://cdnimg.melon.co.kr/cm/album/images/011/40/251/1140251_500.jpg/melon/resize/48/quality/80/optimize
+36|3043748|yayaya|티아라|412000|1087651|Vol.2 Temptastic|https://cdnimg.melon.co.kr/cm/album/images/010/87/651/1087651_500.jpg/melon/resize/48/quality/80/optimize
+37|3040227|이유|신용재 (2F)|510537|1085903|시크릿 가든 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/010/85/903/1085903_500.jpg/melon/resize/48/quality/80/optimize
+38|3026178|행복한 나를 (Feat. 존박)|허각|28801|1077154|허각 1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/010/77/154/1077154_500.jpg/melon/resize/48/quality/80/optimize
+39|3053253|이게 아닌데|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+40|3028777|별처럼|태연 (TAEYEON)~The One (더원)|236797~160816|1079253|별처럼|https://cdnimg.melon.co.kr/cm/album/images/010/79/253/1079253_500.jpg/melon/resize/48/quality/80/optimize
+41|3108907|비밀 (Special Vocal. 박완규)|부활|100594|1141557|부활 Collaboration Project '+ (plus)' / +1|https://cdnimg.melon.co.kr/cm/album/images/011/41/557/1141557_500.jpg/melon/resize/48/quality/80/optimize
+42|3037107|똑같다면|브라운 아이드 소울|107728|1085056|Browneyed Soul|https://cdnimg.melon.co.kr/cm/album/images/010/85/056/1085056_500.jpg/melon/resize/48/quality/80/optimize
+43|3124733|장난친거니 (Feat. 아웃사이더)|일 락|57315|1156060|장난친거니|https://cdnimg.melon.co.kr/cm/album/images/011/56/060/1156060_500.jpg/melon/resize/48/quality/80/optimize
+44|3018899|Here I Am|포맨 (4MEN)~미(MIIII)|100176~197910|1071555|시크릿 가든 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/71/555/1071555_500.jpg/melon/resize/48/quality/80/optimize
+45|3081554|니가 따끔거려서|제아~지오 (G.O)|230519~468640|1118853|니가 따끔거려서|https://cdnimg.melon.co.kr/cm/album/images/011/18/853/1118853_500.jpg/melon/resize/48/quality/80/optimize
+46|3124548|Break Away (Feat. Room9)|MC 스나이퍼|7560|1155951|Break Away|https://cdnimg.melon.co.kr/cm/album/images/011/55/951/1155951_500.jpg/melon/resize/48/quality/80/optimize
+47|2987448|훗 (Hoot)|소녀시대 (GIRLS' GENERATION)|228069|1051951|'훗 (Hoot)' The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/010/51/951/1051951_500.jpg/melon/resize/48/quality/80/optimize
+48|3013948|점핑 (Jumping)|카라|222128|1068498|점핑|https://cdnimg.melon.co.kr/cm/album/images/010/68/498/1068498_500.jpg/melon/resize/48/quality/80/optimize
+49|3116972|그대를 사랑합니다|SG 워너비|108363|1148955|욕망의 불꽃 OST Vol.4|https://cdnimg.melon.co.kr/cm/album/images/011/48/955/1148955_500.jpg/melon/resize/48/quality/80/optimize
+50|3076363|가지 말아요|지아|227595|1086158|겨울에 내리는 눈물|https://cdnimg.melon.co.kr/cm/album/images/010/86/158/1086158_500.jpg/melon/resize/48/quality/80/optimize

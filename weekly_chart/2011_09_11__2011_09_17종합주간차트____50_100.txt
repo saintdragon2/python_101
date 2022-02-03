@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3424822|별빛달빛|시크릿|435121|1290562|별빛달빛|https://cdnimg.melon.co.kr/cm/album/images/012/90/562/1290562_500.jpg/melon/resize/48/quality/80/optimize
+52|3531870|사랑보다 깊은 상처|박정현~김범수|1099~6502|2008245|[나는 가수다] 사랑보다 깊은 상처 (박정현 & 김범수)|https://cdnimg.melon.co.kr/cm/album/images/020/08/245/2008245_500.jpg/melon/resize/48/quality/80/optimize
+53|3548837|재즈카페 (신해철)|자우림|100094|2012526|[나는 가수다] 경연8-2. '1990년대 명곡'|https://cdnimg.melon.co.kr/cm/album/images/020/12/526/2012526_500.jpg/melon/resize/48/quality/80/optimize
+54|3485088|남자니까 웃는거야|Homme (창민, 이현)|778464|1337552|Homme By 'Hitman' Bang - 남자니까 웃는거야|https://cdnimg.melon.co.kr/cm/album/images/013/37/552/1337552_500.jpg/melon/resize/48/quality/80/optimize
+55|3492688|밤 하늘에|애프터스쿨 RED|554180|1342956|The 4th Single Album - RED|https://cdnimg.melon.co.kr/cm/album/images/013/42/956/1342956_500.jpg/melon/resize/48/quality/80/optimize
+56|2163686|아버지|인순이|4232|557957|인순이|https://cdnimg.melon.co.kr/cm/album/images/005/57/957/557957_500.jpg/melon/resize/48/quality/80/optimize
+57|3516048|찹쌀떡|센치한 하하 (하하 & 10cm)|550443|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+58|3534948|19금 강남 사짜 (Feat. PoBi)|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+59|3526810|부산여자|비|17671|2007698|부산여자|https://cdnimg.melon.co.kr/cm/album/images/020/07/698/2007698_500.jpg/melon/resize/48/quality/80/optimize
+60|2992122|I Got My Eye On You (Cristian Marchi & Paolo Sandrini Perfect Edit) (Feat. Luciana)|Nari & Milani~Cristian Marchi|466821~456600|1054082|I Got My Eye On You|https://cdnimg.melon.co.kr/cm/album/images/010/54/082/1054082_500.jpg/melon/resize/48/quality/80/optimize
+61|3525296|지켜줄게|김재중|52614|2007460|보스를 지켜라 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/07/460/2007460_500.jpg/melon/resize/48/quality/80/optimize
+62|3460102|랄랄라 (Feat. 소야)|마이티 마우스|239366|1318477|랄랄라|https://cdnimg.melon.co.kr/cm/album/images/013/18/477/1318477_500.jpg/melon/resize/48/quality/80/optimize
+63|3136472|사랑은 은하수 다방에서|10CM|468244|1166956|1.0|https://cdnimg.melon.co.kr/cm/album/images/011/66/956/1166956_500.jpg/melon/resize/48/quality/80/optimize
+64|3547308|사랑을 받았어|김동희|25890|2012019|사랑을 받았어|https://cdnimg.melon.co.kr/cm/album/images/020/12/019/2012019_500.jpg/melon/resize/48/quality/80/optimize
+65|3548426|Rosa|하하|35007|2012027|Quan Ninomarley A.K.A Haha Reggae Wave|https://cdnimg.melon.co.kr/cm/album/images/020/12/027/2012027_500.jpg/melon/resize/48/quality/80/optimize
+66|3403761|Fiction|비스트|436981|1276855|Fiction And Fact|https://cdnimg.melon.co.kr/cm/album/images/012/76/855/1276855_500.jpg/melon/resize/48/quality/80/optimize
+67|3522480|Shake It Up|서인국|436700|2007117|Shake It Up|https://cdnimg.melon.co.kr/cm/album/images/020/07/117/2007117_500.jpg/melon/resize/48/quality/80/optimize
+68|3537453|그리움만 쌓이네 (여진)|윤민수(바이브)|151315|2009046|[나는 가수다] 경연8-1. '자문위원단이 추천한 명곡30'|https://cdnimg.melon.co.kr/cm/album/images/020/09/046/2009046_500.jpg/melon/resize/48/quality/80/optimize
+69|3450190|얼음꽃 (Feat. 김세황)|아이유~김연아|261143~246968|1313571|얼음꽃|https://cdnimg.melon.co.kr/cm/album/images/013/13/571/1313571_500.jpg/melon/resize/48/quality/80/optimize
+70|3545933|하루애|박완규|1037|2011546|공주의 남자 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/020/11/546/2011546_500.jpg/melon/resize/48/quality/80/optimize
+71|3509457|죽을 것만 같아|환희|1928|1355951|Hwanhee|https://cdnimg.melon.co.kr/cm/album/images/013/55/951/1355951_500.jpg/melon/resize/48/quality/80/optimize
+72|3500554|나 가거든 (If I Leave) (조수미)|박정현|1099|1349151|[나는 가수다] 경연6-2. '청중 평가단 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/013/49/151/1349151_500.jpg/melon/resize/48/quality/80/optimize
+73|3498780|향수 뿌리지마|틴탑|483581|1347957|Roman|https://cdnimg.melon.co.kr/cm/album/images/013/47/957/1347957_500.jpg/melon/resize/48/quality/80/optimize
+74|3536916|통증|임재범|4838|2008908|통증 OST|https://cdnimg.melon.co.kr/cm/album/images/020/08/908/2008908_500.jpg/melon/resize/48/quality/80/optimize
+75|3472249|한번만 안아줘|걸스데이|482762|1328051|Everyday|https://cdnimg.melon.co.kr/cm/album/images/013/28/051/1328051_500.jpg/melon/resize/48/quality/80/optimize
+76|3548834|서른 즈음에 (김광석)|인순이|4232|2012526|[나는 가수다] 경연8-2. '1990년대 명곡'|https://cdnimg.melon.co.kr/cm/album/images/020/12/526/2012526_500.jpg/melon/resize/48/quality/80/optimize
+77|3397797|Lonely|2NE1|406712|1273259|Lonely|https://cdnimg.melon.co.kr/cm/album/images/012/73/259/1273259_500.jpg/melon/resize/48/quality/80/optimize
+78|3534086|그리고 사랑해|지아|227595|2008468|지고는 못 살아 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/08/468/2008468_500.jpg/melon/resize/48/quality/80/optimize
+79|3548833|사랑 그 쓸쓸함에 대하여 (양희은)|윤민수(바이브)|151315|2012526|[나는 가수다] 경연8-2. '1990년대 명곡'|https://cdnimg.melon.co.kr/cm/album/images/020/12/526/2012526_500.jpg/melon/resize/48/quality/80/optimize
+80|3446888|그 입술을 막아본다|에이트|228841|1311069|8eight|https://cdnimg.melon.co.kr/cm/album/images/013/11/069/1311069_500.jpg/melon/resize/48/quality/80/optimize
+81|3471644|말하는 대로|처진 달팽이 (유재석 & 이적)|550445|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+82|3543670|Demon|박재범|443420|2010718|Demon|https://cdnimg.melon.co.kr/cm/album/images/020/10/718/2010718_500.jpg/melon/resize/48/quality/80/optimize
+83|-1|기타로 오토바이를 타자|10CM|468244|2012049|Reborn 산울림 Track 3|https://cdnimg.melon.co.kr/cm/album/images/020/12/049/2012049_500.jpg/melon/resize/48/quality/80/optimize
+84|3540481|하와유?? 파인 땡큐!! (Feat. Skull)|하하|35007|2010088|하와유?? 파인 땡큐!!|https://cdnimg.melon.co.kr/cm/album/images/020/10/088/2010088_500.jpg/melon/resize/48/quality/80/optimize
+85|3534950|독기|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+86|3507555|툭하면 (Feat. Skull)|브레이브걸스|531700|1354900|Back To Da Future|https://cdnimg.melon.co.kr/cm/album/images/013/54/900/1354900_500.jpg/melon/resize/48/quality/80/optimize
+87|3532735|사랑을 끊을 수 없다|소울스타 (SOULSTAR)~원티드|170042~55255|2008331|Very Best Telecinema7|https://cdnimg.melon.co.kr/cm/album/images/020/08/331/2008331_500.jpg/melon/resize/48/quality/80/optimize
+88|3467462|나만 부를 수 있는 노래|바닷길 (길 & 바다)|550441|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+89|3530303|Good Good Time|코요태|100022|2007283|Good Good Han Koyote (굿굿한 코요태)|https://cdnimg.melon.co.kr/cm/album/images/020/07/283/2007283_500.jpg/melon/resize/48/quality/80/optimize
+90|3550086|로그인 (Log-In)|티아라|412000|2012764|로그인 (Log-In)|https://cdnimg.melon.co.kr/cm/album/images/020/12/764/2012764_500.jpg/melon/resize/48/quality/80/optimize
+91|3500548|술이야 (바이브)|장혜진|5675|1349151|[나는 가수다] 경연6-2. '청중 평가단 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/013/49/151/1349151_500.jpg/melon/resize/48/quality/80/optimize
+92|3520670|래퍼들이 헤어지는 방법 Part.2 (with. 걸스데이 민아)|데프콘|7567|2006811|The Rage Theater|https://cdnimg.melon.co.kr/cm/album/images/020/06/811/2006811_500.jpg/melon/resize/48/quality/80/optimize
+93|3513410|너의 웃음 고마워 (Vision Of Love)|포맨 (4MEN)|100176|1357954|너의 웃음 고마워 (Vision Of Love)|https://cdnimg.melon.co.kr/cm/album/images/013/57/954/1357954_500.jpg/melon/resize/48/quality/80/optimize
+94|3460074|넌 내게 반했어|정용화 (CNBLUE)|20908|1318466|넌 내게 반했어 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/013/18/466/1318466_500.jpg/melon/resize/48/quality/80/optimize
+95|3534949|19금 Am I? (Feat. Bizzy, B-Free)|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+96|3467467|흔들어 주세요|철싸 (노홍철 & 싸이)|550446|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+97|3511081|또 보고 싶어 (Feat. 상추)|NS 윤지|433746|1357157|또 보고 싶어|https://cdnimg.melon.co.kr/cm/album/images/013/57/157/1357157_500.jpg/melon/resize/48/quality/80/optimize
+98|3548839|너의 결혼식 (윤종신)|바비 킴|6027|2012526|[나는 가수다] 경연8-2. '1990년대 명곡'|https://cdnimg.melon.co.kr/cm/album/images/020/12/526/2012526_500.jpg/melon/resize/48/quality/80/optimize
+99|3467461|순정마초|파리돼지앵 (정형돈 & 정재형)|550440|1324270|무한도전 서해안 고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/013/24/270/1324270_500.jpg/melon/resize/48/quality/80/optimize
+100|3434891|그렇고 그런 사이|장기하와 얼굴들|261662|1301558|장기하와 얼굴들|https://cdnimg.melon.co.kr/cm/album/images/013/01/558/1301558_500.jpg/melon/resize/48/quality/80/optimize

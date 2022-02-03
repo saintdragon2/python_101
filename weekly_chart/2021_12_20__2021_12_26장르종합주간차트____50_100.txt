@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|32508053|이제 나만 믿어요|임영웅|994944|10412319|내일은 미스터트롯 우승자 특전곡|https://cdnimg.melon.co.kr/cm2/album/images/104/12/319/10412319_20200403103006_500.jpg/melon/resize/48/quality/80/optimize
+52|33976677|찰나가 영원이 될 때 (The Eternal Moment)|마크툽 (MAKTUB)|566431|10716174|Red Moon : Beyond The Light|https://cdnimg.melon.co.kr/cm2/album/images/107/16/174/10716174_20210916153439_500.jpg/melon/resize/48/quality/80/optimize
+53|4352438|첫 눈|EXO|724619|2219671|겨울 스페셜 앨범 '12월의 기적 (Miracles In December)'|https://cdnimg.melon.co.kr/cm/album/images/022/19/671/2219671_500.jpg/melon/resize/48/quality/80/optimize
+54|34298498|깐부 (Feat. 염따, ASH ISLAND) (Prod. TOIL)|KOONTA (쿤타)|254105|10784974|쇼미더머니 10 Episode 3|https://cdnimg.melon.co.kr/cm2/album/images/107/84/974/10784974_20211119152051_500.jpg/melon/resize/48/quality/80/optimize
+55|33878014|시간을 거슬러 (낮에 뜨는 달 X 케이윌)|케이윌|175139|10698116|시간을 거슬러 (낮에 뜨는 달 X 케이윌)|https://cdnimg.melon.co.kr/cm2/album/images/106/98/116/10698116_20210831104635_500.jpg/melon/resize/48/quality/80/optimize
+56|33248758|추억은 만남보다 이별에 남아|정동하|181188|10556610|추억은 만남보다 이별에 남아|https://cdnimg.melon.co.kr/cm2/album/images/105/56/610/10556610_20210129172644_500.jpg/melon/resize/48/quality/80/optimize
+57|33167063|밝게 빛나는 별이 되어 비춰줄게|송이한|2189536|10540298|밝게 빛나는 별이 되어 비춰줄게|https://cdnimg.melon.co.kr/cm2/album/images/105/40/298/10540298_20201229150823_500.jpg/melon/resize/48/quality/80/optimize
+58|30287019|롤린 (Rollin')|브레이브걸스|531700|10043575|Rollin'|https://cdnimg.melon.co.kr/cm2/album/images/100/43/575/10043575_20210302112520_500.jpg/melon/resize/48/quality/80/optimize
+59|30962526|모든 날, 모든 순간 (Every day, Every Moment)|폴킴|752425|10149492|'키스 먼저 할까요?' OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/48/quality/80/optimize
+60|3414749|내 손을 잡아|아이유|261143|1286252|최고의 사랑 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/012/86/252/1286252_500.jpg/melon/resize/48/quality/80/optimize
+61|34377570|탕!♡|MINO (송민호)|742773|10805063|"""TO INFINITY."""|https://cdnimg.melon.co.kr/cm2/album/images/108/05/063/10805063_20211207122513_500.jpg/melon/resize/48/quality/80/optimize
+62|34215820|너와 나의 Memories|염따~TOIL~KOONTA (쿤타)~베이식 (Basick)~365LIT~황지상 (HWANG JI SANG)~송민영|202530~2190430~254105~241227~2620684~3048942~3048943|10765081|쇼미더머니 10 Episode 1|https://cdnimg.melon.co.kr/cm2/album/images/107/65/081/10765081_20211105144652_500.jpg/melon/resize/48/quality/80/optimize
+63|33691794|좋아좋아|조정석|253606|10653694|슬기로운 의사생활 시즌2 OST Part 5|https://cdnimg.melon.co.kr/cm2/album/images/106/53/694/10653694_20210715164901_500.jpg/melon/resize/48/quality/80/optimize
+64|33759183|비가 오는 날엔 (2021)|헤이즈 (Heize)|751611|10670618|비가 오는 날엔 (2021)|https://cdnimg.melon.co.kr/cm2/album/images/106/70/618/10670618_20210804111639_500.jpg/melon/resize/48/quality/80/optimize
+65|33464805|Dun Dun Dance|오마이걸 (OH MY GIRL)|857994|10604729|Dear OHMYGIRL|https://cdnimg.melon.co.kr/cm2/album/images/106/04/729/10604729_20210510143932_500.jpg/melon/resize/48/quality/80/optimize
+66|5493429|Text Me Merry Christmas (Feat. Kristen Bell)|Straight No Chaser|593338|2293888|Under The Influence: Holiday Edition|https://cdnimg.melon.co.kr/cm/album/images/022/93/888/2293888_500.jpg/melon/resize/48/quality/80/optimize
+67|32183386|Blueming|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+68|34388139|밤새 서로 미루다|존박~전미도|28772~683172|10807346|밤새 서로 미루다|https://cdnimg.melon.co.kr/cm2/album/images/108/07/346/10807346_20211208223040_500.jpg/melon/resize/48/quality/80/optimize
+69|33749109|DUMB DUMB|전소미|968260|10667450|DUMB DUMB|https://cdnimg.melon.co.kr/cm2/album/images/106/67/450/10667450_20210802111127_500.jpg/melon/resize/48/quality/80/optimize
+70|31853557|오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)|마크툽 (MAKTUB)|566431|10294603|Red Moon : To You My Light|https://cdnimg.melon.co.kr/cm/album/images/102/94/603/10294603_500.jpg/melon/resize/48/quality/80/optimize
+71|33359309|Off My Face|Justin Bieber|420621|10580103|Justice (The Complete Edition)|https://cdnimg.melon.co.kr/cm2/album/images/105/80/103/10580103_20211008114642_500.jpg/melon/resize/48/quality/80/optimize
+72|32160237|Make It To Christmas|Alessia Cara|860988|10349552|Make It To Christmas|https://cdnimg.melon.co.kr/cm2/album/images/103/49/552/10349552_500.jpg/melon/resize/48/quality/80/optimize
+73|33315511|멜로디|ASH ISLAND|2112495|10570193|멜로디|https://cdnimg.melon.co.kr/cm2/album/images/105/70/193/10570193_20210225111143_500.jpg/melon/resize/48/quality/80/optimize
+74|34171026|나 그댈위해 시 한편을 쓰겠어|케이시 (Kassy)|858125|10754229|옛이야기|https://cdnimg.melon.co.kr/cm2/album/images/107/54/229/10754229_20211027154808_500.jpg/melon/resize/48/quality/80/optimize
+75|33652821|그대라는 사치|임영웅|994944|10644845|사랑의 콜센타 PART62|https://cdnimg.melon.co.kr/cm2/album/images/106/44/845/10644845_20210705203115_500.jpg/melon/resize/48/quality/80/optimize
+76|33589488|비와 당신|이무진|2138620|10631122|슬기로운 의사생활 시즌2 OST Part 1|https://cdnimg.melon.co.kr/cm2/album/images/106/31/122/10631122_20210617142653_500.jpg/melon/resize/48/quality/80/optimize
+77|1489805|Must Have Love|SG 워너비~브라운아이드걸스|108363~181694|331377|SG워너비 & 브라운아이드걸스 싱글|https://cdnimg.melon.co.kr/cm/album/images/003/31/377/331377_500.jpg/melon/resize/48/quality/80/optimize
+78|32794652|취기를 빌려 (취향저격 그녀 X 산들)|산들|672392|10463600|취기를 빌려 (취향저격 그녀 X 산들)|https://cdnimg.melon.co.kr/cm2/album/images/104/63/600/10463600_20200720152905_500.jpg/melon/resize/48/quality/80/optimize
+79|33107649|그날에 나는 맘이 편했을까|이예준|718655|10527955|그날에 나는 맘이 편했을까|https://cdnimg.melon.co.kr/cm2/album/images/105/27/955/10527955_20201202190217_500.jpg/melon/resize/48/quality/80/optimize
+80|33805289|Queendom|Red Velvet (레드벨벳)|780066|10680450|Queendom - The 6th Mini Album|https://cdnimg.melon.co.kr/cm2/album/images/106/80/450/10680450_20210813124748_500.jpg/melon/resize/48/quality/80/optimize
+81|33514925|다시 사랑한다면 (김필 Ver.)|임영웅|994944|10614238|사랑의 콜센타 PART56|https://cdnimg.melon.co.kr/cm2/album/images/106/14/238/10614238_20210525100205_500.jpg/melon/resize/48/quality/80/optimize
+82|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+83|31737197|작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+84|34225244|다음생이 있다면 당신을 만나서 다시 사랑할래요|임재현|2087273|10767316|다음생이 있다면 당신을 만나서 다시 사랑할래요|https://cdnimg.melon.co.kr/cm2/album/images/107/67/316/10767316_20211108150955_500.jpg/melon/resize/48/quality/80/optimize
+85|33397561|ASAP|STAYC(스테이씨)|2899290|10589127|STAYDOM|https://cdnimg.melon.co.kr/cm2/album/images/105/89/127/10589127_20210407175809_500.jpg/melon/resize/48/quality/80/optimize
+86|4446485|너의 모든 순간|성시경|3305|2232505|별에서 온 그대 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/48/quality/80/optimize
+87|34254823|SCIENTIST|TWICE (트와이스)|905701|10774753|Formula of Love: O+T=<3|https://cdnimg.melon.co.kr/cm2/album/images/107/74/753/10774753_20211111235413_500.jpg/melon/resize/48/quality/80/optimize
+88|32962258|Savage Love (Laxed - Siren Beat) (BTS Remix)|Jawsh 685~Jason Derulo~방탄소년단|2868396~432140~672375|10498123|Savage Love (Laxed - Siren Beat) [BTS Remix]|https://cdnimg.melon.co.kr/cm2/album/images/104/98/123/10498123_20201002094556_500.jpg/melon/resize/48/quality/80/optimize
+89|32578498|에잇(Prod.&Feat. SUGA of BTS)|아이유|261143|10426648|에잇|https://cdnimg.melon.co.kr/cm2/album/images/104/26/648/10426648_20200506153340_500.jpg/melon/resize/48/quality/80/optimize
+90|33606505|잊었니|임영웅|994944|10633915|사랑의 콜센타 PART60|https://cdnimg.melon.co.kr/cm2/album/images/106/33/915/10633915_20210622101307_500.jpg/melon/resize/48/quality/80/optimize
+91|4322520|Underneath The Tree|Kelly Clarkson|36329|2216493|Wrapped In Red (Deluxe Version)|https://cdnimg.melon.co.kr/cm/album/images/022/16/493/2216493_500.jpg/melon/resize/48/quality/80/optimize
+92|34331507|08베이식 (Feat. 염따, punchnello)|베이식 (Basick)|241227|10793912|쇼미더머니 10 Semi Final|https://cdnimg.melon.co.kr/cm2/album/images/107/93/912/10793912_20211126141422_500.jpg/melon/resize/48/quality/80/optimize
+93|34215819|TROUBLE (Prod. Slom)|Don Mills~Northfacegawd~sokodomo~Khakii (카키)~에이체스 (A-Chess)|729407~2743464~2561475~2751624~924116|10765081|쇼미더머니 10 Episode 1|https://cdnimg.melon.co.kr/cm2/album/images/107/65/081/10765081_20211105144652_500.jpg/melon/resize/48/quality/80/optimize
+94|33337651|별빛 같은 나의 사랑아|임영웅|994944|10575005|별빛 같은 나의 사랑아|https://cdnimg.melon.co.kr/cm2/album/images/105/75/005/10575005_20210309113840_500.jpg/melon/resize/48/quality/80/optimize
+95|32961718|Lovesick Girls|BLACKPINK|995169|10498032|THE ALBUM|https://cdnimg.melon.co.kr/cm2/album/images/104/98/032/10498032_20200929122954_500.jpg/melon/resize/48/quality/80/optimize
+96|33036660|HERO|임영웅|994944|10513079|HERO|https://cdnimg.melon.co.kr/cm2/album/images/105/13/079/10513079_20201103201136_500.jpg/melon/resize/48/quality/80/optimize
+97|33630420|끝사랑|임영웅|994944|10639384|사랑의 콜센타 PART61|https://cdnimg.melon.co.kr/cm2/album/images/106/39/384/10639384_20210628195604_500.jpg/melon/resize/48/quality/80/optimize
+98|34298493|Reset (Feat. 개코, Kid Milli) (Prod. 코드 쿤스트)|SINCE~Tabber|2138586~791484|10784974|쇼미더머니 10 Episode 3|https://cdnimg.melon.co.kr/cm2/album/images/107/84/974/10784974_20211119152051_500.jpg/melon/resize/48/quality/80/optimize
+99|33077234|Life Goes On|방탄소년단|672375|10521521|BE|https://cdnimg.melon.co.kr/cm2/album/images/105/21/521/10521521_20201120112220_500.jpg/melon/resize/48/quality/80/optimize
+100|33618864|가을 우체국 앞에서|김대명|2086543|10636269|슬기로운 의사생활 시즌2 OST Part 2|https://cdnimg.melon.co.kr/cm2/album/images/106/36/269/10636269_20210625102856_500.jpg/melon/resize/48/quality/80/optimize

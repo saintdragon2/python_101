@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1114171|구두|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+52|1146394|비익조|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+53|1099594|하기 힘든 말|이승기|58793|313335|Crazy For You|https://cdnimg.melon.co.kr/cm/album/images/003/13/335/313335_500.jpg/melon/resize/48/quality/80/optimize
+54|1214990|그대만 있다면 (Drama Version)|러브홀릭|106718|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+55|1266156|태양은 가득히|SMTOWN|160072|320639|2006 Summer Smtown|https://cdnimg.melon.co.kr/cm/album/images/003/20/639/320639_500.jpg/melon/resize/48/quality/80/optimize
+56|1205314|그래서...|타이푼|186309|318957|TROIKA|https://cdnimg.melon.co.kr/cm/album/images/003/18/957/318957_500.jpg/melon/resize/48/quality/80/optimize
+57|1266152|떠나지마|이승철|1010|320638|Somewhere Over The RAINBOW Vol. 1|https://cdnimg.melon.co.kr/cm/album/images/003/20/638/320638_500.jpg/melon/resize/48/quality/80/optimize
+58|1204158|Reds Go Together|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+59|1185401|봄 여름 가을... 겨울 (Feat. 김태우 God)|수호|184926|317426|Thank U|https://cdnimg.melon.co.kr/cm/album/images/003/17/426/317426_500.jpg/melon/resize/48/quality/80/optimize
+60|1143063|차라의 숲|러브홀릭|106718|316457|Nice Dream|https://cdnimg.melon.co.kr/cm/album/images/003/16/457/316457_500.jpg/melon/resize/48/quality/80/optimize
+61|-1|Addicted|Sweetbox|100060|316869|Addicted|https://cdnimg.melon.co.kr/cm/album/images/003/16/869/316869_500.jpg/melon/resize/48/quality/80/optimize
+62|1146735|Against All Odds (CF - 투싼 휘성 편)|휘성 (Realslow)|10577|316744|Against All Odds|https://cdnimg.melon.co.kr/cm/album/images/003/16/744/316744_500.jpg/melon/resize/48/quality/80/optimize
+63|1214991|눈물이겠죠|장혜진|5675|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+64|1142834|Reds, Go Together|버즈|160091|316409|Reds, Go Together|https://cdnimg.melon.co.kr/cm/album/images/003/16/409/316409_500.jpg/melon/resize/48/quality/80/optimize
+65|1114173|Promise U|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+66|1173854|위태로운 이야기|박정현|1099|316942|위태로운 이야기|https://cdnimg.melon.co.kr/cm/album/images/003/16/942/316942_500.jpg/melon/resize/48/quality/80/optimize
+67|1177939|잊을래|소울스타 (SOULSTAR)|170042|317153|1st Single Album|https://cdnimg.melon.co.kr/cm/album/images/003/17/153/317153_500.jpg/melon/resize/48/quality/80/optimize
+68|1120765|So Sick|Ne-Yo|181769|314762|In My Own Words|https://cdnimg.melon.co.kr/cm/album/images/003/14/762/314762_500.jpg/melon/resize/48/quality/80/optimize
+69|1264221|당신께 말합니다|장혜진|5675|320177|불꽃 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/20/177/320177_500.jpg/melon/resize/48/quality/80/optimize
+70|1199412|그리움도 안되겠죠|SE7EN|33513|318625|스마일 어게인 OST|https://cdnimg.melon.co.kr/cm/album/images/003/18/625/318625_500.jpg/melon/resize/48/quality/80/optimize
+71|1146305|그런 사랑|란 (RAN)|236880|316711|The Second Story|https://cdnimg.melon.co.kr/cm/album/images/003/16/711/316711_500.jpg/melon/resize/48/quality/80/optimize
+72|-1|Perfect Love ( CF - 이자녹스 제시카 알바편 )|Lutricia Mcneal|28329|308902|Metroplex|https://cdnimg.melon.co.kr/cm/album/images/003/08/902/308902_500.jpg/melon/resize/48/quality/80/optimize
+73|1193995|괜찮은 오늘 (Feat. MC 몽)|별|27033|318144|눈물샘|https://cdnimg.melon.co.kr/cm/album/images/003/18/144/318144_500.jpg/melon/resize/48/quality/80/optimize
+74|1213300|What's Left Of Me|Nick Lachey|2380|319751|What's Left Of Me|https://cdnimg.melon.co.kr/cm/album/images/003/19/751/319751_500.jpg/melon/resize/48/quality/80/optimize
+75|1188515|사랑해요|김현성|1175|317672|신혜성 김현성 에코브릿지 멜론파워싱글 #7|https://cdnimg.melon.co.kr/cm/album/images/003/17/672/317672_500.jpg/melon/resize/48/quality/80/optimize
+76|1185418|못난이|청안|184927|317428|Synopsis|https://cdnimg.melon.co.kr/cm/album/images/003/17/428/317428_500.jpg/melon/resize/48/quality/80/optimize
+77|1214995|사랑해... 사랑할 수 없을만큼|정재욱|7839|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+78|1136334|상상 (영화 '청춘만화' 삽입곡)|코요태|100022|315928|The Koyote In Ballade Special|https://cdnimg.melon.co.kr/cm/album/images/003/15/928/315928_500.jpg/melon/resize/48/quality/80/optimize
+79|1213523|Summer Dream|gavy nj project group [H7美人(미인)]|186813|319770|gavy nj project group [H7美人(미인)]|https://cdnimg.melon.co.kr/cm/album/images/003/19/770/319770_500.jpg/melon/resize/48/quality/80/optimize
+80|1209892|꿈일까봐|백지영|1118|318784|나도야 간다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/18/784/318784_500.jpg/melon/resize/48/quality/80/optimize
+81|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+82|1199413|너의 가슴으로 가는 길|먼데이 키즈 (Monday Kiz)|175155|318625|스마일 어게인 OST|https://cdnimg.melon.co.kr/cm/album/images/003/18/625/318625_500.jpg/melon/resize/48/quality/80/optimize
+83|1144213|Stupid Girls|Pink|10385|316548|I'm Not Dead|https://cdnimg.melon.co.kr/cm/album/images/003/16/548/316548_500.jpg/melon/resize/48/quality/80/optimize
+84|1195384|안고 싶은데|제이피에스|34942|318240|J.Story 1집|https://cdnimg.melon.co.kr/cm/album/images/003/18/240/318240_500.jpg/melon/resize/48/quality/80/optimize
+85|-1|Let`s Get It Started|Black Eyed Peas|107538|64860|-|https://cdnimg.melon.co.kr/cm/album/images/000/64/860/64860_500.jpg/melon/resize/48/quality/80/optimize
+86|1209734|The First Time (Mordny K Mix) (Feat. 서인영)|V.O.S|108794|319366|The First Time|https://cdnimg.melon.co.kr/cm/album/images/003/19/366/319366_500.jpg/melon/resize/48/quality/80/optimize
+87|1097091|사랑 먼지|버블 시스터즈|105696|313157|Ready For Soul|https://cdnimg.melon.co.kr/cm/album/images/003/13/157/313157_500.jpg/melon/resize/48/quality/80/optimize
+88|1090580|남과 여 (Feat.김범수)|박선주 (Pak Sun Zoo)|4640|312550|A4rism|https://cdnimg.melon.co.kr/cm/album/images/003/12/550/312550_500.jpg/melon/resize/48/quality/80/optimize
+89|1177480|우리 이별 앞에 지지말아요 (세상에 한 사람)|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+90|1178406|그녀...웃었다|투샤이|107724|317184|그녀... 웃었다|https://cdnimg.melon.co.kr/cm/album/images/003/17/184/317184_500.jpg/melon/resize/48/quality/80/optimize
+91|933582|19금 Don't Cha (CF - SKY 와이드 PMP폰 클럽편)|Pussycat Dolls|173455|308331|Pcd|https://cdnimg.melon.co.kr/cm/album/images/003/08/331/308331_500.jpg/melon/resize/48/quality/80/optimize
+92|1033126|가만히 눈을 감고 (CF - 교토 다원녹차)|정재욱|7839|311276|Remade 0506|https://cdnimg.melon.co.kr/cm/album/images/003/11/276/311276_500.jpg/melon/resize/48/quality/80/optimize
+93|-1|Superstar|Jamelia|56026|34495|Thank You|https://cdnimg.melon.co.kr/cm/album/images/000/34/495/34495_500.jpg/melon/resize/48/quality/80/optimize
+94|1125314|Miracle|엠투엠 (M To M)|108581|315086|넌 어느별에서 왔니 OST|https://cdnimg.melon.co.kr/cm/album/images/003/15/086/315086_500.jpg/melon/resize/48/quality/80/optimize
+95|1194319|Highway Star (Feat. IVY)|신화|100078|318167|State Of The Art|https://cdnimg.melon.co.kr/cm/album/images/003/18/167/318167_500.jpg/melon/resize/48/quality/80/optimize
+96|1198320|재촉하세요|이안|57358|318553|Call It Love|https://cdnimg.melon.co.kr/cm/album/images/003/18/553/318553_500.jpg/melon/resize/48/quality/80/optimize
+97|1147154|너의 모습 - 이별은 (Drama Ver.)|한글|8668|316777|Dr. 깽 OST|https://cdnimg.melon.co.kr/cm/album/images/003/16/777/316777_500.jpg/melon/resize/48/quality/80/optimize
+98|985472|Happiness|가비엔제이|174997|309078|The Very First|https://cdnimg.melon.co.kr/cm/album/images/003/09/078/309078_500.jpg/melon/resize/48/quality/80/optimize
+99|1177473|약자의 눈물|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+100|1174158|누구를 위한 삶인가|리쌍~류승범~황정민|103289~34064~21094|316961|사생결단 (누구를 위한 삶인가) OST|https://cdnimg.melon.co.kr/cm/album/images/003/16/961/316961_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2523763|그녀처럼|지아|227595|753752|Atelier|https://cdnimg.melon.co.kr/cm/album/images/007/53/752/753752_500.jpg/melon/resize/48/quality/80/optimize
+52|2542649|우리 결혼할까?|리사~미료|48312~6272|770252|우리 결혼할까? (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/70/252/770252_500.jpg/melon/resize/48/quality/80/optimize
+53|2575585|잊혀지는 이별|임창정|1142|798856|Remind|https://cdnimg.melon.co.kr/cm/album/images/007/98/856/798856_500.jpg/melon/resize/48/quality/80/optimize
+54|2339048|Sign|브라운아이드걸스|181694|707651|Sound-G Sign|https://cdnimg.melon.co.kr/cm/album/images/007/07/651/707651_500.jpg/melon/resize/48/quality/80/optimize
+55|2565275|빙글빙글|유키스|259928|782653|U-Kiss Only One Album|https://cdnimg.melon.co.kr/cm/album/images/007/82/653/782653_500.jpg/melon/resize/48/quality/80/optimize
+56|2530643|또르르|지연|449580|759665|공부의 신 OST|https://cdnimg.melon.co.kr/cm/album/images/007/59/665/759665_500.jpg/melon/resize/48/quality/80/optimize
+57|2573848|좋은 사람 있으면 소개시켜줘|럼블피쉬|108951|797251|좋은 사람 있으면 소개시켜줘|https://cdnimg.melon.co.kr/cm/album/images/007/97/251/797251_500.jpg/melon/resize/48/quality/80/optimize
+58|2558731|영원히 너와 꿈꾸고 싶다 (Forever)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+59|2558733|화성인 바이러스 (Boys & Girls) (Feat. Key Of SHINee)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+60|2517760|하모니|제아~이영현|230519~10210|749952|하모니 OST|https://cdnimg.melon.co.kr/cm/album/images/007/49/952/749952_500.jpg/melon/resize/48/quality/80/optimize
+61|2533327|Mazeltov|제국의아이들 (ZE:A)|449941|761859|Nativity|https://cdnimg.melon.co.kr/cm/album/images/007/61/859/761859_500.jpg/melon/resize/48/quality/80/optimize
+62|2374593|No Love No More|박진영|1130|729754|Sad Freedom|https://cdnimg.melon.co.kr/cm/album/images/007/29/754/729754_500.jpg/melon/resize/48/quality/80/optimize
+63|2319548|잊지 말아요|백지영|1118|689751|아이리스 OST (Part 1)|https://cdnimg.melon.co.kr/cm/album/images/006/89/751/689751_500.jpg/melon/resize/48/quality/80/optimize
+64|2552016|아파|빅마마|105803|778161|천만번 사랑해 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/007/78/161/778161_500.jpg/melon/resize/48/quality/80/optimize
+65|2331974|못된 여자 II (With 서인영)|원투|106928|701153|못된 여자 II|https://cdnimg.melon.co.kr/cm/album/images/007/01/153/701153_500.jpg/melon/resize/48/quality/80/optimize
+66|2563148|후두둑|서영은|3033|787951|후두둑|https://cdnimg.melon.co.kr/cm/album/images/007/87/951/787951_500.jpg/melon/resize/48/quality/80/optimize
+67|2558732|웃자 (Be Happy)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+68|2384348|사랑하면 안되나요|서인영|26265|737351|아이리스 OST (Part 6)|https://cdnimg.melon.co.kr/cm/album/images/007/37/351/737351_500.jpg/melon/resize/48/quality/80/optimize
+69|2553760|날개를 펴고 (Vocal By Luna, Krystal, Amber)|f(x)|428501|779452|공부의 신 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/007/79/452/779452_500.jpg/melon/resize/48/quality/80/optimize
+70|2347151|그립고 그립고 그립다|케이윌|175139|714152|그립고 그립고 그립다|https://cdnimg.melon.co.kr/cm/album/images/007/14/152/714152_500.jpg/melon/resize/48/quality/80/optimize
+71|2334774|그 놈 목소리|씨야|181679|703853|Rebloom|https://cdnimg.melon.co.kr/cm/album/images/007/03/853/703853_500.jpg/melon/resize/48/quality/80/optimize
+72|2558734|카라멜 커피 (Talk To Me)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+73|2354532|마쉬멜로우|아이유|261143|718505|IU...IM|https://cdnimg.melon.co.kr/cm/album/images/007/18/505/718505_500.jpg/melon/resize/48/quality/80/optimize
+74|2569116|사랑한다는 말|남규리|223392|792759|보석비빔밥 OST|https://cdnimg.melon.co.kr/cm/album/images/007/92/759/792759_500.jpg/melon/resize/48/quality/80/optimize
+75|2511470|사랑합니다|SG 워너비~V.O.S|108363~108794|744956|사랑합니다|https://cdnimg.melon.co.kr/cm/album/images/007/44/956/744956_500.jpg/melon/resize/48/quality/80/optimize
+76|2566559|마음을 다한 사랑 (Feat. 김동희)|노블레스|160738|790752|마음을 다한 사랑|https://cdnimg.melon.co.kr/cm/album/images/007/90/752/790752_500.jpg/melon/resize/48/quality/80/optimize
+77|2569007|없습니다|JK 김동욱|20379|792659|The Artist (조덕배 25주년 기념앨범 Part.3)|https://cdnimg.melon.co.kr/cm/album/images/007/92/659/792659_500.jpg/melon/resize/48/quality/80/optimize
+78|2345593|Chu~♡|f(x)|428501|712753|'Chu~♡' The 1st Single|https://cdnimg.melon.co.kr/cm/album/images/007/12/753/712753_500.jpg/melon/resize/48/quality/80/optimize
+79|2363261|Telephone (Feat. Beyoncé)|Lady Gaga|253688|720852|The Fame Monster|https://cdnimg.melon.co.kr/cm/album/images/007/20/852/720852_500.jpg/melon/resize/48/quality/80/optimize
+80|1935298|Baby Baby|포맨 (4MEN)|100176|398596|First Kiss|https://cdnimg.melon.co.kr/cm/album/images/003/98/596/398596_500.jpg/melon/resize/48/quality/80/optimize
+81|2379811|돌아올순 없나요|디셈버|439021|733756|아이리스 OST (Part 5)|https://cdnimg.melon.co.kr/cm/album/images/007/33/756/733756_500.jpg/melon/resize/48/quality/80/optimize
+82|2567729|Day After (Feat. 박규리 Of 카라)|홍경민|891|791657|10집 Special Edition|https://cdnimg.melon.co.kr/cm/album/images/007/91/657/791657_500.jpg/melon/resize/48/quality/80/optimize
+83|2540358|남잔 다 그래|럼블피쉬|108951|768252|남잔 다 그래|https://cdnimg.melon.co.kr/cm/album/images/007/68/252/768252_500.jpg/melon/resize/48/quality/80/optimize
+84|2558737|좋은 일만 생각하기 (Day by Day)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+85|2557973|My Style|브라운아이드걸스|181694|783354|MBC 음악여행 라라라 Live Vol.8|https://cdnimg.melon.co.kr/cm/album/images/007/83/354/783354_500.jpg/melon/resize/48/quality/80/optimize
+86|2558736|무조건 해피엔딩 (Stick Wit U)|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+87|2353708|꿈을 꾸다 (Main Ver.)|김태우|182430|718422|아이리스 OST (Part 4)|https://cdnimg.melon.co.kr/cm/album/images/007/18/422/718422_500.jpg/melon/resize/48/quality/80/optimize
+88|2320988|Ring Ding Dong|SHINee (샤이니)|247639|691052|2009, Year Of Us|https://cdnimg.melon.co.kr/cm/album/images/006/91/052/691052_500.jpg/melon/resize/48/quality/80/optimize
+89|2513619|Ghost (고스트)|박화요비~고유진 (플라워)|2017~4172|746756|Ghost|https://cdnimg.melon.co.kr/cm/album/images/007/46/756/746756_500.jpg/melon/resize/48/quality/80/optimize
+90|2359820|사랑경보 (Feat. 주희 Of 에이트)|H-유진|198032|719026|사랑경보|https://cdnimg.melon.co.kr/cm/album/images/007/19/026/719026_500.jpg/melon/resize/48/quality/80/optimize
+91|2511767|로맨틱 겨울 (Feat. 김진호 Of SG워너비)|김진표|1136|745152|Romantic 겨울|https://cdnimg.melon.co.kr/cm/album/images/007/45/152/745152_500.jpg/melon/resize/48/quality/80/optimize
+92|2291014|Honesty|Beyonce|3535|664561|I Am... Sasha Fierce (Platinum Edition)|https://cdnimg.melon.co.kr/cm/album/images/006/64/561/664561_500.jpg/melon/resize/48/quality/80/optimize
+93|2549796|죽을 것 같아|김동희|25890|775964|Episode|https://cdnimg.melon.co.kr/cm/album/images/007/75/964/775964_500.jpg/melon/resize/48/quality/80/optimize
+94|2573849|작년 겨울|박윤화~현아|455880~449401|797252|Love Parade|https://cdnimg.melon.co.kr/cm/album/images/007/97/252/797252_500.jpg/melon/resize/48/quality/80/optimize
+95|2572264|파트타임러버 (Part Time Lover)|알렉스~호란|51146~221838|795652|파스타 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/007/95/652/795652_500.jpg/melon/resize/48/quality/80/optimize
+96|2312253|헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+97|2517654|눈 내리는 마을|애프터스쿨~브라운아이드걸스~케이윌~간미연~테이~숙희~안영민|322666~181694~175139~1636~51893~341370~780318|749855|눈 내리는 마을|https://cdnimg.melon.co.kr/cm/album/images/007/49/855/749855_500.jpg/melon/resize/48/quality/80/optimize
+98|2566561|사랑하기 때문에|박진영|1130|790753|MBC 음악여행 라라라 Live Vol.9|https://cdnimg.melon.co.kr/cm/album/images/007/90/753/790753_500.jpg/melon/resize/48/quality/80/optimize
+99|2573249|내게 오는 길|윤시윤|455740|796651|지붕뚫고 하이킥 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/007/96/651/796651_500.jpg/melon/resize/48/quality/80/optimize
+100|2335458|여자는 나쁜남자를 좋아한다|디셈버|439021|704452|Dear My Lover|https://cdnimg.melon.co.kr/cm/album/images/007/04/452/704452_500.jpg/melon/resize/48/quality/80/optimize

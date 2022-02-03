@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4868481|U|엠씨더맥스 (M.C the MAX)|161636|2280412|괜찮아 사랑이야 OST Part 7|https://cdnimg.melon.co.kr/cm/album/images/022/80/412/2280412_500.jpg/melon/resize/48/quality/80/optimize
+52|4743561|Tell Me If You Wanna Go Home|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+53|4800615|19금 I AM|아이언|781841|2273085|쇼미더머니3 Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/73/085/2273085_500.jpg/melon/resize/48/quality/80/optimize
+54|4711065|우산|윤하 (YOUNHA)|203912|2263475|우산|https://cdnimg.melon.co.kr/cm/album/images/022/63/475/2263475_500.jpg/melon/resize/48/quality/80/optimize
+55|4751624|전화번호 (Feat. 버벌진트, 40)|스윙스|236970|2267692|감정기복 II Part. 2 : 강박증 (Obsessive Compulsive Disorder)|https://cdnimg.melon.co.kr/cm/album/images/022/67/692/2267692_500.jpg/melon/resize/48/quality/80/optimize
+56|4639518|너를 너를 너를|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+57|4818613|나처럼 해봐요|오렌지 캬라멜|477632|2275066|The Fourth Single '나처럼 해봐요'|https://cdnimg.melon.co.kr/cm/album/images/022/75/066/2275066_500.jpg/melon/resize/48/quality/80/optimize
+58|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+59|5375532|보란 듯이|지아|227595|2281162|보란 듯이|https://cdnimg.melon.co.kr/cm/album/images/022/81/162/2281162_500.jpg/melon/resize/48/quality/80/optimize
+60|4821175|낙엽 엔딩|장범준|648551|2275373|장범준 1집|https://cdnimg.melon.co.kr/cm/album/images/022/75/373/2275373_500.jpg/melon/resize/48/quality/80/optimize
+61|4774996|행복 (Happiness)|Red Velvet (레드벨벳)|780066|2270252|The 1st Single '행복 (Happiness)'|https://cdnimg.melon.co.kr/cm/album/images/022/70/252/2270252_500.jpg/melon/resize/48/quality/80/optimize
+62|4016085|신촌을 못가|포스트맨(Postmen)|495401|2173025|신촌을 못가|https://cdnimg.melon.co.kr/cm/album/images/021/73/025/2173025_500.jpg/melon/resize/48/quality/80/optimize
+63|4562881|Mr. Chu (On Stage)|Apink (에이핑크)|534360|2246854|Pink Blossom|https://cdnimg.melon.co.kr/cm/album/images/022/46/854/2246854_500.jpg/melon/resize/48/quality/80/optimize
+64|4714217|하늘색 약속|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+65|4579468|봄 사랑 벚꽃 말고|HIGH4 (하이포)~아이유|767374~261143|2248659|봄 사랑 벚꽃 말고|https://cdnimg.melon.co.kr/cm/album/images/022/48/659/2248659_500.jpg/melon/resize/48/quality/80/optimize
+66|4793764|OLL' Ready|올티 (Olltii)|669972|2272303|쇼미더머니3 올티vs육지담|https://cdnimg.melon.co.kr/cm/album/images/022/72/303/2272303_500.jpg/melon/resize/48/quality/80/optimize
+67|4859304|So Good (Feat. Common Ground)|박재범|443420|2275063|EVOLUTION|https://cdnimg.melon.co.kr/cm/album/images/022/75/063/2275063_500.jpg/melon/resize/48/quality/80/optimize
+68|4645220|나의 옛날이야기|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+69|4824874|I Feel You|홍대광|699623|2275738|괜찮아 사랑이야 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/75/738/2275738_500.jpg/melon/resize/48/quality/80/optimize
+70|4743571|A Step You Can’t Take Back|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+71|4743564|Lost Stars|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+72|4818802|괴도 (Danger)|태민 (TAEMIN)|629371|2275087|The 1st Mini Album 'ACE'|https://cdnimg.melon.co.kr/cm/album/images/022/75/087/2275087_500.jpg/melon/resize/48/quality/80/optimize
+73|-1|인연|윤민수(바이브)~신용재 (2F)|151315~510537|2249074|불후의 명곡 - 전설을 노래하다 (이선희 2편)|https://cdnimg.melon.co.kr/cm/album/images/022/49/074/2249074_500.jpg/melon/resize/48/quality/80/optimize
+74|4853295|MAMACITA(아야야)|SUPER JUNIOR (슈퍼주니어)|175404|2278771|The 7th Album 'MAMACITA'|https://cdnimg.melon.co.kr/cm/album/images/022/78/771/2278771_500.jpg/melon/resize/48/quality/80/optimize
+75|4743565|A Higher Place|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+76|4633162|중독 (Overdose)|EXO-K|625511|2254734|The 2nd Mini Album '중독 (Overdose)'|https://cdnimg.melon.co.kr/cm/album/images/022/54/734/2254734_500.jpg/melon/resize/48/quality/80/optimize
+77|4585736|Bad (Feat. Vassy) (Radio Edit)|David Guetta~Showtek|182123~243157|2249404|Bad (Feat. Vassy) (Radio Edit)|https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/48/quality/80/optimize
+78|4527879|감아 (Feat. Crush)|로꼬|688432|2242936|감아|https://cdnimg.melon.co.kr/cm/album/images/022/42/936/2242936_500.jpg/melon/resize/48/quality/80/optimize
+79|4652064|19금 연결고리 (Feat. MC Meta)|ILLIONAIRE RECORDS|556100|2257117|11:11|https://cdnimg.melon.co.kr/cm/album/images/022/57/117/2257117_500.jpg/melon/resize/48/quality/80/optimize
+80|4756411|Back|인피니트|476181|2268235|Be Back|https://cdnimg.melon.co.kr/cm/album/images/022/68/235/2268235_500.jpg/melon/resize/48/quality/80/optimize
+81|4806689|걔 세|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+82|4686392|Good Luck|비스트|436981|2260842|Good Luck|https://cdnimg.melon.co.kr/cm/album/images/022/60/842/2260842_500.jpg/melon/resize/48/quality/80/optimize
+83|4756305|나쁜손 (Feat. 버벌진트) (Naughty Hands)|씨스타|473181|2268221|TOUCH N MOVE|https://cdnimg.melon.co.kr/cm/album/images/022/68/221/2268221_500.jpg/melon/resize/48/quality/80/optimize
+84|4821176|내 마음이 그대가 되어(내마그)|장범준|648551|2275373|장범준 1집|https://cdnimg.melon.co.kr/cm/album/images/022/75/373/2275373_500.jpg/melon/resize/48/quality/80/optimize
+85|4603433|너를 원해 (Feat. Beenzino)|정기고|304967|2251373|Want U|https://cdnimg.melon.co.kr/cm/album/images/022/51/373/2251373_500.jpg/melon/resize/48/quality/80/optimize
+86|3808189|Call You Mine (Feat. Geologic Of The Blue Scholars)|Jeff Bernat|673152|2124668|The Gentleman Approach|https://cdnimg.melon.co.kr/cm/album/images/021/24/668/2124668_500.jpg/melon/resize/48/quality/80/optimize
+87|4749304|AEAO|다이나믹 듀오~DJ Premier|108358~44597|2267461|A Giant Step|https://cdnimg.melon.co.kr/cm/album/images/022/67/461/2267461_500.jpg/melon/resize/48/quality/80/optimize
+88|4806735|Different|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+89|4821172|주홍빛 거리|장범준|648551|2275373|장범준 1집|https://cdnimg.melon.co.kr/cm/album/images/022/75/373/2275373_500.jpg/melon/resize/48/quality/80/optimize
+90|4832347|187 (Feat. 임성현)|BILL STAX (빌스택스)|27652|2276526|쇼미더머니3 Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/76/526/2276526_500.jpg/melon/resize/48/quality/80/optimize
+91|4400561|짧은 치마 (Miniskirt)|AOA|686920|2226803|짧은 치마|https://cdnimg.melon.co.kr/cm/album/images/022/26/803/2226803_500.jpg/melon/resize/48/quality/80/optimize
+92|4836308|인형|신혜성~임창정|1741~1142|2276973|SHIN HYE SUNG - Once Again #2|https://cdnimg.melon.co.kr/cm/album/images/022/76/973/2276973_500.jpg/melon/resize/48/quality/80/optimize
+93|4796459|Ship And The Globe|Kae Sun|781491|2272626|괜찮아 사랑이야 Pop OST|https://cdnimg.melon.co.kr/cm/album/images/022/72/626/2272626_500.jpg/melon/resize/48/quality/80/optimize
+94|4691278|Mr.애매모호|마마무 (Mamamoo)|750053|2261347|Hello|https://cdnimg.melon.co.kr/cm/album/images/022/61/347/2261347_500.jpg/melon/resize/48/quality/80/optimize
+95|4743569|Coming Up Roses|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+96|4754435|Love Lane|마마무 (Mamamoo)|750053|2268012|연애말고 결혼 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/68/012/2268012_500.jpg/melon/resize/48/quality/80/optimize
+97|4743566|Like A Fool|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+98|4835410|얼마짜리 사랑 (Feat. 제시 Of 럭키제이)|휘성 (Realslow)~범키|10577~623851|2276890|얼마짜리 사랑|https://cdnimg.melon.co.kr/cm/album/images/022/76/890/2276890_500.jpg/melon/resize/48/quality/80/optimize
+99|4848878|요즘 내 모습 (Feat. 타블로, 케이윌)|윤도현|923|2278321|요즘 내 모습|https://cdnimg.melon.co.kr/cm/album/images/022/78/321/2278321_500.jpg/melon/resize/48/quality/80/optimize
+100|4764927|보기 드문 여자|블락비 (Block B)|532201|2250057|HER|https://cdnimg.melon.co.kr/cm/album/images/022/50/057/2250057_500.jpg/melon/resize/48/quality/80/optimize

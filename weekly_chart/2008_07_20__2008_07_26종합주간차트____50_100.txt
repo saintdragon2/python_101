@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1858074|I Love You (Feat. 신디)|란 (RAN)|236880|377216|I Love You|https://cdnimg.melon.co.kr/cm/album/images/003/77/216/377216_500.jpg/melon/resize/48/quality/80/optimize
+52|1903048|천하무적 이효리|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+53|1807098|One More Time|쥬얼리|101487|368317|5집 Kitchi Island|https://cdnimg.melon.co.kr/cm/album/images/003/68/317/368317_500.jpg/melon/resize/48/quality/80/optimize
+54|1904001|해뜰날 (Feat. 마이티 마우스)|신지|5907|389812|1st Album|https://cdnimg.melon.co.kr/cm/album/images/003/89/812/389812_500.jpg/melon/resize/48/quality/80/optimize
+55|1851234|미치겠어 (Feat. M.A.C)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+56|1904805|너였구나|견우 (Kyunwoo)|172281|390080|너였구나|https://cdnimg.melon.co.kr/cm/album/images/003/90/080/390080_500.jpg/melon/resize/48/quality/80/optimize
+57|1798752|슬픈 다짐|다비치|236815|367137|AMARANTH|https://cdnimg.melon.co.kr/cm/album/images/003/67/137/367137_500.jpg/melon/resize/48/quality/80/optimize
+58|1897615|파파라치 (Feat. 윤하, 태완, a.k.a C-Luv)|아주|237439|388681|Paparazzi|https://cdnimg.melon.co.kr/cm/album/images/003/88/681/388681_500.jpg/melon/resize/48/quality/80/optimize
+59|1903049|Lesson|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+60|1903055|Sexy Boy (With 휘성)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+61|1902386|그대만 보여요 (Feat. BigBang T.O.P)|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+62|1892695|결혼 (Feat. 가인 For 브라운아이드걸스)|정철 (최정철)|12872|386747|결혼|https://cdnimg.melon.co.kr/cm/album/images/003/86/747/386747_500.jpg/melon/resize/48/quality/80/optimize
+63|1900548|행복해야 해|이기찬|6225|389181|Singing All My Song For You|https://cdnimg.melon.co.kr/cm/album/images/003/89/181/389181_500.jpg/melon/resize/48/quality/80/optimize
+64|1900565|사랑을 시작하다|Ecobridge|181727|389183|Ordinarian|https://cdnimg.melon.co.kr/cm/album/images/003/89/183/389183_500.jpg/melon/resize/48/quality/80/optimize
+65|1903051|사진첩|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+66|1816224|사랑해 (Feat. 윤은혜)|마이티 마우스|239366|370758|사랑해 (Feat. 윤은혜) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/70/758/370758_500.jpg/melon/resize/48/quality/80/optimize
+67|1903056|빨간자동차 (With 김건모)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+68|1903053|Don't Cry|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+69|1826467|미안해요 (Feat. T.O.P)|거미|30358|372909|Comfort|https://cdnimg.melon.co.kr/cm/album/images/003/72/909/372909_500.jpg/melon/resize/48/quality/80/optimize
+70|1903054|괜찮아질까요? (With Bigtone)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+71|1883538|요리왕 (Cooking? Cooking!)|SUPER JUNIOR-Happy (슈퍼주니어-Happy)|248146|382813|요리왕 (Cooking? Cooking!) The First Mini Album|https://cdnimg.melon.co.kr/cm/album/images/003/82/813/382813_500.jpg/melon/resize/48/quality/80/optimize
+72|1903052|이발소 집 딸|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+73|1854857|멋지게 이별|SG 워너비|108363|376502|My Friend|https://cdnimg.melon.co.kr/cm/album/images/003/76/502/376502_500.jpg/melon/resize/48/quality/80/optimize
+74|1900142|신발|이카|253677|389046|Introducing One's Dream|https://cdnimg.melon.co.kr/cm/album/images/003/89/046/389046_500.jpg/melon/resize/48/quality/80/optimize
+75|1903289|I Believe|베이비복스 2기|216382|389121|I Believe|https://cdnimg.melon.co.kr/cm/album/images/003/89/121/389121_500.jpg/melon/resize/48/quality/80/optimize
+76|1877453|Baby Bye Bye (베이비 바이 바이)|윤미래|1654|382300|랩소디 Part 2|https://cdnimg.melon.co.kr/cm/album/images/003/82/300/382300_500.jpg/melon/resize/48/quality/80/optimize
+77|1903058|P. P. P (Punky Punky Party) (With 낯선)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+78|1899491|퍼플 레인 (Purple Rain)|신혜성|1741|389007|Color Purple|https://cdnimg.melon.co.kr/cm/album/images/003/89/007/389007_500.jpg/melon/resize/48/quality/80/optimize
+79|1867868|Ready To L.O.V.E|제아~미료|230519~6272|379422|The Love Part.2|https://cdnimg.melon.co.kr/cm/album/images/003/79/422/379422_500.jpg/melon/resize/48/quality/80/optimize
+80|1898266|고맙다 (MBC '우리 결혼했어요' 러브테마 삽입곡)|김현중|253518|388874|고맙다|https://cdnimg.melon.co.kr/cm/album/images/003/88/874/388874_500.jpg/melon/resize/48/quality/80/optimize
+81|1895448|사랑남녀 (Feat. 태인)|나몰라패밀리 (Namolla Family)|194009|387251|사랑남녀|https://cdnimg.melon.co.kr/cm/album/images/003/87/251/387251_500.jpg/melon/resize/48/quality/80/optimize
+82|1825248|너만 볼래 (Feat. 태인)|나몰라패밀리 (Namolla Family)|194009|372860|너만 볼래|https://cdnimg.melon.co.kr/cm/album/images/003/72/860/372860_500.jpg/melon/resize/48/quality/80/optimize
+83|526391|청혼|노을|105623|34746|These Are The Times|https://cdnimg.melon.co.kr/cm/album/images/000/34/746/34746_500.jpg/melon/resize/48/quality/80/optimize
+84|1903059|My Life (외국곡)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+85|1746426|Brave|Jennifer Lopez|2845|359268|Brave|https://cdnimg.melon.co.kr/cm/album/images/003/59/268/359268_500.jpg/melon/resize/48/quality/80/optimize
+86|1897540|뜨거워져 (Original Ver.)|황보|1719|388671|Gift for Him|https://cdnimg.melon.co.kr/cm/album/images/003/88/671/388671_500.jpg/melon/resize/48/quality/80/optimize
+87|1905649|Just Friend (Feat. 다이나믹 듀오)|BMK|36142|390158|Blackberry Vol.1 (BMK With Fellaz)|https://cdnimg.melon.co.kr/cm/album/images/003/90/158/390158_500.jpg/melon/resize/48/quality/80/optimize
+88|1883415|살짝 쿵|김현정|1177|382801|In N Out|https://cdnimg.melon.co.kr/cm/album/images/003/82/801/382801_500.jpg/melon/resize/48/quality/80/optimize
+89|1798588|만약에|태연 (TAEYEON)|236797|366925|쾌도 홍길동 OST|https://cdnimg.melon.co.kr/cm/album/images/003/66/925/366925_500.jpg/melon/resize/48/quality/80/optimize
+90|1765767|마지막 인사|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+91|1903932|클라이막스|민경훈|46187|389805|대한민국 변호사 OST|https://cdnimg.melon.co.kr/cm/album/images/003/89/805/389805_500.jpg/melon/resize/48/quality/80/optimize
+92|1902257|희망가|타이푼|186309|389372|희망가|https://cdnimg.melon.co.kr/cm/album/images/003/89/372/389372_500.jpg/melon/resize/48/quality/80/optimize
+93|1862870|햅틱모션 (Haptic Motion)|소녀시대 (GIRLS' GENERATION)|228069|378644|햅틱모션 (Haptic Motion)|https://cdnimg.melon.co.kr/cm/album/images/003/78/644/378644_500.jpg/melon/resize/48/quality/80/optimize
+94|1798749|미워도 사랑하니까|다비치|236815|367137|AMARANTH|https://cdnimg.melon.co.kr/cm/album/images/003/67/137/367137_500.jpg/melon/resize/48/quality/80/optimize
+95|1903060|Unusual (With 서정환)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+96|1891606|Cute Love ('우리결혼했어요' 솔비 테마곡)|솔비|227228|386485|Cute Love|https://cdnimg.melon.co.kr/cm/album/images/003/86/485/386485_500.jpg/melon/resize/48/quality/80/optimize
+97|1905709|달콤한 나의 도시|최강희|254481|390165|달콤한 나의 도시 OST|https://cdnimg.melon.co.kr/cm/album/images/003/90/165/390165_500.jpg/melon/resize/48/quality/80/optimize
+98|1836102|다 줄꺼야|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+99|1897613|Maybe (메이비)|바비 킴|6027|388680|랩소디 Part 3|https://cdnimg.melon.co.kr/cm/album/images/003/88/680/388680_500.jpg/melon/resize/48/quality/80/optimize
+100|1884181|My Love (Feat. 은지원)|제이워크|102409|382875|My Love|https://cdnimg.melon.co.kr/cm/album/images/003/82/875/382875_500.jpg/melon/resize/48/quality/80/optimize

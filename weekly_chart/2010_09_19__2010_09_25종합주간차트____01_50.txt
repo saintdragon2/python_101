@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|2930968|Go Away|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+2|2930967|Can't Nobody|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+3|2940474|헤어지러 가는 길 (Feat. 조권)|임정희|150529|1024955|헤어지러 가는 길|https://cdnimg.melon.co.kr/cm/album/images/010/24/955/1024955_500.jpg/melon/resize/48/quality/80/optimize
+4|2930969|박수쳐|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+5|2943430|지금부터 사랑해 (내 여자친구는 구미호 삽입곡)|이승기|58793|1025954|지금부터 사랑해|https://cdnimg.melon.co.kr/cm/album/images/010/25/954/1025954_500.jpg/melon/resize/48/quality/80/optimize
+6|2906349|사랑사랑사랑|FTISLAND (FT아일랜드)|226490|1001652|Beautiful Journey|https://cdnimg.melon.co.kr/cm/album/images/010/01/652/1001652_500.jpg/melon/resize/48/quality/80/optimize
+7|2908515|가식걸|씨스타|473181|1003278|가식걸|https://cdnimg.melon.co.kr/cm/album/images/010/03/278/1003278_500.jpg/melon/resize/48/quality/80/optimize
+8|2924048|왜|Supreme Team~영준 (브라운 아이드 소울)|410162~45162|1011772|왜|https://cdnimg.melon.co.kr/cm/album/images/010/11/772/1011772_500.jpg/melon/resize/48/quality/80/optimize
+9|2903041|결혼까지 생각했어|휘성 (Realslow)|10577|1000465|Realslow Is Back|https://cdnimg.melon.co.kr/cm/album/images/010/00/465/1000465_500.jpg/melon/resize/48/quality/80/optimize
+10|2944387|Full Story|V.O.S|108794|1026559|The Blue Bird|https://cdnimg.melon.co.kr/cm/album/images/010/26/559/1026559_500.jpg/melon/resize/48/quality/80/optimize
+11|2930971|아파 (Slow)|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+12|2933662|이 나이 먹고 뭐했길래 (Feat. 정슬기)|미스에스|275266|1019852|Miss Independent|https://cdnimg.melon.co.kr/cm/album/images/010/19/852/1019852_500.jpg/melon/resize/48/quality/80/optimize
+13|2803451|A|레인보우|440320|997052|A (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/009/97/052/997052_500.jpg/melon/resize/48/quality/80/optimize
+14|2776748|밥만 잘 먹더라|Homme (창민, 이현)|778464|973965|Homme By 'Hitman' Bang|https://cdnimg.melon.co.kr/cm/album/images/009/73/965/973965_500.jpg/melon/resize/48/quality/80/optimize
+15|2944162|Love You (Feat. Piano By Eco Bridge)|정엽|265067|1026352|Love You / Without You (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/010/26/352/1026352_500.jpg/melon/resize/48/quality/80/optimize
+16|2943720|찾았다|박유천~XIA (준수)~김재중|52611~52607~52614|1026061|성균관 스캔들 OST|https://cdnimg.melon.co.kr/cm/album/images/010/26/061/1026061_500.jpg/melon/resize/48/quality/80/optimize
+17|2910952|U|포맨 (4MEN)|100176|1004461|You|https://cdnimg.melon.co.kr/cm/album/images/010/04/461/1004461_500.jpg/melon/resize/48/quality/80/optimize
+18|2944748|주먹을 꽉 쥐고|비스트|436981|1026851|주먹을 꽉 쥐고|https://cdnimg.melon.co.kr/cm/album/images/010/26/851/1026851_500.jpg/melon/resize/48/quality/80/optimize
+19|2797558|Madonna|시크릿|435121|992151|Madonna|https://cdnimg.melon.co.kr/cm/album/images/009/92/151/992151_500.jpg/melon/resize/48/quality/80/optimize
+20|2741416|Bad Girl Good Girl|미쓰에이|481481|941952|Bad But Good|https://cdnimg.melon.co.kr/cm/album/images/009/41/952/941952_500.jpg/melon/resize/48/quality/80/optimize
+21|2944381|가슴이 뛰잖아|오종혁|5599|1026558|Oj|https://cdnimg.melon.co.kr/cm/album/images/010/26/558/1026558_500.jpg/melon/resize/48/quality/80/optimize
+22|2925029|그만하자|가비엔제이|174997|1012458|그만하자|https://cdnimg.melon.co.kr/cm/album/images/010/12/458/1012458_500.jpg/melon/resize/48/quality/80/optimize
+23|2783154|19금 나 이런사람이야|DJ DOC|100005|968252|풍류|https://cdnimg.melon.co.kr/cm/album/images/009/68/252/968252_500.jpg/melon/resize/48/quality/80/optimize
+24|2937988|안녕 사랑아|박효신|1191|1023255|안녕 사랑아 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/010/23/255/1023255_500.jpg/melon/resize/48/quality/80/optimize
+25|2930972|사랑은 아야야|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+26|2930970|19금 난 바빠|2NE1|406712|1017253|To Anyone|https://cdnimg.melon.co.kr/cm/album/images/010/17/253/1017253_500.jpg/melon/resize/48/quality/80/optimize
+27|2783260|난 너에게|다비치|236815|979852|조영수 All Star - 다비치|https://cdnimg.melon.co.kr/cm/album/images/009/79/852/979852_500.jpg/melon/resize/48/quality/80/optimize
+28|2793051|정신이 나갔었나봐|이승기|58793|988353|정신이 나갔었나봐|https://cdnimg.melon.co.kr/cm/album/images/009/88/353/988353_500.jpg/melon/resize/48/quality/80/optimize
+29|2901845|맘마미아 (With Sunny Hill)|나르샤 (Brown Eyed Girls)|261744|1000200|맘마미아|https://cdnimg.melon.co.kr/cm/album/images/010/00/200/1000200_500.jpg/melon/resize/48/quality/80/optimize
+30|2788757|Hurricane Venus|보아 (BoA)|2165|978853|Hurricane Venus|https://cdnimg.melon.co.kr/cm/album/images/009/78/853/978853_500.jpg/melon/resize/48/quality/80/optimize
+31|2792665|웃음만..|지아|227595|987954|Difference|https://cdnimg.melon.co.kr/cm/album/images/009/87/954/987954_500.jpg/melon/resize/48/quality/80/optimize
+32|2733249|죽을 만큼 아파서 (Feat. 멜로우)|MC몽|11538|935651|블루브랜드 Trauma Part 2|https://cdnimg.melon.co.kr/cm/album/images/009/35/651/935651_500.jpg/melon/resize/48/quality/80/optimize
+33|2900010|널 사랑한다|박효신|1191|999975|아테나 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/009/99/975/999975_500.jpg/melon/resize/48/quality/80/optimize
+34|2928874|그대 (Original Ver.)|브라운 아이드 소울|107728|1015754|그대|https://cdnimg.melon.co.kr/cm/album/images/010/15/754/1015754_500.jpg/melon/resize/48/quality/80/optimize
+35|2759248|그 사람|이승철|1010|959951|제빵왕 김탁구 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/009/59/951/959951_500.jpg/melon/resize/48/quality/80/optimize
+36|2900275|I'll Be There (Korean Ver.)|태양|247621|1000016|Solar (인터내셔널 릴리즈 앨범)|https://cdnimg.melon.co.kr/cm/album/images/010/00/016/1000016_500.jpg/melon/resize/48/quality/80/optimize
+37|2783256|19금 부치지 못한 편지|DJ DOC|100005|968252|풍류|https://cdnimg.melon.co.kr/cm/album/images/009/68/252/968252_500.jpg/melon/resize/48/quality/80/optimize
+38|2772064|Better Together|SE7EN|33513|963051|Digital Bounce|https://cdnimg.melon.co.kr/cm/album/images/009/63/051/963051_500.jpg/melon/resize/48/quality/80/optimize
+39|2705410|잔소리 (With 2AM 슬옹)|아이유|261143|911358|잔소리|https://cdnimg.melon.co.kr/cm/album/images/009/11/358/911358_500.jpg/melon/resize/48/quality/80/optimize
+40|2768149|Lucifer|SHINee (샤이니)|247639|966451|The 2nd Album 'Lucifer'|https://cdnimg.melon.co.kr/cm/album/images/009/66/451/966451_500.jpg/melon/resize/48/quality/80/optimize
+41|2759748|꺼져 줄게 잘 살아 (Feat. 용준형)|지나|482640|960351|Draw G's First Breath|https://cdnimg.melon.co.kr/cm/album/images/009/60/351/960351_500.jpg/melon/resize/48/quality/80/optimize
+42|2801651|애기야 (My Baby U)|서인국|436700|995752|애기야|https://cdnimg.melon.co.kr/cm/album/images/009/95/752/995752_500.jpg/melon/resize/48/quality/80/optimize
+43|2942674|L.O.V.E|2AM|253866|1025538|어쿠스틱 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/25/538/1025538_500.jpg/melon/resize/48/quality/80/optimize
+44|2772063|Digital Bounce (Feat. T.O.P)|SE7EN|33513|963051|Digital Bounce|https://cdnimg.melon.co.kr/cm/album/images/009/63/051/963051_500.jpg/melon/resize/48/quality/80/optimize
+45|2923570|미쳤나봐|씨야|181679|1011376|안영민 Baby Brown|https://cdnimg.melon.co.kr/cm/album/images/010/11/376/1011376_500.jpg/melon/resize/48/quality/80/optimize
+46|2919565|오! 나의 여신님 (Oh! My Goddess)|TraxX (트랙스)|108965|1007954|오! 나의 여신님|https://cdnimg.melon.co.kr/cm/album/images/010/07/954/1007954_500.jpg/melon/resize/48/quality/80/optimize
+47|2801292|너를 그린다|다비치~일렉트로보이즈|236815~475721|995560|The Classic|https://cdnimg.melon.co.kr/cm/album/images/009/95/560/995560_500.jpg/melon/resize/48/quality/80/optimize
+48|2939099|가려진 시간 사이로|장혜진|5675|1023956|가려진 시간 사이로|https://cdnimg.melon.co.kr/cm/album/images/010/23/956/1023956_500.jpg/melon/resize/48/quality/80/optimize
+49|2896555|하얀 눈물|이루|173424|999327|Got To Be|https://cdnimg.melon.co.kr/cm/album/images/009/99/327/999327_500.jpg/melon/resize/48/quality/80/optimize
+50|2937631|맛좋은산 (Feat. Min)|San E|402526|1023058|Everybody ready?|https://cdnimg.melon.co.kr/cm/album/images/010/23/058/1023058_500.jpg/melon/resize/48/quality/80/optimize

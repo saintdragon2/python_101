@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|7861392|또 다시 사랑|임창정|1142|2638798|또 다시 사랑|https://cdnimg.melon.co.kr/cm/album/images/026/38/798/2638798_500.jpg/melon/resize/48/quality/80/optimize
+2|7877917|I (Feat. 버벌진트)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+3|7858908|바람이나 좀 쐐 (Feat. 우혜미)|개리|1732|2640915|2002|https://cdnimg.melon.co.kr/cm/album/images/026/40/915/2640915_500.jpg/melon/resize/48/quality/80/optimize
+4|7858989|어깨|소유 (SOYOU)~권정열|490981~607226|2640930|어깨|https://cdnimg.melon.co.kr/cm/album/images/026/40/930/2640930_500.jpg/melon/resize/48/quality/80/optimize
+5|7854179|취향저격|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+6|7860122|보통연애 (Feat. 박보람)|박경|650832|2641140|보통연애|https://cdnimg.melon.co.kr/cm/album/images/026/41/140/2641140_500.jpg/melon/resize/48/quality/80/optimize
+7|7877918|U R|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+8|5826447|겁 (Feat. 태양)|MINO (송민호)|742773|2336184|쇼미더머니 4 Episode 5|https://cdnimg.melon.co.kr/cm/album/images/023/36/184/2336184_500.jpg/melon/resize/48/quality/80/optimize
+9|7863752|커피 (Prod. by G-Park 박명수)|유재환~김예림 (Lim Kim)|680551~643851|2641732|커피 (Prod. by G-Park 박명수)|https://cdnimg.melon.co.kr/cm/album/images/026/41/732/2641732_500.jpg/melon/resize/48/quality/80/optimize
+10|5826461|레옹|이유 갓지(GOD G) 않은 이유 (박명수, 아이유)|889388|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+11|7870705|리듬 타 (RHYTHM TA)|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+12|7847861|Dumb Dumb|Red Velvet (레드벨벳)|780066|2639273|The Red - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/026/39/273/2639273_500.jpg/melon/resize/48/quality/80/optimize
+13|7868989|너나 잘해|에일리(Ailee)|629831|2642436|VIVID|https://cdnimg.melon.co.kr/cm/album/images/026/42/436/2642436_500.jpg/melon/resize/48/quality/80/optimize
+14|5835766|Okey Dokey|MINO (송민호)~지코 (ZICO)|742773~602056|2337492|쇼미더머니 4 Episode 6|https://cdnimg.melon.co.kr/cm/album/images/023/37/492/2337492_500.jpg/melon/resize/48/quality/80/optimize
+15|5791706|오늘부터 우리는 (Me Gustas Tu)|여자친구 (GFRIEND)|828478|2330981|여자친구 2nd Mini Album 'Flower Bud'|https://cdnimg.melon.co.kr/cm/album/images/023/30/981/2330981_500.jpg/melon/resize/48/quality/80/optimize
+16|7852842|그렇게 됐어|플라이 투 더 스카이|100183|2639984|Love & Hate|https://cdnimg.melon.co.kr/cm/album/images/026/39/984/2639984_500.jpg/melon/resize/48/quality/80/optimize
+17|5818522|오빠차|인크레더블~Tablo~지누션|858852~231070~100054|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+18|5824839|맙소사|황태지 (황광희, 태양, 지드래곤)|889387|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+19|5820368|Lion Heart|소녀시대 (GIRLS' GENERATION)|228069|2335204|Lion Heart - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/023/35/204/2335204_500.jpg/melon/resize/48/quality/80/optimize
+20|5385974|위잉위잉|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+21|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+22|7874382|Solo (Remix) (Prod. by 박재범, Cha Cha Malone) (Feat. 박재범, 로꼬)|예지|695332|2643240|언프리티 랩스타 2 Track 4|https://cdnimg.melon.co.kr/cm/album/images/026/43/240/2643240_500.jpg/melon/resize/48/quality/80/optimize
+23|7876540|가슴에 내린다|이수 (엠씨더맥스)|214784|2643509|가슴에 내린다|https://cdnimg.melon.co.kr/cm/album/images/026/43/509/2643509_500.jpg/melon/resize/48/quality/80/optimize
+24|5826462|스폰서 ($ponsor)|으뜨거따시 (하하, 자이언티)|889389|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+25|5804040|19금 거북선 (Feat. 팔로알토)|Ja Mezz~Andup (앤덥)~MINO (송민호)|743761~340667~742773|2332701|쇼미더머니 4 Episode 2|https://cdnimg.melon.co.kr/cm/album/images/023/32/701/2332701_500.jpg/melon/resize/48/quality/80/optimize
+26|7877919|쌍둥이자리 (Gemini)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+27|7870707|AIRPLANE|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+28|5807274|우리 사랑하지 말아요|BIGBANG|198094|2333193|E|https://cdnimg.melon.co.kr/cm/album/images/023/33/193/2333193_500.jpg/melon/resize/48/quality/80/optimize
+29|5719286|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+30|5815785|사이먼 도미닉|사이먼 도미닉|428847|2334436|￦ & ONLY|https://cdnimg.melon.co.kr/cm/album/images/023/34/436/2334436_500.jpg/melon/resize/48/quality/80/optimize
+31|5743804|음오아예 (Um Oh Ah Yeh)|마마무 (Mamamoo)|750053|2324685|Pink Funky|https://cdnimg.melon.co.kr/cm/album/images/023/24/685/2324685_500.jpg/melon/resize/48/quality/80/optimize
+32|7881233|Break|빈지노 (Beenzino)|532029|2644190|Break|https://cdnimg.melon.co.kr/cm/album/images/026/44/190/2644190_500.jpg/melon/resize/48/quality/80/optimize
+33|7866804|내가 그댈|린~하동균~이정|8530~43806~39256|2642181|심폐소생송 Special Album Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/42/181/2642181_500.jpg/melon/resize/48/quality/80/optimize
+34|5822923|가슴 뛰도록|SG 워너비|108363|2335653|THE VOICE|https://cdnimg.melon.co.kr/cm/album/images/023/35/653/2335653_500.jpg/melon/resize/48/quality/80/optimize
+35|7865089|가끔|지아|227595|2641976|그녀는 예뻤다 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/41/976/2641976_500.jpg/melon/resize/48/quality/80/optimize
+36|5704397|이럴거면 그러지말지 (Feat. Young K)|백아연|646173|2319508|이럴거면 그러지말지|https://cdnimg.melon.co.kr/cm/album/images/023/19/508/2319508_500.jpg/melon/resize/48/quality/80/optimize
+37|5826465|멋진헛간|오대천왕 (정형돈, 밴드 혁오)|889392|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+38|5748406|심쿵해 (Heart Attack)|AOA|686920|2325321|Heart Attack|https://cdnimg.melon.co.kr/cm/album/images/023/25/321/2325321_500.jpg/melon/resize/48/quality/80/optimize
+39|7868801|19금 Me, Myself & I (Prod. by 버벌진트) (Feat. 제시, 휘성)|헤이즈 (Heize)|751611|2642396|언프리티 랩스타 2 Track 2|https://cdnimg.melon.co.kr/cm/album/images/026/42/396/2642396_500.jpg/melon/resize/48/quality/80/optimize
+40|5702706|꺼내 먹어요|Zion.T|537920|2319240|Eat|https://cdnimg.melon.co.kr/cm/album/images/023/19/240/2319240_500.jpg/melon/resize/48/quality/80/optimize
+41|7876373|지금처럼 사랑할게|2BIC(투빅)|643551|2643497|Return 2BiC|https://cdnimg.melon.co.kr/cm/album/images/026/43/497/2643497_500.jpg/melon/resize/48/quality/80/optimize
+42|5713422|와리가리|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+43|7874463|연락해 (Feat. 화사)|릴보이 (lIlBOI)~베이식 (Basick)|623251~241227|2643260|베이식 X 릴보이|https://cdnimg.melon.co.kr/cm/album/images/026/43/260/2643260_500.jpg/melon/resize/48/quality/80/optimize
+44|5826464|I'm So Sexy|댄싱게놈 (유재석, JYP)|889391|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+45|4743560|Lost Stars|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+46|7877921|먼저 말해줘 (Farewell)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+47|7877920|스트레스 (Stress)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+48|5771304|Oasis (Feat. ZICO)|Crush|674710|2327886|Oasis|https://cdnimg.melon.co.kr/cm/album/images/023/27/886/2327886_500.jpg/melon/resize/48/quality/80/optimize
+49|5668985|그 남잔 말야|엠씨더맥스 (M.C the MAX)|161636|2314734|냄새를 보는 소녀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/14/734/2314734_500.jpg/melon/resize/48/quality/80/optimize
+50|5760115|IF YOU|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize

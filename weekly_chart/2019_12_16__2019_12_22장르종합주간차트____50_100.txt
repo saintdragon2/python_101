@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|32081871|허전해|폴킴|752425|10335933|정규 2집 '마음, 하나'|https://cdnimg.melon.co.kr/cm2/album/images/103/35/933/10335933_500.jpg/melon/resize/48/quality/80/optimize
+52|32031043|가을밤 떠난 너|케이시 (Kassy)|858125|10325945|Rewind|https://cdnimg.melon.co.kr/cm2/album/images/103/25/945/10325945_500.jpg/melon/resize/48/quality/80/optimize
+53|31388145|너를 만나|폴킴|752425|10217134|너를 만나|https://cdnimg.melon.co.kr/cm/album/images/102/17/134/10217134_500.jpg/melon/resize/48/quality/80/optimize
+54|31938460|그대라는 시|태연 (TAEYEON)|236797|10309213|호텔 델루나 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/103/09/213/10309213_500.jpg/melon/resize/48/quality/80/optimize
+55|32128105|샤넬 (Feat. 박봄)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+56|32225055|잘 살고 있다|V.O.S|108794|10359390|잘 살고 있다|https://cdnimg.melon.co.kr/cm2/album/images/103/59/390/10359390_500.jpg/melon/resize/48/quality/80/optimize
+57|32243262|Popo (How deep is our love?)|백예린 (Yerin Baek)|698776|10362776|Every letter I sent you.|https://cdnimg.melon.co.kr/cm2/album/images/103/62/776/10362776_20191210144641_500.jpg/melon/resize/48/quality/80/optimize
+58|32028531|헤어지자 (Prod. 정키)|휘인 (Whee In)|756533|10325421|soar|https://cdnimg.melon.co.kr/cm2/album/images/103/25/421/10325421_500.jpg/melon/resize/48/quality/80/optimize
+59|32057802|Feel Special|TWICE (트와이스)|905701|10331167|Feel Special|https://cdnimg.melon.co.kr/cm2/album/images/103/31/167/10331167_500.jpg/melon/resize/48/quality/80/optimize
+60|32261263|그때의 우리|펀치 (Punch)|749640|10365607|그때의 우리|https://cdnimg.melon.co.kr/cm2/album/images/103/65/607/10365607_20191217151639_500.jpg/melon/resize/48/quality/80/optimize
+61|32125782|LION|(여자)아이들|2137482|10343701|퀸덤 <FINAL 컴백 싱글>|https://cdnimg.melon.co.kr/cm2/album/images/103/43/701/10343701_500.jpg/melon/resize/48/quality/80/optimize
+62|31688205|사계 (Four Seasons)|태연 (TAEYEON)|236797|10265079|사계 (Four Seasons)|https://cdnimg.melon.co.kr/cm/album/images/102/65/079/10265079_500.jpg/melon/resize/48/quality/80/optimize
+63|8119658|꿈속에 너 (Feat. 전상근)|에이치코드 (H:CODE)|946910|2676167|두 번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/026/76/167/2676167_500.jpg/melon/resize/48/quality/80/optimize
+64|32254295|Amanda (Feat. Simon Dominic) (Prod. By UNTITLEDS)|염따|202530|10364601|Amanda|https://cdnimg.melon.co.kr/cm2/album/images/103/64/601/10364601_20191213145208_500.jpg/melon/resize/48/quality/80/optimize
+65|32243275|0310|백예린 (Yerin Baek)|698776|10362776|Every letter I sent you.|https://cdnimg.melon.co.kr/cm2/album/images/103/62/776/10362776_20191210144641_500.jpg/melon/resize/48/quality/80/optimize
+66|31341518|Paris In The Rain|Lauv|1956543|10209752|I met you when I was 18. (the playlist)|https://cdnimg.melon.co.kr/cm/album/images/102/09/752/10209752_500.jpg/melon/resize/48/quality/80/optimize
+67|31804010|너에게 못했던 내 마지막 말은|다비치|236815|10286309|너에게 못했던 내 마지막 말은|https://cdnimg.melon.co.kr/cm/album/images/102/86/309/10286309_500.jpg/melon/resize/48/quality/80/optimize
+68|31815967|"Speechless (Full) (From ""Aladdin""/Soundtrack Version)"|Naomi Scott|541364|10288448|Aladdin (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/48/quality/80/optimize
+69|32136650|영화 속에 나오는 주인공처럼|펀치 (Punch)|749640|10345742|동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.6|https://cdnimg.melon.co.kr/cm2/album/images/103/45/742/10345742_500.jpg/melon/resize/48/quality/80/optimize
+70|32183385|그 사람|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+71|32006650|벗|닐로(Nilo)|896096|10321104|벗|https://cdnimg.melon.co.kr/cm2/album/images/103/21/104/10321104_500.jpg/melon/resize/48/quality/80/optimize
+72|31901475|헤어져줘서 고마워|벤|655051|10302879|헤어져줘서 고마워|https://cdnimg.melon.co.kr/cm/album/images/103/02/879/10302879_500.jpg/melon/resize/48/quality/80/optimize
+73|32091434|떨어지는 낙엽까지도|헤이즈 (Heize)|751611|10337649|만추|https://cdnimg.melon.co.kr/cm2/album/images/103/37/649/10337649_500.jpg/melon/resize/48/quality/80/optimize
+74|32183387|자장가|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+75|32073454|우리 어떻게 할까요|첸 (CHEN)|715176|10334254|사랑하는 그대에게 - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm2/album/images/103/34/254/10334254_500.jpg/melon/resize/48/quality/80/optimize
+76|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+77|31938046|나의 어깨에 기대어요|10CM|468244|10309152|호텔 델루나 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/103/09/152/10309152_500.jpg/melon/resize/48/quality/80/optimize
+78|32265694|텅 (Feat.김하온 (HAON))|빈첸|2113204|10366344|텅 (Feat.김하온 (HAON))|https://cdnimg.melon.co.kr/cm2/album/images/103/66/344/10366344_20191218155035_500.jpg/melon/resize/48/quality/80/optimize
+79|32213920|날 보러 와요 (Come See Me)|AOA|686920|10357177|NEW MOON|https://cdnimg.melon.co.kr/cm2/album/images/103/57/177/10357177_500.jpg/melon/resize/48/quality/80/optimize
+80|32224149|FEVER (Feat. 수퍼비, BIBI)|박진영|1130|10359122|FEVER|https://cdnimg.melon.co.kr/cm2/album/images/103/59/122/10359122_500.jpg/melon/resize/48/quality/80/optimize
+81|31666417|주저하는 연인들을 위해|잔나비|772253|10260858|전설|https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/48/quality/80/optimize
+82|32180584|"Some Things Never Change (From ""Frozen 2""/Soundtrack Version)"|Kristen Bell~Idina Menzel~Josh Gad~Jonathan Groff~Cast of Frozen 2|746208~232538~746216~407770~2754924|10352535|Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)|https://cdnimg.melon.co.kr/cm2/album/images/103/52/535/10352535_500.jpg/melon/resize/48/quality/80/optimize
+83|32140355|이별은 늘 그렇게 (Duet. 정은지)|허각|28801|10346175|이별은 늘 그렇게|https://cdnimg.melon.co.kr/cm2/album/images/103/46/175/10346175_500.jpg/melon/resize/48/quality/80/optimize
+84|32187544|우리 왜 헤어져야 해|신예영|2740042|10353881|우리 왜 헤어져야 해|https://cdnimg.melon.co.kr/cm2/album/images/103/53/881/10353881_500.jpg/melon/resize/48/quality/80/optimize
+85|32080223|이별행동|이우|2400004|10335543|이별행동|https://cdnimg.melon.co.kr/cm2/album/images/103/35/543/10335543_500.jpg/melon/resize/48/quality/80/optimize
+86|31854442|솔직하게 말해서 나|김나영|735094|10294763|솔직하게 말해서 나|https://cdnimg.melon.co.kr/cm/album/images/102/94/763/10294763_500.jpg/melon/resize/48/quality/80/optimize
+87|32217922|Trouble|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+88|31266290|IDOL|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+89|32224271|빌었어|창모 (CHANGMO)|774900|10359162|Boyhood|https://cdnimg.melon.co.kr/cm2/album/images/103/59/162/10359162_500.jpg/melon/resize/48/quality/80/optimize
+90|32217924|춤 (Groove)|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+91|32217929|나비효과 (Butterfly Effect)|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+92|32217923|지킬 (Jekyll)|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+93|31524320|그때가 좋았어|케이시 (Kassy)|858125|10237420|그때가 좋았어|https://cdnimg.melon.co.kr/cm/album/images/102/37/420/10237420_500.jpg/melon/resize/48/quality/80/optimize
+94|32217925|Ya Ya Ya|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+95|31691453|안녕이라는 말|송이한|2189536|10265656|안녕이라는 말|https://cdnimg.melon.co.kr/cm/album/images/102/65/656/10265656_500.jpg/melon/resize/48/quality/80/optimize
+96|32071685|천둥벌거숭이 (Feat. Jvcki Wai, 염따)|지코 (ZICO)|602056|10333851|THINKING Part.1|https://cdnimg.melon.co.kr/cm2/album/images/103/33/851/10333851_500.jpg/melon/resize/48/quality/80/optimize
+97|32217928|오늘도 (Day After Day)|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+98|32217926|Baby You Are|EXO|724619|10357878|OBSESSION - The 6th Album|https://cdnimg.melon.co.kr/cm2/album/images/103/57/878/10357878_500.jpg/melon/resize/48/quality/80/optimize
+99|32243260|Rest|백예린 (Yerin Baek)|698776|10362776|Every letter I sent you.|https://cdnimg.melon.co.kr/cm2/album/images/103/62/776/10362776_20191210144641_500.jpg/melon/resize/48/quality/80/optimize
+100|31684636|노래방에서|장범준|648551|10264375|장범준 3집|https://cdnimg.melon.co.kr/cm/album/images/102/64/375/10264375_500.jpg/melon/resize/48/quality/80/optimize

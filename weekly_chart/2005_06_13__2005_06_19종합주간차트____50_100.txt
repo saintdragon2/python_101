@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|858171|Incomplete|Backstreet Boys|100366|303949|Never Gone|https://cdnimg.melon.co.kr/cm/album/images/003/03/949/303949_500.jpg/melon/resize/48/quality/80/optimize
+52|823882|너에게 간다|윤종신|437|301250|Behind The Smile|https://cdnimg.melon.co.kr/cm/album/images/003/01/250/301250_500.jpg/melon/resize/48/quality/80/optimize
+53|-1|Modern Times (SK텔레콤 CF '마네킹'편)|Jfive|168575|301853|Sweet Little Nothing|https://cdnimg.melon.co.kr/cm/album/images/003/01/853/301853_500.jpg/melon/resize/48/quality/80/optimize
+54|852147|Lyla|Oasis|104369|303646|Don‘t Believe The Truth|https://cdnimg.melon.co.kr/cm/album/images/003/03/646/303646_500.jpg/melon/resize/48/quality/80/optimize
+55|728527|반갑습니다 (Feat. 성은)|배치기|101886|300313|Giant|https://cdnimg.melon.co.kr/cm/album/images/003/00/313/300313_500.jpg/melon/resize/48/quality/80/optimize
+56|833828|Candy Shop (feat. Olivia)|50 Cent|33241|301621|The Massacre|https://cdnimg.melon.co.kr/cm/album/images/003/01/621/301621_500.jpg/melon/resize/48/quality/80/optimize
+57|837693|그댄 몰라요 (야래향)|문근영|56004|301906|댄서의 순정 OST|https://cdnimg.melon.co.kr/cm/album/images/003/01/906/301906_500.jpg/melon/resize/48/quality/80/optimize
+58|711632|그래도|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+59|698972|사랑은...하나다|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+60|858970|O|Omarion|54781|304017|O|https://cdnimg.melon.co.kr/cm/album/images/003/04/017/304017_500.jpg/melon/resize/48/quality/80/optimize
+61|848934|If There's Any Justice|Lemar|55748|303292|Time To Grow|https://cdnimg.melon.co.kr/cm/album/images/003/03/292/303292_500.jpg/melon/resize/48/quality/80/optimize
+62|852596|I Like The Way (Radio Edit)|Bodyrockers|170176|303681|Bodyrockers|https://cdnimg.melon.co.kr/cm/album/images/003/03/681/303681_500.jpg/melon/resize/48/quality/80/optimize
+63|848162|가슴 아파도|브라이언|1929|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+64|834217|Switch|Will Smith|27242|301652|Lost And Found|https://cdnimg.melon.co.kr/cm/album/images/003/01/652/301652_500.jpg/melon/resize/48/quality/80/optimize
+65|848677|Music Is My Life (삼성전자 옙 CF 임정희, 재희편)|임정희|150529|303271|Music Is My Life|https://cdnimg.melon.co.kr/cm/album/images/003/03/271/303271_500.jpg/melon/resize/48/quality/80/optimize
+66|711631|이별의 계절|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+67|526128|Tipsy|J-Kwon|57724|34727|Hood Hop|https://cdnimg.melon.co.kr/cm/album/images/000/34/727/34727_500.jpg/melon/resize/48/quality/80/optimize
+68|850977|여왕개미|길건|60360|303535|G-Style|https://cdnimg.melon.co.kr/cm/album/images/003/03/535/303535_500.jpg/melon/resize/48/quality/80/optimize
+69|852704|The 'I Love You' Song (Duet. W.JJ Jones) (LG 엑스캔버스 홈씨어터 CF 이기용편)|Miss Claudia & Pornorama|170196|303690|Airport|https://cdnimg.melon.co.kr/cm/album/images/003/03/690/303690_500.jpg/melon/resize/48/quality/80/optimize
+70|775215|My Way|캔|100139|301186|My Way|https://cdnimg.melon.co.kr/cm/album/images/003/01/186/301186_500.jpg/melon/resize/48/quality/80/optimize
+71|833356|The One|Frankie J|42971|301496|The One|https://cdnimg.melon.co.kr/cm/album/images/003/01/496/301496_500.jpg/melon/resize/48/quality/80/optimize
+72|855662|이별 못한 이별|지선|13459|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+73|852346|Octavarium|Dream Theater|101881|303664|Octavarium|https://cdnimg.melon.co.kr/cm/album/images/003/03/664/303664_500.jpg/melon/resize/48/quality/80/optimize
+74|8395|Got What You Need (Feat. Drag-On)|Eve|2392|2146|Scorpion|https://cdnimg.melon.co.kr/cm/album/images/000/02/146/2146_500.jpg/melon/resize/48/quality/80/optimize
+75|711636|내 하루를|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+76|844009|이야기의 시작 (Feat. 홍경민)|MC 한새|3519|302721|두 번째 이야기의 시작..|https://cdnimg.melon.co.kr/cm/album/images/003/02/721/302721_500.jpg/melon/resize/48/quality/80/optimize
+77|848146|추억은 시간이 지운다|유미|9956|303223|Another Story|https://cdnimg.melon.co.kr/cm/album/images/003/03/223/303223_500.jpg/melon/resize/48/quality/80/optimize
+78|775191|하루|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+79|-1|Dancing Into Danger|Inker & Hilary Hamilton|170397|303976|Dancing Into Danger|https://cdnimg.melon.co.kr/cm/album/images/003/03/976/303976_500.jpg/melon/resize/48/quality/80/optimize
+80|841073|편지|김우주|168856|302364|Before You Sleep...|https://cdnimg.melon.co.kr/cm/album/images/003/02/364/302364_500.jpg/melon/resize/48/quality/80/optimize
+81|860582|Naughty Girl|린|8530|304135|One And Only Feeling|https://cdnimg.melon.co.kr/cm/album/images/003/04/135/304135_500.jpg/melon/resize/48/quality/80/optimize
+82|708211|Mr. Flower|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+83|290997|The Road To Mandalay (대한항공 CF)|Robbie Williams|438|227|Sing When You‘re Winning|https://cdnimg.melon.co.kr/cm/album/images/000/00/227/227_500.jpg/melon/resize/48/quality/80/optimize
+84|-1|Passion (Summer Ver.)|쥬얼리|101487|304151|Passion (Remake New Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/04/151/304151_500.jpg/melon/resize/48/quality/80/optimize
+85|827215|다시 시작해도 될까요|성시경|3305|301311|다시 꿈꾸고 싶다|https://cdnimg.melon.co.kr/cm/album/images/003/01/311/301311_500.jpg/melon/resize/48/quality/80/optimize
+86|533259|Don't Push Me|Sweetbox|100060|35195|Jade|https://cdnimg.melon.co.kr/cm/album/images/000/35/195/35195_500.jpg/melon/resize/48/quality/80/optimize
+87|-1|Feel Good Inc. (영화 '빅쇼트' 삽입곡)|Gorillaz|104402|303278|Demon Days|https://cdnimg.melon.co.kr/cm/album/images/003/03/278/303278_500.jpg/melon/resize/48/quality/80/optimize
+88|-1|The Magic Key (네스팟스윙 CF 재희, 정애연편)|One-T|108396|33842|The One-T ODC|https://cdnimg.melon.co.kr/cm/album/images/000/33/842/33842_500.jpg/melon/resize/48/quality/80/optimize
+89|834230|It's Like That|Mariah Carey|2274|301653|Emancipation of Mimi|https://cdnimg.melon.co.kr/cm/album/images/003/01/653/301653_500.jpg/melon/resize/48/quality/80/optimize
+90|845579|Drama (Feat. 요아)|MC몽|11538|302961|His Story|https://cdnimg.melon.co.kr/cm/album/images/003/02/961/302961_500.jpg/melon/resize/48/quality/80/optimize
+91|842585|Always|이현섭|22011|302572|러브 홀릭 OST|https://cdnimg.melon.co.kr/cm/album/images/003/02/572/302572_500.jpg/melon/resize/48/quality/80/optimize
+92|852089|Long Long Ago|박기영|908|303637|환생 (Next) OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/637/303637_500.jpg/melon/resize/48/quality/80/optimize
+93|-1|Superstar|Jamelia|56026|34495|Thank You|https://cdnimg.melon.co.kr/cm/album/images/000/34/495/34495_500.jpg/melon/resize/48/quality/80/optimize
+94|623750|Lose My Breath|Destiny's Child|100686|43775|Destiny Fulfilled|https://cdnimg.melon.co.kr/cm/album/images/000/43/775/43775_500.jpg/melon/resize/48/quality/80/optimize
+95|331330|The Next Episode (Feat. Snoop Dogg)|Dr. Dre|7717|24021|2001|https://cdnimg.melon.co.kr/cm/album/images/000/24/021/24021_500.jpg/melon/resize/48/quality/80/optimize
+96|855657|봉봉 오 쇼콜라 I|Various Artists|-1|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+97|844267|짠짜라|장윤정|22836|302749|짠짜라|https://cdnimg.melon.co.kr/cm/album/images/003/02/749/302749_500.jpg/melon/resize/48/quality/80/optimize
+98|855665|보낼 수 없는 사랑|Sanha|167895|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+99|854305|무죄|김태훈|59287|303786|부활 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/786/303786_500.jpg/melon/resize/48/quality/80/optimize
+100|836850|Only You|가시찔레|168899|301826|건빵선생과 별사탕 OST|https://cdnimg.melon.co.kr/cm/album/images/003/01/826/301826_500.jpg/melon/resize/48/quality/80/optimize

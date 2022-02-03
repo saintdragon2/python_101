@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3349297|LOVE SONG|BIGBANG|198094|1236055|빅뱅 스페셜에디션|https://cdnimg.melon.co.kr/cm/album/images/012/36/055/1236055_500.jpg/melon/resize/48/quality/80/optimize
+2|3349210|거울아 거울아|4minute|417985|1235959|4Minutes Left|https://cdnimg.melon.co.kr/cm/album/images/012/35/959/1235959_500.jpg/melon/resize/48/quality/80/optimize
+3|3337773|제발|김범수|6502|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+4|3169779|직감|CNBLUE (씨엔블루)|450801|1195654|FIRST STEP|https://cdnimg.melon.co.kr/cm/album/images/011/95/654/1195654_500.jpg/melon/resize/48/quality/80/optimize
+5|3319849|반짝반짝|걸스데이|482762|1211952|Girl's Day Party #3|https://cdnimg.melon.co.kr/cm/album/images/012/11/952/1211952_500.jpg/melon/resize/48/quality/80/optimize
+6|3337496|아파 아이야|양파|3854|1228561|Elegy Nouveau - 스페셜|https://cdnimg.melon.co.kr/cm/album/images/012/28/561/1228561_500.jpg/melon/resize/48/quality/80/optimize
+7|3352959|To Me (내게로..)|레인보우|440320|1238353|So 女|https://cdnimg.melon.co.kr/cm/album/images/012/38/353/1238353_500.jpg/melon/resize/48/quality/80/optimize
+8|3341087|방콕시티 (Bangkok City)|오렌지 캬라멜|477632|1231074|방콕시티|https://cdnimg.melon.co.kr/cm/album/images/012/31/074/1231074_500.jpg/melon/resize/48/quality/80/optimize
+9|3172166|가슴이 뛴다|케이윌|175139|1197653|가슴이 뛴다|https://cdnimg.melon.co.kr/cm/album/images/011/97/653/1197653_500.jpg/melon/resize/48/quality/80/optimize
+10|3164048|미친거니 (Feat. 방용국)|송지은|446200|1190551|미친거니|https://cdnimg.melon.co.kr/cm/album/images/011/90/551/1190551_500.jpg/melon/resize/48/quality/80/optimize
+11|3339283|Heart To Heart|4minute|417985|1229964|Heart To Heart|https://cdnimg.melon.co.kr/cm/album/images/012/29/964/1229964_500.jpg/melon/resize/48/quality/80/optimize
+12|3174148|가슴 시린 이야기 (Feat. 용준형 Of Beast)|휘성 (Realslow)|10577|1199451|가슴 시린 이야기|https://cdnimg.melon.co.kr/cm/album/images/011/99/451/1199451_500.jpg/melon/resize/48/quality/80/optimize
+13|3339079|메아리|김태우|182430|1199852|T-school|https://cdnimg.melon.co.kr/cm/album/images/011/99/852/1199852_500.jpg/melon/resize/48/quality/80/optimize
+14|3354527|STUPID LIAR|BIGBANG|198094|1236055|빅뱅 스페셜에디션|https://cdnimg.melon.co.kr/cm/album/images/012/36/055/1236055_500.jpg/melon/resize/48/quality/80/optimize
+15|3348066|너 밖엔 없더라|김그림|499462|1234954|Fly High|https://cdnimg.melon.co.kr/cm/album/images/012/34/954/1234954_500.jpg/melon/resize/48/quality/80/optimize
+16|3156950|TONIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+17|3138749|내꺼중에 최고|이현|429480|1168952|내꺼중에 최고|https://cdnimg.melon.co.kr/cm/album/images/011/68/952/1168952_500.jpg/melon/resize/48/quality/80/optimize
+18|3337651|이태원 프리덤 (With JYP)|UV|467060|1228752|이태원 프리덤|https://cdnimg.melon.co.kr/cm/album/images/012/28/752/1228752_500.jpg/melon/resize/48/quality/80/optimize
+19|3343337|Broken|서인국|436700|1231962|Broken|https://cdnimg.melon.co.kr/cm/album/images/012/31/962/1231962_500.jpg/melon/resize/48/quality/80/optimize
+20|3352068|아나요|브레이브걸스|531700|1237466|Brave Girls : The Difference|https://cdnimg.melon.co.kr/cm/album/images/012/37/466/1237466_500.jpg/melon/resize/48/quality/80/optimize
+21|3143550|나만 몰랐던 이야기|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+22|3337772|You Are My Lady|김건모|889|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+23|3156953|CAFE|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+24|3352957|누구나 사랑을 한다 (With 정단 박완규 이성욱)|부활|100594|1238352|부활 Collaboration Project '+ 2'|https://cdnimg.melon.co.kr/cm/album/images/012/38/352/1238352_500.jpg/melon/resize/48/quality/80/optimize
+25|3325048|나 항상 그대를 (With YB)|윤도현|923|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+26|3338948|La Vida Loca (라 비다 로카)|클로버|529805|1229751|Classic Over|https://cdnimg.melon.co.kr/cm/album/images/012/29/751/1229751_500.jpg/melon/resize/48/quality/80/optimize
+27|3352964|다며 (Feat. 마이티 마우스)|이현|429480|1238354|다며|https://cdnimg.melon.co.kr/cm/album/images/012/38/354/1238354_500.jpg/melon/resize/48/quality/80/optimize
+28|3357851|사랑했나봐|장혜진|5675|1242652|사랑했나봐|https://cdnimg.melon.co.kr/cm/album/images/012/42/652/1242652_500.jpg/melon/resize/48/quality/80/optimize
+29|3110565|톡톡 (Tok Tok) (Feat. SOYA)|마이티 마우스|239366|1143054|Mighty Fresh|https://cdnimg.melon.co.kr/cm/album/images/011/43/054/1143054_500.jpg/melon/resize/48/quality/80/optimize
+30|3111583|Black & White|지나|482640|1143954|Black & White|https://cdnimg.melon.co.kr/cm/album/images/011/43/954/1143954_500.jpg/melon/resize/48/quality/80/optimize
+31|3156952|WHAT IS RIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+32|3337774|Dash (with YB)|윤도현|923|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+33|3352949|사랑하다 끝났어|브라이언|1929|1238351|Unveiled|https://cdnimg.melon.co.kr/cm/album/images/012/38/351/1238351_500.jpg/melon/resize/48/quality/80/optimize
+34|3327061|아무일도 없었다|정엽|265067|1218952|49일 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/012/18/952/1218952_500.jpg/melon/resize/48/quality/80/optimize
+35|3337771|약속|백지영|1118|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+36|3145784|파파라치 (Feat. 에릭)|간미연|1636|1174452|Watch|https://cdnimg.melon.co.kr/cm/album/images/011/74/452/1174452_500.jpg/melon/resize/48/quality/80/optimize
+37|3051244|좋은 날|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+38|3340976|0330|유키스|259928|1231054|Bran New KISS|https://cdnimg.melon.co.kr/cm/album/images/012/31/054/1231054_500.jpg/melon/resize/48/quality/80/optimize
+39|638570|바람이 분다|이소라|983|45034|눈썹달|https://cdnimg.melon.co.kr/cm/album/images/000/45/034/45034_500.jpg/melon/resize/48/quality/80/optimize
+40|3174560|Brothers＆Me (With JYP & Rain)|김태우|182430|1199852|T-school|https://cdnimg.melon.co.kr/cm/album/images/011/99/852/1199852_500.jpg/melon/resize/48/quality/80/optimize
+41|3337776|잊을게|정엽|265067|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+42|3174348|Nothing's Over|인피니트|476181|1199651|Inspirit|https://cdnimg.melon.co.kr/cm/album/images/011/99/651/1199651_500.jpg/melon/resize/48/quality/80/optimize
+43|3351248|아는 여자|나르샤 (Brown Eyed Girls)|261744|1237151|가시나무 새 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/012/37/151/1237151_500.jpg/melon/resize/48/quality/80/optimize
+44|3293345|사랑은 똑같다|먼데이 키즈 (Monday Kiz)~가비엔제이|175155~174997|1205251|소울트레인 (Soul Train) Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/05/251/1205251_500.jpg/melon/resize/48/quality/80/optimize
+45|3337775|첫인상|박정현|1099|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+46|3354450|사랑이 말을 듣지 않아 (Rain Ver.) (Feat. 디헤븐 유신)|나몰라패밀리JW|520600|1239652|Revolution|https://cdnimg.melon.co.kr/cm/album/images/012/39/652/1239652_500.jpg/melon/resize/48/quality/80/optimize
+47|3110148|잘 된 일이야|나비|242868|1142651|Hello|https://cdnimg.melon.co.kr/cm/album/images/011/42/651/1142651_500.jpg/melon/resize/48/quality/80/optimize
+48|3348065|장마|정인|35989|1234952|Melody Remedy|https://cdnimg.melon.co.kr/cm/album/images/012/34/952/1234952_500.jpg/melon/resize/48/quality/80/optimize
+49|3325187|비오는 날의 수채화|박정현|1099|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+50|3360493|Talk Talk Talk|NS 윤지|433746|1244757|Talk Talk Talk|https://cdnimg.melon.co.kr/cm/album/images/012/44/757/1244757_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|8104512|빗속으로|장범준|648551|2674213|장범준 2집|https://cdnimg.melon.co.kr/cm/album/images/026/74/213/2674213_500.jpg/melon/resize/48/quality/80/optimize
+52|4579468|봄 사랑 벚꽃 말고|HIGH4 (하이포)~아이유|767374~261143|2248659|봄 사랑 벚꽃 말고|https://cdnimg.melon.co.kr/cm/album/images/022/48/659/2248659_500.jpg/melon/resize/48/quality/80/optimize
+53|8042169|그댄 행복에 살텐데|김범수|6502|2665451|투유 프로젝트 - 슈가맨 Part.16|https://cdnimg.melon.co.kr/cm/album/images/026/65/451/2665451_500.jpg/melon/resize/48/quality/80/optimize
+54|8086946|손잡아 줘요|이하이|646171|2671866|SEOULITE|https://cdnimg.melon.co.kr/cm/album/images/026/71/866/2671866_500.jpg/melon/resize/48/quality/80/optimize
+55|8104428|Fingertips|Pinkrush|958657|2674195|PRODUCE 101 - 35 Girls 5 Concepts|https://cdnimg.melon.co.kr/cm/album/images/026/74/195/2674195_500.jpg/melon/resize/48/quality/80/optimize
+56|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+57|8138942|Walkin' In The Rain|블락비 (Block B)|532201|2678718|Blooming Period|https://cdnimg.melon.co.kr/cm/album/images/026/78/718/2678718_500.jpg/melon/resize/48/quality/80/optimize
+58|7942948|소녀|오혁|757777|2652150|응답하라 1988 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/52/150/2652150_500.jpg/melon/resize/48/quality/80/optimize
+59|8143111|돌아오지마 (Feat. 용준형 Of 비스트)|헤이즈 (Heize)|751611|2679308|돌아오지마|https://cdnimg.melon.co.kr/cm/album/images/026/79/308/2679308_500.jpg/melon/resize/48/quality/80/optimize
+60|5650996|우연히 봄|로꼬~유주 (여자친구)|688432~858238|2312287|냄새를 보는 소녀 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/12/287/2312287_500.jpg/melon/resize/48/quality/80/optimize
+61|7999021|또 하루 (Feat. 개코)|개리|1732|2659810|또 하루|https://cdnimg.melon.co.kr/cm/album/images/026/59/810/2659810_500.jpg/melon/resize/48/quality/80/optimize
+62|7870472|Ah-Choo|러블리즈|789331|2639766|Lovelyz8|https://cdnimg.melon.co.kr/cm/album/images/026/39/766/2639766_500.jpg/melon/resize/48/quality/80/optimize
+63|8109960|Good For You|에릭남 (Eric Nam)|592049|2674975|INTERVIEW|https://cdnimg.melon.co.kr/cm/album/images/026/74/975/2674975_500.jpg/melon/resize/48/quality/80/optimize
+64|8115192|봄날의 기억|비투비|647971|2675661|Remember that|https://cdnimg.melon.co.kr/cm/album/images/026/75/661/2675661_500.jpg/melon/resize/48/quality/80/optimize
+65|848804|나비무덤|테이크 (TAKE)|105789|303280|To Girl|https://cdnimg.melon.co.kr/cm/album/images/003/03/280/303280_500.jpg/melon/resize/48/quality/80/optimize
+66|8028725|사랑이었다 (Feat. 루나 of f(x))|지코 (ZICO)|602056|2663674|Break Up 2 Make Up|https://cdnimg.melon.co.kr/cm/album/images/026/63/674/2663674_500.jpg/melon/resize/48/quality/80/optimize
+67|8036303|I Miss You|마마무 (Mamamoo)|750053|2664685|I Miss You|https://cdnimg.melon.co.kr/cm/album/images/026/64/685/2664685_500.jpg/melon/resize/48/quality/80/optimize
+68|8161069|이 노래가 끝나면 (Feat. DAVII)|용준형|243232|2681804|이 노래가 끝나면|https://cdnimg.melon.co.kr/cm/album/images/026/81/804/2681804_500.jpg/melon/resize/48/quality/80/optimize
+69|8038492|센치해|WINNER|775197|2661204|EXIT : E|https://cdnimg.melon.co.kr/cm/album/images/026/61/204/2661204_500.jpg/melon/resize/48/quality/80/optimize
+70|8141272|제주도의 푸른 밤|태연 (TAEYEON)|236797|2679015|밴드 고맙삼다|https://cdnimg.melon.co.kr/cm/album/images/026/79/015/2679015_500.jpg/melon/resize/48/quality/80/optimize
+71|81013|커플|젝스키스|100052|5360|Special|https://cdnimg.melon.co.kr/cm/album/images/000/05/360/5360_500.jpg/melon/resize/48/quality/80/optimize
+72|7953958|우주를 건너|백예린 (Yerin Baek)|698776|2653573|FRANK|https://cdnimg.melon.co.kr/cm/album/images/026/53/573/2653573_500.jpg/melon/resize/48/quality/80/optimize
+73|8159184|홍대에 가면|홍대광|699623|2681538|홍대에 가면|https://cdnimg.melon.co.kr/cm/album/images/026/81/538/2681538_500.jpg/melon/resize/48/quality/80/optimize
+74|7912749|아마도 그건|Crush~로꼬|674710~688432|2648529|투유 프로젝트 - 슈가맨 Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/48/529/2648529_500.jpg/melon/resize/48/quality/80/optimize
+75|8049264|1cm의 자존심|마마무 (Mamamoo)|750053|2666499|1cm의 자존심|https://cdnimg.melon.co.kr/cm/album/images/026/66/499/2666499_500.jpg/melon/resize/48/quality/80/optimize
+76|8150498|네가 손짓해주면|Apink (에이핑크)|534360|2680290|네가 손짓해주면|https://cdnimg.melon.co.kr/cm/album/images/026/80/290/2680290_500.jpg/melon/resize/48/quality/80/optimize
+77|418598|친구라도 될 걸 그랬어|거미|30358|26396|Like Them|https://cdnimg.melon.co.kr/cm/album/images/000/26/396/26396_500.jpg/melon/resize/48/quality/80/optimize
+78|8150494|다이너마이트|VIXX (빅스)|672560|2680289|Zelos|https://cdnimg.melon.co.kr/cm/album/images/026/80/289/2680289_500.jpg/melon/resize/48/quality/80/optimize
+79|8138938|하여가 (何如歌) (우리 동네 음악대장)|하현우 (국카스텐)|612072|2678717|복면가왕 54회|https://cdnimg.melon.co.kr/cm/album/images/026/78/717/2678717_500.jpg/melon/resize/48/quality/80/optimize
+80|7877917|I (Feat. 버벌진트)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+81|7854179|취향저격|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+82|534252|사랑의 바보|더 넛츠 (The NuTs)|108988|35269|The Nuts|https://cdnimg.melon.co.kr/cm/album/images/000/35/269/35269_500.jpg/melon/resize/48/quality/80/optimize
+83|8158846|너의 목소리|먼데이 키즈 (Monday Kiz)|175155|2681458|너의 목소리|https://cdnimg.melon.co.kr/cm/album/images/026/81/458/2681458_500.jpg/melon/resize/48/quality/80/optimize
+84|8138941|사랑이었다 (Song By 태일)|블락비 (Block B)|532201|2678718|Blooming Period|https://cdnimg.melon.co.kr/cm/album/images/026/78/718/2678718_500.jpg/melon/resize/48/quality/80/optimize
+85|5835766|Okey Dokey|MINO (송민호)~지코 (ZICO)|742773~602056|2337492|쇼미더머니 4 Episode 6|https://cdnimg.melon.co.kr/cm/album/images/023/37/492/2337492_500.jpg/melon/resize/48/quality/80/optimize
+86|8104513|봄비|장범준|648551|2674213|장범준 2집|https://cdnimg.melon.co.kr/cm/album/images/026/74/213/2674213_500.jpg/melon/resize/48/quality/80/optimize
+87|8137996|질투 (Duet. 키썸)|유성은|658092|2678580|질투 (Duet. 키썸)|https://cdnimg.melon.co.kr/cm/album/images/026/78/580/2678580_500.jpg/melon/resize/48/quality/80/optimize
+88|8004377|니가 하면 로맨스 (Feat. 다비치)|케이윌|175139|2660454|니가 하면 로맨스|https://cdnimg.melon.co.kr/cm/album/images/026/60/454/2660454_500.jpg/melon/resize/48/quality/80/optimize
+89|8127341|기대해도 좋은 날|마마무 (Mamamoo)|750053|2677235|LG G5 & Friends OST|https://cdnimg.melon.co.kr/cm/album/images/026/77/235/2677235_500.jpg/melon/resize/48/quality/80/optimize
+90|8101027|예쁘잖아|기리보이|585492|2673691|예쁘잖아|https://cdnimg.melon.co.kr/cm/album/images/026/73/691/2673691_500.jpg/melon/resize/48/quality/80/optimize
+91|1898154|그녀를 찾아주세요|더 네임|25353|388862|In The Name Of Love (The Name Best & New)|https://cdnimg.melon.co.kr/cm/album/images/003/88/862/388862_500.jpg/melon/resize/48/quality/80/optimize
+92|8126691|이렇게 예뻤나 (YOU'RE SO FINE)|CNBLUE (씨엔블루)|450801|2677189|BLUEMING|https://cdnimg.melon.co.kr/cm/album/images/026/77/189/2677189_500.jpg/melon/resize/48/quality/80/optimize
+93|8065398|공감 (Feat. 서영은)|정준영|25869|2668891|공감|https://cdnimg.melon.co.kr/cm/album/images/026/68/891/2668891_500.jpg/melon/resize/48/quality/80/optimize
+94|8158147|NICE 2 MEET U (Prod. by ZICO) (Feat. 소야)|마이티 마우스|239366|2681353|NICE 2 MEET U (Prod. by ZICO)|https://cdnimg.melon.co.kr/cm/album/images/026/81/353/2681353_500.jpg/melon/resize/48/quality/80/optimize
+95|8163210|딴따라 (Feat. 우혜미)|개리|1732|2682076|딴따라 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/82/076/2682076_500.jpg/melon/resize/48/quality/80/optimize
+96|8160985|사랑했던걸까|양다일|695994|2681789|Say|https://cdnimg.melon.co.kr/cm/album/images/026/81/789/2681789_500.jpg/melon/resize/48/quality/80/optimize
+97|8150558|Dynamic Love|박보람|499464|2680297|Dynamic Love|https://cdnimg.melon.co.kr/cm/album/images/026/80/297/2680297_500.jpg/melon/resize/48/quality/80/optimize
+98|8138930|살아있네|박진영|1130|2678716|Still Alive|https://cdnimg.melon.co.kr/cm/album/images/026/78/716/2678716_500.jpg/melon/resize/48/quality/80/optimize
+99|8152437|안봐도 비디오 (Feat. BOBBY)|이하이|646171|2680542|SEOULITE|https://cdnimg.melon.co.kr/cm/album/images/026/80/542/2680542_500.jpg/melon/resize/48/quality/80/optimize
+100|7899235|Hello|Adele|241925|2646659|Hello|https://cdnimg.melon.co.kr/cm/album/images/026/46/659/2646659_500.jpg/melon/resize/48/quality/80/optimize

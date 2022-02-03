@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1773274|너 올 때까지|FTISLAND (FT아일랜드)|226490|361533|The Refreshment (Special Album)|https://cdnimg.melon.co.kr/cm/album/images/003/61/533/361533_500.jpg/melon/resize/48/quality/80/optimize
+52|1841036|발자국|먼데이 키즈 (Monday Kiz)|175155|374973|Inside Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/973/374973_500.jpg/melon/resize/48/quality/80/optimize
+53|1835201|하나의 사랑|추성훈|241955|374479|2008 연가 추성훈 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/74/479/374479_500.jpg/melon/resize/48/quality/80/optimize
+54|1842506|Love Seat (Feat. 타루, 허밍 어반 스테레오)|휘성 (Realslow)|10577|375067|스마일 프로젝트 Vol. 2 - Love Seat|https://cdnimg.melon.co.kr/cm/album/images/003/75/067/375067_500.jpg/melon/resize/48/quality/80/optimize
+55|1840507|쩜쩜쩜 (Pop Ver.)|더 넛츠 (The NuTs)|108988|374923|Could've Been..|https://cdnimg.melon.co.kr/cm/album/images/003/74/923/374923_500.jpg/melon/resize/48/quality/80/optimize
+56|1831909|울어도 괜찮아 (Feat. Sol' Flower)|EVAN 에반 (유호석)|221072|373855|울어도 괜찮아 (Pain Reliever)|https://cdnimg.melon.co.kr/cm/album/images/003/73/855/373855_500.jpg/melon/resize/48/quality/80/optimize
+57|1815594|나쁜 남자|김종욱|4388|370357|For A Long Time..|https://cdnimg.melon.co.kr/cm/album/images/003/70/357/370357_500.jpg/melon/resize/48/quality/80/optimize
+58|1724693|Tell me (Sampling From 'Two Of Hearts')|원더걸스|217764|357386|The Wonder Years|https://cdnimg.melon.co.kr/cm/album/images/003/57/386/357386_500.jpg/melon/resize/48/quality/80/optimize
+59|1809753|사랑이 싫어요|나윤권|58979|368588|사랑이 싫어요 (디지털 싱글)|https://cdnimg.melon.co.kr/cm/album/images/003/68/588/368588_500.jpg/melon/resize/48/quality/80/optimize
+60|1829381|Touch Me|민효린|224582|373306|Touch Me|https://cdnimg.melon.co.kr/cm/album/images/003/73/306/373306_500.jpg/melon/resize/48/quality/80/optimize
+61|1836267|Ma People|렉시|7664|373308|The LEXY|https://cdnimg.melon.co.kr/cm/album/images/003/73/308/373308_500.jpg/melon/resize/48/quality/80/optimize
+62|1836790|다시 한 번만|신화|100078|374611|다시 한 번만|https://cdnimg.melon.co.kr/cm/album/images/003/74/611/374611_500.jpg/melon/resize/48/quality/80/optimize
+63|1833954|사랑한번 눈물나게|오현란|2876|374382|She's Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/382/374382_500.jpg/melon/resize/48/quality/80/optimize
+64|1746426|Brave|Jennifer Lopez|2845|359268|Brave|https://cdnimg.melon.co.kr/cm/album/images/003/59/268/359268_500.jpg/melon/resize/48/quality/80/optimize
+65|1837529|오늘... 그녀가|루그|204626|374670|2008 Lug's The Second Album|https://cdnimg.melon.co.kr/cm/album/images/003/74/670/374670_500.jpg/melon/resize/48/quality/80/optimize
+66|1756965|소녀시대 (Girls' Generation)|소녀시대 (GIRLS' GENERATION)|228069|360075|소녀시대|https://cdnimg.melon.co.kr/cm/album/images/003/60/075/360075_500.jpg/melon/resize/48/quality/80/optimize
+67|1742135|배반|빅마마|105803|358911|Blossom|https://cdnimg.melon.co.kr/cm/album/images/003/58/911/358911_500.jpg/melon/resize/48/quality/80/optimize
+68|1842505|너 하나만|고유진 (플라워)|4172|375066|너 하나만 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/75/066/375066_500.jpg/melon/resize/48/quality/80/optimize
+69|1836107|추억속의 그대|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+70|1839247|My Name|거북이|101463|374818|오방간다 (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/74/818/374818_500.jpg/melon/resize/48/quality/80/optimize
+71|1757178|Adios (Feat. 미스터 타이푼(Mr. Tyfoon))|은지원|1682|360090|사랑사랑사랑|https://cdnimg.melon.co.kr/cm/album/images/003/60/090/360090_500.jpg/melon/resize/48/quality/80/optimize
+72|1826479|데자뷰|SS501|170541|372910|데자뷰 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/72/910/372910_500.jpg/melon/resize/48/quality/80/optimize
+73|1807099|모를까봐서|쥬얼리|101487|368317|5집 Kitchi Island|https://cdnimg.melon.co.kr/cm/album/images/003/68/317/368317_500.jpg/melon/resize/48/quality/80/optimize
+74|1825558|어느날 가슴이 말했다 (Eternity)|강타 (KANGTA)|1582|372877|Eternity - 永遠(영원)|https://cdnimg.melon.co.kr/cm/album/images/003/72/877/372877_500.jpg/melon/resize/48/quality/80/optimize
+75|1803255|눈물 한 방울|보이스원|206689|367884|Travel #2 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/67/884/367884_500.jpg/melon/resize/48/quality/80/optimize
+76|1834035|This is LOVE (김연아 Nike CF 삽입곡)|Tender Love|241899|374387|This is LOVE|https://cdnimg.melon.co.kr/cm/album/images/003/74/387/374387_500.jpg/melon/resize/48/quality/80/optimize
+77|1830789|사랑했던 날|솔지|247582|373407|사랑했던 날|https://cdnimg.melon.co.kr/cm/album/images/003/73/407/373407_500.jpg/melon/resize/48/quality/80/optimize
+78|1826468|사랑하지 말아요|거미|30358|372909|Comfort|https://cdnimg.melon.co.kr/cm/album/images/003/72/909/372909_500.jpg/melon/resize/48/quality/80/optimize
+79|1765764|But I Love U (Sampling By Rhu Of Redd Holt Unlimited)|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+80|1836108|잘가요|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+81|1767765|첫눈|SG 워너비|108363|361091|Story in New York|https://cdnimg.melon.co.kr/cm/album/images/003/61/091/361091_500.jpg/melon/resize/48/quality/80/optimize
+82|1622996|다행이다|이적|1088|350016|나무로 만든 노래|https://cdnimg.melon.co.kr/cm/album/images/003/50/016/350016_500.jpg/melon/resize/48/quality/80/optimize
+83|1839325|바보|씨야|181679|374824|All Star 2|https://cdnimg.melon.co.kr/cm/album/images/003/74/824/374824_500.jpg/melon/resize/48/quality/80/optimize
+84|1785924|그래도 좋아|씨야|181679|362767|California Dream|https://cdnimg.melon.co.kr/cm/album/images/003/62/767/362767_500.jpg/melon/resize/48/quality/80/optimize
+85|1841056|초콜릿|김정은|9375|374975|김정은의 초콜릿|https://cdnimg.melon.co.kr/cm/album/images/003/74/975/374975_500.jpg/melon/resize/48/quality/80/optimize
+86|1836104|미련한 사랑|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+87|1787093|끌려 (Feat. 메이다니, 이한)|PDIS (조PD+윤일상)|232509|362822|조PD 윤일상 프로젝트 앨범 PDIS|https://cdnimg.melon.co.kr/cm/album/images/003/62/822/362822_500.jpg/melon/resize/48/quality/80/optimize
+88|1772114|두글자|가비 퀸즈|231538|361419|gavy queens new born|https://cdnimg.melon.co.kr/cm/album/images/003/61/419/361419_500.jpg/melon/resize/48/quality/80/optimize
+89|1793412|Love Song|앤디|1738|364958|Andy The First New Dream|https://cdnimg.melon.co.kr/cm/album/images/003/64/958/364958_500.jpg/melon/resize/48/quality/80/optimize
+90|1840402|Cross|함소원|41952|374916|So 1|https://cdnimg.melon.co.kr/cm/album/images/003/74/916/374916_500.jpg/melon/resize/48/quality/80/optimize
+91|1842500|이별인건지 (Radio Ver.)|안재욱|1083|375065|그녀에게...|https://cdnimg.melon.co.kr/cm/album/images/003/75/065/375065_500.jpg/melon/resize/48/quality/80/optimize
+92|1836103|이별의 그늘|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+93|1839285|늦은 사랑|윤화재인|228276|374821|Shestory (Season 2)|https://cdnimg.melon.co.kr/cm/album/images/003/74/821/374821_500.jpg/melon/resize/48/quality/80/optimize
+94|1836111|너의 뒤에서|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+95|1836105|나를 슬프게 하는 사람들|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+96|-1|19금 Wadsyaname|Nelly|2066|368361|Wadsyaname|https://cdnimg.melon.co.kr/cm/album/images/003/68/361/368361_500.jpg/melon/resize/48/quality/80/optimize
+97|1840171|사랑이라는 이유로|송창의|232568|374897|Love 101 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/74/897/374897_500.jpg/melon/resize/48/quality/80/optimize
+98|1785909|모놀로그|이진성 (먼데이 키즈)~최아인|237650~14939|362766|뉴하트 OST|https://cdnimg.melon.co.kr/cm/album/images/003/62/766/362766_500.jpg/melon/resize/48/quality/80/optimize
+99|1806316|사랑은 라랄라|백지영~유리|1118~428760|368241|Love Is...Lalala|https://cdnimg.melon.co.kr/cm/album/images/003/68/241/368241_500.jpg/melon/resize/48/quality/80/optimize
+100|1836109|하나의 사랑|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize

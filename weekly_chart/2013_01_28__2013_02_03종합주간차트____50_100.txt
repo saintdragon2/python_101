@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3890826|All For You|서인국~정은지|436700~644871|2148020|응답하라 1997 Love Story Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/48/020/2148020_500.jpg/melon/resize/48/quality/80/optimize
+52|3929471|저녁 하늘|에일리(Ailee)|629831|2153251|Invitation|https://cdnimg.melon.co.kr/cm/album/images/021/53/251/2153251_500.jpg/melon/resize/48/quality/80/optimize
+53|3936237|휘파람|로이킴|699632|2157826|슈퍼스타 K4 Top 12 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/57/826/2157826_500.jpg/melon/resize/48/quality/80/optimize
+54|3999236|다 잊었니|2BIC(투빅)|643551|2171219|다 잊었니|https://cdnimg.melon.co.kr/cm/album/images/021/71/219/2171219_500.jpg/melon/resize/48/quality/80/optimize
+55|4022595|Sweetest Name|클래지콰이|107725|2173800|Blessed|https://cdnimg.melon.co.kr/cm/album/images/021/73/800/2173800_500.jpg/melon/resize/48/quality/80/optimize
+56|4012610|빗소리|B.A.P|623451|2172568|빗소리|https://cdnimg.melon.co.kr/cm/album/images/021/72/568/2172568_500.jpg/melon/resize/48/quality/80/optimize
+57|4014292|조용필처럼|팬텀|588431|2172804|Phantom Theory|https://cdnimg.melon.co.kr/cm/album/images/021/72/804/2172804_500.jpg/melon/resize/48/quality/80/optimize
+58|4022535|너였으면 좋겠어|이정|39256|2173785|이웃집 꽃미남 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/73/785/2173785_500.jpg/melon/resize/48/quality/80/optimize
+59|3973781|크리스마스니까|성시경~박효신~이석훈~서인국~VIXX (빅스)|3305~1191~205858~436700~672560|2168409|Jelly Christmas 2012 HEART PROJECT|https://cdnimg.melon.co.kr/cm/album/images/021/68/409/2168409_500.jpg/melon/resize/48/quality/80/optimize
+60|4019174|돈암동 멜로디|레게 강 같은 평화|727100|2173362|돈암동 멜로디|https://cdnimg.melon.co.kr/cm/album/images/021/73/362/2173362_500.jpg/melon/resize/48/quality/80/optimize
+61|3940755|똑같은 사랑 똑같은 이별|어반자카파|420527|2161187|[02]|https://cdnimg.melon.co.kr/cm/album/images/021/61/187/2161187_500.jpg/melon/resize/48/quality/80/optimize
+62|4002374|일년전에|장현승~정은지~김남주 (에이핑크)|458401~644871~670717|2171572|'A Cube' For Season # White|https://cdnimg.melon.co.kr/cm/album/images/021/71/572/2171572_500.jpg/melon/resize/48/quality/80/optimize
+63|4011598|걱정마쇼 (Feat. 우혜미 & Loptimist)|배치기|101886|2172455|4집 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/72/455/2172455_500.jpg/melon/resize/48/quality/80/optimize
+64|3884575|I Need You|허각~지아|28801~227595|2145068|I Need You|https://cdnimg.melon.co.kr/cm/album/images/021/45/068/2145068_500.jpg/melon/resize/48/quality/80/optimize
+65|4009752|니가 없을 때 (Feat. Zion.T)|인피니트H|715422|2172287|FLY HIGH|https://cdnimg.melon.co.kr/cm/album/images/021/72/287/2172287_500.jpg/melon/resize/48/quality/80/optimize
+66|3928713|닐리리맘보|블락비 (Block B)|532201|2153172|BLOCKBUSTER|https://cdnimg.melon.co.kr/cm/album/images/021/53/172/2153172_500.jpg/melon/resize/48/quality/80/optimize
+67|4021975|Nothing Like Us|Justin Bieber|420621|2173721|Believe Acoustic|https://cdnimg.melon.co.kr/cm/album/images/021/73/721/2173721_500.jpg/melon/resize/48/quality/80/optimize
+68|4016085|신촌을 못가|포스트맨(Postmen)|495401|2173025|신촌을 못가|https://cdnimg.melon.co.kr/cm/album/images/021/73/025/2173025_500.jpg/melon/resize/48/quality/80/optimize
+69|4016338|Sweet Dream|MFBTY|716279|2173053|Sweet Dream|https://cdnimg.melon.co.kr/cm/album/images/021/73/053/2173053_500.jpg/melon/resize/48/quality/80/optimize
+70|4018305|천국의 문 (Heaven's Door)|에릭남 (Eric Nam)|592049|2173279|CLOUD 9|https://cdnimg.melon.co.kr/cm/album/images/021/73/279/2173279_500.jpg/melon/resize/48/quality/80/optimize
+71|3989869|키다리 아저씨|백아연|646173|2170236|청담동 앨리스 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/70/236/2170236_500.jpg/melon/resize/48/quality/80/optimize
+72|4013159|소풍 (Feat. 윤하)|소지섭|52905|2172665|6시...운동장|https://cdnimg.melon.co.kr/cm/album/images/021/72/665/2172665_500.jpg/melon/resize/48/quality/80/optimize
+73|3906377|크레용 (Crayon)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+74|3928194|말리꽃 (원곡가수 이승철)|이정|39256|2153066|'나는 가수다 2' 10월 B조 경연|https://cdnimg.melon.co.kr/cm/album/images/021/53/066/2153066_500.jpg/melon/resize/48/quality/80/optimize
+75|4013287|Suit & Tie (Feat. Jay-Z)|Justin Timberlake|2646|2172678|Suit & Tie (Feat. Jay-Z)|https://cdnimg.melon.co.kr/cm/album/images/021/72/678/2172678_500.jpg/melon/resize/48/quality/80/optimize
+76|3986045|Young Girls|Bruno Mars|495811|2169778|Unorthodox Jukebox|https://cdnimg.melon.co.kr/cm/album/images/021/69/778/2169778_500.jpg/melon/resize/48/quality/80/optimize
+77|4012509|IT'S OVER (Feat. 박보영)|스피드|714785|2172558|Superior SPEED|https://cdnimg.melon.co.kr/cm/album/images/021/72/558/2172558_500.jpg/melon/resize/48/quality/80/optimize
+78|4004023|엄마를 닮았네|길|410161|2171751|박명수의 어떤가요|https://cdnimg.melon.co.kr/cm/album/images/021/71/751/2171751_500.jpg/melon/resize/48/quality/80/optimize
+79|4021446|내 세상|포맨 (4MEN)|100176|2173651|The 5th Album Vol.1 (실화)|https://cdnimg.melon.co.kr/cm/album/images/021/73/651/2173651_500.jpg/melon/resize/48/quality/80/optimize
+80|3906383|Missing You (Feat. 김윤아 Of 자우림)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+81|3994075|Don't Go|디셈버|439021|2170614|The Last Legacy|https://cdnimg.melon.co.kr/cm/album/images/021/70/614/2170614_500.jpg/melon/resize/48/quality/80/optimize
+82|3948917|If You Love Me (Feat. 박재범)|NS 윤지|433746|2165341|If You Love Me (Feat. 박재범)|https://cdnimg.melon.co.kr/cm/album/images/021/65/341/2165341_500.jpg/melon/resize/48/quality/80/optimize
+83|4022558|Remember me|테이커스|716997|2173793|Remember me|https://cdnimg.melon.co.kr/cm/album/images/021/73/793/2173793_500.jpg/melon/resize/48/quality/80/optimize
+84|3975504|하얀 설레임 (White Love)|케이윌~소유 (SOYOU)~정민|175139~490981~672780|2168564|Starship Planet 2012 (스타쉽플래닛)|https://cdnimg.melon.co.kr/cm/album/images/021/68/564/2168564_500.jpg/melon/resize/48/quality/80/optimize
+85|3999217|다 예뻐|한선화~영재|672329~670811|2171215|다 예뻐|https://cdnimg.melon.co.kr/cm/album/images/021/71/215/2171215_500.jpg/melon/resize/48/quality/80/optimize
+86|4021187|내사랑 내곁에|한동근|711476|2173624|'위대한 탄생 3' TOP 16 생방송 경연|https://cdnimg.melon.co.kr/cm/album/images/021/73/624/2173624_500.jpg/melon/resize/48/quality/80/optimize
+87|3968900|허수아비|이하이|646171|2167828|허수아비|https://cdnimg.melon.co.kr/cm/album/images/021/67/828/2167828_500.jpg/melon/resize/48/quality/80/optimize
+88|4011595|아홉수|배치기|101886|2172455|4집 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/72/455/2172455_500.jpg/melon/resize/48/quality/80/optimize
+89|3958817|있기 없기|달샤벳|514619|2166681|있기 없기|https://cdnimg.melon.co.kr/cm/album/images/021/66/681/2166681_500.jpg/melon/resize/48/quality/80/optimize
+90|4001553|그 사람 (원곡가수 이승철)|The One (더원)|160816|2171413|'나는 가수다 2' 2012 가왕전 파이널|https://cdnimg.melon.co.kr/cm/album/images/021/71/413/2171413_500.jpg/melon/resize/48/quality/80/optimize
+91|4012539|청개구리|김보경 (NEON)|60829|2172561|학교 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/72/561/2172561_500.jpg/melon/resize/48/quality/80/optimize
+92|4001335|Express 999|소녀시대 (GIRLS' GENERATION)|228069|2170744|I Got A Boy|https://cdnimg.melon.co.kr/cm/album/images/021/70/744/2170744_500.jpg/melon/resize/48/quality/80/optimize
+93|3911750|피어나|가인|428821|2150966|Talk About S.|https://cdnimg.melon.co.kr/cm/album/images/021/50/966/2150966_500.jpg/melon/resize/48/quality/80/optimize
+94|4009777|이기적이야|알리 (ALi)|312266|2172290|이기적이야|https://cdnimg.melon.co.kr/cm/album/images/021/72/290/2172290_500.jpg/melon/resize/48/quality/80/optimize
+95|4012921|이별재회|프리스타일|100144|2172616|이별재회|https://cdnimg.melon.co.kr/cm/album/images/021/72/616/2172616_500.jpg/melon/resize/48/quality/80/optimize
+96|4013160|지우개 (Feat. Mellow)|소지섭|52905|2172665|6시...운동장|https://cdnimg.melon.co.kr/cm/album/images/021/72/665/2172665_500.jpg/melon/resize/48/quality/80/optimize
+97|4021447|But I|포맨 (4MEN)|100176|2173651|The 5th Album Vol.1 (실화)|https://cdnimg.melon.co.kr/cm/album/images/021/73/651/2173651_500.jpg/melon/resize/48/quality/80/optimize
+98|4016294|미니마니모|타이니지|671571|2173047|미니마니모|https://cdnimg.melon.co.kr/cm/album/images/021/73/047/2173047_500.jpg/melon/resize/48/quality/80/optimize
+99|4003254|그대가 잠든 사이|제아|230519|2171334|Just JeA|https://cdnimg.melon.co.kr/cm/album/images/021/71/334/2171334_500.jpg/melon/resize/48/quality/80/optimize
+100|4020193|그까짓거|마이네임|576851|2173497|MYNAME 2nd Single|https://cdnimg.melon.co.kr/cm/album/images/021/73/497/2173497_500.jpg/melon/resize/48/quality/80/optimize

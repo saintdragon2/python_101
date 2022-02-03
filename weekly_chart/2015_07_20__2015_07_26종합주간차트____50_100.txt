@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|5704765|동네술집|허각~정인|28801~35989|2319548|동네술집|https://cdnimg.melon.co.kr/cm/album/images/023/19/548/2319548_500.jpg/melon/resize/48/quality/80/optimize
+52|5765886|이 밤이 지나면 (화생방실 클레오파트라) (Bonus Track)|김연우|6017|2327658|복면가왕 14회|https://cdnimg.melon.co.kr/cm/album/images/023/27/658/2327658_500.jpg/melon/resize/48/quality/80/optimize
+53|5731852|그리고 안녕|이승기|58793|2323159|그리고...|https://cdnimg.melon.co.kr/cm/album/images/023/23/159/2323159_500.jpg/melon/resize/48/quality/80/optimize
+54|4646573|너의 의미 (Feat. 김창완)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+55|5634219|19금 Puss (Prod.by 라이머)|지민~아이언|687001~781841|2310080|언프리티 랩스타 SEMI FINAL|https://cdnimg.melon.co.kr/cm/album/images/023/10/080/2310080_500.jpg/melon/resize/48/quality/80/optimize
+56|5628083|두사랑 (Feat. 매드클라운)|다비치|236815|2309174|두사랑|https://cdnimg.melon.co.kr/cm/album/images/023/09/174/2309174_500.jpg/melon/resize/48/quality/80/optimize
+57|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+58|4681146|한여름밤의 꿀|San E~레이나 (Raina)|402526~672337|2260223|San E, 레이나 Project Single '한여름밤의 꿀'|https://cdnimg.melon.co.kr/cm/album/images/022/60/223/2260223_500.jpg/melon/resize/48/quality/80/optimize
+59|5644620|CALL ME BABY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+60|5629186|사월의 눈|허각|28801|2309363|사월의 눈|https://cdnimg.melon.co.kr/cm/album/images/023/09/363/2309363_500.jpg/melon/resize/48/quality/80/optimize
+61|5674470|연예할래|박보람|499464|2315407|CELEPRETTY|https://cdnimg.melon.co.kr/cm/album/images/023/15/407/2315407_500.jpg/melon/resize/48/quality/80/optimize
+62|5644636|다른 남자 말고 너|미쓰에이|481481|2311419|Colors|https://cdnimg.melon.co.kr/cm/album/images/023/11/419/2311419_500.jpg/melon/resize/48/quality/80/optimize
+63|5787474|심상치 않아 (Feat. 주영)|키썸 (Kisum)|748510|2330431|심상치 않아 (Feat. 주영)|https://cdnimg.melon.co.kr/cm/album/images/023/30/431/2330431_500.jpg/melon/resize/48/quality/80/optimize
+64|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+65|5775671|너를 사랑한 시간|정승환|792091|2328858|너를 사랑한 시간 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/023/28/858/2328858_500.jpg/melon/resize/48/quality/80/optimize
+66|5713426|공드리|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+67|5756651|우리가 사랑한 시간|규현 (KYUHYUN)|205880|2326443|너를 사랑한 시간 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/023/26/443/2326443_500.jpg/melon/resize/48/quality/80/optimize
+68|5787398|한여름 밤의 고백|쿨 (COOL)|100004|2330425|한여름 밤의 고백|https://cdnimg.melon.co.kr/cm/album/images/023/30/425/2330425_500.jpg/melon/resize/48/quality/80/optimize
+69|5482064|바라보기|엠씨더맥스 (M.C the MAX)|161636|2292762|미녀의 탄생 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/92/762/2292762_500.jpg/melon/resize/48/quality/80/optimize
+70|5791706|오늘부터 우리는 (Me Gustas Tu)|여자친구 (GFRIEND)|828478|2330981|여자친구 2nd Mini Album 'Flower Bud'|https://cdnimg.melon.co.kr/cm/album/images/023/30/981/2330981_500.jpg/melon/resize/48/quality/80/optimize
+71|4743560|Lost Stars|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+72|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+73|5717521|넌 나의 집|포맨 (4MEN)|100176|2321284|넌 나의 집 (Made in THE VIBE)|https://cdnimg.melon.co.kr/cm/album/images/023/21/284/2321284_500.jpg/melon/resize/48/quality/80/optimize
+74|4840271|위아래|EXID|630454|2277372|위아래|https://cdnimg.melon.co.kr/cm/album/images/022/77/372/2277372_500.jpg/melon/resize/48/quality/80/optimize
+75|5752316|싫대 (Feat. 범키)|버벌진트~산체스 (Sanchez)|6985~497320|2325830|싫대|https://cdnimg.melon.co.kr/cm/album/images/023/25/830/2325830_500.jpg/melon/resize/48/quality/80/optimize
+76|5661710|품행제로|블락비 바스타즈|858846|2313837|품행제로|https://cdnimg.melon.co.kr/cm/album/images/023/13/837/2313837_500.jpg/melon/resize/48/quality/80/optimize
+77|5750485|19금 내가 (Feat. Beenzino & The Quiett)|Dok2|314367|2325598|MULTILLIONAIRE|https://cdnimg.melon.co.kr/cm/album/images/023/25/598/2325598_500.jpg/melon/resize/48/quality/80/optimize
+78|5738546|우리집|2PM|259822|2323974|NO.5|https://cdnimg.melon.co.kr/cm/album/images/023/23/974/2323974_500.jpg/melon/resize/48/quality/80/optimize
+79|5775986|딱 좋아 (Just right)|GOT7 (갓세븐)|751059|2328888|Just right|https://cdnimg.melon.co.kr/cm/album/images/023/28/888/2328888_500.jpg/melon/resize/48/quality/80/optimize
+80|3910821|바람기억|나얼|3959|2150856|Principle Of My Soul|https://cdnimg.melon.co.kr/cm/album/images/021/50/856/2150856_500.jpg/melon/resize/48/quality/80/optimize
+81|5740235|쿨밤|슬리피~송지은|673238~446200|2324202|쿨밤|https://cdnimg.melon.co.kr/cm/album/images/023/24/202/2324202_500.jpg/melon/resize/48/quality/80/optimize
+82|5681153|I NEED U|방탄소년단|672375|2316261|화양연화 pt.1|https://cdnimg.melon.co.kr/cm/album/images/023/16/261/2316261_500.jpg/melon/resize/48/quality/80/optimize
+83|5761969|다쳐 (Hurt Locker)|나인뮤지스|465680|2327163|9MUSES S/S EDITION|https://cdnimg.melon.co.kr/cm/album/images/023/27/163/2327163_500.jpg/melon/resize/48/quality/80/optimize
+84|3953196|만약에 말야 (전우성 Solo)|노을|105623|2165918|TIME FOR LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/65/918/2165918_500.jpg/melon/resize/48/quality/80/optimize
+85|5713423|큰새|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+86|5678250|Reset (Feat. 진실 Of Mad Soul Child)|타이거JK|1630|2315844|후아유 - 학교 2015 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/023/15/844/2315844_500.jpg/melon/resize/48/quality/80/optimize
+87|5629148|Ice Cream Cake|Red Velvet (레드벨벳)|780066|2309156|The 1st Mini Album 'Ice Cream Cake'|https://cdnimg.melon.co.kr/cm/album/images/023/09/156/2309156_500.jpg/melon/resize/48/quality/80/optimize
+88|5758243|Johnny (쟈니)|에일리(Ailee)|629831|2326669|Johnny|https://cdnimg.melon.co.kr/cm/album/images/023/26/669/2326669_500.jpg/melon/resize/48/quality/80/optimize
+89|5793205|마일리지 (Mileage) (Feat. 팔로알토, 화사 of 마마무)|프라이머리|35682|2331227|2-3|https://cdnimg.melon.co.kr/cm/album/images/023/31/227/2331227_500.jpg/melon/resize/48/quality/80/optimize
+90|5657227|한번 더 말해줘 (Feat. 장한나)|지누션|100054|2313257|한번 더 말해줘|https://cdnimg.melon.co.kr/cm/album/images/023/13/257/2313257_500.jpg/melon/resize/48/quality/80/optimize
+91|4047415|뻔한 멜로디 (Feat. Crush)|Zion.T|537920|2176909|뻔한 멜로디|https://cdnimg.melon.co.kr/cm/album/images/021/76/909/2176909_500.jpg/melon/resize/48/quality/80/optimize
+92|5789586|야해 (Feat. 지민 Of AOA)|강민희|712374|2330690|야해|https://cdnimg.melon.co.kr/cm/album/images/023/30/690/2330690_500.jpg/melon/resize/48/quality/80/optimize
+93|5775888|Moonlight|인피니트|476181|2327888|Reality|https://cdnimg.melon.co.kr/cm/album/images/023/27/888/2327888_500.jpg/melon/resize/48/quality/80/optimize
+94|5763962|꺼내지 못한 말|The One (더원)~김연지|160816~428803|2327434|꺼내지 못한 말|https://cdnimg.melon.co.kr/cm/album/images/023/27/434/2327434_500.jpg/melon/resize/48/quality/80/optimize
+95|5784879|연애는 하니..?|박화요비|2017|2330082|연애는 하니..?|https://cdnimg.melon.co.kr/cm/album/images/023/30/082/2330082_500.jpg/melon/resize/48/quality/80/optimize
+96|5775890|마주보며 서 있어|인피니트|476181|2327888|Reality|https://cdnimg.melon.co.kr/cm/album/images/023/27/888/2327888_500.jpg/melon/resize/48/quality/80/optimize
+97|5742256|#화이트 스타일 (Feat. 김호연 Of 달 좋은밤)|키썸 (Kisum)|748510|2324473|Show Off|https://cdnimg.melon.co.kr/cm/album/images/023/24/473/2324473_500.jpg/melon/resize/48/quality/80/optimize
+98|5721441|TENDER LOVE|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize
+99|5773989|19금 털어 (Get Low)|주헌 (몬스타엑스)~매드클라운|837027~219621|2328659|SUPEXX|https://cdnimg.melon.co.kr/cm/album/images/023/28/659/2328659_500.jpg/melon/resize/48/quality/80/optimize
+100|5775891|러브레터|인피니트|476181|2327888|Reality|https://cdnimg.melon.co.kr/cm/album/images/023/27/888/2327888_500.jpg/melon/resize/48/quality/80/optimize

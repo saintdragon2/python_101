@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1927782|전국민 러브송 (Feat. MC몽, 유리 Of Cool)|박장근|261069|397863|장근이의 전국민 러브송 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/97/863/397863_500.jpg/melon/resize/48/quality/80/optimize
+52|1917233|투명인간|손담비|226582|394375|투명인간|https://cdnimg.melon.co.kr/cm/album/images/003/94/375/394375_500.jpg/melon/resize/48/quality/80/optimize
+53|1927919|헤어질 땐 말없이|김동희|25890|397879|Halfway|https://cdnimg.melon.co.kr/cm/album/images/003/97/879/397879_500.jpg/melon/resize/48/quality/80/optimize
+54|1867568|Beautiful Life|V.O.S|108794|379407|Wonderful Things|https://cdnimg.melon.co.kr/cm/album/images/003/79/407/379407_500.jpg/melon/resize/48/quality/80/optimize
+55|1903426|그대에게 바래요|솔비~김종욱|227228~4388|389763|그대에게 바래요|https://cdnimg.melon.co.kr/cm/album/images/003/89/763/389763_500.jpg/melon/resize/48/quality/80/optimize
+56|1854856|라라라|SG 워너비|108363|376502|My Friend|https://cdnimg.melon.co.kr/cm/album/images/003/76/502/376502_500.jpg/melon/resize/48/quality/80/optimize
+57|1914694|운명을 거슬러|SG 워너비~김종욱|108363~4388|393023|에덴의 동쪽 OST|https://cdnimg.melon.co.kr/cm/album/images/003/93/023/393023_500.jpg/melon/resize/48/quality/80/optimize
+58|1926168|19금 Do It Do It (Feat. Maniac)|솔비|227228|397408|Do It|https://cdnimg.melon.co.kr/cm/album/images/003/97/408/397408_500.jpg/melon/resize/48/quality/80/optimize
+59|1885180|그대라면|알렉스|51146|383555|My Vintage Romance|https://cdnimg.melon.co.kr/cm/album/images/003/83/555/383555_500.jpg/melon/resize/48/quality/80/optimize
+60|1924483|상심증후군 (Feat.Daylight)|노블레스~Daylight|160738~27784|397154|Broken Heart Syndrome|https://cdnimg.melon.co.kr/cm/album/images/003/97/154/397154_500.jpg/melon/resize/48/quality/80/optimize
+61|1923550|미안해, 고마워, 사랑해|먼데이 키즈 (Monday Kiz)|175155|396351|Recollection|https://cdnimg.melon.co.kr/cm/album/images/003/96/351/396351_500.jpg/melon/resize/48/quality/80/optimize
+62|1895778|나만 바라봐 (Part 2)|G-DRAGON|6984|387459|나만 바라봐 Part.2|https://cdnimg.melon.co.kr/cm/album/images/003/87/459/387459_500.jpg/melon/resize/48/quality/80/optimize
+63|1929324|미아|아이유|261143|398025|Lost And Found|https://cdnimg.melon.co.kr/cm/album/images/003/98/025/398025_500.jpg/melon/resize/48/quality/80/optimize
+64|1929843|남자를 믿지마 (Feat. Big Tone)|M (이민우)|1742|398063|M Rizing|https://cdnimg.melon.co.kr/cm/album/images/003/98/063/398063_500.jpg/melon/resize/48/quality/80/optimize
+65|1902386|그대만 보여요 (Feat. BigBang T.O.P)|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+66|1917571|Solo (Feat. Alex)|다이나믹 듀오|108358|392969|Last Days|https://cdnimg.melon.co.kr/cm/album/images/003/92/969/392969_500.jpg/melon/resize/48/quality/80/optimize
+67|1911466|우리들의 행복한 시간 (Feat. 주(Joo) Narr. 안혜경)|미노 (프리스타일)~타우|428828~255466|391552|The First Songs For You To Remember Our Happy Days|https://cdnimg.melon.co.kr/cm/album/images/003/91/552/391552_500.jpg/melon/resize/48/quality/80/optimize
+68|1928758|애심 (愛心)|거미|30358|397965|신의 저울 OST|https://cdnimg.melon.co.kr/cm/album/images/003/97/965/397965_500.jpg/melon/resize/48/quality/80/optimize
+69|1868095|Lie|가비엔제이|174997|379436|The Beginning|https://cdnimg.melon.co.kr/cm/album/images/003/79/436/379436_500.jpg/melon/resize/48/quality/80/optimize
+70|1908650|미쳐미쳐미쳐|바나나 걸|108613|390552|Colorful|https://cdnimg.melon.co.kr/cm/album/images/003/90/552/390552_500.jpg/melon/resize/48/quality/80/optimize
+71|1929165|사랑해 또 행복해 Part.2|H2가인|226039|398013|사랑해 또 행복해 Part.2|https://cdnimg.melon.co.kr/cm/album/images/003/98/013/398013_500.jpg/melon/resize/48/quality/80/optimize
+72|1928036|하나둘씩|일 락|57315|397890|하나둘씩|https://cdnimg.melon.co.kr/cm/album/images/003/97/890/397890_500.jpg/melon/resize/48/quality/80/optimize
+73|1930167|바람의 노래|조성모|969|398092|바람의 화원 OST|https://cdnimg.melon.co.kr/cm/album/images/003/98/092/398092_500.jpg/melon/resize/48/quality/80/optimize
+74|1928578|Mad (Album Version)|Ne-Yo|181769|397949|Year Of The Gentleman|https://cdnimg.melon.co.kr/cm/album/images/003/97/949/397949_500.jpg/melon/resize/48/quality/80/optimize
+75|1927920|사랑은 하지마|김동희|25890|397879|Halfway|https://cdnimg.melon.co.kr/cm/album/images/003/97/879/397879_500.jpg/melon/resize/48/quality/80/optimize
+76|1902382|난 행복해|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+77|1919081|모르면서 (Feat.서정환)|제이|1203|395259|J Electro Project Album (Love Child)|https://cdnimg.melon.co.kr/cm/album/images/003/95/259/395259_500.jpg/melon/resize/48/quality/80/optimize
+78|1928039|다른 사랑 못해요|이지안|261078|397891|중독된 사랑|https://cdnimg.melon.co.kr/cm/album/images/003/97/891/397891_500.jpg/melon/resize/48/quality/80/optimize
+79|1841034|가슴으로 외쳐 (Rap Feat. Rhymer)|먼데이 키즈 (Monday Kiz)|175155|374973|Inside Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/973/374973_500.jpg/melon/resize/48/quality/80/optimize
+80|1798588|만약에|태연 (TAEYEON)|236797|366925|쾌도 홍길동 OST|https://cdnimg.melon.co.kr/cm/album/images/003/66/925/366925_500.jpg/melon/resize/48/quality/80/optimize
+81|1871159|Too Much (With 서인영) (우리결혼했어요 화제곡)|크라운제이 (CROWN J)|182206|380143|Too Much (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/80/143/380143_500.jpg/melon/resize/48/quality/80/optimize
+82|1918226|내 여자|The One (더원)|160816|394863|내 여자|https://cdnimg.melon.co.kr/cm/album/images/003/94/863/394863_500.jpg/melon/resize/48/quality/80/optimize
+83|1928784|말하지그랬어|길건|60360|397967|The LOVE|https://cdnimg.melon.co.kr/cm/album/images/003/97/967/397967_500.jpg/melon/resize/48/quality/80/optimize
+84|1851229|서커스 (Feat. 임유경 - 달래 음악단 , ＄howgun)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+85|-1|Miss Independent|Ne-Yo|181769|394860|Miss Independent|https://cdnimg.melon.co.kr/cm/album/images/003/94/860/394860_500.jpg/melon/resize/48/quality/80/optimize
+86|1923202|연애 (Title) (Feat. 허밍어반스테레오)|메이비 (Maybee)~하울|43443~175136|396303|연애결혼 OST|https://cdnimg.melon.co.kr/cm/album/images/003/96/303/396303_500.jpg/melon/resize/48/quality/80/optimize
+87|1851232|죽도록 사랑해 (Feat. 박정현)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+88|1746426|Brave|Jennifer Lopez|2845|359268|Brave|https://cdnimg.melon.co.kr/cm/album/images/003/59/268/359268_500.jpg/melon/resize/48/quality/80/optimize
+89|1918895|그대라서|신혜성|1741|395257|Live And Let Live|https://cdnimg.melon.co.kr/cm/album/images/003/95/257/395257_500.jpg/melon/resize/48/quality/80/optimize
+90|1874398|This Time|원더걸스|217764|381932|So Hot|https://cdnimg.melon.co.kr/cm/album/images/003/81/932/381932_500.jpg/melon/resize/48/quality/80/optimize
+91|1698598|거짓말|BIGBANG|198094|355853|Always|https://cdnimg.melon.co.kr/cm/album/images/003/55/853/355853_500.jpg/melon/resize/48/quality/80/optimize
+92|1924380|난 너에게 (Feat. 박혜경)|마리오|243278|397053|난 너에게|https://cdnimg.melon.co.kr/cm/album/images/003/97/053/397053_500.jpg/melon/resize/48/quality/80/optimize
+93|1906440|남자 (男子)|남규리|223392|389061|고死(사): 피의 중간고사 OST|https://cdnimg.melon.co.kr/cm/album/images/003/89/061/389061_500.jpg/melon/resize/48/quality/80/optimize
+94|1923444|죽도록|The One (더원)|160816|396318|The Last|https://cdnimg.melon.co.kr/cm/album/images/003/96/318/396318_500.jpg/melon/resize/48/quality/80/optimize
+95|526391|청혼|노을|105623|34746|These Are The Times|https://cdnimg.melon.co.kr/cm/album/images/000/34/746/34746_500.jpg/melon/resize/48/quality/80/optimize
+96|1928812|너 없이 난|A.Bridge 김효연|247915|397970|너 없이 난|https://cdnimg.melon.co.kr/cm/album/images/003/97/970/397970_500.jpg/melon/resize/48/quality/80/optimize
+97|1912291|사랑해 (Fall In Love)|김건모|889|392154|Soul Groove|https://cdnimg.melon.co.kr/cm/album/images/003/92/154/392154_500.jpg/melon/resize/48/quality/80/optimize
+98|1920518|운명을 거슬러|SG 워너비~김종욱|108363~4388|395958|에덴의 동쪽 OST|https://cdnimg.melon.co.kr/cm/album/images/003/95/958/395958_500.jpg/melon/resize/48/quality/80/optimize
+99|1884797|Honey|옥주현|1714|383155|Remind|https://cdnimg.melon.co.kr/cm/album/images/003/83/155/383155_500.jpg/melon/resize/48/quality/80/optimize
+100|1925998|가질 수 없는 너|PDP (조PD&박미경)|260688|397387|JoPD + Park Mi Kyung Project 12 Inch Single|https://cdnimg.melon.co.kr/cm/album/images/003/97/387/397387_500.jpg/melon/resize/48/quality/80/optimize

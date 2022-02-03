@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3957639|걸어 본다|B1A4|535440|2166544|IN THE WIND|https://cdnimg.melon.co.kr/cm/album/images/021/66/544/2166544_500.jpg/melon/resize/48/quality/80/optimize
+52|3967252|LONELY|스피카|615471|2167663|LONELY|https://cdnimg.melon.co.kr/cm/album/images/021/67/663/2167663_500.jpg/melon/resize/48/quality/80/optimize
+53|3947815|여인|노을|105623|2165166|여인|https://cdnimg.melon.co.kr/cm/album/images/021/65/166/2165166_500.jpg/melon/resize/48/quality/80/optimize
+54|3935148|UP (Feat. 박봄 Of 2NE1)|에픽하이 (EPIK HIGH)|108356|2152351|99|https://cdnimg.melon.co.kr/cm/album/images/021/52/351/2152351_500.jpg/melon/resize/48/quality/80/optimize
+55|3893934|SEXY LOVE|티아라|412000|2148527|MIRAGE|https://cdnimg.melon.co.kr/cm/album/images/021/48/527/2148527_500.jpg/melon/resize/48/quality/80/optimize
+56|3853978|강남스타일|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+57|3931559|걷다|윤건|14801|2154776|Far East 2 Bricklane|https://cdnimg.melon.co.kr/cm/album/images/021/54/776/2154776_500.jpg/melon/resize/48/quality/80/optimize
+58|3942841|확률|먼데이 키즈 (Monday Kiz)|175155|2162987|Healing Activity|https://cdnimg.melon.co.kr/cm/album/images/021/62/987/2162987_500.jpg/melon/resize/48/quality/80/optimize
+59|3940684|River|어반자카파|420527|2161187|[02]|https://cdnimg.melon.co.kr/cm/album/images/021/61/187/2161187_500.jpg/melon/resize/48/quality/80/optimize
+60|3894730|19금 그XX|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+61|3935149|Don't Hate Me|에픽하이 (EPIK HIGH)|108356|2152351|99|https://cdnimg.melon.co.kr/cm/album/images/021/52/351/2152351_500.jpg/melon/resize/48/quality/80/optimize
+62|3952367|서울의 달|로이킴|699632|2165809|슈퍼스타K4 Top 12 Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/65/809/2165809_500.jpg/melon/resize/48/quality/80/optimize
+63|3897152|니가 싫어|어반자카파|420527|2149100|니가 싫어|https://cdnimg.melon.co.kr/cm/album/images/021/49/100/2149100_500.jpg/melon/resize/48/quality/80/optimize
+64|3853980|어땠을까 (Feat. 박정현)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+65|3956314|바람아 불어라|레드애플|31741|2166373|바람아 불어라|https://cdnimg.melon.co.kr/cm/album/images/021/66/373/2166373_500.jpg/melon/resize/48/quality/80/optimize
+66|3970899|다리꼬지마|AKMU (악뮤)|712452|2168087|SBS K팝 스타 시즌2 '다리꼬지마'|https://cdnimg.melon.co.kr/cm/album/images/021/68/087/2168087_500.jpg/melon/resize/48/quality/80/optimize
+67|3940593|꿈이었을까|박명수~정엽|4263~265067|2161111|꿈이었을까|https://cdnimg.melon.co.kr/cm/album/images/021/61/111/2161111_500.jpg/melon/resize/48/quality/80/optimize
+68|-1|Call Me Maybe|Carly Rae Jepsen|641311|2088869|Call Me Maybe|https://cdnimg.melon.co.kr/cm/album/images/020/88/869/2088869_500.jpg/melon/resize/48/quality/80/optimize
+69|3929471|저녁 하늘|에일리(Ailee)|629831|2153251|Invitation|https://cdnimg.melon.co.kr/cm/album/images/021/53/251/2153251_500.jpg/melon/resize/48/quality/80/optimize
+70|3968839|나에게 초대|이승기|58793|2167822|숲|https://cdnimg.melon.co.kr/cm/album/images/021/67/822/2167822_500.jpg/melon/resize/48/quality/80/optimize
+71|3970044|나는 위험해|박화요비|2017|2167960|I Am|https://cdnimg.melon.co.kr/cm/album/images/021/67/960/2167960_500.jpg/melon/resize/48/quality/80/optimize
+72|3905489|아프다|허각|28801|2150236|아프다|https://cdnimg.melon.co.kr/cm/album/images/021/50/236/2150236_500.jpg/melon/resize/48/quality/80/optimize
+73|3904614|POISON|시크릿|435121|2150120|POISON|https://cdnimg.melon.co.kr/cm/album/images/021/50/120/2150120_500.jpg/melon/resize/48/quality/80/optimize
+74|3913733|I Dream|15& (박지민, 백예린)|698291|2151246|I Dream|https://cdnimg.melon.co.kr/cm/album/images/021/51/246/2151246_500.jpg/melon/resize/48/quality/80/optimize
+75|3938434|하지마 (Stop it)|B.A.P|623451|2159446|하지마|https://cdnimg.melon.co.kr/cm/album/images/021/59/446/2159446_500.jpg/melon/resize/48/quality/80/optimize
+76|3965498|행복해라|영지~이규훈|46744~672741|2167470|The Lyrics - No.2|https://cdnimg.melon.co.kr/cm/album/images/021/67/470/2167470_500.jpg/melon/resize/48/quality/80/optimize
+77|3946756|청개구리|로이킴|699632|2165010|슈퍼스타K4 Top12 Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/65/010/2165010_500.jpg/melon/resize/48/quality/80/optimize
+78|3948834|정말|송중기|511821|2165333|세상 어디에도 없는 착한남자 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/65/333/2165333_500.jpg/melon/resize/48/quality/80/optimize
+79|2994360|Hello!|포맨 (4MEN)|100176|1055552|Sorry|https://cdnimg.melon.co.kr/cm/album/images/010/55/552/1055552_500.jpg/melon/resize/48/quality/80/optimize
+80|3948918|축하해 (Feat. 다이나믹듀오, 박재범)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+81|3895885|우리 사랑 이대로|정은지~서인국|644871~436700|2148910|응답하라 1997 Love Story Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/48/910/2148910_500.jpg/melon/resize/48/quality/80/optimize
+82|3964405|가만히|고유진 (플라워)|4172|2167330|내 딸 서영이 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/67/330/2167330_500.jpg/melon/resize/48/quality/80/optimize
+83|3962253|멀어질까봐|C-CLOWN|685624|2167016|Young Love|https://cdnimg.melon.co.kr/cm/album/images/021/67/016/2167016_500.jpg/melon/resize/48/quality/80/optimize
+84|3952370|Muzik|딕펑스 (DICKPUNKS)|454254|2165809|슈퍼스타K4 Top 12 Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/65/809/2165809_500.jpg/melon/resize/48/quality/80/optimize
+85|3917048|아마추어|이승철|1010|2151677|아마추어|https://cdnimg.melon.co.kr/cm/album/images/021/51/677/2151677_500.jpg/melon/resize/48/quality/80/optimize
+86|3837683|Loving U (러빙유)|씨스타|473181|2131509|Summer Special 'Loving U'|https://cdnimg.melon.co.kr/cm/album/images/021/31/509/2131509_500.jpg/melon/resize/48/quality/80/optimize
+87|3932733|철부지|존박|28772|2155486|철부지|https://cdnimg.melon.co.kr/cm/album/images/021/55/486/2155486_500.jpg/melon/resize/48/quality/80/optimize
+88|3947816|떨어진다 눈물이|왁스|2267|2165167|보고싶다 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/65/167/2165167_500.jpg/melon/resize/48/quality/80/optimize
+89|3946754|가족|홍대광|699623|2165010|슈퍼스타K4 Top12 Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/65/010/2165010_500.jpg/melon/resize/48/quality/80/optimize
+90|3853977|뜨거운 안녕 (Feat. 성시경)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+91|3918121|아시나요 (원곡가수 조성모)|The One (더원)|160816|2151767|'나는 가수다 2' 9월의 가수전|https://cdnimg.melon.co.kr/cm/album/images/021/51/767/2151767_500.jpg/melon/resize/48/quality/80/optimize
+92|3952361|사랑 첫 느낌|에일리(Ailee)|629831|2165805|풀하우스 테이크2 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/65/805/2165805_500.jpg/melon/resize/48/quality/80/optimize
+93|3963376|more & more|HUS (허밍어반스테레오)|61280|2167167|more & more|https://cdnimg.melon.co.kr/cm/album/images/021/67/167/2167167_500.jpg/melon/resize/48/quality/80/optimize
+94|3961567|내사랑 내곁에 (With 일훈 Of 비투비)|허가윤 (4minute)|454903|2166917|내사랑 내곁에|https://cdnimg.melon.co.kr/cm/album/images/021/66/917/2166917_500.jpg/melon/resize/48/quality/80/optimize
+95|3961738|미워할 걸 그랬죠|이재훈 (쿨)|1574|2166935|미워할 걸 그랬죠|https://cdnimg.melon.co.kr/cm/album/images/021/66/935/2166935_500.jpg/melon/resize/48/quality/80/optimize
+96|3957592|가슴에 새겨져|이현|429480|2166537|드라마의 제왕 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/66/537/2166537_500.jpg/melon/resize/48/quality/80/optimize
+97|3969895|이쁘네요|가비엔제이|174997|2167945|이쁘네요|https://cdnimg.melon.co.kr/cm/album/images/021/67/945/2167945_500.jpg/melon/resize/48/quality/80/optimize
+98|3956112|그만해요|지나|482640|2166342|신사동호랭이 프로젝트앨범 슈퍼마켓|https://cdnimg.melon.co.kr/cm/album/images/021/66/342/2166342_500.jpg/melon/resize/48/quality/80/optimize
+99|3946753|같이 걸을까|딕펑스 (DICKPUNKS)|454254|2165010|슈퍼스타K4 Top12 Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/65/010/2165010_500.jpg/melon/resize/48/quality/80/optimize
+100|3936235|이미 넌 고마운 사람|홍대광|699623|2157826|슈퍼스타 K4 Top 12 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/57/826/2157826_500.jpg/melon/resize/48/quality/80/optimize

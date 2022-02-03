@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2355016|Gossip Girl|레인보우|440320|718569|Gossip Girl|https://cdnimg.melon.co.kr/cm/album/images/007/18/569/718569_500.jpg/melon/resize/48/quality/80/optimize
+52|2508660|어젠 (Duet. 환희)|송지은|446200|743418|어젠|https://cdnimg.melon.co.kr/cm/album/images/007/43/418/743418_500.jpg/melon/resize/48/quality/80/optimize
+53|2530641|한번쯤은|티맥스|227372|759665|공부의 신 OST|https://cdnimg.melon.co.kr/cm/album/images/007/59/665/759665_500.jpg/melon/resize/48/quality/80/optimize
+54|2335460|희재 Part.2|디셈버|439021|704452|Dear My Lover|https://cdnimg.melon.co.kr/cm/album/images/007/04/452/704452_500.jpg/melon/resize/48/quality/80/optimize
+55|2335491|실화|린|8530|704455|6½ New Celebration|https://cdnimg.melon.co.kr/cm/album/images/007/04/455/704455_500.jpg/melon/resize/48/quality/80/optimize
+56|-1|눈물아 안녕|아이비|171127|697852|I Be..|https://cdnimg.melon.co.kr/cm/album/images/006/97/852/697852_500.jpg/melon/resize/48/quality/80/optimize
+57|2542751|잘해 주지 마요|김종국|1692|770351|Eleventh Story|https://cdnimg.melon.co.kr/cm/album/images/007/70/351/770351_500.jpg/melon/resize/48/quality/80/optimize
+58|2328191|Love Like This (네게로)|SS501|170541|697854|SS501 / Rebirth|https://cdnimg.melon.co.kr/cm/album/images/006/97/854/697854_500.jpg/melon/resize/48/quality/80/optimize
+59|2355858|웨딩드레스 (Wedding Dress)|태양|247621|718664|웨딩드레스|https://cdnimg.melon.co.kr/cm/album/images/007/18/664/718664_500.jpg/melon/resize/48/quality/80/optimize
+60|2535548|Jiggy (지기)|포커즈 (F.CUZ)|450220|763951|Jiggy|https://cdnimg.melon.co.kr/cm/album/images/007/63/951/763951_500.jpg/melon/resize/48/quality/80/optimize
+61|2540358|남잔 다 그래|럼블피쉬|108951|768252|남잔 다 그래|https://cdnimg.melon.co.kr/cm/album/images/007/68/252/768252_500.jpg/melon/resize/48/quality/80/optimize
+62|2511767|로맨틱 겨울 (Feat. 김진호 Of SG워너비)|김진표|1136|745152|Romantic 겨울|https://cdnimg.melon.co.kr/cm/album/images/007/45/152/745152_500.jpg/melon/resize/48/quality/80/optimize
+63|2530638|축가 (祝歌)|김연우|6017|759664|정 (情)|https://cdnimg.melon.co.kr/cm/album/images/007/59/664/759664_500.jpg/melon/resize/48/quality/80/optimize
+64|2276194|사랑비|김태우|182430|650256|T-Virus|https://cdnimg.melon.co.kr/cm/album/images/006/50/256/650256_500.jpg/melon/resize/48/quality/80/optimize
+65|2388949|160 (Feat. 이수근)|은지원|1682|741259|Platonic|https://cdnimg.melon.co.kr/cm/album/images/007/41/259/741259_500.jpg/melon/resize/48/quality/80/optimize
+66|-1|자기밖에|슈|1604|763952|Devote One's Love|https://cdnimg.melon.co.kr/cm/album/images/007/63/952/763952_500.jpg/melon/resize/48/quality/80/optimize
+67|2320881|Bad Girl|비스트|436981|690954|Beast Is The B2ST|https://cdnimg.melon.co.kr/cm/album/images/006/90/954/690954_500.jpg/melon/resize/48/quality/80/optimize
+68|2533327|Mazeltov|제국의아이들 (ZE:A)|449941|761859|Nativity|https://cdnimg.melon.co.kr/cm/album/images/007/61/859/761859_500.jpg/melon/resize/48/quality/80/optimize
+69|2530642|Dreams Come True|4minute|417985|759665|공부의 신 OST|https://cdnimg.melon.co.kr/cm/album/images/007/59/665/759665_500.jpg/melon/resize/48/quality/80/optimize
+70|2517760|하모니|제아~이영현|230519~10210|749952|하모니 OST|https://cdnimg.melon.co.kr/cm/album/images/007/49/952/749952_500.jpg/melon/resize/48/quality/80/optimize
+71|2532575|사랑을 잊다|나윤권|58979|761255|아빠가 여자를 좋아해|https://cdnimg.melon.co.kr/cm/album/images/007/61/255/761255_500.jpg/melon/resize/48/quality/80/optimize
+72|2535056|사랑해|김우주|168856|763458|사랑해|https://cdnimg.melon.co.kr/cm/album/images/007/63/458/763458_500.jpg/melon/resize/48/quality/80/optimize
+73|2516879|사랑 둘이서..|Ab 에비뉴|443444|749255|Love For 2|https://cdnimg.melon.co.kr/cm/album/images/007/49/255/749255_500.jpg/melon/resize/48/quality/80/optimize
+74|2314377|죽일 놈 (Guilty)|다이나믹 듀오|108358|684955|Band Of Dynamic Brothers|https://cdnimg.melon.co.kr/cm/album/images/006/84/955/684955_500.jpg/melon/resize/48/quality/80/optimize
+75|2531548|듣죠... 그대를|규현 (KYUHYUN)|205880|760451|파스타 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/007/60/451/760451_500.jpg/melon/resize/48/quality/80/optimize
+76|2363261|Telephone (Feat. Beyoncé)|Lady Gaga|253688|720852|The Fame Monster|https://cdnimg.melon.co.kr/cm/album/images/007/20/852/720852_500.jpg/melon/resize/48/quality/80/optimize
+77|2540268|외톨이야|CNBLUE (씨엔블루)|450801|768154|Bluetory|https://cdnimg.melon.co.kr/cm/album/images/007/68/154/768154_500.jpg/melon/resize/48/quality/80/optimize
+78|2289852|TTL (Time To Love)|티아라~초신성|412000~229544|663552|TTL (Time To Love)|https://cdnimg.melon.co.kr/cm/album/images/006/63/552/663552_500.jpg/melon/resize/48/quality/80/optimize
+79|2538263|별을 따다줘|카라|222128|766352|별을 따다줘 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/007/66/352/766352_500.jpg/melon/resize/48/quality/80/optimize
+80|2289924|사랑한 후에|박효신|1191|663561|Gift (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/63/561/663561_500.jpg/melon/resize/48/quality/80/optimize
+81|2291014|Honesty|Beyonce|3535|664561|I Am... Sasha Fierce (Platinum Edition)|https://cdnimg.melon.co.kr/cm/album/images/006/64/561/664561_500.jpg/melon/resize/48/quality/80/optimize
+82|2533309|I Cry (Feat. 수호) (Ballad Ver.)|리지|449940|761856|I Cry|https://cdnimg.melon.co.kr/cm/album/images/007/61/856/761856_500.jpg/melon/resize/48/quality/80/optimize
+83|2315961|Chocolate Love (Retro Pop Ver.)|소녀시대 (GIRLS' GENERATION)|228069|686452|Chocolate Love|https://cdnimg.melon.co.kr/cm/album/images/006/86/452/686452_500.jpg/melon/resize/48/quality/80/optimize
+84|2349948|너에게 미쳤었다|2PM|259822|711451|1:59PM|https://cdnimg.melon.co.kr/cm/album/images/007/11/451/711451_500.jpg/melon/resize/48/quality/80/optimize
+85|-1|Touch Me|아이비|171127|697852|I Be..|https://cdnimg.melon.co.kr/cm/album/images/006/97/852/697852_500.jpg/melon/resize/48/quality/80/optimize
+86|2345418|할렐루야|BIGBANG|198094|712571|아이리스 OST (Part 3)|https://cdnimg.melon.co.kr/cm/album/images/007/12/571/712571_500.jpg/melon/resize/48/quality/80/optimize
+87|2539141|하루가 (New Ver.)|KCM|45995|767057|하루가|https://cdnimg.melon.co.kr/cm/album/images/007/67/057/767057_500.jpg/melon/resize/48/quality/80/optimize
+88|2312252|우리 지금 만나 (Feat. 장기하와 얼굴들)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+89|2347153|최면 (Feat. 아웃사이더)|케이윌|175139|714152|그립고 그립고 그립다|https://cdnimg.melon.co.kr/cm/album/images/007/14/152/714152_500.jpg/melon/resize/48/quality/80/optimize
+90|2320849|Oh Yeah|엠블랙|436980|690952|Just Blaq|https://cdnimg.melon.co.kr/cm/album/images/006/90/952/690952_500.jpg/melon/resize/48/quality/80/optimize
+91|2269959|Muzik|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+92|2334208|이별은 사랑 뒤를 따라와|거미|30358|703254|텔레시네마 프로젝트 Vol.3 - 이별은 사랑 뒤를 따라와|https://cdnimg.melon.co.kr/cm/album/images/007/03/254/703254_500.jpg/melon/resize/48/quality/80/optimize
+93|2530643|또르르|지연|449580|759665|공부의 신 OST|https://cdnimg.melon.co.kr/cm/album/images/007/59/665/759665_500.jpg/melon/resize/48/quality/80/optimize
+94|1935298|Baby Baby|포맨 (4MEN)|100176|398596|First Kiss|https://cdnimg.melon.co.kr/cm/album/images/003/98/596/398596_500.jpg/melon/resize/48/quality/80/optimize
+95|2536190|사랑 하나 (네게 배운 말...) (Feat. 김동완)|앤디|1738|764454|사랑 하나 (네게 배운 말...)|https://cdnimg.melon.co.kr/cm/album/images/007/64/454/764454_500.jpg/melon/resize/48/quality/80/optimize
+97|2357799|너에게 약속하는 7가지|테이~간미연|51893~1636|718839|인사 - 연·애·별|https://cdnimg.melon.co.kr/cm/album/images/007/18/839/718839_500.jpg/melon/resize/48/quality/80/optimize
+98|2356759|코끝이 짠하잖아요|엠투엠 (M To M)|108581|718752|Rebuild M To M|https://cdnimg.melon.co.kr/cm/album/images/007/18/752/718752_500.jpg/melon/resize/48/quality/80/optimize
+99|2524824|Crazy (영화 '주유소 습격사건 2' 삽입곡)|비스트|436981|754556|Crazy|https://cdnimg.melon.co.kr/cm/album/images/007/54/556/754556_500.jpg/melon/resize/48/quality/80/optimize
+100|2258761|Heartbreaker|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize

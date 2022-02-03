@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|31658897|술이 달다 (Feat. Crush)|에픽하이 (EPIK HIGH)|108356|10259609|sleepless in __________|https://cdnimg.melon.co.kr/cm/album/images/102/59/609/10259609_500.jpg/melon/resize/48/quality/80/optimize
+2|31532656|옥탑방 (Rooftop)|엔플라잉 (N.Flying)|861430|10238711|FLY HIGH PROJECT #2 '옥탑방'|https://cdnimg.melon.co.kr/cm/album/images/102/38/711/10238711_500.jpg/melon/resize/48/quality/80/optimize
+3|31524320|그때가 좋았어|케이시 (Kassy)|858125|10237420|그때가 좋았어|https://cdnimg.melon.co.kr/cm/album/images/102/37/420/10237420_500.jpg/melon/resize/48/quality/80/optimize
+4|31606729|달라달라|ITZY (있지)|2622030|10250473|IT'z Different|https://cdnimg.melon.co.kr/cm/album/images/102/50/473/10250473_500.jpg/melon/resize/48/quality/80/optimize
+5|31652857|그러나|10CM|468244|10258451|4.3|https://cdnimg.melon.co.kr/cm/album/images/102/58/451/10258451_500.jpg/melon/resize/48/quality/80/optimize
+6|31608765|멍청이(twit)|화사 (Hwa Sa)|756531|10250874|멍청이(twit)|https://cdnimg.melon.co.kr/cm/album/images/102/50/874/10250874_500.jpg/melon/resize/48/quality/80/optimize
+7|31576009|이 노래가 클럽에서 나온다면|우디 (Woody)|673033|10245121|이 노래가 클럽에서 나온다면|https://cdnimg.melon.co.kr/cm/album/images/102/45/121/10245121_500.jpg/melon/resize/48/quality/80/optimize
+8|31663597|봄 (feat. 산다라박)|박봄 (Park Bom)|439341|10260433|Spring|https://cdnimg.melon.co.kr/cm/album/images/102/60/433/10260433_500.jpg/melon/resize/48/quality/80/optimize
+9|31532643|넘쳐흘러|엠씨더맥스 (M.C the MAX)|161636|10238710|Circular|https://cdnimg.melon.co.kr/cm/album/images/102/38/710/10238710_500.jpg/melon/resize/48/quality/80/optimize
+10|31532438|벌써 12시|청하|968265|10238683|벌써 12시|https://cdnimg.melon.co.kr/cm/album/images/102/38/683/10238683_500.jpg/melon/resize/48/quality/80/optimize
+11|31571110|신청곡 (Feat. SUGA of BTS)|이소라|983|10244499|신청곡 (Feat. SUGA of BTS)|https://cdnimg.melon.co.kr/cm/album/images/102/44/499/10244499_500.jpg/melon/resize/48/quality/80/optimize
+12|31455159|너도 그냥 날 놓아주면 돼|윤건|14801|10227145|너도 그냥 날 놓아주면 돼|https://cdnimg.melon.co.kr/cm/album/images/102/27/145/10227145_500.jpg/melon/resize/48/quality/80/optimize
+13|31406357|신용재|하은 (포맨)|2297933|10219644|신용재|https://cdnimg.melon.co.kr/cm/album/images/102/19/644/10219644_500.jpg/melon/resize/48/quality/80/optimize
+14|31565593|초록빛|폴킴|752425|10243480|초록빛|https://cdnimg.melon.co.kr/cm/album/images/102/43/480/10243480_500.jpg/melon/resize/48/quality/80/optimize
+15|31554317|띵 (Prod. By 기리보이)|Jvcki Wai~양홍원~Osshun Gum~한요한|982316~907416~1626547~716984|10241866|Dingo X Indigo Music|https://cdnimg.melon.co.kr/cm/album/images/102/41/866/10241866_500.jpg/melon/resize/48/quality/80/optimize
+16|30962526|모든 날, 모든 순간 (Every day, Every Moment)|폴킴|752425|10149492|'키스 먼저 할까요?' OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/48/quality/80/optimize
+17|31388145|너를 만나|폴킴|752425|10217134|너를 만나|https://cdnimg.melon.co.kr/cm/album/images/102/17/134/10217134_500.jpg/melon/resize/48/quality/80/optimize
+18|31477685|180도|벤|655051|10230497|180˚|https://cdnimg.melon.co.kr/cm/album/images/102/30/497/10230497_500.jpg/melon/resize/48/quality/80/optimize
+19|31668491|고고베베 (gogobebe)|마마무 (Mamamoo)|750053|10261306|White Wind|https://cdnimg.melon.co.kr/cm/album/images/102/61/306/10261306_500.jpg/melon/resize/48/quality/80/optimize
+20|31644106|누아르 (Noir)|선미|22938|10256841|누아르 (Noir)|https://cdnimg.melon.co.kr/cm/album/images/102/56/841/10256841_500.jpg/melon/resize/48/quality/80/optimize
+21|31417871|SOLO|제니 (JENNIE)|995173|10221424|SOLO|https://cdnimg.melon.co.kr/cm/album/images/102/21/424/10221424_500.jpg/melon/resize/48/quality/80/optimize
+22|31658898|새벽에|에픽하이 (EPIK HIGH)|108356|10259609|sleepless in __________|https://cdnimg.melon.co.kr/cm/album/images/102/59/609/10259609_500.jpg/melon/resize/48/quality/80/optimize
+23|31373277|내 생에 아름다운|케이윌|175139|10214874|뷰티 인사이드 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/102/14/874/10214874_500.jpg/melon/resize/48/quality/80/optimize
+24|31652482|여자친구|하은요셉|2633192|10258349|여자친구|https://cdnimg.melon.co.kr/cm/album/images/102/58/349/10258349_500.jpg/melon/resize/48/quality/80/optimize
+25|31532642|사계 (하루살이)|엠씨더맥스 (M.C the MAX)|161636|10238710|Circular|https://cdnimg.melon.co.kr/cm/album/images/102/38/710/10238710_500.jpg/melon/resize/48/quality/80/optimize
+26|31629490|미운 날|닐로(Nilo)|896096|10254316|29|https://cdnimg.melon.co.kr/cm/album/images/102/54/316/10254316_500.jpg/melon/resize/48/quality/80/optimize
+27|31659570|호불호 (Feat. 기리보이) (Prod. By GRAY)|우원재|1866689|10259672|호불호|https://cdnimg.melon.co.kr/cm/album/images/102/59/672/10259672_500.jpg/melon/resize/48/quality/80/optimize
+28|31403163|YES or YES|TWICE (트와이스)|905701|10219298|YES or YES|https://cdnimg.melon.co.kr/cm/album/images/102/19/298/10219298_500.jpg/melon/resize/48/quality/80/optimize
+29|31151836|Way Back Home|숀 (SHAUN)|510242|10179508|Take|https://cdnimg.melon.co.kr/cm/album/images/101/79/508/10179508_500.jpg/melon/resize/48/quality/80/optimize
+30|31448480|아낙네|MINO (송민호)|742773|10226163|XX|https://cdnimg.melon.co.kr/cm/album/images/102/26/163/10226163_500.jpg/melon/resize/48/quality/80/optimize
+31|31304766|이별하러 가는 길|임한별|471741|10203965|이별하러 가는 길|https://cdnimg.melon.co.kr/cm/album/images/102/03/965/10203965_500.jpg/melon/resize/48/quality/80/optimize
+32|31635202|Senorita|(여자)아이들|2137482|10255272|I made|https://cdnimg.melon.co.kr/cm/album/images/102/55/272/10255272_500.jpg/melon/resize/48/quality/80/optimize
+33|31356458|고백|양다일|695994|10212203|고백|https://cdnimg.melon.co.kr/cm/album/images/102/12/203/10212203_500.jpg/melon/resize/48/quality/80/optimize
+34|31506637|MILLIONS|WINNER|775197|10234872|MILLIONS|https://cdnimg.melon.co.kr/cm/album/images/102/34/872/10234872_500.jpg/melon/resize/48/quality/80/optimize
+35|31346009|삐삐|아이유|261143|10210535|삐삐|https://cdnimg.melon.co.kr/cm/album/images/102/10/535/10210535_500.jpg/melon/resize/48/quality/80/optimize
+36|31453551|흔한 이별|허각|28801|10226943|흔한 이별|https://cdnimg.melon.co.kr/cm/album/images/102/26/943/10226943_500.jpg/melon/resize/48/quality/80/optimize
+37|31402611|thank u, next|Ariana Grande|597451|10219179|thank u, next|https://cdnimg.melon.co.kr/cm/album/images/102/19/179/10219179_500.jpg/melon/resize/48/quality/80/optimize
+38|31567235|7 rings|Ariana Grande|597451|10243766|7 rings|https://cdnimg.melon.co.kr/cm/album/images/102/43/766/10243766_500.jpg/melon/resize/48/quality/80/optimize
+39|31646298|시작됐나, 봄|장덕철|829211|10257142|시작됐나, 봄|https://cdnimg.melon.co.kr/cm/album/images/102/57/142/10257142_500.jpg/melon/resize/48/quality/80/optimize
+40|31314144|가을 타나 봐|바이브|160080|10205439|가을 타나 봐|https://cdnimg.melon.co.kr/cm/album/images/102/05/439/10205439_500.jpg/melon/resize/48/quality/80/optimize
+41|31062863|열애중|벤|655051|10164839|RECIPE|https://cdnimg.melon.co.kr/cm/album/images/101/64/839/10164839_500.jpg/melon/resize/48/quality/80/optimize
+42|31266290|IDOL|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+43|30699142|지나오다|닐로(Nilo)|896096|10106853|About You|https://cdnimg.melon.co.kr/cm/album/images/101/06/853/10106853_500.jpg/melon/resize/48/quality/80/optimize
+44|31658896|In Seoul (Feat. 선우정아)|에픽하이 (EPIK HIGH)|108356|10259609|sleepless in __________|https://cdnimg.melon.co.kr/cm/album/images/102/59/609/10259609_500.jpg/melon/resize/48/quality/80/optimize
+45|31597981|오랜만이야 (Feat. Zion.T)|로꼬|688432|10248907|HELLO|https://cdnimg.melon.co.kr/cm/album/images/102/48/907/10248907_500.jpg/melon/resize/48/quality/80/optimize
+46|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+47|31316695|하루도 그대를 사랑하지 않은 적이 없었다|임창정|1142|10205805|하루도 그대를 사랑하지 않은 적이 없었다|https://cdnimg.melon.co.kr/cm/album/images/102/05/805/10205805_500.jpg/melon/resize/48/quality/80/optimize
+48|8235260|비|폴킴|752425|2692501|비|https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/48/quality/80/optimize
+49|31403156|너는 어땠을까|노을|105623|10219296|별|https://cdnimg.melon.co.kr/cm/album/images/102/19/296/10219296_500.jpg/melon/resize/48/quality/80/optimize
+50|31492319|Love Shot|EXO|724619|10232781|LOVE SHOT - The 5th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/102/32/781/10232781_500.jpg/melon/resize/48/quality/80/optimize

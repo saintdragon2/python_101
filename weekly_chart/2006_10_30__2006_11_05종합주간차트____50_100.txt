@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1484166|잘할게|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+52|1368011|Happy Day|체리 필터|101491|324593|Peace N’ Rock N’ Roll|https://cdnimg.melon.co.kr/cm/album/images/003/24/593/324593_500.jpg/melon/resize/48/quality/80/optimize
+53|1472026|내가 누웠던 침대 (In My Bed)|비|17671|328756|Rain's World|https://cdnimg.melon.co.kr/cm/album/images/003/28/756/328756_500.jpg/melon/resize/48/quality/80/optimize
+54|1322134|연예인|싸이 (PSY)|3865|322649|싸집|https://cdnimg.melon.co.kr/cm/album/images/003/22/649/322649_500.jpg/melon/resize/48/quality/80/optimize
+55|1455983|해바라기|JK 김동욱|20379|327740|Zebra|https://cdnimg.melon.co.kr/cm/album/images/003/27/740/327740_500.jpg/melon/resize/48/quality/80/optimize
+56|1479605|Honey|김장훈|1081|329713|It's Me|https://cdnimg.melon.co.kr/cm/album/images/003/29/713/329713_500.jpg/melon/resize/48/quality/80/optimize
+57|1486731|열정 (My Everything)|천상지희 더 그레이스 (The Grace)|168015|330849|열정 (My Everything)|https://cdnimg.melon.co.kr/cm/album/images/003/30/849/330849_500.jpg/melon/resize/48/quality/80/optimize
+58|1484803|사랑시|가비엔제이|174997|330574|The Very Surprise|https://cdnimg.melon.co.kr/cm/album/images/003/30/574/330574_500.jpg/melon/resize/48/quality/80/optimize
+59|1484163|Se7olution (Intro)|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+60|1484932|연인|조장혁|5973|330585|연인 OST|https://cdnimg.melon.co.kr/cm/album/images/003/30/585/330585_500.jpg/melon/resize/48/quality/80/optimize
+61|1423391|말괄량이 (Feat. 카를로스(업타운))|배슬기|24982|327350|The First Album|https://cdnimg.melon.co.kr/cm/album/images/003/27/350/327350_500.jpg/melon/resize/48/quality/80/optimize
+62|1454589|Key Of Heart (CF - 올림푸스)|보아 (BoA)|2165|327588|Key Of Heart (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/27/588/327588_500.jpg/melon/resize/48/quality/80/optimize
+63|1335334|단 한사람|고유진 (플라워)|4172|323087|소문난 칠공주 OST|https://cdnimg.melon.co.kr/cm/album/images/003/23/087/323087_500.jpg/melon/resize/48/quality/80/optimize
+64|1483672|님|HUS (허밍어반스테레오)|61280|330398|Monochrome|https://cdnimg.melon.co.kr/cm/album/images/003/30/398/330398_500.jpg/melon/resize/48/quality/80/optimize
+65|1314788|미친 사랑의 노래|씨야|181679|322386|투명인간 최장수 OST|https://cdnimg.melon.co.kr/cm/album/images/003/22/386/322386_500.jpg/melon/resize/48/quality/80/optimize
+66|1479641|Just We|엠 패밀리|205233|329717|환상의 커플 OST|https://cdnimg.melon.co.kr/cm/album/images/003/29/717/329717_500.jpg/melon/resize/48/quality/80/optimize
+67|1484164|Girl Friend|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+68|1368869|그댈 위한 사랑|이정|39256|324839|천국보다 낯선 OST|https://cdnimg.melon.co.kr/cm/album/images/003/24/839/324839_500.jpg/melon/resize/48/quality/80/optimize
+69|1288622|Tomorrow|환희|1928|321962|오버 더 레인보우 OST|https://cdnimg.melon.co.kr/cm/album/images/003/21/962/321962_500.jpg/melon/resize/48/quality/80/optimize
+70|1484167|Last Of Diary|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+71|1114180|술이야|바이브|160080|314287|Re - Feel|https://cdnimg.melon.co.kr/cm/album/images/003/14/287/314287_500.jpg/melon/resize/48/quality/80/optimize
+72|1484169|Can You Feel Me (Feat. G-Dragon)|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+73|1368237|We Belong Together|BIGBANG|198094|324606|BigBang First Single|https://cdnimg.melon.co.kr/cm/album/images/003/24/606/324606_500.jpg/melon/resize/48/quality/80/optimize
+74|1371363|Yeah|박정아|5365|325271|Yeah|https://cdnimg.melon.co.kr/cm/album/images/003/25/271/325271_500.jpg/melon/resize/48/quality/80/optimize
+75|1476574|그대 보세요|최서연|24288|329169|황진이 OST|https://cdnimg.melon.co.kr/cm/album/images/003/29/169/329169_500.jpg/melon/resize/48/quality/80/optimize
+76|1484170|닮은 사랑|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+77|1484168|Again|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+78|1488073|눈감아 줄게요(Duet Ver.)|에버투 & 투앤비|205878|330938|눈감아 줄게요|https://cdnimg.melon.co.kr/cm/album/images/003/30/938/330938_500.jpg/melon/resize/48/quality/80/optimize
+79|1414428|다섯걸음|파란|173323|326058|Beyond The Blue Sky|https://cdnimg.melon.co.kr/cm/album/images/003/26/058/326058_500.jpg/melon/resize/48/quality/80/optimize
+80|1488184|행복의 조건|드렁큰 타이거|100027|331040|희망승일:행복의 조건|https://cdnimg.melon.co.kr/cm/album/images/003/31/040/331040_500.jpg/melon/resize/48/quality/80/optimize
+81|1472027|하루도 (Not A Single Day)|비|17671|328756|Rain's World|https://cdnimg.melon.co.kr/cm/album/images/003/28/756/328756_500.jpg/melon/resize/48/quality/80/optimize
+82|1477086|사랑 따위 Part 1 (Clean Ver.)|김진표|1136|329211|사랑 따위|https://cdnimg.melon.co.kr/cm/album/images/003/29/211/329211_500.jpg/melon/resize/48/quality/80/optimize
+83|1177471|My Love (And)|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+84|1484171|I'm Sorry (Interlude)|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+85|1177475|남자를 몰라|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+86|1484174|허락해줘 (Feat. 태양)|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+87|1415456|가로수 그늘 아래 서면|임재범|4838|326254|The Story Of Musicians - 옛사랑|https://cdnimg.melon.co.kr/cm/album/images/003/26/254/326254_500.jpg/melon/resize/48/quality/80/optimize
+88|1467978|Call On Me (Feat.Nelly)|Janet Jackson|3418|328421|20 Y.O.|https://cdnimg.melon.co.kr/cm/album/images/003/28/421/328421_500.jpg/melon/resize/48/quality/80/optimize
+89|1484172|Oh~ Ma Girl|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+90|1322986|좋아 좋아|서영은|3033|322713|Remake Romantic 2|https://cdnimg.melon.co.kr/cm/album/images/003/22/713/322713_500.jpg/melon/resize/48/quality/80/optimize
+91|1417549|사랑은 이별을 데리고 오다|SHY (손호영)|1580|326071|손호영 1집 Yes|https://cdnimg.melon.co.kr/cm/album/images/003/26/071/326071_500.jpg/melon/resize/48/quality/80/optimize
+92|1470515|가시리|진주|2924|328602|The Legend Of Jinju|https://cdnimg.melon.co.kr/cm/album/images/003/28/602/328602_500.jpg/melon/resize/48/quality/80/optimize
+93|1484175|독백|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+94|1484173|Get Up And Dance|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+95|1484176|Promise|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+96|1204915|Hold The Line|조pd (ZoPD)~브라운아이드걸스|2071~181694|318845|HOLD THE LINE|https://cdnimg.melon.co.kr/cm/album/images/003/18/845/318845_500.jpg/melon/resize/48/quality/80/optimize
+97|1481711|모두 잠든 후에|베일 (V.E.I.L)|194407|330152|모두 잠든 후에|https://cdnimg.melon.co.kr/cm/album/images/003/30/152/330152_500.jpg/melon/resize/48/quality/80/optimize
+98|1139741|내사람 : Partner For Life|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+99|1368238|This Love|BIGBANG|198094|324606|BigBang First Single|https://cdnimg.melon.co.kr/cm/album/images/003/24/606/324606_500.jpg/melon/resize/48/quality/80/optimize
+100|1467577|백일몽 (Feat. 이은미)|허니 패밀리|100073|328376|Honey Family 2006 Single #.01|https://cdnimg.melon.co.kr/cm/album/images/003/28/376/328376_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|4806686|공허해|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+2|4789747|예뻐졌다 (Feat. 지코 Of Block B)|박보람|499464|2271880|예뻐졌다|https://cdnimg.melon.co.kr/cm/album/images/022/71/880/2271880_500.jpg/melon/resize/48/quality/80/optimize
+3|4756304|Touch My Body|씨스타|473181|2268221|TOUCH N MOVE|https://cdnimg.melon.co.kr/cm/album/images/022/68/221/2268221_500.jpg/melon/resize/48/quality/80/optimize
+4|4681146|한여름밤의 꿀|San E~레이나 (Raina)|402526~672337|2260223|San E, 레이나 Project Single '한여름밤의 꿀'|https://cdnimg.melon.co.kr/cm/album/images/022/60/223/2260223_500.jpg/melon/resize/48/quality/80/optimize
+5|4764928|HER|블락비 (Block B)|532201|2250057|HER|https://cdnimg.melon.co.kr/cm/album/images/022/50/057/2250057_500.jpg/melon/resize/48/quality/80/optimize
+6|4734486|Darling|걸스데이|482762|2265934|GIRL'S DAY EVERYDAY #4|https://cdnimg.melon.co.kr/cm/album/images/022/65/934/2265934_500.jpg/melon/resize/48/quality/80/optimize
+7|4785453|19금 Body Language (Feat. 범키)|San E|402526|2271317|Body Language|https://cdnimg.melon.co.kr/cm/album/images/022/71/317/2271317_500.jpg/melon/resize/48/quality/80/optimize
+8|4806687|컬러링|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+9|4771771|빨개요|현아|449401|2269895|A Talk|https://cdnimg.melon.co.kr/cm/album/images/022/69/895/2269895_500.jpg/melon/resize/48/quality/80/optimize
+10|4671151|눈, 코, 입|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+11|4800614|BE I|B.I|742760|2273085|쇼미더머니3 Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/73/085/2273085_500.jpg/melon/resize/48/quality/80/optimize
+12|4779294|괜찮아 사랑이야|다비치|236815|2270673|괜찮아 사랑이야 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/70/673/2270673_500.jpg/melon/resize/48/quality/80/optimize
+13|4793898|잠 못드는 밤 (Feat. 펀치 (Punch))|Crush|674710|2272322|괜찮아 사랑이야 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/72/322/2272322_500.jpg/melon/resize/48/quality/80/optimize
+14|4693165|단발머리 (Short Hair)|AOA|686920|2261569|단발머리|https://cdnimg.melon.co.kr/cm/album/images/022/61/569/2261569_500.jpg/melon/resize/48/quality/80/optimize
+15|4591400|JACKPOT|블락비 (Block B)|532201|2250057|HER|https://cdnimg.melon.co.kr/cm/album/images/022/50/057/2250057_500.jpg/melon/resize/48/quality/80/optimize
+16|4723861|이제 그만 싸우자|허각~정은지|28801~644871|2264792|'A Cube' For Season # Sky Blue|https://cdnimg.melon.co.kr/cm/album/images/022/64/792/2264792_500.jpg/melon/resize/48/quality/80/optimize
+17|4749449|명수네 떡볶이 (Feat. 김예림, UL)|박명수|4263|2267478|명수네 떡볶이 (Feat. 김예림, UL)|https://cdnimg.melon.co.kr/cm/album/images/022/67/478/2267478_500.jpg/melon/resize/48/quality/80/optimize
+18|4711007|애타는 마음|울랄라세션~아이유|569214~261143|2263452|애타는 마음|https://cdnimg.melon.co.kr/cm/album/images/022/63/452/2263452_500.jpg/melon/resize/48/quality/80/optimize
+19|4646573|너의 의미 (Feat. 김창완)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+20|-1|Maps|Maroon 5|107721|2261073|Maps|https://cdnimg.melon.co.kr/cm/album/images/022/61/073/2261073_500.jpg/melon/resize/48/quality/80/optimize
+21|4660909|사람냄새|정인~개리|35989~1732|2258044|정인&개리 디지털 싱글 '사람냄새'|https://cdnimg.melon.co.kr/cm/album/images/022/58/044/2258044_500.jpg/melon/resize/48/quality/80/optimize
+22|4806688|끼부리지마|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+23|4706174|오늘부터 1일 (Day 1)|케이윌|175139|2262912|ONE FINE DAY|https://cdnimg.melon.co.kr/cm/album/images/022/62/912/2262912_500.jpg/melon/resize/48/quality/80/optimize
+24|4762446|최고의 행운|첸 (CHEN)|715176|2268823|괜찮아 사랑이야 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/68/823/2268823_500.jpg/melon/resize/48/quality/80/optimize
+25|4793764|OLL' Ready|올티 (Olltii)|669972|2272303|쇼미더머니3 올티vs육지담|https://cdnimg.melon.co.kr/cm/album/images/022/72/303/2272303_500.jpg/melon/resize/48/quality/80/optimize
+26|4734489|I'm In Love|에일리(Ailee)~2LSON|629831~524121|2265100|re;code Episode V|https://cdnimg.melon.co.kr/cm/album/images/022/65/100/2265100_500.jpg/melon/resize/48/quality/80/optimize
+27|4665220|나 왜이래 (Feat. 강민희 Of 미스에스)|San E|402526|2258516|너희들은 포위됐다 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/58/516/2258516_500.jpg/melon/resize/48/quality/80/optimize
+28|4814576|가|BOBBY|742763|2274605|쇼미더머니3 Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/74/605/2274605_500.jpg/melon/resize/48/quality/80/optimize
+29|4751624|전화번호 (Feat. 버벌진트, 40)|스윙스|236970|2267692|감정기복 II Part. 2 : 강박증 (Obsessive Compulsive Disorder)|https://cdnimg.melon.co.kr/cm/album/images/022/67/692/2267692_500.jpg/melon/resize/48/quality/80/optimize
+30|4711065|우산|윤하 (YOUNHA)|203912|2263475|우산|https://cdnimg.melon.co.kr/cm/album/images/022/63/475/2263475_500.jpg/melon/resize/48/quality/80/optimize
+31|4756411|Back|인피니트|476181|2268235|Be Back|https://cdnimg.melon.co.kr/cm/album/images/022/68/235/2268235_500.jpg/melon/resize/48/quality/80/optimize
+32|4806689|걔 세|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+33|4586092|너 사용법|에디킴|601979|2249449|너 사용법|https://cdnimg.melon.co.kr/cm/album/images/022/49/449/2249449_500.jpg/melon/resize/48/quality/80/optimize
+34|4803842|I'm In Love|시크릿|435121|2273442|SECRET SUMMER|https://cdnimg.melon.co.kr/cm/album/images/022/73/442/2273442_500.jpg/melon/resize/48/quality/80/optimize
+35|4714217|하늘색 약속|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+36|4639518|너를 너를 너를|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+37|4433490|썸 (Feat. 릴보이 Of 긱스)|소유 (SOYOU)~정기고|490981~304967|2230890|썸|https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/48/quality/80/optimize
+38|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+39|4774996|행복 (Happiness)|Red Velvet (레드벨벳)|780066|2270252|The 1st Single '행복 (Happiness)'|https://cdnimg.melon.co.kr/cm/album/images/022/70/252/2270252_500.jpg/melon/resize/48/quality/80/optimize
+40|4800615|19금 I AM|아이언|781841|2273085|쇼미더머니3 Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/73/085/2273085_500.jpg/melon/resize/48/quality/80/optimize
+41|4756305|나쁜손 (Feat. 버벌진트) (Naughty Hands)|씨스타|473181|2268221|TOUCH N MOVE|https://cdnimg.melon.co.kr/cm/album/images/022/68/221/2268221_500.jpg/melon/resize/48/quality/80/optimize
+42|4749304|AEAO|다이나믹 듀오~DJ Premier|108358~44597|2267461|A Giant Step|https://cdnimg.melon.co.kr/cm/album/images/022/67/461/2267461_500.jpg/melon/resize/48/quality/80/optimize
+43|4806691|고백하는 거야|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+44|4562881|Mr. Chu (On Stage)|Apink (에이핑크)|534360|2246854|Pink Blossom|https://cdnimg.melon.co.kr/cm/album/images/022/46/854/2246854_500.jpg/melon/resize/48/quality/80/optimize
+45|4806735|Different|WINNER|775197|2273749|2014 S/S|https://cdnimg.melon.co.kr/cm/album/images/022/73/749/2273749_500.jpg/melon/resize/48/quality/80/optimize
+46|4810612|잠시 안녕처럼|에일리(Ailee)|629831|2274202|운명처럼 널 사랑해 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/74/202/2274202_500.jpg/melon/resize/48/quality/80/optimize
+47|4579468|봄 사랑 벚꽃 말고|HIGH4 (하이포)~아이유|767374~261143|2248659|봄 사랑 벚꽃 말고|https://cdnimg.melon.co.kr/cm/album/images/022/48/659/2248659_500.jpg/melon/resize/48/quality/80/optimize
+48|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+49|4686392|Good Luck|비스트|436981|2260842|Good Luck|https://cdnimg.melon.co.kr/cm/album/images/022/60/842/2260842_500.jpg/melon/resize/48/quality/80/optimize
+50|4645220|나의 옛날이야기|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize

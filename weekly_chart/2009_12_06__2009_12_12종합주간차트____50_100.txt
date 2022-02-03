@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2317348|TTL Listen 2|티아라~초신성|412000~229544|687651|TTL Listen 2|https://cdnimg.melon.co.kr/cm/album/images/006/87/651/687651_500.jpg/melon/resize/48/quality/80/optimize
+52|2255158|생각이나|부활|100594|632858|25th Anniversary: Retrospect|https://cdnimg.melon.co.kr/cm/album/images/006/32/858/632858_500.jpg/melon/resize/48/quality/80/optimize
+53|2425149|술 한잔 해요|지아|227595|741758|술 한잔 해요|https://cdnimg.melon.co.kr/cm/album/images/007/41/758/741758_500.jpg/melon/resize/48/quality/80/optimize
+54|2376148|징글징글 (Feat. 마리오, 에이맨)|4minute|417985|730951|Jingle Jingle (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/30/951/730951_500.jpg/melon/resize/48/quality/80/optimize
+55|2322981|Where U At|태양|247621|692957|Where U At|https://cdnimg.melon.co.kr/cm/album/images/006/92/957/692957_500.jpg/melon/resize/48/quality/80/optimize
+56|2373796|형 (兄)|노라조|172193|729067|야심작|https://cdnimg.melon.co.kr/cm/album/images/007/29/067/729067_500.jpg/melon/resize/48/quality/80/optimize
+57|2380211|사랑아|몽실이 시스터즈|444564|734058|사랑아... (드리밍 프로젝트 Vol.1)|https://cdnimg.melon.co.kr/cm/album/images/007/34/058/734058_500.jpg/melon/resize/48/quality/80/optimize
+58|2384175|Finally (파이널리) (Feat. U-Kiss)|용감한 형제|426860|737253|Passionate|https://cdnimg.melon.co.kr/cm/album/images/007/37/253/737253_500.jpg/melon/resize/48/quality/80/optimize
+59|2269959|Muzik|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+60|2368677|잠도 못자요|신지|5907|724954|그대웃어요 OST (Original)|https://cdnimg.melon.co.kr/cm/album/images/007/24/954/724954_500.jpg/melon/resize/48/quality/80/optimize
+61|2315807|주르륵|휘성 (Realslow)|10577|686358|Vocolate|https://cdnimg.melon.co.kr/cm/album/images/006/86/358/686358_500.jpg/melon/resize/48/quality/80/optimize
+62|2352452|어떻게 잊겠습니까 (그런 사람 또 없습니다.. 두번째)|채동하|28720|718151|Essay|https://cdnimg.melon.co.kr/cm/album/images/007/18/151/718151_500.jpg/melon/resize/48/quality/80/optimize
+63|2425271|오늘 헤어졌어요|윤하 (YOUNHA)|203912|741853|3rd Album Part.B 'Growing Season'|https://cdnimg.melon.co.kr/cm/album/images/007/41/853/741853_500.jpg/melon/resize/48/quality/80/optimize
+64|2333922|Good Bye|엠투엠 (M To M)|108581|702955|Good Bye|https://cdnimg.melon.co.kr/cm/album/images/007/02/955/702955_500.jpg/melon/resize/48/quality/80/optimize
+65|2347849|미안해, 사랑해서...|이영현|10210|707652|Take It|https://cdnimg.melon.co.kr/cm/album/images/007/07/652/707652_500.jpg/melon/resize/48/quality/80/optimize
+66|2258761|Heartbreaker|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+67|2366787|홀로 크리스마스 (With 나비)|마이티 마우스|239366|723757|홀로 크리스마스|https://cdnimg.melon.co.kr/cm/album/images/007/23/757/723757_500.jpg/melon/resize/48/quality/80/optimize
+68|2377098|사랑이 변하니|Esther|1795|731555|에스더의 선물|https://cdnimg.melon.co.kr/cm/album/images/007/31/555/731555_500.jpg/melon/resize/48/quality/80/optimize
+69|2382917|Let It Snow (Feat. 하주연)|나윤권|58979|736265|Let It Snow (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/36/265/736265_500.jpg/melon/resize/48/quality/80/optimize
+70|2363261|Telephone (Feat. Beyoncé)|Lady Gaga|253688|720852|The Fame Monster|https://cdnimg.melon.co.kr/cm/album/images/007/20/852/720852_500.jpg/melon/resize/48/quality/80/optimize
+71|2293482|우리 헤어지자|이승기|58793|666758|Shadow|https://cdnimg.melon.co.kr/cm/album/images/006/66/758/666758_500.jpg/melon/resize/48/quality/80/optimize
+72|2377775|크리스마스의 기적|마야~김기욱~썸데이~제이큐(JQ)~Daylight~MAC~공소원~Joy|32339~444160~316967~228329~27784~342866~217830~404780|731957|크리스마스의 기적|https://cdnimg.melon.co.kr/cm/album/images/007/31/957/731957_500.jpg/melon/resize/48/quality/80/optimize
+73|2343511|똑똑똑|포맨 (4MEN)|100176|711178|Voice Of Autumn|https://cdnimg.melon.co.kr/cm/album/images/007/11/178/711178_500.jpg/melon/resize/48/quality/80/optimize
+74|2340900|편지|먼데이 키즈 (Monday Kiz)~일 락|175155~57315|709356|편지 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/09/356/709356_500.jpg/melon/resize/48/quality/80/optimize
+75|2388877|내 여자 (Feat. 슈프림팀)|브라이언|1929|741254|Manifold|https://cdnimg.melon.co.kr/cm/album/images/007/41/254/741254_500.jpg/melon/resize/48/quality/80/optimize
+76|2299311|사랑인걸요|태연 (TAEYEON)~써니 (SUNNY)|236797~257449|671260|맨땅에 헤딩 OST|https://cdnimg.melon.co.kr/cm/album/images/006/71/260/671260_500.jpg/melon/resize/48/quality/80/optimize
+77|2291014|Honesty|Beyonce|3535|664561|I Am... Sasha Fierce (Platinum Edition)|https://cdnimg.melon.co.kr/cm/album/images/006/64/561/664561_500.jpg/melon/resize/48/quality/80/optimize
+78|2271648|라차타 (LA chA TA)|f(x)|428501|646251|라차타|https://cdnimg.melon.co.kr/cm/album/images/006/46/251/646251_500.jpg/melon/resize/48/quality/80/optimize
+79|2368658|핑|클래지콰이|107725|724952|Mucho Beat|https://cdnimg.melon.co.kr/cm/album/images/007/24/952/724952_500.jpg/melon/resize/48/quality/80/optimize
+80|2330271|Love Of Iris|신승훈|25|699853|아이리스 OST (Part 2)|https://cdnimg.melon.co.kr/cm/album/images/006/99/853/699853_500.jpg/melon/resize/48/quality/80/optimize
+81|2269961|What A Girl Wants|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+82|2322558|너 정말이니|럼블피쉬|108951|692554|One Sweet Day|https://cdnimg.melon.co.kr/cm/album/images/006/92/554/692554_500.jpg/melon/resize/48/quality/80/optimize
+83|2229259|Abracadabra|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+84|2281050|30분전 (Feat. 임정희)|이현|429480|654552|30분전|https://cdnimg.melon.co.kr/cm/album/images/006/54/552/654552_500.jpg/melon/resize/48/quality/80/optimize
+85|2238379|미스터|카라|222128|616053|Revolution|https://cdnimg.melon.co.kr/cm/album/images/006/16/053/616053_500.jpg/melon/resize/48/quality/80/optimize
+86|2312252|우리 지금 만나 (Feat. 장기하와 얼굴들)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+87|2280185|Kiss (Feat. CL)|산다라박|165537|653653|Kiss|https://cdnimg.melon.co.kr/cm/album/images/006/53/653/653653_500.jpg/melon/resize/48/quality/80/optimize
+89|2301640|핼쑥해졌대|가비엔제이|174997|673361|Heartbreak Hotel|https://cdnimg.melon.co.kr/cm/album/images/006/73/361/673361_500.jpg/melon/resize/48/quality/80/optimize
+90|2356542|Hot Christmas (Feat. 한소리)|프리스타일|100144|718720|Hot Christmas|https://cdnimg.melon.co.kr/cm/album/images/007/18/720/718720_500.jpg/melon/resize/48/quality/80/optimize
+91|2378342|바보 유호석|EVAN 에반 (유호석)|221072|732460|바보 유호석|https://cdnimg.melon.co.kr/cm/album/images/007/32/460/732460_500.jpg/melon/resize/48/quality/80/optimize
+92|2376854|어떡하죠|장근석|57789|731452|미남이시네요 OST 스페셜|https://cdnimg.melon.co.kr/cm/album/images/007/31/452/731452_500.jpg/melon/resize/48/quality/80/optimize
+93|2253748|내 귀에 캔디 (Feat. 택연 Of 2PM)|백지영|1118|628465|Ego|https://cdnimg.melon.co.kr/cm/album/images/006/28/465/628465_500.jpg/melon/resize/48/quality/80/optimize
+94|2312178|나는... (Feat. Ivy)|MC몽|11538|682858|Humanimal (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/006/82/858/682858_500.jpg/melon/resize/48/quality/80/optimize
+95|2357640|하루가|KCM|45995|718819|Alone (Part. 1)|https://cdnimg.melon.co.kr/cm/album/images/007/18/819/718819_500.jpg/melon/resize/48/quality/80/optimize
+96|2319000|I Want You Back|시크릿|435121|689256|I Want You Back|https://cdnimg.melon.co.kr/cm/album/images/006/89/256/689256_500.jpg/melon/resize/48/quality/80/optimize
+97|2373875|삼키지마|이창민|443620|729155|텔레시네마 프로젝트 Vol.5 - 삼키지마|https://cdnimg.melon.co.kr/cm/album/images/007/29/155/729155_500.jpg/melon/resize/48/quality/80/optimize
+98|2278748|사랑 참 어렵다|이승철|1010|652251|사랑 참 어렵다 (이승철 10th 리패키지)|https://cdnimg.melon.co.kr/cm/album/images/006/52/251/652251_500.jpg/melon/resize/48/quality/80/optimize
+99|2380213|군대 가는 날|김종욱|4388|734059|Goodbye For Now (잠시만 안녕)|https://cdnimg.melon.co.kr/cm/album/images/007/34/059/734059_500.jpg/melon/resize/48/quality/80/optimize
+100|2357771|한 번만 울고 말자|장혜진|5675|718835|하늘, 바람, 별|https://cdnimg.melon.co.kr/cm/album/images/007/18/835/718835_500.jpg/melon/resize/48/quality/80/optimize

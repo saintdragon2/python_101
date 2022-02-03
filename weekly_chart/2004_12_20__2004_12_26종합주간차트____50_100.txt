@@ -1,0 +1,46 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+52|638571|이제 그만|이소라|983|45034|눈썹달|https://cdnimg.melon.co.kr/cm/album/images/000/45/034/45034_500.jpg/melon/resize/48/quality/80/optimize
+53|632790|세월의 흔적 다 버리고 (Duet. Lyn)|에릭|1739|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+54|623243|Loving You|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+55|632782|신인류의 사랑|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+56|623905|하루가 지나고|바다 (BADA)|1605|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+57|623906|돌아가줘|정재욱|7839|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+58|632781|이층집 소녀|김동완|1743|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+59|623240|사랑의 동그라미|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+60|632783|오늘같은 밤이면|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+61|623167|캐롤 메들리(루돌프 사슴코+Feliz Navidad+스키장에서)|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+62|631539|Love Letter|문희준|1583|44486|Winter Letter [Single]|https://cdnimg.melon.co.kr/cm/album/images/000/44/486/44486_500.jpg/melon/resize/48/quality/80/optimize
+63|623472|단 하나의 사랑|이재훈 (쿨)|1574|43741|미라클 2집|https://cdnimg.melon.co.kr/cm/album/images/000/43/741/43741_500.jpg/melon/resize/48/quality/80/optimize
+64|634610|The Play(Intro)|홍경민|891|44763|Listen & Repeat|https://cdnimg.melon.co.kr/cm/album/images/000/44/763/44763_500.jpg/melon/resize/48/quality/80/optimize
+65|632789|그녀를 만나는 곳 100m 전|앤디|1738|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+66|536962|The Story|SG 워너비|108363|35448|매직 OST|https://cdnimg.melon.co.kr/cm/album/images/000/35/448/35448_500.jpg/melon/resize/48/quality/80/optimize
+67|622443|Tangled Up In me|Skye Sweetnam|81450|43366|Noise From The Basement|https://cdnimg.melon.co.kr/cm/album/images/000/43/366/43366_500.jpg/melon/resize/48/quality/80/optimize
+68|519603|비밀|Daylight|27784|34288|Daylight First Album|https://cdnimg.melon.co.kr/cm/album/images/000/34/288/34288_500.jpg/melon/resize/48/quality/80/optimize
+69|14776|All I Want for Christmas Is You|Mariah Carey|2274|829|Merry Christmas (Deluxe Anniversary Edition)|https://cdnimg.melon.co.kr/cm/album/images/000/00/829/829_500.jpg/melon/resize/48/quality/80/optimize
+70|533228|Life Is Cool|Sweetbox|100060|35191|Adagio|https://cdnimg.melon.co.kr/cm/album/images/000/35/191/35191_500.jpg/melon/resize/48/quality/80/optimize
+71|632787|안녕|M (이민우)|1742|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+72|623242|익숙한 낯선 사람|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+73|622776|I Wanna (Drop It, Like It'S Hot! - Feat. Smash Of 45Rpm, Red-Roc)|DJ DOC|100005|43512|Love & Sex, Happiness 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/512/43512_500.jpg/melon/resize/48/quality/80/optimize
+74|632791|How Do I Say|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+75|623153|Lover|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+76|623244|Tonight|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+78|623247|사랑이 힘들때|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+79|529685|한 남자|김종국|1692|34958|Evolution|https://cdnimg.melon.co.kr/cm/album/images/000/34/958/34958_500.jpg/melon/resize/48/quality/80/optimize
+80|623424|사랑이 변하니|페이지|100012|43738|She Is 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/738/43738_500.jpg/melon/resize/48/quality/80/optimize
+81|638569|Midnight Blue|이소라|983|45034|눈썹달|https://cdnimg.melon.co.kr/cm/album/images/000/45/034/45034_500.jpg/melon/resize/48/quality/80/optimize
+82|623249|한구석에|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+83|638570|바람이 분다|이소라|983|45034|눈썹달|https://cdnimg.melon.co.kr/cm/album/images/000/45/034/45034_500.jpg/melon/resize/48/quality/80/optimize
+85|623155|하얀동화|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+86|623901|Intro|Various Artists|-1|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+87|636820|솔로 크리스마스|상상밴드|81449|44919|상상밴드 캐롤|https://cdnimg.melon.co.kr/cm/album/images/000/44/919/44919_500.jpg/melon/resize/48/quality/80/optimize
+88|623156|사랑해요|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+89|602432|7 Days|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+90|623907|거인|제이|1203|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+91|534252|사랑의 바보|더 넛츠 (The NuTs)|108988|35269|The Nuts|https://cdnimg.melon.co.kr/cm/album/images/000/35/269/35269_500.jpg/melon/resize/48/quality/80/optimize
+92|622764|위대한 유산|애즈원|100093|43511|Restoration 4집|https://cdnimg.melon.co.kr/cm/album/images/000/43/511/43511_500.jpg/melon/resize/48/quality/80/optimize
+93|623484|유리화 I (Inst.)|Various Artists|-1|43742|유리화 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/742/43742_500.jpg/melon/resize/48/quality/80/optimize
+94|621915|날 그만 잊어요 (Guitar Ver.)|거미|30358|40450|내 머리 속의 지우개 OST|https://cdnimg.melon.co.kr/cm/album/images/000/40/450/40450_500.jpg/melon/resize/48/quality/80/optimize
+95|601836|허락되지 않은 사랑|이현우|1176|40843|아일랜드 OST|https://cdnimg.melon.co.kr/cm/album/images/000/40/843/40843_500.jpg/melon/resize/48/quality/80/optimize
+97|638572|별|이소라|983|45034|눈썹달|https://cdnimg.melon.co.kr/cm/album/images/000/45/034/45034_500.jpg/melon/resize/48/quality/80/optimize
+98|600207|심장병|이승환|26|42191|Karma|https://cdnimg.melon.co.kr/cm/album/images/000/42/191/42191_500.jpg/melon/resize/48/quality/80/optimize
+100|623910|지워진 기억|이소정|60138|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize

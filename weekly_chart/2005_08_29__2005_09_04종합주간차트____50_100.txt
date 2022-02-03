@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|885477|남자는 가로 여자는 세로|춘자 (春子)|161092|305129|춘자 2집 HIP!|https://cdnimg.melon.co.kr/cm/album/images/003/05/129/305129_500.jpg/melon/resize/48/quality/80/optimize
+52|905581|손틈새로...|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+53|905587|혼자만 하는 사랑|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+54|902092|어쩌다가 (New Ver.)|전초아|37649|306901|어쩌다가|https://cdnimg.melon.co.kr/cm/album/images/003/06/901/306901_500.jpg/melon/resize/48/quality/80/optimize
+55|672010|꽃피는 봄이오면|BMK|36142|47645|Soul Food|https://cdnimg.melon.co.kr/cm/album/images/000/47/645/47645_500.jpg/melon/resize/48/quality/80/optimize
+56|905584|오늘은 헤어지는 날|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+57|732514|1st|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+58|905580|Holic|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+59|888173|Start|M.Street (엠스트리트)|108240|305340|Start|https://cdnimg.melon.co.kr/cm/album/images/003/05/340/305340_500.jpg/melon/resize/48/quality/80/optimize
+60|905583|어른아이|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+61|842022|같은 생각|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+62|855659|She Is|클래지콰이|107725|303915|내 이름은 김삼순 OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/915/303915_500.jpg/melon/resize/48/quality/80/optimize
+63|896242|활주 ('나루토' 여는 노래)|버즈|160091|306248|We 3 (투니버스 만화영화 주제가 Best)|https://cdnimg.melon.co.kr/cm/album/images/003/06/248/306248_500.jpg/melon/resize/48/quality/80/optimize
+64|842020|거울|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+65|905579|Gummitro|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+66|905653|Make A Secret|보아 (BoA)|2165|307271|Make A Secret|https://cdnimg.melon.co.kr/cm/album/images/003/07/271/307271_500.jpg/melon/resize/48/quality/80/optimize
+67|905585|Trap|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+68|898404|광 (Club Mix)|SG 워너비|108363|306508|The Voices - 광|https://cdnimg.melon.co.kr/cm/album/images/003/06/508/306508_500.jpg/melon/resize/48/quality/80/optimize
+69|904626|Like This|코요태|100022|307172|필업 (Feel Up)|https://cdnimg.melon.co.kr/cm/album/images/003/07/172/307172_500.jpg/melon/resize/48/quality/80/optimize
+70|905586|평균|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+71|-1|사랑해요|이소은|984|307032|Think Of Me (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/07/032/307032_500.jpg/melon/resize/48/quality/80/optimize
+72|858981|아파요|김현정|1177|304018|Fun Town 20|https://cdnimg.melon.co.kr/cm/album/images/003/04/018/304018_500.jpg/melon/resize/48/quality/80/optimize
+73|863658|Never Again|SS501|170541|304287|SS501|https://cdnimg.melon.co.kr/cm/album/images/003/04/287/304287_500.jpg/melon/resize/48/quality/80/optimize
+74|711627|죄와벌|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+75|833906|What You Waiting For? (KTFT 송혜교편)|Gwen Stefani|39543|301627|Love, Angel, Music, Baby|https://cdnimg.melon.co.kr/cm/album/images/003/01/627/301627_500.jpg/melon/resize/48/quality/80/optimize
+76|-1|All The Way|Craig David|4804|306176|The Story Goes|https://cdnimg.melon.co.kr/cm/album/images/003/06/176/306176_500.jpg/melon/resize/48/quality/80/optimize
+77|904627|비는... 하늘의 눈물|코요태|100022|307172|필업 (Feel Up)|https://cdnimg.melon.co.kr/cm/album/images/003/07/172/307172_500.jpg/melon/resize/48/quality/80/optimize
+78|905588|실수|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+79|905590|옷|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+80|732520|비망록 (스물의노래)|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+81|897595|쿵짝|원투|106928|306432|Ladies First|https://cdnimg.melon.co.kr/cm/album/images/003/06/432/306432_500.jpg/melon/resize/48/quality/80/optimize
+82|905589|Secret|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+83|-1|Ocean Blue (With. 이민우)|신혜성|1741|306216|해변으로 가요 OST|https://cdnimg.melon.co.kr/cm/album/images/003/06/216/306216_500.jpg/melon/resize/48/quality/80/optimize
+84|905591|저기 가는 사람|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+85|858982|Funky Town|김현정|1177|304018|Fun Town 20|https://cdnimg.melon.co.kr/cm/album/images/003/04/018/304018_500.jpg/melon/resize/48/quality/80/optimize
+86|904629|믿어볼까? (Feat. 천명훈)|코요태|100022|307172|필업 (Feel Up)|https://cdnimg.melon.co.kr/cm/album/images/003/07/172/307172_500.jpg/melon/resize/48/quality/80/optimize
+87|904630|사랑병|코요태|100022|307172|필업 (Feel Up)|https://cdnimg.melon.co.kr/cm/album/images/003/07/172/307172_500.jpg/melon/resize/48/quality/80/optimize
+88|893830|Memory|한예슬|57787|305892|그 여름의 태풍 OST|https://cdnimg.melon.co.kr/cm/album/images/003/05/892/305892_500.jpg/melon/resize/48/quality/80/optimize
+89|841073|편지|김우주|168856|302364|Before You Sleep...|https://cdnimg.melon.co.kr/cm/album/images/003/02/364/302364_500.jpg/melon/resize/48/quality/80/optimize
+90|897709|부비부비|바나나 걸|108613|306445|Bubi-Bubi|https://cdnimg.melon.co.kr/cm/album/images/003/06/445/306445_500.jpg/melon/resize/48/quality/80/optimize
+91|904634|아파도...|코요태|100022|307172|필업 (Feel Up)|https://cdnimg.melon.co.kr/cm/album/images/003/07/172/307172_500.jpg/melon/resize/48/quality/80/optimize
+92|896673|아시나요|이재은|4455|306373|Special Single Song 004|https://cdnimg.melon.co.kr/cm/album/images/003/06/373/306373_500.jpg/melon/resize/48/quality/80/optimize
+93|-1|The Magic Key (네스팟스윙 CF 재희, 정애연편)|One-T|108396|33842|The One-T ODC|https://cdnimg.melon.co.kr/cm/album/images/000/33/842/33842_500.jpg/melon/resize/48/quality/80/optimize
+94|904631|상상|코요태|100022|307172|필업 (Feel Up)|https://cdnimg.melon.co.kr/cm/album/images/003/07/172/307172_500.jpg/melon/resize/48/quality/80/optimize
+95|905592|Escape|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+96|848166|약한 남자|바비 킴|6027|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+97|897726|시청앞 지하철 역에서|유리상자|100130|306447|동상이몽|https://cdnimg.melon.co.kr/cm/album/images/003/06/447/306447_500.jpg/melon/resize/48/quality/80/optimize
+98|903571|사랑해 주셔서 감사했어요|에스진|172890|307093|Pathetic Love|https://cdnimg.melon.co.kr/cm/album/images/003/07/093/307093_500.jpg/melon/resize/48/quality/80/optimize
+99|901159|Wake Up|Hilary Duff|39088|306844|Most Wanted|https://cdnimg.melon.co.kr/cm/album/images/003/06/844/306844_500.jpg/melon/resize/48/quality/80/optimize
+100|732518|내가 아니죠...|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize

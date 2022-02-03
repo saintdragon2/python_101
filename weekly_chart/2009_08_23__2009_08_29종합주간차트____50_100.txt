@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2266685|초콜릿|케이윌~마리오|175139~243278|642787|Color Chocolate|https://cdnimg.melon.co.kr/cm/album/images/006/42/787/642787_500.jpg/melon/resize/48/quality/80/optimize
+52|2221850|바베큐|삼자돼면|421622|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+53|2229176|소식 (So Sick)|엠씨더맥스 (M.C the MAX)|161636|611854|In The Season - 2009 Summer|https://cdnimg.melon.co.kr/cm/album/images/006/11/854/611854_500.jpg/melon/resize/48/quality/80/optimize
+54|2258769|1년 정거장|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+55|2221853|영계백숙|애프터쉐이빙|421625|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+56|2218823|Let's Go Party|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+57|2159715|여성시대|씨야~다비치~티아라|181679~236815~412000|554262|여성시대/영원한 사랑|https://cdnimg.melon.co.kr/cm/album/images/005/54/262/554262_500.jpg/melon/resize/48/quality/80/optimize
+58|2101157|심장이 없어|에이트|228841|514852|골든에이지|https://cdnimg.melon.co.kr/cm/album/images/005/14/852/514852_500.jpg/melon/resize/48/quality/80/optimize
+59|2119816|눈물이 뚝뚝|케이윌|175139|529655|눈물이 뚝뚝|https://cdnimg.melon.co.kr/cm/album/images/005/29/655/529655_500.jpg/melon/resize/48/quality/80/optimize
+60|2126448|마음이 다쳐서 (Feat. Crown J)|나비|242868|534851|마음이 다쳐서|https://cdnimg.melon.co.kr/cm/album/images/005/34/851/534851_500.jpg/melon/resize/48/quality/80/optimize
+61|2222748|Everyday (Feat. 길 Of 리쌍, Sean2slow)|BMK|36142|606151|BMK & Good Fellaz|https://cdnimg.melon.co.kr/cm/album/images/006/06/151/606151_500.jpg/melon/resize/48/quality/80/optimize
+62|2255158|생각이나|부활|100594|632858|25th Anniversary: Retrospect|https://cdnimg.melon.co.kr/cm/album/images/006/32/858/632858_500.jpg/melon/resize/48/quality/80/optimize
+63|2261749|그녀가 간다|홍경민|891|638251|Someday|https://cdnimg.melon.co.kr/cm/album/images/006/38/251/638251_500.jpg/melon/resize/48/quality/80/optimize
+64|2208726|친구 (Top & 태양)|BIGBANG~태양~T.O.P|198094~247621~152192|595056|친구, 우리들의 전설 OST|https://cdnimg.melon.co.kr/cm/album/images/005/95/056/595056_500.jpg/melon/resize/48/quality/80/optimize
+65|2201948|Rally (Feat. 낯선)|쥬얼리|101487|589851|Super Star|https://cdnimg.melon.co.kr/cm/album/images/005/89/851/589851_500.jpg/melon/resize/48/quality/80/optimize
+66|2135850|내사랑 울보|SG 워너비|108363|542651|Gift From SG Wanna Be|https://cdnimg.melon.co.kr/cm/album/images/005/42/651/542651_500.jpg/melon/resize/48/quality/80/optimize
+67|2093362|My Man|다비치|236815|508460|Davichi In Wonderland|https://cdnimg.melon.co.kr/cm/album/images/005/08/460/508460_500.jpg/melon/resize/48/quality/80/optimize
+68|2188667|1초에 한방울 A Mix (Feat. 다이나믹듀오)|케이윌|175139|578856|1초에 한방울|https://cdnimg.melon.co.kr/cm/album/images/005/78/856/578856_500.jpg/melon/resize/48/quality/80/optimize
+69|2253960|그대없이 좋은날|가비엔제이|174997|632153|태양을 삼켜라 OST 2|https://cdnimg.melon.co.kr/cm/album/images/006/32/153/632153_500.jpg/melon/resize/48/quality/80/optimize
+70|2165864|너라고 (It's You)|SUPER JUNIOR (슈퍼주니어)|175404|559754|너라고|https://cdnimg.melon.co.kr/cm/album/images/005/59/754/559754_500.jpg/melon/resize/48/quality/80/optimize
+71|2140966|Boo|아이유|261143|546853|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/005/46/853/546853_500.jpg/melon/resize/48/quality/80/optimize
+72|2258361|R2song 아리송 (Original)|황보|1719|634955|R2Song|https://cdnimg.melon.co.kr/cm/album/images/006/34/955/634955_500.jpg/melon/resize/48/quality/80/optimize
+73|2210161|Monster (Korean Ver.)|드렁큰 타이거|100027|596251|Feel gHood Muzik : The 8th Wonder|https://cdnimg.melon.co.kr/cm/album/images/005/96/251/596251_500.jpg/melon/resize/48/quality/80/optimize
+74|2259950|Dash Girl|윤은혜|1639|636651|아가씨를 부탁해 OST|https://cdnimg.melon.co.kr/cm/album/images/006/36/651/636651_500.jpg/melon/resize/48/quality/80/optimize
+75|2247067|하이힐|박혜경|1790|626454|My Favorite|https://cdnimg.melon.co.kr/cm/album/images/006/26/454/626454_500.jpg/melon/resize/48/quality/80/optimize
+76|2218825|Stay Together|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+77|2260864|사랑가|김창렬|5228|637554|Love Parade 1|https://cdnimg.melon.co.kr/cm/album/images/006/37/554/637554_500.jpg/melon/resize/48/quality/80/optimize
+78|2229258|Glam Girl|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+79|2231899|사랑보다 아름다운 말 (Feat. 숙희)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+80|2183950|What You Do (Feat. Ne-Yo)|Chrisette Michele|227390|574851|Epiphany|https://cdnimg.melon.co.kr/cm/album/images/005/74/851/574851_500.jpg/melon/resize/48/quality/80/optimize
+81|2185578|피에로의 눈물 (Feat. 무웅 Of 배치기)|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+82|2159569|흔들려|채연|41894|554252|Shake|https://cdnimg.melon.co.kr/cm/album/images/005/54/252/554252_500.jpg/melon/resize/48/quality/80/optimize
+83|2200950|뒤차가 경적을|엠씨더맥스 (M.C the MAX)|161636|589251|Rewind & Remind|https://cdnimg.melon.co.kr/cm/album/images/005/89/251/589251_500.jpg/melon/resize/48/quality/80/optimize
+84|2267605|울면 안돼|왁스|2267|642959|울면 안돼|https://cdnimg.melon.co.kr/cm/album/images/006/42/959/642959_500.jpg/melon/resize/48/quality/80/optimize
+85|2263248|반쪽|애프터스쿨~써니사이드|322666~425521|639851|탐나는도다 OST|https://cdnimg.melon.co.kr/cm/album/images/006/39/851/639851_500.jpg/melon/resize/48/quality/80/optimize
+86|2245592|희망사항 (Feat. 아이유)|마이티 마우스|239366|625656|Love Class|https://cdnimg.melon.co.kr/cm/album/images/006/25/656/625656_500.jpg/melon/resize/48/quality/80/optimize
+87|2266517|비와 당신의 이야기 (우리카드 CF 삽입곡)|윤상현|411121|642758|비와 당신의 이야기|https://cdnimg.melon.co.kr/cm/album/images/006/42/758/642758_500.jpg/melon/resize/48/quality/80/optimize
+88|2210448|령혼|양파|3854|596551|혼 OST|https://cdnimg.melon.co.kr/cm/album/images/005/96/551/596551_500.jpg/melon/resize/48/quality/80/optimize
+89|2261753|행복한 나를|홍경민|891|638251|Someday|https://cdnimg.melon.co.kr/cm/album/images/006/38/251/638251_500.jpg/melon/resize/48/quality/80/optimize
+90|2223049|Supermagic|Supreme Team|410162|606451|Supreme Team Guide To Excellent Adventure|https://cdnimg.melon.co.kr/cm/album/images/006/06/451/606451_500.jpg/melon/resize/48/quality/80/optimize
+91|2262548|Happy Bubble (Feat. 한지민) (CF 해피바스 페이셜 클렌저)|규현 (KYUHYUN)~동해 (DONGHAE)|205880~427881|639051|해피 버블|https://cdnimg.melon.co.kr/cm/album/images/006/39/051/639051_500.jpg/melon/resize/48/quality/80/optimize
+92|2263180|Tell Me (Feat. Hanul)|김진표|1136|639757|스타일 OST|https://cdnimg.melon.co.kr/cm/album/images/006/39/757/639757_500.jpg/melon/resize/48/quality/80/optimize
+93|2135848|사랑해 (Feat. 유리상자 박승화)|SG 워너비|108363|542651|Gift From SG Wanna Be|https://cdnimg.melon.co.kr/cm/album/images/005/42/651/542651_500.jpg/melon/resize/48/quality/80/optimize
+94|2256100|12시 34분 (Nothing Better) (Sung By 동방신기)|SMTOWN|160072|633274|09 Summer SMTOWN - 12시34분 (Nothing Better)|https://cdnimg.melon.co.kr/cm/album/images/006/33/274/633274_500.jpg/melon/resize/48/quality/80/optimize
+95|2245642|Kiss Kiss Kiss (Feat. Sleepy)|박화요비|2017|625662|Summer|https://cdnimg.melon.co.kr/cm/album/images/006/25/662/625662_500.jpg/melon/resize/48/quality/80/optimize
+96|2266940|사랑이 뭐길래|미스에스|275266|642809|Miss $ S Class|https://cdnimg.melon.co.kr/cm/album/images/006/42/809/642809_500.jpg/melon/resize/48/quality/80/optimize
+97|2250349|영원한 하나|조성모|969|629152|영원한 하나|https://cdnimg.melon.co.kr/cm/album/images/006/29/152/629152_500.jpg/melon/resize/48/quality/80/optimize
+98|2266516|녹화된 테잎을 감듯이|박기영|908|642757|녹화된 테잎을 감듯이|https://cdnimg.melon.co.kr/cm/album/images/006/42/757/642757_500.jpg/melon/resize/48/quality/80/optimize
+99|2221849|세뇨리따 (Senorita)|카리스마|421621|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+100|2231903|죽도록 사랑해 2 (Feat. 조성모)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize

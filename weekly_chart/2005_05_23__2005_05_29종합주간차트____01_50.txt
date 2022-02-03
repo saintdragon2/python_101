@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|837567|사랑했나봐|윤도현|923|301886|Difference|https://cdnimg.melon.co.kr/cm/album/images/003/01/886/301886_500.jpg/melon/resize/48/quality/80/optimize
+2|711627|죄와벌|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+3|711626|살다가|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+4|732373|사랑인걸|모세|165535|300617|사랑, 그 간절한 그리움 1집|https://cdnimg.melon.co.kr/cm/album/images/003/00/617/300617_500.jpg/melon/resize/48/quality/80/optimize
+5|711628|광(狂)|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+6|742311|안부 (Duet With 나윤권)|별|27033|301021|별 2집|https://cdnimg.melon.co.kr/cm/album/images/003/01/021/301021_500.jpg/melon/resize/48/quality/80/optimize
+7|672010|꽃피는 봄이오면|BMK|36142|47645|Soul Food|https://cdnimg.melon.co.kr/cm/album/images/000/47/645/47645_500.jpg/melon/resize/48/quality/80/optimize
+8|842022|같은 생각|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+9|732512|겁쟁이|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+10|732519|가시|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+11|698979|그리움을 사랑한 가시나무|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+12|843729|그녀에게|유엔|100737|302691|그녀에게|https://cdnimg.melon.co.kr/cm/album/images/003/02/691/302691_500.jpg/melon/resize/48/quality/80/optimize
+13|827216|잘 지내나요|성시경|3305|301311|다시 꿈꾸고 싶다|https://cdnimg.melon.co.kr/cm/album/images/003/01/311/301311_500.jpg/melon/resize/48/quality/80/optimize
+14|-1|닮았잖아|m.e.l.o.n|170259|302392|Think Of Me|https://cdnimg.melon.co.kr/cm/album/images/003/02/392/302392_500.jpg/melon/resize/48/quality/80/optimize
+15|845580|천하무적 (Feat. 박장근 Of Supersta)|MC몽|11538|302961|His Story|https://cdnimg.melon.co.kr/cm/album/images/003/02/961/302961_500.jpg/melon/resize/48/quality/80/optimize
+16|833665|중독|서영은|3033|301561|Sunny Side Of My Heart|https://cdnimg.melon.co.kr/cm/album/images/003/01/561/301561_500.jpg/melon/resize/48/quality/80/optimize
+17|775130|여기까진가요|플라워|100391|301149|플라워 4th|https://cdnimg.melon.co.kr/cm/album/images/003/01/149/301149_500.jpg/melon/resize/48/quality/80/optimize
+18|775161|눈물잔|박상민|956|301162|서랍속 이야기|https://cdnimg.melon.co.kr/cm/album/images/003/01/162/301162_500.jpg/melon/resize/48/quality/80/optimize
+19|733379|Super Star|쥬얼리|101487|300770|4집 Super Star|https://cdnimg.melon.co.kr/cm/album/images/003/00/770/300770_500.jpg/melon/resize/48/quality/80/optimize
+20|833765|버리고 버려도|김조한|1873|301616|Me, Myself, My Music|https://cdnimg.melon.co.kr/cm/album/images/003/01/616/301616_500.jpg/melon/resize/48/quality/80/optimize
+21|842624|그대 없이 난|이지혜|1820|302573|그대 없이 난|https://cdnimg.melon.co.kr/cm/album/images/003/02/573/302573_500.jpg/melon/resize/48/quality/80/optimize
+22|711630|입술만 깨물고있죠|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+23|732513|벌|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+24|732515|거짓말|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+25|531840|Y (Please Tell Me Why)|프리스타일|100144|35102|Freestyle 3|https://cdnimg.melon.co.kr/cm/album/images/000/35/102/35102_500.jpg/melon/resize/48/quality/80/optimize
+26|711629|가|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+27|828357|다가와|채연|41894|301440|컨필레이션|https://cdnimg.melon.co.kr/cm/album/images/003/01/440/301440_500.jpg/melon/resize/48/quality/80/optimize
+28|-1|Everything's Gonna Be Alright (Reborn) (애경 케라시스 CF 고소영편)|Sweetbox|100060|301441|Best Of 1995~2005|https://cdnimg.melon.co.kr/cm/album/images/003/01/441/301441_500.jpg/melon/resize/48/quality/80/optimize
+29|837693|그댄 몰라요 (야래향)|문근영|56004|301906|댄서의 순정 OST|https://cdnimg.melon.co.kr/cm/album/images/003/01/906/301906_500.jpg/melon/resize/48/quality/80/optimize
+30|827894|그대는 모르죠 (Good-bye)|플라이 투 더 스카이|100183|301369|중력 (Gravity)|https://cdnimg.melon.co.kr/cm/album/images/003/01/369/301369_500.jpg/melon/resize/48/quality/80/optimize
+31|708211|Mr. Flower|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+32|698972|사랑은...하나다|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+33|775215|My Way|캔|100139|301186|My Way|https://cdnimg.melon.co.kr/cm/album/images/003/01/186/301186_500.jpg/melon/resize/48/quality/80/optimize
+34|838486|Too Good|천상지희 더 그레이스 (The Grace)|168015|302007|Too Good|https://cdnimg.melon.co.kr/cm/album/images/003/02/007/302007_500.jpg/melon/resize/48/quality/80/optimize
+35|847126|여자|빅마마|105803|303106|It's Unique|https://cdnimg.melon.co.kr/cm/album/images/003/03/106/303106_500.jpg/melon/resize/48/quality/80/optimize
+36|711631|이별의 계절|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+37|823882|너에게 간다|윤종신|437|301250|Behind The Smile|https://cdnimg.melon.co.kr/cm/album/images/003/01/250/301250_500.jpg/melon/resize/48/quality/80/optimize
+38|836973|Hey, Dude! (코카콜라 CF 신화편)|신화|100078|301841|Hey, Dude!|https://cdnimg.melon.co.kr/cm/album/images/003/01/841/301841_500.jpg/melon/resize/48/quality/80/optimize
+39|841111|Always|신지|5907|302368|요구르팅:Always OST|https://cdnimg.melon.co.kr/cm/album/images/003/02/368/302368_500.jpg/melon/resize/48/quality/80/optimize
+40|711632|그래도|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+41|847132|체념 後(후)|빅마마|105803|303106|It's Unique|https://cdnimg.melon.co.kr/cm/album/images/003/03/106/303106_500.jpg/melon/resize/48/quality/80/optimize
+42|711636|내 하루를|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+43|827215|다시 시작해도 될까요|성시경|3305|301311|다시 꿈꾸고 싶다|https://cdnimg.melon.co.kr/cm/album/images/003/01/311/301311_500.jpg/melon/resize/48/quality/80/optimize
+44|728527|반갑습니다 (Feat. 성은)|배치기|101886|300313|Giant|https://cdnimg.melon.co.kr/cm/album/images/003/00/313/300313_500.jpg/melon/resize/48/quality/80/optimize
+45|732514|1st|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+46|842024|Buen Camino (Feat. 강수지)|신혜성|1741|302491|오월지련|https://cdnimg.melon.co.kr/cm/album/images/003/02/491/302491_500.jpg/melon/resize/48/quality/80/optimize
+47|775191|하루|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+48|711635|Tenderness|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+49|848156|가슴 아파도|환희|1928|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+50|533259|Don't Push Me|Sweetbox|100060|35195|Jade|https://cdnimg.melon.co.kr/cm/album/images/000/35/195/35195_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3129078|투정|이특 (LEETEUK)~크리스탈 (KRYSTAL)|517700~473703|1160152|일밤 오늘을 즐겨라 발라드 프로젝트|https://cdnimg.melon.co.kr/cm/album/images/011/60/152/1160152_500.jpg/melon/resize/48/quality/80/optimize
+52|3105862|우리 사랑이 뭐 이래요|서영은|3033|1139452|우리 사랑이 뭐 이래요|https://cdnimg.melon.co.kr/cm/album/images/011/39/452/1139452_500.jpg/melon/resize/48/quality/80/optimize
+53|3126371|당신께 이노래를 불러 드릴께요|태사비애|229242|1157658|당신께 이노래를 불러 드릴께요|https://cdnimg.melon.co.kr/cm/album/images/011/57/658/1157658_500.jpg/melon/resize/48/quality/80/optimize
+54|3093260|BTD (Before The Dawn)|인피니트|476181|1120763|Evolution|https://cdnimg.melon.co.kr/cm/album/images/011/20/763/1120763_500.jpg/melon/resize/48/quality/80/optimize
+55|3098215|Supa Luv|틴탑|483581|1132657|Transform|https://cdnimg.melon.co.kr/cm/album/images/011/32/657/1132657_500.jpg/melon/resize/48/quality/80/optimize
+56|3035367|Not Alone|박정민|5362|1083955|Not Alone|https://cdnimg.melon.co.kr/cm/album/images/010/83/955/1083955_500.jpg/melon/resize/48/quality/80/optimize
+57|3072169|Bad Temper|가인|428821|1111453|Bad Temper|https://cdnimg.melon.co.kr/cm/album/images/011/11/453/1111453_500.jpg/melon/resize/48/quality/80/optimize
+58|3006873|언제나|허각|28801|1063754|언제나|https://cdnimg.melon.co.kr/cm/album/images/010/63/754/1063754_500.jpg/melon/resize/48/quality/80/optimize
+59|2951700|그땐 그땐 그땐|Supreme Team~영준 (브라운 아이드 소울)|410162~45162|1030195|Ames Room|https://cdnimg.melon.co.kr/cm/album/images/010/30/195/1030195_500.jpg/melon/resize/48/quality/80/optimize
+60|3110248|비주얼드림 (POP! POP!) - Intel 콜라보레이션송|소녀시대 (GIRLS' GENERATION)|228069|1142751|비주얼 드림 (POP! POP!) - Intel 콜라보레이션|https://cdnimg.melon.co.kr/cm/album/images/011/42/751/1142751_500.jpg/melon/resize/48/quality/80/optimize
+61|3025148|아잉♡|오렌지 캬라멜|477632|1076151|아잉♡|https://cdnimg.melon.co.kr/cm/album/images/010/76/151/1076151_500.jpg/melon/resize/48/quality/80/optimize
+62|3088248|드림하이|택연~장우영~수지 (SUZY)~김수현~JOO|514740~514760~514741~8433~232696|1124351|드림하이 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/24/351/1124351_500.jpg/melon/resize/48/quality/80/optimize
+63|2944372|We No Speak Americano (Radio Edit) (SKT T월드 CF 삽입곡)|Yolanda Be Cool~Dcup|498560~498561|1026554|We No Speak Americano|https://cdnimg.melon.co.kr/cm/album/images/010/26/554/1026554_500.jpg/melon/resize/48/quality/80/optimize
+64|3014305|Beautiful|비스트|436981|1068570|Lights Go On Again|https://cdnimg.melon.co.kr/cm/album/images/010/68/570/1068570_500.jpg/melon/resize/48/quality/80/optimize
+65|3109649|어떤이의 꿈 (Feat. 소향 Of POS)|San E|402526|1142252|드림하이 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/011/42/252/1142252_500.jpg/melon/resize/48/quality/80/optimize
+66|3030884|나타나|김범수|6502|1080955|시크릿 가든 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/010/80/955/1080955_500.jpg/melon/resize/48/quality/80/optimize
+67|3078751|같이 살자|김지수~박보람|8806~499464|1116561|야차 Meets 슈퍼스타K2|https://cdnimg.melon.co.kr/cm/album/images/011/16/561/1116561_500.jpg/melon/resize/48/quality/80/optimize
+68|3129248|한 사람 (My Only One)|보아 (BoA)|2165|1160351|파라다이스 목장 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/011/60/351/1160351_500.jpg/melon/resize/48/quality/80/optimize
+69|3094980|사랑을 믿어요|이정|39256|1129754|사랑을 믿어요 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/29/754/1129754_500.jpg/melon/resize/48/quality/80/optimize
+70|2979880|전활 받지 않는 너에게|2AM|253866|1046966|Saint o'clock|https://cdnimg.melon.co.kr/cm/album/images/010/46/966/1046966_500.jpg/melon/resize/48/quality/80/optimize
+71|3126584|오 마이 럽 (With. 하하, 소향)|The Apple|105074|1157854|Love Story - Intro|https://cdnimg.melon.co.kr/cm/album/images/011/57/854/1157854_500.jpg/melon/resize/48/quality/80/optimize
+72|3030866|아직…|오렌지 캬라멜|477632|1076151|아잉♡|https://cdnimg.melon.co.kr/cm/album/images/010/76/151/1076151_500.jpg/melon/resize/48/quality/80/optimize
+73|3092649|사랑해 그리고 기억해|먼데이 키즈 (Monday Kiz)|175155|1128251|Nostalgia|https://cdnimg.melon.co.kr/cm/album/images/011/28/251/1128251_500.jpg/melon/resize/48/quality/80/optimize
+75|3100800|처음 뵙겠습니다 (With 휘성)|지나|482640|1134953|처음 뵙겠습니다 (With 휘성)|https://cdnimg.melon.co.kr/cm/album/images/011/34/953/1134953_500.jpg/melon/resize/48/quality/80/optimize
+76|-1|What The Hell|Avril Lavigne|30023|1135052|What The Hell|https://cdnimg.melon.co.kr/cm/album/images/011/35/052/1135052_500.jpg/melon/resize/48/quality/80/optimize
+77|3128648|One Kiss|손담비~FPM|226582~38361|1159754|K.O Sound Compilation Series Vol.2|https://cdnimg.melon.co.kr/cm/album/images/011/59/754/1159754_500.jpg/melon/resize/48/quality/80/optimize
+78|3026177|하늘을 달리다|허각|28801|1077154|허각 1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/010/77/154/1077154_500.jpg/melon/resize/48/quality/80/optimize
+79|3124087|사랑이 녹다|Ab 에비뉴|443444|1155455|White Season|https://cdnimg.melon.co.kr/cm/album/images/011/55/455/1155455_500.jpg/melon/resize/48/quality/80/optimize
+80|2998356|눈부신 눈물|디셈버|439021|1058352|A Story To The Sky|https://cdnimg.melon.co.kr/cm/album/images/010/58/352/1058352_500.jpg/melon/resize/48/quality/80/optimize
+81|3103753|십년도 모자라|간종욱|204924|1137452|2집|https://cdnimg.melon.co.kr/cm/album/images/011/37/452/1137452_500.jpg/melon/resize/48/quality/80/optimize
+82|3053257|첫 이별 그날 밤|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+83|3053259|미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+84|3037049|러브 레시피|거미~바비 킴|30358~6027|1085052|러브 레시피|https://cdnimg.melon.co.kr/cm/album/images/010/85/052/1085052_500.jpg/melon/resize/48/quality/80/optimize
+85|3074489|뭐해?|포맨 (4MEN)~미(MIIII)|100176~197910|1113260|2010 YWHO Winter Serenade|https://cdnimg.melon.co.kr/cm/album/images/011/13/260/1113260_500.jpg/melon/resize/48/quality/80/optimize
+86|3099458|술을 못해요|베이지|222697|1133852|술을 못해요|https://cdnimg.melon.co.kr/cm/album/images/011/33/852/1133852_500.jpg/melon/resize/48/quality/80/optimize
+87|3060753|내려놔요|브라운 아이드 소울|107728|1100665|'내려놔요' 아테나 OST|https://cdnimg.melon.co.kr/cm/album/images/011/00/665/1100665_500.jpg/melon/resize/48/quality/80/optimize
+88|3089449|Cry|엠블랙|436980|1125352|BLAQ Style|https://cdnimg.melon.co.kr/cm/album/images/011/25/352/1125352_500.jpg/melon/resize/48/quality/80/optimize
+89|3092179|좋은 사람|김진표~숙희|1136~341370|1127853|싸인 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/27/853/1127853_500.jpg/melon/resize/48/quality/80/optimize
+90|3126348|괜히… (Feat. 반광옥)|더필름|54988|1157651|필름현상소, 두 번째|https://cdnimg.melon.co.kr/cm/album/images/011/57/651/1157651_500.jpg/melon/resize/48/quality/80/optimize
+91|3074848|문이 닫히면|윤두준~손동운|418201~512480|1113451|My Story|https://cdnimg.melon.co.kr/cm/album/images/011/13/451/1113451_500.jpg/melon/resize/48/quality/80/optimize
+92|3130559|주문|백찬|268669|1161652|'주문' 아테나 OST|https://cdnimg.melon.co.kr/cm/album/images/011/61/652/1161652_500.jpg/melon/resize/48/quality/80/optimize
+93|3053852|내 남자친구를 부탁해|윤하 (YOUNHA)|203912|1094551|Lost In Love|https://cdnimg.melon.co.kr/cm/album/images/010/94/551/1094551_500.jpg/melon/resize/48/quality/80/optimize
+94|3051494|Love Love Love|애프터스쿨|322666|1093582|Happy Pledis 1st Album|https://cdnimg.melon.co.kr/cm/album/images/010/93/582/1093582_500.jpg/melon/resize/48/quality/80/optimize
+95|3127908|바바바 (부제: 화해송)|윤종신~이상순|437~3237|1159059|2011 月刊 尹鍾信 February|https://cdnimg.melon.co.kr/cm/album/images/011/59/059/1159059_500.jpg/melon/resize/48/quality/80/optimize
+96|3092749|너 때문인걸|비스트|436981|1128351|마이 프린세스 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/28/351/1128351_500.jpg/melon/resize/48/quality/80/optimize
+97|3116351|I KNOW (With. 아이유)|승리|403841|1140251|승리 1st Mini Album V.V.I.P|https://cdnimg.melon.co.kr/cm/album/images/011/40/251/1140251_500.jpg/melon/resize/48/quality/80/optimize
+98|3117232|못난 놈이야|우은미 (Woo Eun Mi)|499120|1149159|못난 놈이야|https://cdnimg.melon.co.kr/cm/album/images/011/49/159/1149159_500.jpg/melon/resize/48/quality/80/optimize
+99|3118948|손가락 걸고 (Feat. 서영은, 김현중, 제이스)|Winter Project|518640|1150551|Winter & Color Story Two|https://cdnimg.melon.co.kr/cm/album/images/011/50/551/1150551_500.jpg/melon/resize/48/quality/80/optimize
+100|-1|The Time (Dirty Bit)|Black Eyed Peas|107538|1063954|The Time (Dirty Bit)|https://cdnimg.melon.co.kr/cm/album/images/010/63/954/1063954_500.jpg/melon/resize/48/quality/80/optimize

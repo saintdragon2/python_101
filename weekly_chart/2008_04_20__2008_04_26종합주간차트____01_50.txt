@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|1850242|One (Feat. 지선)|에픽하이 (EPIK HIGH)|108356|376100|Pieces, Part One|https://cdnimg.melon.co.kr/cm/album/images/003/76/100/376100_500.jpg/melon/resize/48/quality/80/optimize
+2|1851229|서커스 (Feat. 임유경 - 달래 음악단 , ＄howgun)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+3|1826467|미안해요 (Feat. T.O.P)|거미|30358|372909|Comfort|https://cdnimg.melon.co.kr/cm/album/images/003/72/909/372909_500.jpg/melon/resize/48/quality/80/optimize
+4|1797709|아이처럼|김동률|925|366933|Monologue|https://cdnimg.melon.co.kr/cm/album/images/003/66/933/366933_500.jpg/melon/resize/48/quality/80/optimize
+5|1836102|다 줄꺼야|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+6|1816224|사랑해 (Feat. 윤은혜)|마이티 마우스|239366|370758|사랑해 (Feat. 윤은혜) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/70/758/370758_500.jpg/melon/resize/48/quality/80/optimize
+7|1850253|우산 (Feat. 윤하)|에픽하이 (EPIK HIGH)|108356|376100|Pieces, Part One|https://cdnimg.melon.co.kr/cm/album/images/003/76/100/376100_500.jpg/melon/resize/48/quality/80/optimize
+8|1807098|One More Time|쥬얼리|101487|368317|5집 Kitchi Island|https://cdnimg.melon.co.kr/cm/album/images/003/68/317/368317_500.jpg/melon/resize/48/quality/80/optimize
+9|1833966|기억을 걷는 시간|넬 (NELL)|101094|374383|Separation Anxiety|https://cdnimg.melon.co.kr/cm/album/images/003/74/383/374383_500.jpg/melon/resize/48/quality/80/optimize
+10|1798752|슬픈 다짐|다비치|236815|367137|AMARANTH|https://cdnimg.melon.co.kr/cm/album/images/003/67/137/367137_500.jpg/melon/resize/48/quality/80/optimize
+11|1836107|추억속의 그대|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+12|1788174|Love|브라운아이드걸스|181694|362984|With L.O.V.E Brown Eyed Girls|https://cdnimg.melon.co.kr/cm/album/images/003/62/984/362984_500.jpg/melon/resize/48/quality/80/optimize
+13|1849804|취중진담 (Feat. AND)|플라이 투 더 스카이|100183|376069|Recollection|https://cdnimg.melon.co.kr/cm/album/images/003/76/069/376069_500.jpg/melon/resize/48/quality/80/optimize
+14|1798749|미워도 사랑하니까|다비치|236815|367137|AMARANTH|https://cdnimg.melon.co.kr/cm/album/images/003/67/137/367137_500.jpg/melon/resize/48/quality/80/optimize
+15|1841036|발자국|먼데이 키즈 (Monday Kiz)|175155|374973|Inside Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/973/374973_500.jpg/melon/resize/48/quality/80/optimize
+16|1846941|바보에게... 바보가|박명수|4263|375797|바보에게... 바보가 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/75/797/375797_500.jpg/melon/resize/48/quality/80/optimize
+17|1841034|가슴으로 외쳐 (Rap Feat. Rhymer)|먼데이 키즈 (Monday Kiz)|175155|374973|Inside Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/973/374973_500.jpg/melon/resize/48/quality/80/optimize
+18|1798588|만약에|태연 (TAEYEON)|236797|366925|쾌도 홍길동 OST|https://cdnimg.melon.co.kr/cm/album/images/003/66/925/366925_500.jpg/melon/resize/48/quality/80/optimize
+19|1847552|비밀은 어디에 있나요|양파~미호|3854~428810|375858|비밀|https://cdnimg.melon.co.kr/cm/album/images/003/75/858/375858_500.jpg/melon/resize/48/quality/80/optimize
+20|1829494|Baby Baby|소녀시대 (GIRLS' GENERATION)|228069|373315|Baby Baby (소녀시대 Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/73/315/373315_500.jpg/melon/resize/48/quality/80/optimize
+21|1827472|처음처럼|SG 워너비|108363|373090|처음처럼 (All Star 2집 Vol.3)|https://cdnimg.melon.co.kr/cm/album/images/003/73/090/373090_500.jpg/melon/resize/48/quality/80/optimize
+22|1825248|너만 볼래 (Feat. 태인)|나몰라패밀리 (Namolla Family)|194009|372860|너만 볼래|https://cdnimg.melon.co.kr/cm/album/images/003/72/860/372860_500.jpg/melon/resize/48/quality/80/optimize
+23|1756969|Kissing You|소녀시대 (GIRLS' GENERATION)|228069|360075|소녀시대|https://cdnimg.melon.co.kr/cm/album/images/003/60/075/360075_500.jpg/melon/resize/48/quality/80/optimize
+24|1832985|바보|씨야|181679|373815|바보 (All Star 2집 Vol.4)|https://cdnimg.melon.co.kr/cm/album/images/003/73/815/373815_500.jpg/melon/resize/48/quality/80/optimize
+25|1789551|남자 때문에|JOO|232696|363117|어린 여자|https://cdnimg.melon.co.kr/cm/album/images/003/63/117/363117_500.jpg/melon/resize/48/quality/80/optimize
+26|1765767|마지막 인사|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+27|1778667|보고싶은 날엔..|박지헌|231826|361987|단추 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/61/987/361987_500.jpg/melon/resize/48/quality/80/optimize
+28|1828869|남자는 모른다|박화요비|2017|373265|Sunshine|https://cdnimg.melon.co.kr/cm/album/images/003/73/265/373265_500.jpg/melon/resize/48/quality/80/optimize
+29|1849781|삐에로|이수 (엠씨더맥스)|214784|376067|I AM...|https://cdnimg.melon.co.kr/cm/album/images/003/76/067/376067_500.jpg/melon/resize/48/quality/80/optimize
+30|1793650|후회는 없어 (Feat. 베이지)|노블레스|160738|365151|Last Romanticist|https://cdnimg.melon.co.kr/cm/album/images/003/65/151/365151_500.jpg/melon/resize/48/quality/80/optimize
+31|1845031|보고 싶어 (SG 워너비 Ver.)|SG 워너비|108363|375262|2008 연가 SG 워너비 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/75/262/375262_500.jpg/melon/resize/48/quality/80/optimize
+32|1786851|How Gee (하우지)|BIGBANG|198094|362856|For The World|https://cdnimg.melon.co.kr/cm/album/images/003/62/856/362856_500.jpg/melon/resize/48/quality/80/optimize
+33|1813593|창문을 열어놓고|별~나윤권|27033~58979|368897|창문을 열어놓고 (All Star 2집 Vol.2)|https://cdnimg.melon.co.kr/cm/album/images/003/68/897/368897_500.jpg/melon/resize/48/quality/80/optimize
+34|1827423|한가지 말|FTISLAND (FT아일랜드)|226490|373085|온에어 OST|https://cdnimg.melon.co.kr/cm/album/images/003/73/085/373085_500.jpg/melon/resize/48/quality/80/optimize
+35|1837070|흉터|장나라|10575|374633|Dream Of Asia|https://cdnimg.melon.co.kr/cm/album/images/003/74/633/374633_500.jpg/melon/resize/48/quality/80/optimize
+36|1797713|다시 시작해보자|김동률|925|366933|Monologue|https://cdnimg.melon.co.kr/cm/album/images/003/66/933/366933_500.jpg/melon/resize/48/quality/80/optimize
+37|1789828|그깟 사랑|이진성 (먼데이 키즈)~최현준 (V.O.S)~일 락|237650~225993~57315|363144|Friendship|https://cdnimg.melon.co.kr/cm/album/images/003/63/144/363144_500.jpg/melon/resize/48/quality/80/optimize
+38|1839323|사랑 따위|백지영|1118|374824|All Star 2|https://cdnimg.melon.co.kr/cm/album/images/003/74/824/374824_500.jpg/melon/resize/48/quality/80/optimize
+39|1804274|나비야|하동균|43806|368025|Another Corner|https://cdnimg.melon.co.kr/cm/album/images/003/68/025/368025_500.jpg/melon/resize/48/quality/80/optimize
+40|1698598|거짓말|BIGBANG|198094|355853|Always|https://cdnimg.melon.co.kr/cm/album/images/003/55/853/355853_500.jpg/melon/resize/48/quality/80/optimize
+41|1790894|클래식|KCM|45995|362210|Kingdom|https://cdnimg.melon.co.kr/cm/album/images/003/62/210/362210_500.jpg/melon/resize/48/quality/80/optimize
+42|1817939|사랑과 우정사이|박혜경|1790|371320|여자가 사랑할때|https://cdnimg.melon.co.kr/cm/album/images/003/71/320/371320_500.jpg/melon/resize/48/quality/80/optimize
+43|1846792|그 흔한 반지도|마야|32339|375782|Maya Four|https://cdnimg.melon.co.kr/cm/album/images/003/75/782/375782_500.jpg/melon/resize/48/quality/80/optimize
+44|1809080|젊은날|V.O.S|108794|368537|젊은날 (All Star 2집 Vol.1)|https://cdnimg.melon.co.kr/cm/album/images/003/68/537/368537_500.jpg/melon/resize/48/quality/80/optimize
+45|1842506|Love Seat (Feat. 타루, 허밍 어반 스테레오)|휘성 (Realslow)|10577|375067|스마일 프로젝트 Vol. 2 - Love Seat|https://cdnimg.melon.co.kr/cm/album/images/003/75/067/375067_500.jpg/melon/resize/48/quality/80/optimize
+46|1809309|멀어져|스윗소로우 (SWEET SORROW)|175203|368552|SweeticS|https://cdnimg.melon.co.kr/cm/album/images/003/68/552/368552_500.jpg/melon/resize/48/quality/80/optimize
+47|1840173|마지막 콘서트 (Feat. MC몽,브라이언,에픽하이-미쓰라진)|이루|173424|374898|마지막 콘서트|https://cdnimg.melon.co.kr/cm/album/images/003/74/898/374898_500.jpg/melon/resize/48/quality/80/optimize
+48|1733348|이바보|원더걸스|217764|357386|The Wonder Years|https://cdnimg.melon.co.kr/cm/album/images/003/57/386/357386_500.jpg/melon/resize/48/quality/80/optimize
+49|1853410|눈부신 날|럼블피쉬|108951|376374|눈부신 날 (Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/76/374/376374_500.jpg/melon/resize/48/quality/80/optimize
+50|1764208|대낮에 한 이별 (Feat. 선예 (Wonder Girls))|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize

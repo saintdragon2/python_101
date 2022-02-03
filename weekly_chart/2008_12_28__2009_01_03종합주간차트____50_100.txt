@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|984646|애인 있어요|이은미|1055|309042|Ma Non Tanto|https://cdnimg.melon.co.kr/cm/album/images/003/09/042/309042_500.jpg/melon/resize/48/quality/80/optimize
+52|2004670|러브 바이러스|이지아|306367|451853|러브 바이러스|https://cdnimg.melon.co.kr/cm/album/images/004/51/853/451853_500.jpg/melon/resize/48/quality/80/optimize
+53|1963424|듣고 있나요|이승철|1010|416357|에덴의 동쪽 2 OST|https://cdnimg.melon.co.kr/cm/album/images/004/16/357/416357_500.jpg/melon/resize/48/quality/80/optimize
+54|1964790|슈퍼맨|노라조|172193|417656|Three GO|https://cdnimg.melon.co.kr/cm/album/images/004/17/656/417656_500.jpg/melon/resize/48/quality/80/optimize
+55|2008648|Stylish (The FILA)|BIGBANG|198094|455651|FILA Limited Edition With Bigbang|https://cdnimg.melon.co.kr/cm/album/images/004/55/651/455651_500.jpg/melon/resize/48/quality/80/optimize
+56|2000360|나란 사람 (Original Ver.)|팀|33614|447552|나란 사람|https://cdnimg.melon.co.kr/cm/album/images/004/47/552/447552_500.jpg/melon/resize/48/quality/80/optimize
+57|1975152|아마도 그건|홍민정|445480|427151|과속 스캔들 OST (무비클로저)|https://cdnimg.melon.co.kr/cm/album/images/004/27/151/427151_500.jpg/melon/resize/48/quality/80/optimize
+58|2006848|슬픔보다 더 슬픈 이야기|김범수|6502|453851|슬픔보다 더 슬픈 이야기 OST (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/53/851/453851_500.jpg/melon/resize/48/quality/80/optimize
+59|1921365|10점 만점에 10점|2PM|259822|396131|Hottest Time Of The Day|https://cdnimg.melon.co.kr/cm/album/images/003/96/131/396131_500.jpg/melon/resize/48/quality/80/optimize
+60|1998351|내게로 오는 길|거미|30358|445651|종합병원 2 OST Vol.2|https://cdnimg.melon.co.kr/cm/album/images/004/45/651/445651_500.jpg/melon/resize/48/quality/80/optimize
+61|2003227|겨울 풍경|이재훈 (쿨)|1574|450358|개미와 베짱이 Blues With 이재훈|https://cdnimg.melon.co.kr/cm/album/images/004/50/358/450358_500.jpg/melon/resize/48/quality/80/optimize
+62|1939569|살아서도.. 죽어서도..|휘성 (Realslow)|10577|398971|바람의 나라 OST|https://cdnimg.melon.co.kr/cm/album/images/003/98/971/398971_500.jpg/melon/resize/48/quality/80/optimize
+63|1936243|Number 1|BIGBANG|198094|398679|Number 1|https://cdnimg.melon.co.kr/cm/album/images/003/98/679/398679_500.jpg/melon/resize/48/quality/80/optimize
+64|1951549|오, 아, 오|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+65|1923548|Never Say Goodbye|먼데이 키즈 (Monday Kiz)|175155|396351|Recollection|https://cdnimg.melon.co.kr/cm/album/images/003/96/351/396351_500.jpg/melon/resize/48/quality/80/optimize
+66|1977749|Circus|Britney Spears|8046|429651|Circus (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/004/29/651/429651_500.jpg/melon/resize/48/quality/80/optimize
+67|1902384|사랑해 미안해|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+68|1992662|Goodbye To Romance|엠씨더맥스 (M.C the MAX)|161636|440452|언리미티드|https://cdnimg.melon.co.kr/cm/album/images/004/40/452/440452_500.jpg/melon/resize/48/quality/80/optimize
+69|1956654|널 사랑하지 않았어...|타이푼|186309|410151|Rendezvous|https://cdnimg.melon.co.kr/cm/album/images/004/10/151/410151_500.jpg/melon/resize/48/quality/80/optimize
+70|1990658|Only You (Winter Special)|2PM|259822|438661|Only You (Winter Special)|https://cdnimg.melon.co.kr/cm/album/images/004/38/661/438661_500.jpg/melon/resize/48/quality/80/optimize
+71|2007071|Track 8|이소라|983|454053|이소라 7집|https://cdnimg.melon.co.kr/cm/album/images/004/54/053/454053_500.jpg/melon/resize/48/quality/80/optimize
+72|1951552|19금 Strong Baby|승리|403841|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+74|1913503|착한 사람|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+75|1958148|Wrong Number|동방신기 (TVXQ!)|108316|411651|The Fourth Album 'MIROTIC' (Special Edition)|https://cdnimg.melon.co.kr/cm/album/images/004/11/651/411651_500.jpg/melon/resize/48/quality/80/optimize
+76|1962770|사랑해 사랑해 사랑해 (Ballad Ver.)|고은|275866|415768|사랑해 사랑해 사랑해|https://cdnimg.melon.co.kr/cm/album/images/004/15/768/415768_500.jpg/melon/resize/48/quality/80/optimize
+77|-1|Mad|Ne-Yo|181769|444552|Year Of The Gentleman (Korea Special Edition)|https://cdnimg.melon.co.kr/cm/album/images/004/44/552/444552_500.jpg/melon/resize/48/quality/80/optimize
+78|1903057|Hey Mr. Big|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+79|1953949|무슨 사랑이 그래요|백찬~이수영|268669~995|407752|무슨 사랑이 그래요 (Single)|https://cdnimg.melon.co.kr/cm/album/images/004/07/752/407752_500.jpg/melon/resize/48/quality/80/optimize
+80|1941616|고맙다|김종국|1692|399175|Here I Am|https://cdnimg.melon.co.kr/cm/album/images/003/99/175/399175_500.jpg/melon/resize/48/quality/80/optimize
+81|2008148|라이야|메이비 (Maybee)|43443|455151|라이야|https://cdnimg.melon.co.kr/cm/album/images/004/55/151/455151_500.jpg/melon/resize/48/quality/80/optimize
+82|1975477|여자라서 하지 못한 말|유미|9956|427453|Melody & Memory|https://cdnimg.melon.co.kr/cm/album/images/004/27/453/427453_500.jpg/melon/resize/48/quality/80/optimize
+83|1951551|반짝반짝|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+84|1936134|환상의 짝꿍 (Feat. 예은 Of 원더걸스)|H-유진|198032|398665|환상의 짝꿍|https://cdnimg.melon.co.kr/cm/album/images/003/98/665/398665_500.jpg/melon/resize/48/quality/80/optimize
+85|1988008|윈터키스 (Feat. 백찬 Of 에이트)|박정현|1099|436057|Winter Kiss (Newways Always) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/36/057/436057_500.jpg/melon/resize/48/quality/80/optimize
+86|1951554|멍청한 사랑|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+87|1977777|좋은날|브라운아이드걸스|181694|429653|달콤한 거짓말 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/29/653/429653_500.jpg/melon/resize/48/quality/80/optimize
+88|1918284|사랑후애 (僞愛)|FTISLAND (FT아일랜드)|226490|394954|Colorful Sensibility|https://cdnimg.melon.co.kr/cm/album/images/003/94/954/394954_500.jpg/melon/resize/48/quality/80/optimize
+89|2004848|만남|임재범|4838|451951|스타의 연인 OST (Single)|https://cdnimg.melon.co.kr/cm/album/images/004/51/951/451951_500.jpg/melon/resize/48/quality/80/optimize
+90|1903050|U-Go-Girl (With 낯선)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+91|1989173|바닐라 Love (Feat. 샤이니 온유 Part 2)|이현지|228042|437254|바닐라 Love Part 2|https://cdnimg.melon.co.kr/cm/album/images/004/37/254/437254_500.jpg/melon/resize/48/quality/80/optimize
+92|1984448|하얀 입맞춤|솔비|227228|432551|하얀 입맞춤|https://cdnimg.melon.co.kr/cm/album/images/004/32/551/432551_500.jpg/melon/resize/48/quality/80/optimize
+93|1897011|사랑과 전쟁 (Narr. 하하)|다비치|236815|388456|Vivid Summer Edition (1st Amaranth Repackage Album)|https://cdnimg.melon.co.kr/cm/album/images/003/88/456/388456_500.jpg/melon/resize/48/quality/80/optimize
+94|2001364|좋은날|브라운아이드걸스|181694|448551|달콤한 거짓말 OST|https://cdnimg.melon.co.kr/cm/album/images/004/48/551/448551_500.jpg/melon/resize/48/quality/80/optimize
+95|2006249|I Believe|R. Kelly|14358|453263|I Believe (Single)|https://cdnimg.melon.co.kr/cm/album/images/004/53/263/453263_500.jpg/melon/resize/48/quality/80/optimize
+96|1959669|즉흥여행 (Feat. MC몽)|윤종신|437|413054|동네 한 바퀴|https://cdnimg.melon.co.kr/cm/album/images/004/13/054/413054_500.jpg/melon/resize/48/quality/80/optimize
+97|1890408|너 때문에|브라운 아이즈|100742|386400|Two Things Needed For The Same Purpose And 5 Objets|https://cdnimg.melon.co.kr/cm/album/images/003/86/400/386400_500.jpg/melon/resize/48/quality/80/optimize
+98|2007749|어떡해 (Radio Edit.)|전혜선|60373|454751|어떡해|https://cdnimg.melon.co.kr/cm/album/images/004/54/751/454751_500.jpg/melon/resize/48/quality/80/optimize
+99|-1|너의 소식 (So Sick) (Feat. 알렉스 Of Clazziquai)|비즈니즈|299169|445052|This Is Bizniz|https://cdnimg.melon.co.kr/cm/album/images/004/45/052/445052_500.jpg/melon/resize/48/quality/80/optimize
+100|2004674|지금 만나러 가요|예성 (YESUNG)~성민 (SUNGMIN)|261447~55350|451854|상근이의 소망|https://cdnimg.melon.co.kr/cm/album/images/004/51/854/451854_500.jpg/melon/resize/48/quality/80/optimize

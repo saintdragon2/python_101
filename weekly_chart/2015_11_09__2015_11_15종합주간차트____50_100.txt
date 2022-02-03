@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|7921390|My Love (Feat. 베이식)|효린|573812|2649445|언프리티 랩스타 2 SEMI FINAL Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/49/445/2649445_500.jpg/melon/resize/48/quality/80/optimize
+52|5824839|맙소사|황태지 (황광희, 태양, 지드래곤)|889387|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+53|5748406|심쿵해 (Heart Attack)|AOA|686920|2325321|Heart Attack|https://cdnimg.melon.co.kr/cm/album/images/023/25/321/2325321_500.jpg/melon/resize/48/quality/80/optimize
+54|5743804|음오아예 (Um Oh Ah Yeh)|마마무 (Mamamoo)|750053|2324685|Pink Funky|https://cdnimg.melon.co.kr/cm/album/images/023/24/685/2324685_500.jpg/melon/resize/48/quality/80/optimize
+55|7888413|꼭 어제|XIA (준수)|52607|2645321|꼭 어제|https://cdnimg.melon.co.kr/cm/album/images/026/45/321/2645321_500.jpg/melon/resize/48/quality/80/optimize
+56|5807274|우리 사랑하지 말아요|BIGBANG|198094|2333193|E|https://cdnimg.melon.co.kr/cm/album/images/023/33/193/2333193_500.jpg/melon/resize/48/quality/80/optimize
+57|7909196|청춘 (Feat. 김창완)|김필|561051|2648091|응답하라 1988 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/48/091/2648091_500.jpg/melon/resize/48/quality/80/optimize
+58|5668985|그 남잔 말야|엠씨더맥스 (M.C the MAX)|161636|2314734|냄새를 보는 소녀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/14/734/2314734_500.jpg/melon/resize/48/quality/80/optimize
+59|4857981|Sugar|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+60|7863754|쿵쿵쿵|김민승|2561048|2641734|그녀는 예뻤다 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/41/734/2641734_500.jpg/melon/resize/48/quality/80/optimize
+61|7866804|내가 그댈|린~하동균~이정|8530~43806~39256|2642181|심폐소생송 Special Album Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/42/181/2642181_500.jpg/melon/resize/48/quality/80/optimize
+62|7852842|그렇게 됐어|플라이 투 더 스카이|100183|2639984|Love & Hate|https://cdnimg.melon.co.kr/cm/album/images/026/39/984/2639984_500.jpg/melon/resize/48/quality/80/optimize
+63|5771304|Oasis (Feat. ZICO)|Crush|674710|2327886|Oasis|https://cdnimg.melon.co.kr/cm/album/images/023/27/886/2327886_500.jpg/melon/resize/48/quality/80/optimize
+64|7881338|집으로 가는 길|비투비|647971|2644202|I Mean|https://cdnimg.melon.co.kr/cm/album/images/026/44/202/2644202_500.jpg/melon/resize/48/quality/80/optimize
+65|7870472|Ah-Choo|러블리즈|789331|2639766|Lovelyz8|https://cdnimg.melon.co.kr/cm/album/images/026/39/766/2639766_500.jpg/melon/resize/48/quality/80/optimize
+66|4743560|Lost Stars|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+67|5822923|가슴 뛰도록|SG 워너비|108363|2335653|THE VOICE|https://cdnimg.melon.co.kr/cm/album/images/023/35/653/2335653_500.jpg/melon/resize/48/quality/80/optimize
+68|7907043|그냥가요 (Feat. 휘인 Of 마마무)|루이 (긱스)|657072|2647825|그냥가요|https://cdnimg.melon.co.kr/cm/album/images/026/47/825/2647825_500.jpg/melon/resize/48/quality/80/optimize
+69|7926004|너라는 시간이 흐른다|XIA (준수)|52607|2650064|육룡이 나르샤 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/50/064/2650064_500.jpg/melon/resize/48/quality/80/optimize
+70|5713422|와리가리|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+71|5760115|IF YOU|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize
+72|7892770|PARACHUTE (Feat. 오혁 & Dok2)|코드 쿤스트 (CODE KUNST)|724086|2645763|PARACHUTE|https://cdnimg.melon.co.kr/cm/album/images/026/45/763/2645763_500.jpg/melon/resize/48/quality/80/optimize
+73|7874382|Solo (Remix) (Prod. by 박재범, Cha Cha Malone) (Feat. 박재범, 로꼬)|예지|695332|2643240|언프리티 랩스타 2 Track 4|https://cdnimg.melon.co.kr/cm/album/images/026/43/240/2643240_500.jpg/melon/resize/48/quality/80/optimize
+74|7880306|10월의 날씨|10CM|468244|2644090|3.1|https://cdnimg.melon.co.kr/cm/album/images/026/44/090/2644090_500.jpg/melon/resize/48/quality/80/optimize
+75|7919214|먼 길|박서준|649813|2649214|그녀는 예뻤다 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/026/49/214/2649214_500.jpg/melon/resize/48/quality/80/optimize
+76|7911685|멀어지던 날 (The day we felt the distance)|규현 (KYUHYUN)|205880|2648402|멀어지던 날 (The Day We Felt The Distance)|https://cdnimg.melon.co.kr/cm/album/images/026/48/402/2648402_500.jpg/melon/resize/48/quality/80/optimize
+77|4543502|야생화|박효신|1191|2244822|야생화|https://cdnimg.melon.co.kr/cm/album/images/022/44/822/2244822_500.jpg/melon/resize/48/quality/80/optimize
+78|7909207|아무도 모르게|MC몽|11538|2648094|아무도 모르게|https://cdnimg.melon.co.kr/cm/album/images/026/48/094/2648094_500.jpg/melon/resize/48/quality/80/optimize
+79|5815785|사이먼 도미닉|사이먼 도미닉|428847|2334436|￦ & ONLY|https://cdnimg.melon.co.kr/cm/album/images/023/34/436/2334436_500.jpg/melon/resize/48/quality/80/optimize
+80|7888331|19금 Bandz Up (Prod. by Dok2) (Feat. Dok2)|트루디 (Truedy)|896141|2645311|언프리티 랩스타 2 Track 6 & 7|https://cdnimg.melon.co.kr/cm/album/images/026/45/311/2645311_500.jpg/melon/resize/48/quality/80/optimize
+81|7895853|너뿐이야|시원 (SIWON)|471361|2646186|그녀는 예뻤다 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/46/186/2646186_500.jpg/melon/resize/48/quality/80/optimize
+82|7870707|AIRPLANE|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+83|5721440|LOVE ME RIGHT|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize
+84|5650996|우연히 봄|로꼬~유주 (여자친구)|688432~858238|2312287|냄새를 보는 소녀 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/12/287/2312287_500.jpg/melon/resize/48/quality/80/optimize
+85|7899186|일주일 (247) (Feat. Zion.T, Crush, DEAN)|정기고|304967|2646653|247|https://cdnimg.melon.co.kr/cm/album/images/026/46/653/2646653_500.jpg/melon/resize/48/quality/80/optimize
+86|7921393|19금 돈 벌지마 (Feat. 찬열 of EXO)|헤이즈 (Heize)|751611|2649445|언프리티 랩스타 2 SEMI FINAL Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/49/445/2649445_500.jpg/melon/resize/48/quality/80/optimize
+87|7926120|널 생각해 (Prod. by 이찬혁 of 악동뮤지션)|윤하 (YOUNHA)|203912|2650084|널 생각해 (Prod. by 이찬혁 of 악동뮤지션)|https://cdnimg.melon.co.kr/cm/album/images/026/50/084/2650084_500.jpg/melon/resize/48/quality/80/optimize
+88|2101367|그런가 봐요...|V.One|2239|515053|2004 History Will Begine...|https://cdnimg.melon.co.kr/cm/album/images/005/15/053/515053_500.jpg/melon/resize/48/quality/80/optimize
+89|7912749|아마도 그건|Crush~로꼬|674710~688432|2648529|투유 프로젝트 - 슈가맨 Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/48/529/2648529_500.jpg/melon/resize/48/quality/80/optimize
+90|5826462|스폰서 ($ponsor)|으뜨거따시 (하하, 자이언티)|889389|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+91|7916300|19금 뻔하잖아 (YOU KNOW) (Feat. Okasian)|박재범|443420|2648944|WORLDWIDE|https://cdnimg.melon.co.kr/cm/album/images/026/48/944/2648944_500.jpg/melon/resize/48/quality/80/optimize
+92|5684826|BAE BAE|BIGBANG|198094|2316478|M|https://cdnimg.melon.co.kr/cm/album/images/023/16/478/2316478_500.jpg/melon/resize/48/quality/80/optimize
+93|7905017|LOVE TALK (Feat. 화사 of 마마무)|키썸 (Kisum)|748510|2647542|LOVE TALK (Feat. 화사 of 마마무)|https://cdnimg.melon.co.kr/cm/album/images/026/47/542/2647542_500.jpg/melon/resize/48/quality/80/optimize
+94|7904995|마요 (Feat. 빈지노)|신승훈|25|2647539|I am...&I am|https://cdnimg.melon.co.kr/cm/album/images/026/47/539/2647539_500.jpg/melon/resize/48/quality/80/optimize
+95|5644620|CALL ME BABY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+96|5748499|SHAKE IT|씨스타|473181|2325345|SHAKE IT|https://cdnimg.melon.co.kr/cm/album/images/023/25/345/2325345_500.jpg/melon/resize/48/quality/80/optimize
+97|7876540|가슴에 내린다|이수 (엠씨더맥스)|214784|2643509|가슴에 내린다|https://cdnimg.melon.co.kr/cm/album/images/026/43/509/2643509_500.jpg/melon/resize/48/quality/80/optimize
+98|7913572|이 순간|다비치|236815|2648678|이 순간|https://cdnimg.melon.co.kr/cm/album/images/026/48/678/2648678_500.jpg/melon/resize/48/quality/80/optimize
+99|7902890|울고 분다|JOO|232696|2647258|울고 분다|https://cdnimg.melon.co.kr/cm/album/images/026/47/258/2647258_500.jpg/melon/resize/48/quality/80/optimize
+100|5781104|Remember|Apink (에이핑크)|534360|2329610|Pink MEMORY|https://cdnimg.melon.co.kr/cm/album/images/023/29/610/2329610_500.jpg/melon/resize/48/quality/80/optimize

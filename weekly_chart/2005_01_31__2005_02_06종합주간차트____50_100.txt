@@ -1,0 +1,43 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+54|622778|수사반장|DJ DOC|100005|43512|Love & Sex, Happiness 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/512/43512_500.jpg/melon/resize/48/quality/80/optimize
+55|698977|나만의 너에게|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+56|533259|Don't Push Me|Sweetbox|100060|35195|Jade|https://cdnimg.melon.co.kr/cm/album/images/000/35/195/35195_500.jpg/melon/resize/48/quality/80/optimize
+57|696849|汝歌 (여가)|장연주|163816|49490|본심|https://cdnimg.melon.co.kr/cm/album/images/000/49/490/49490_500.jpg/melon/resize/48/quality/80/optimize
+58|698980|기침|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+59|601846|My Prerogative (라네즈 슬라이딩 팩트 CF 전지현편)|Britney Spears|8046|41985|Greatest Hits : My Prerogative|https://cdnimg.melon.co.kr/cm/album/images/000/41/985/41985_500.jpg/melon/resize/48/quality/80/optimize
+60|601387|눈을 뜨면|투데이|160987|41186|Another Level|https://cdnimg.melon.co.kr/cm/album/images/000/41/186/41186_500.jpg/melon/resize/48/quality/80/optimize
+61|703745|And I Love You So|이동건|924|50008|B형 남자친구 OST|https://cdnimg.melon.co.kr/cm/album/images/000/50/008/50008_500.jpg/melon/resize/48/quality/80/optimize
+62|686655|이미 그댄|izi|164914|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+63|698982|아파도 슬퍼도|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+64|698984|아프게 희망하기|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+65|698981|목요일을 기억하세요|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+66|602302|누구와 사랑을 하다가|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+67|-1|Superstar|Jamelia|56026|34495|Thank You|https://cdnimg.melon.co.kr/cm/album/images/000/34/495/34495_500.jpg/melon/resize/48/quality/80/optimize
+68|698983|하얀의자|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+69|665224|Sad Cafe (With Dynamic Duo)|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+73|622776|I Wanna (Drop It, Like It'S Hot! - Feat. Smash Of 45Rpm, Red-Roc)|DJ DOC|100005|43512|Love & Sex, Happiness 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/512/43512_500.jpg/melon/resize/48/quality/80/optimize
+74|623161|이탈|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+75|529686|중독|김종국|1692|34958|Evolution|https://cdnimg.melon.co.kr/cm/album/images/000/34/958/34958_500.jpg/melon/resize/48/quality/80/optimize
+77|638571|이제 그만|이소라|983|45034|눈썹달|https://cdnimg.melon.co.kr/cm/album/images/000/45/034/45034_500.jpg/melon/resize/48/quality/80/optimize
+78|623243|Loving You|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+79|665225|흐린 가을 하늘에 편지를 써|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+80|691437|별 (別)|윤건|14801|49024|슬픈연가 OST|https://cdnimg.melon.co.kr/cm/album/images/000/49/024/49024_500.jpg/melon/resize/48/quality/80/optimize
+81|533228|Life Is Cool|Sweetbox|100060|35191|Adagio|https://cdnimg.melon.co.kr/cm/album/images/000/35/191/35191_500.jpg/melon/resize/48/quality/80/optimize
+82|684944|아름다운 너를|박정현|1099|48604|On&On|https://cdnimg.melon.co.kr/cm/album/images/000/48/604/48604_500.jpg/melon/resize/48/quality/80/optimize
+83|677883|Goodies (Feat. Petey Pablo)|Ciara|55278|48114|Goodies|https://cdnimg.melon.co.kr/cm/album/images/000/48/114/48114_500.jpg/melon/resize/48/quality/80/optimize
+84|665228|한여름밤의 꿈|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+85|708701|몇번을 헤어져도|김희선|8896|50318|슬픈연가 OST|https://cdnimg.melon.co.kr/cm/album/images/000/50/318/50318_500.jpg/melon/resize/48/quality/80/optimize
+86|600630|사랑은 가질 수 없을 때 더 아름답다|토니 안|1586|40707|Believe|https://cdnimg.melon.co.kr/cm/album/images/000/40/707/40707_500.jpg/melon/resize/48/quality/80/optimize
+87|665232|Ribbon In The Sky|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+88|686654|Queen|박용석|152450|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+89|534252|사랑의 바보|더 넛츠 (The NuTs)|108988|35269|The Nuts|https://cdnimg.melon.co.kr/cm/album/images/000/35/269/35269_500.jpg/melon/resize/48/quality/80/optimize
+90|665219|Intro|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+91|642427|사랑하기 좋은 날|장나라|10575|45305|나의 이야기|https://cdnimg.melon.co.kr/cm/album/images/000/45/305/45305_500.jpg/melon/resize/48/quality/80/optimize
+92|537208|흑백사진|KCM|45995|35465|Beautiful Mind|https://cdnimg.melon.co.kr/cm/album/images/000/35/465/35465_500.jpg/melon/resize/48/quality/80/optimize
+93|665223|Back To The Soul Flight (Interlude)|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+94|667279|봄날|캔디맨|101224|47236|봄날 OST|https://cdnimg.melon.co.kr/cm/album/images/000/47/236/47236_500.jpg/melon/resize/48/quality/80/optimize
+95|622082|雪の華 / Yukino Hana (박효신 '눈의 꽃' 원곡)|Nakashima Mika|52974|42298|Love|https://cdnimg.melon.co.kr/cm/album/images/000/42/298/42298_500.jpg/melon/resize/48/quality/80/optimize
+96|602461|일생을 (Remake)|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+97|622742|어머나!|장윤정|22836|43509|장윤정 - 어머나 !|https://cdnimg.melon.co.kr/cm/album/images/000/43/509/43509_500.jpg/melon/resize/48/quality/80/optimize
+98|623750|Lose My Breath|Destiny's Child|100686|43775|Destiny Fulfilled|https://cdnimg.melon.co.kr/cm/album/images/000/43/775/43775_500.jpg/melon/resize/48/quality/80/optimize
+99|665230|호랑나비|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize

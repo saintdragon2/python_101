@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3172166|가슴이 뛴다|케이윌|175139|1197653|가슴이 뛴다|https://cdnimg.melon.co.kr/cm/album/images/011/97/653/1197653_500.jpg/melon/resize/48/quality/80/optimize
+2|3164048|미친거니 (Feat. 방용국)|송지은|446200|1190551|미친거니|https://cdnimg.melon.co.kr/cm/album/images/011/90/551/1190551_500.jpg/melon/resize/48/quality/80/optimize
+3|3169779|직감|CNBLUE (씨엔블루)|450801|1195654|FIRST STEP|https://cdnimg.melon.co.kr/cm/album/images/011/95/654/1195654_500.jpg/melon/resize/48/quality/80/optimize
+4|3174148|가슴 시린 이야기 (Feat. 용준형 Of Beast)|휘성 (Realslow)|10577|1199451|가슴 시린 이야기|https://cdnimg.melon.co.kr/cm/album/images/011/99/451/1199451_500.jpg/melon/resize/48/quality/80/optimize
+5|3325048|나 항상 그대를 (With YB)|윤도현|923|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+6|3156950|TONIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+7|3138749|내꺼중에 최고|이현|429480|1168952|내꺼중에 최고|https://cdnimg.melon.co.kr/cm/album/images/011/68/952/1168952_500.jpg/melon/resize/48/quality/80/optimize
+8|3319849|반짝반짝|걸스데이|482762|1211952|Girl's Day Party #3|https://cdnimg.melon.co.kr/cm/album/images/012/11/952/1211952_500.jpg/melon/resize/48/quality/80/optimize
+9|3143550|나만 몰랐던 이야기|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+10|3156953|CAFE|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+11|3110565|톡톡 (Tok Tok) (Feat. SOYA)|마이티 마우스|239366|1143054|Mighty Fresh|https://cdnimg.melon.co.kr/cm/album/images/011/43/054/1143054_500.jpg/melon/resize/48/quality/80/optimize
+12|3293345|사랑은 똑같다|먼데이 키즈 (Monday Kiz)~가비엔제이|175155~174997|1205251|소울트레인 (Soul Train) Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/05/251/1205251_500.jpg/melon/resize/48/quality/80/optimize
+13|3156952|WHAT IS RIGHT|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+14|3111583|Black & White|지나|482640|1143954|Black & White|https://cdnimg.melon.co.kr/cm/album/images/011/43/954/1143954_500.jpg/melon/resize/48/quality/80/optimize
+15|638570|바람이 분다|이소라|983|45034|눈썹달|https://cdnimg.melon.co.kr/cm/album/images/000/45/034/45034_500.jpg/melon/resize/48/quality/80/optimize
+16|3145784|파파라치 (Feat. 에릭)|간미연|1636|1174452|Watch|https://cdnimg.melon.co.kr/cm/album/images/011/74/452/1174452_500.jpg/melon/resize/48/quality/80/optimize
+17|3174560|Brothers＆Me (With JYP & Rain)|김태우|182430|1199852|T-school|https://cdnimg.melon.co.kr/cm/album/images/011/99/852/1199852_500.jpg/melon/resize/48/quality/80/optimize
+18|3164251|이 밤이 지나면|먼데이 키즈 (Monday Kiz)|175155|1190752|Nostalgia Part.2|https://cdnimg.melon.co.kr/cm/album/images/011/90/752/1190752_500.jpg/melon/resize/48/quality/80/optimize
+19|3166756|가질 수 없는 너|현빈|57798|1193153|현빈, 가질 수 없는 너|https://cdnimg.melon.co.kr/cm/album/images/011/93/153/1193153_500.jpg/melon/resize/48/quality/80/optimize
+20|3140874|Dreaming|김수현|8433|1170953|드림하이 OST|https://cdnimg.melon.co.kr/cm/album/images/011/70/953/1170953_500.jpg/melon/resize/48/quality/80/optimize
+21|3051244|좋은 날|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+22|3110148|잘 된 일이야|나비|242868|1142651|Hello|https://cdnimg.melon.co.kr/cm/album/images/011/42/651/1142651_500.jpg/melon/resize/48/quality/80/optimize
+23|3325187|비오는 날의 수채화|박정현|1099|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+24|3325191|짝사랑|정엽|265067|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+26|3089448|샤이보이|시크릿|435121|1125351|샤이보이|https://cdnimg.melon.co.kr/cm/album/images/011/25/351/1125351_500.jpg/melon/resize/48/quality/80/optimize
+27|3173249|이런 쓰레기 같은...|엠투엠 (M To M)|108581|1198752|이런 쓰레기같은...|https://cdnimg.melon.co.kr/cm/album/images/011/98/752/1198752_500.jpg/melon/resize/48/quality/80/optimize
+28|3329348|It's Beautiful|윤하 (YOUNHA)|203912|1221251|It's Beautiful|https://cdnimg.melon.co.kr/cm/album/images/012/21/251/1221251_500.jpg/melon/resize/48/quality/80/optimize
+29|3118780|하루하루|김보경 (NEON)|60829|1150353|The First Day|https://cdnimg.melon.co.kr/cm/album/images/011/50/353/1150353_500.jpg/melon/resize/48/quality/80/optimize
+30|3174348|Nothing's Over|인피니트|476181|1199651|Inspirit|https://cdnimg.melon.co.kr/cm/album/images/011/99/651/1199651_500.jpg/melon/resize/48/quality/80/optimize
+31|3176283|고작|SG 워너비|108363|1201154|SG Wannabe 7 Part.2|https://cdnimg.melon.co.kr/cm/album/images/012/01/154/1201154_500.jpg/melon/resize/48/quality/80/optimize
+32|3174006|한사람|다비치|236815|1199261|웃어요, 엄마 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/011/99/261/1199261_500.jpg/melon/resize/48/quality/80/optimize
+33|3156951|SOMEBODY TO LOVE|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+34|3327061|아무일도 없었다|정엽|265067|1218952|49일 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/012/18/952/1218952_500.jpg/melon/resize/48/quality/80/optimize
+35|3325188|그대 모습은 장미|김범수|6502|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+36|3156949|HANDS UP|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+37|3287401|봄처럼|김보경 (NEON)|60829|1205151|봄처럼|https://cdnimg.melon.co.kr/cm/album/images/012/05/151/1205151_500.jpg/melon/resize/48/quality/80/optimize
+38|3325102|무시로|백지영|1118|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+39|432309|꿈에|박정현|1099|16456|박정현 Op.4|https://cdnimg.melon.co.kr/cm/album/images/000/16/456/16456_500.jpg/melon/resize/48/quality/80/optimize
+40|3325190|너에게로 또 다시|이소라|983|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+41|3106066|처음 사랑하는 연인들을 위해 (반말송)|정용화 (CNBLUE)|20908|1139654|처음 사랑하는 연인들을 위해 (부제: 반말송)|https://cdnimg.melon.co.kr/cm/album/images/011/39/654/1139654_500.jpg/melon/resize/48/quality/80/optimize
+42|3088249|Someday|아이유|261143|1124351|드림하이 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/24/351/1124351_500.jpg/melon/resize/48/quality/80/optimize
+43|3145655|잔혹동화|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+44|3087888|Supa Dupa Diva|달샤벳|514619|1123990|Supa Dupa Diva|https://cdnimg.melon.co.kr/cm/album/images/011/23/990/1123990_500.jpg/melon/resize/48/quality/80/optimize
+45|3176989|이것만은 알고 가 (Before U Go)|동방신기 (TVXQ!)|108316|1201353|왜 (Keep Your Head Down) REPACKAGE '이것만은 알고 가'|https://cdnimg.melon.co.kr/cm/album/images/012/01/353/1201353_500.jpg/melon/resize/48/quality/80/optimize
+46|3065250|Oh Yeah (Feat. 박봄)|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+47|3164052|그대가 있어 웃는다|나윤권|58979|1190553|그대가 있어 웃는다|https://cdnimg.melon.co.kr/cm/album/images/011/90/553/1190553_500.jpg/melon/resize/48/quality/80/optimize
+48|3175334|Here I Am|제국의아이들 (ZE:A)|449941|1200556|Lovability|https://cdnimg.melon.co.kr/cm/album/images/012/00/556/1200556_500.jpg/melon/resize/48/quality/80/optimize
+49|3168699|애원 (R&B Ver.)|버블 시스터즈|105696|1194670|Soul Rebirth Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/94/670/1194670_500.jpg/melon/resize/48/quality/80/optimize
+50|3170662|너란 사람|SG 워너비|108363|1196452|가시나무 새 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/96/452/1196452_500.jpg/melon/resize/48/quality/80/optimize
+51|3165406|심장이 춤춘다 (Feat. 슈프림팀)|김소리|1823|1191761|심장이 춤춘다|https://cdnimg.melon.co.kr/cm/album/images/011/91/761/1191761_500.jpg/melon/resize/48/quality/80/optimize

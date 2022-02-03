@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+2|4381724|그대가 분다|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+3|4375626|My Destiny|린|8530|2223343|별에서 온 그대 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/23/343/2223343_500.jpg/melon/resize/48/quality/80/optimize
+4|4366156|Dali, Van, Picasso|빈지노 (Beenzino)|532029|2222076|Dali, Van, Picasso|https://cdnimg.melon.co.kr/cm/album/images/022/22/076/2222076_500.jpg/melon/resize/48/quality/80/optimize
+5|4367874|너를|브라운 아이드 소울|107728|2222342|Thank Your Soul|https://cdnimg.melon.co.kr/cm/album/images/022/22/342/2222342_500.jpg/melon/resize/48/quality/80/optimize
+6|4354180|겨울 고백|성시경~박효신~서인국~VIXX (빅스)~여동생|3305~1191~436700~672560~747054|2220514|Jelly Christmas 2013|https://cdnimg.melon.co.kr/cm/album/images/022/20/514/2220514_500.jpg/melon/resize/48/quality/80/optimize
+7|4342054|이별남녀|서인국~지아|436700~227595|2218964|이별남녀|https://cdnimg.melon.co.kr/cm/album/images/022/18/964/2218964_500.jpg/melon/resize/48/quality/80/optimize
+8|4381721|그때 우리|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+9|4340421|Special Love|휘성 (Realslow)~거미|10577~30358|2218690|Special Love|https://cdnimg.melon.co.kr/cm/album/images/022/18/690/2218690_500.jpg/melon/resize/48/quality/80/optimize
+10|4372791|그런 줄 알았어|지아|227595|2223030|그런 줄 알았어|https://cdnimg.melon.co.kr/cm/album/images/022/23/030/2223030_500.jpg/melon/resize/48/quality/80/optimize
+11|4333566|너 밖에 몰라 (One Way Love)|효린|573812|2217251|LOVE&HATE|https://cdnimg.melon.co.kr/cm/album/images/022/17/251/2217251_500.jpg/melon/resize/48/quality/80/optimize
+12|3174148|가슴 시린 이야기 (Feat. 용준형 Of Beast)|휘성 (Realslow)|10577|1199451|가슴 시린 이야기|https://cdnimg.melon.co.kr/cm/album/images/011/99/451/1199451_500.jpg/melon/resize/48/quality/80/optimize
+13|4300699|너에게|성시경|3305|2213824|응답하라 1994 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/13/824/2213824_500.jpg/melon/resize/48/quality/80/optimize
+14|4381725|백야|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+15|4328659|그리워해요|2NE1|406712|2217249|그리워해요|https://cdnimg.melon.co.kr/cm/album/images/022/17/249/2217249_500.jpg/melon/resize/48/quality/80/optimize
+16|4362019|너에게만|범키~버벌진트|623851~6985|2221564|듀스 20주년 헌정앨범 Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/21/564/2221564_500.jpg/melon/resize/48/quality/80/optimize
+17|4380131|그렇게 당해놓고 (Feat. 마부스 Of 일렉트로보이즈)|임창정|1142|2223824|용감한형제 10주년 앨범 Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/23/824/2223824_500.jpg/melon/resize/48/quality/80/optimize
+18|4347674|12월의 기적 (Miracles In December)|EXO|724619|2219671|겨울 스페셜 앨범 '12월의 기적 (Miracles In December)'|https://cdnimg.melon.co.kr/cm/album/images/022/19/671/2219671_500.jpg/melon/resize/48/quality/80/optimize
+19|4383773|Something|걸스데이|482762|2224342|걸스데이 미니앨범 3집|https://cdnimg.melon.co.kr/cm/album/images/022/24/342/2224342_500.jpg/melon/resize/48/quality/80/optimize
+20|4312933|향기만 남아|허각|28801|2215345|Reminisce|https://cdnimg.melon.co.kr/cm/album/images/022/15/345/2215345_500.jpg/melon/resize/48/quality/80/optimize
+21|4296990|눈물이 맘을 훔쳐서|에일리(Ailee)|629831|2213351|비밀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/13/351/2213351_500.jpg/melon/resize/48/quality/80/optimize
+22|4308010|Hush|미쓰에이|481481|2214670|Hush|https://cdnimg.melon.co.kr/cm/album/images/022/14/670/2214670_500.jpg/melon/resize/48/quality/80/optimize
+23|2903041|결혼까지 생각했어|휘성 (Realslow)|10577|1000465|Realslow Is Back|https://cdnimg.melon.co.kr/cm/album/images/010/00/465/1000465_500.jpg/melon/resize/48/quality/80/optimize
+24|4381723|퇴근길|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+25|4369884|천국 (Feat. 이영현, 신용재 Of 포맨, 임세준, 원지 Of 벨라포)|바이브|160080|2222592|천국|https://cdnimg.melon.co.kr/cm/album/images/022/22/592/2222592_500.jpg/melon/resize/48/quality/80/optimize
+26|4309790|편지|다비치|236815|2214910|DAVICHI CODE|https://cdnimg.melon.co.kr/cm/album/images/022/14/910/2214910_500.jpg/melon/resize/48/quality/80/optimize
+27|4328770|이별식탁 (Feat. 산체스 Of 팬텀)|San E|402526|2217261|'Not' Based On The True Story|https://cdnimg.melon.co.kr/cm/album/images/022/17/261/2217261_500.jpg/melon/resize/48/quality/80/optimize
+28|4333556|꾸리스마스|크레용팝|685904|2217867|꾸리스마스|https://cdnimg.melon.co.kr/cm/album/images/022/17/867/2217867_500.jpg/melon/resize/48/quality/80/optimize
+29|4333791|코끝에 겨울|어반자카파|420527|2217893|[03]|https://cdnimg.melon.co.kr/cm/album/images/022/17/893/2217893_500.jpg/melon/resize/48/quality/80/optimize
+30|4340248|행복한 나를|김예림 (Lim Kim)|643851|2218661|응답하라 1994 OST Part 5|https://cdnimg.melon.co.kr/cm/album/images/022/18/661/2218661_500.jpg/melon/resize/48/quality/80/optimize
+31|4381720|입술의 말|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+32|4359786|너만을 느끼며|정우~유연석~손호준|747522~747523~747524|2221230|응답하라 1994 OST Part 7|https://cdnimg.melon.co.kr/cm/album/images/022/21/230/2221230_500.jpg/melon/resize/48/quality/80/optimize
+33|4294284|내일은 없어|트러블메이커|591031|2212999|Chemistry|https://cdnimg.melon.co.kr/cm/album/images/022/12/999/2212999_500.jpg/melon/resize/48/quality/80/optimize
+34|4381727|하루만 빌려줘|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+35|4371456|I Love You|알리 (ALi)~임재범|312266~4838|2222847|I Love You|https://cdnimg.melon.co.kr/cm/album/images/022/22/847/2222847_500.jpg/melon/resize/48/quality/80/optimize
+36|4330549|가질 수 없는 너|하이니 (HiNi)|697113|2217492|응답하라 1994 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/17/492/2217492_500.jpg/melon/resize/48/quality/80/optimize
+37|4364332|향수|케이윌~전우성 (노을)|175139~30348|2221856|이단옆차기 프로젝트 Vol.04|https://cdnimg.melon.co.kr/cm/album/images/022/21/856/2221856_500.jpg/melon/resize/48/quality/80/optimize
+38|4382254|La Song|비|17671|2224109|Rain Effect|https://cdnimg.melon.co.kr/cm/album/images/022/24/109/2224109_500.jpg/melon/resize/48/quality/80/optimize
+39|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize
+40|4320843|DOOM DADA|T.O.P|152192|2216254|DOOM DADA|https://cdnimg.melon.co.kr/cm/album/images/022/16/254/2216254_500.jpg/melon/resize/48/quality/80/optimize
+41|4237755|착해 빠졌어 (Stupid In Love)|소유 (SOYOU)~매드클라운|490981~219621|2200521|착해 빠졌어 (Stupid In Love)|https://cdnimg.melon.co.kr/cm/album/images/022/00/521/2200521_500.jpg/melon/resize/48/quality/80/optimize
+42|4378156|19금 불도저 (Bulldozer)|스윙스|236970|2223579|Double Single (Bulldozer)|https://cdnimg.melon.co.kr/cm/album/images/022/23/579/2223579_500.jpg/melon/resize/48/quality/80/optimize
+43|4268435|분홍신|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+44|4314704|It's You|박효신|1191|2215539|미래의 선택 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/15/539/2215539_500.jpg/melon/resize/48/quality/80/optimize
+45|4349964|날 위한 이별|디아|400343|2219964|응답하라 1994 OST Part 6|https://cdnimg.melon.co.kr/cm/album/images/022/19/964/2219964_500.jpg/melon/resize/48/quality/80/optimize
+46|4369898|시작|고아라|616451|2222596|응답하라 1994 OST Part 8|https://cdnimg.melon.co.kr/cm/album/images/022/22/596/2222596_500.jpg/melon/resize/48/quality/80/optimize
+47|4300927|링가 링가 (RINGA LINGA)|태양|247621|2213862|RINGA LINGA|https://cdnimg.melon.co.kr/cm/album/images/022/13/862/2213862_500.jpg/melon/resize/48/quality/80/optimize
+48|4232200|삐딱하게 (Crooked)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+49|3893169|홀로 (Feat. 김나영)|정키|570731|2148411|Break Up|https://cdnimg.melon.co.kr/cm/album/images/021/48/411/2148411_500.jpg/melon/resize/48/quality/80/optimize
+50|4282710|미스터리 (Feat. San E)|박지윤|1121|2211402|미스터 (Mr.)|https://cdnimg.melon.co.kr/cm/album/images/022/11/402/2211402_500.jpg/melon/resize/48/quality/80/optimize

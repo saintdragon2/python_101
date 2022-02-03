@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|4282578|촌스럽게 왜 이래 (You Don't Know Love)|케이윌|175139|2211378|Will In Fall|https://cdnimg.melon.co.kr/cm/album/images/022/11/378/2211378_500.jpg/melon/resize/48/quality/80/optimize
+2|4268435|분홍신|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+3|4282710|미스터리 (Feat. San E)|박지윤|1121|2211402|미스터 (Mr.)|https://cdnimg.melon.co.kr/cm/album/images/022/11/402/2211402_500.jpg/melon/resize/48/quality/80/optimize
+4|4252728|처음엔 사랑이란게|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+5|4249547|나란놈이란|임창정|1142|2201988|나란놈이란|https://cdnimg.melon.co.kr/cm/album/images/022/01/988/2201988_500.jpg/melon/resize/48/quality/80/optimize
+6|4237755|착해 빠졌어 (Stupid In Love)|소유 (SOYOU)~매드클라운|490981~219621|2200521|착해 빠졌어 (Stupid In Love)|https://cdnimg.melon.co.kr/cm/album/images/022/00/521/2200521_500.jpg/melon/resize/48/quality/80/optimize
+7|4232200|삐딱하게 (Crooked)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+8|4252726|잘할 걸|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+9|4271833|넘버나인 (No.9)|티아라|412000|2209941|Again|https://cdnimg.melon.co.kr/cm/album/images/022/09/941/2209941_500.jpg/melon/resize/48/quality/80/optimize
+10|4221128|Touch Love|윤미래|1654|2198610|주군의 태양 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/98/610/2198610_500.jpg/melon/resize/48/quality/80/optimize
+11|4252727|사랑은 타이밍|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+12|4279327|유후(U Who?) (Feat. San E)|유승우|699637|2210963|유후 (U Who?)|https://cdnimg.melon.co.kr/cm/album/images/022/10/963/2210963_500.jpg/melon/resize/48/quality/80/optimize
+13|4262252|Very Good|블락비 (Block B)|532201|2201942|Very Good|https://cdnimg.melon.co.kr/cm/album/images/022/01/942/2201942_500.jpg/melon/resize/48/quality/80/optimize
+14|4271854|이별 10분 전|정준영|25869|2203531|1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/022/03/531/2203531_500.jpg/melon/resize/48/quality/80/optimize
+15|4268433|누구나 비밀은 있다 (Feat. 가인 Of Brown Eyed Girls)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+16|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize
+17|4230002|예뻐 예뻐|레이디스 코드|718807|2199646|CODE#02 PRETTY PRETTY|https://cdnimg.melon.co.kr/cm/album/images/021/99/646/2199646_500.jpg/melon/resize/48/quality/80/optimize
+18|4274230|Everybody|SHINee (샤이니)|247639|2210329|The 5th Mini Album 'Everybody'|https://cdnimg.melon.co.kr/cm/album/images/022/10/329/2210329_500.jpg/melon/resize/48/quality/80/optimize
+19|-1|살다가|김진호 (SG워너비)|259768|2210534|불후의 명곡 - 전설을 노래하다 (추모연가 7편)|https://cdnimg.melon.co.kr/cm/album/images/022/10/534/2210534_500.jpg/melon/resize/48/quality/80/optimize
+20|4226211|니가 뭔데 (Who You?)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+21|4282579|니가 아닌 것 같아 (It's Not You)|케이윌|175139|2211378|Will In Fall|https://cdnimg.melon.co.kr/cm/album/images/022/11/378/2211378_500.jpg/melon/resize/48/quality/80/optimize
+22|4226210|Black (Feat. 제니 of BLACKPINK)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+23|4192787|아는사람 얘기|San E|402526|2195252|아는사람 얘기|https://cdnimg.melon.co.kr/cm/album/images/021/95/252/2195252_500.jpg/melon/resize/48/quality/80/optimize
+24|4252730|그대 입술이 (With 채지연 - 풋풋)|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+25|4252729|시원한 여자|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+26|3953196|만약에 말야 (전우성 Solo)|노을|105623|2165918|TIME FOR LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/65/918/2165918_500.jpg/melon/resize/48/quality/80/optimize
+27|4287434|거꾸로 걷는다|어반자카파|420527|2212123|거꾸로 걷는다|https://cdnimg.melon.co.kr/cm/album/images/022/12/123/2212123_500.jpg/melon/resize/48/quality/80/optimize
+28|4264912|나를 사랑해줘 (Feat. 개코 Of 다이나믹 듀오)|서인영|26265|2206048|나를 사랑해줘|https://cdnimg.melon.co.kr/cm/album/images/022/06/048/2206048_500.jpg/melon/resize/48/quality/80/optimize
+29|4205993|갖고놀래 (Feat. 다이나믹 듀오)|범키|623851|2196906|갖고놀래|https://cdnimg.melon.co.kr/cm/album/images/021/96/906/2196906_500.jpg/melon/resize/48/quality/80/optimize
+30|4268432|을의 연애 (With 박주원)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+31|4212782|미치게 만들어|효린|573812|2197684|주군의 태양 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/97/684/2197684_500.jpg/melon/resize/48/quality/80/optimize
+32|4163116|NoNoNo|Apink (에이핑크)|534360|2191397|Secret Garden|https://cdnimg.melon.co.kr/cm/album/images/021/91/397/2191397_500.jpg/melon/resize/48/quality/80/optimize
+33|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+34|4252733|밤|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+35|4092360|봉숙이|장미여관|578231|2182180|산전수전 공중전|https://cdnimg.melon.co.kr/cm/album/images/021/82/180/2182180_500.jpg/melon/resize/48/quality/80/optimize
+36|4268434|입술 사이 (50cm)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+37|4247632|겁도 없이|서인국|436700|2201724|주군의 태양 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/01/724/2201724_500.jpg/melon/resize/48/quality/80/optimize
+38|4252731|줄리엣|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+39|4268436|Modern Times|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+40|4277805|그때로 가고싶다|김보경 (NEON)|60829|2210759|비밀 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/10/759/2210759_500.jpg/melon/resize/48/quality/80/optimize
+41|4252732|아름다운 나이|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+42|3948908|씨스루 (Feat. Zion.T, 개코 Of 다이나믹듀오)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+43|4282611|서울 이곳은|로이킴|699632|2211383|응답하라 1994 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/11/383/2211383_500.jpg/melon/resize/48/quality/80/optimize
+44|4148967|빠빠빠|크레용팝|685904|2189686|빠빠빠|https://cdnimg.melon.co.kr/cm/album/images/021/89/686/2189686_500.jpg/melon/resize/48/quality/80/optimize
+45|4259861|그대여|먼데이 키즈 (Monday Kiz)|175155|2203427|Unfinished|https://cdnimg.melon.co.kr/cm/album/images/022/03/427/2203427_500.jpg/melon/resize/48/quality/80/optimize
+46|4142913|My Love|이승철|1010|2188937|MY LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/88/937/2188937_500.jpg/melon/resize/48/quality/80/optimize
+47|4130922|미친연애 (Bad Girl) (Feat. E-Sens Of 슈프림팀)|범키|623851|2187466|미친연애|https://cdnimg.melon.co.kr/cm/album/images/021/87/466/2187466_500.jpg/melon/resize/48/quality/80/optimize
+48|4212184|24시간이 모자라|선미|22938|2197599|24시간이 모자라|https://cdnimg.melon.co.kr/cm/album/images/021/97/599/2197599_500.jpg/melon/resize/48/quality/80/optimize
+49|4276080|스물다섯, 스물하나|자우림|100094|2210557|Goodbye, grief.|https://cdnimg.melon.co.kr/cm/album/images/022/10/557/2210557_500.jpg/melon/resize/48/quality/80/optimize
+50|4262132|불치병 (Feat. 키비 Of 이루펀트)|나비|242868|2203948|비밀 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/03/948/2203948_500.jpg/melon/resize/48/quality/80/optimize

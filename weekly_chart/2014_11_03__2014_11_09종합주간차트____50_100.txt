@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|5424619|바람|god|100007|2286916|Thanks Edition '바람'|https://cdnimg.melon.co.kr/cm/album/images/022/86/916/2286916_500.jpg/melon/resize/48/quality/80/optimize
+52|5430793|나타나 주라|2AM|253866|2286911|Let's Talk|https://cdnimg.melon.co.kr/cm/album/images/022/86/911/2286911_500.jpg/melon/resize/48/quality/80/optimize
+53|5376645|가드올리고 Bounce|BOBBY|742763|2281306|쇼미더머니3 Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/81/306/2281306_500.jpg/melon/resize/48/quality/80/optimize
+54|4764928|HER|블락비 (Block B)|532201|2250057|HER|https://cdnimg.melon.co.kr/cm/album/images/022/50/057/2250057_500.jpg/melon/resize/48/quality/80/optimize
+55|5406933|예쁜 나이 25살|송지은|446200|2285092|25 (스물 다섯)|https://cdnimg.melon.co.kr/cm/album/images/022/85/092/2285092_500.jpg/melon/resize/48/quality/80/optimize
+56|4840373|I Swear|씨스타|473181|2277388|Special Album 'SWEET & SOUR'|https://cdnimg.melon.co.kr/cm/album/images/022/77/388/2277388_500.jpg/melon/resize/48/quality/80/optimize
+57|2733249|죽을 만큼 아파서 (Feat. 멜로우)|MC몽|11538|935651|블루브랜드 Trauma Part 2|https://cdnimg.melon.co.kr/cm/album/images/009/35/651/935651_500.jpg/melon/resize/48/quality/80/optimize
+58|5387875|설렘주의|NS 윤지~기리보이|433746~585492|2282756|설렘주의|https://cdnimg.melon.co.kr/cm/album/images/022/82/756/2282756_500.jpg/melon/resize/48/quality/80/optimize
+59|-1|Maps|Maroon 5|107721|2261073|Maps|https://cdnimg.melon.co.kr/cm/album/images/022/61/073/2261073_500.jpg/melon/resize/48/quality/80/optimize
+60|4756304|Touch My Body|씨스타|473181|2268221|TOUCH N MOVE|https://cdnimg.melon.co.kr/cm/album/images/022/68/221/2268221_500.jpg/melon/resize/48/quality/80/optimize
+61|5424572|오늘따라|2AM|253866|2286911|Let's Talk|https://cdnimg.melon.co.kr/cm/album/images/022/86/911/2286911_500.jpg/melon/resize/48/quality/80/optimize
+62|5400358|내 사람|김동률|925|2284244|동행|https://cdnimg.melon.co.kr/cm/album/images/022/84/244/2284244_500.jpg/melon/resize/48/quality/80/optimize
+63|1490825|어떻게 사랑이 그래요|이승환|26|331503|Hwantastic|https://cdnimg.melon.co.kr/cm/album/images/003/31/503/331503_500.jpg/melon/resize/48/quality/80/optimize
+64|5413257|Drive|비스트|436981|2285785|TIME|https://cdnimg.melon.co.kr/cm/album/images/022/85/785/2285785_500.jpg/melon/resize/48/quality/80/optimize
+65|4743561|Tell Me If You Wanna Go Home|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+66|5408662|너 하나만|김태우|182430|2285305|내겐 너무 사랑스러운 그녀 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/85/305/2285305_500.jpg/melon/resize/48/quality/80/optimize
+67|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+68|4734486|Darling|걸스데이|482762|2265934|GIRL'S DAY EVERYDAY #4|https://cdnimg.melon.co.kr/cm/album/images/022/65/934/2265934_500.jpg/melon/resize/48/quality/80/optimize
+69|4779294|괜찮아 사랑이야|다비치|236815|2270673|괜찮아 사랑이야 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/70/673/2270673_500.jpg/melon/resize/48/quality/80/optimize
+70|5421435|AMOR FATI (Feat. 김종완 Of 넬)|에픽하이 (EPIK HIGH)|108356|2286432|신발장|https://cdnimg.melon.co.kr/cm/album/images/022/86/432/2286432_500.jpg/melon/resize/48/quality/80/optimize
+71|5443139|외침|디오 (D.O.)|672853|2288729|카트 OST|https://cdnimg.melon.co.kr/cm/album/images/022/88/729/2288729_500.jpg/melon/resize/48/quality/80/optimize
+72|4711007|애타는 마음|울랄라세션~아이유|569214~261143|2263452|애타는 마음|https://cdnimg.melon.co.kr/cm/album/images/022/63/452/2263452_500.jpg/melon/resize/48/quality/80/optimize
+73|4586092|너 사용법|에디킴|601979|2249449|너 사용법|https://cdnimg.melon.co.kr/cm/album/images/022/49/449/2249449_500.jpg/melon/resize/48/quality/80/optimize
+74|4832150|A Real Man|스윙스~에일리(Ailee)|236970~629831|2276500|스윙스, 에일리 Digital Single 'A Real Man'|https://cdnimg.melon.co.kr/cm/album/images/022/76/500/2276500_500.jpg/melon/resize/48/quality/80/optimize
+75|5442679|바람이 분다|김필|561051|2288684|슈퍼스타K6 TOP11 Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/88/684/2288684_500.jpg/melon/resize/48/quality/80/optimize
+76|4230004|I'm Fine Thank You|레이디스 코드|718807|2199646|CODE#02 PRETTY PRETTY|https://cdnimg.melon.co.kr/cm/album/images/021/99/646/2199646_500.jpg/melon/resize/48/quality/80/optimize
+77|4544242|그 중에 그대를 만나|이선희|966|2244913|15집 'SERENDIPITY' 30주년 기념앨범|https://cdnimg.melon.co.kr/cm/album/images/022/44/913/2244913_500.jpg/melon/resize/48/quality/80/optimize
+78|4828024|L4L (Lookin' For Luv) (Feat. Dok2 & The Quiett)|BOBBY|742763|2276091|쇼미더머니3 BOBBY vs 올티|https://cdnimg.melon.co.kr/cm/album/images/022/76/091/2276091_500.jpg/melon/resize/48/quality/80/optimize
+79|5450271|산다는 건 (Cheer Up)|홍진영|418700|2289464|인생노트 (LIFE NOTE)|https://cdnimg.melon.co.kr/cm/album/images/022/89/464/2289464_500.jpg/melon/resize/48/quality/80/optimize
+80|4433490|썸 (Feat. 릴보이 Of 긱스)|소유 (SOYOU)~정기고|490981~304967|2230890|썸|https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/48/quality/80/optimize
+81|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+82|5413259|눈을 감아도|비스트|436981|2285785|TIME|https://cdnimg.melon.co.kr/cm/album/images/022/85/785/2285785_500.jpg/melon/resize/48/quality/80/optimize
+83|4743571|A Step You Can’t Take Back|Keira Knightley|775915|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+84|4312955|거짓말 거짓말 거짓말|이적|1088|2215349|고독의 의미|https://cdnimg.melon.co.kr/cm/album/images/022/15/349/2215349_500.jpg/melon/resize/48/quality/80/optimize
+85|5421439|EYES NOSE LIPS (Feat. 태양)|에픽하이 (EPIK HIGH)|108356|2286432|신발장|https://cdnimg.melon.co.kr/cm/album/images/022/86/432/2286432_500.jpg/melon/resize/48/quality/80/optimize
+86|-1|제발|윤민수(바이브)~신용재 (2F)|151315~510537|2285338|불후의 명곡 - 전설을 노래하다 (최강 듀엣 특집)|https://cdnimg.melon.co.kr/cm/album/images/022/85/338/2285338_500.jpg/melon/resize/48/quality/80/optimize
+87|5408541|Error|VIXX (빅스)|672560|2285282|Error|https://cdnimg.melon.co.kr/cm/album/images/022/85/282/2285282_500.jpg/melon/resize/48/quality/80/optimize
+88|4762446|최고의 행운|첸 (CHEN)|715176|2268823|괜찮아 사랑이야 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/68/823/2268823_500.jpg/melon/resize/48/quality/80/optimize
+89|5413258|좋은 일이야|비스트|436981|2285785|TIME|https://cdnimg.melon.co.kr/cm/album/images/022/85/785/2285785_500.jpg/melon/resize/48/quality/80/optimize
+90|5383102|Holler|소녀시대-태티서 (Girls' Generation-TTS)|663691|2281922|The 2nd Mini Album 'Holler'|https://cdnimg.melon.co.kr/cm/album/images/022/81/922/2281922_500.jpg/melon/resize/48/quality/80/optimize
+91|5447971|널 사랑한 시간에|XIA (준수)|52607|2289245|미스터 백 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/89/245/2289245_500.jpg/melon/resize/48/quality/80/optimize
+92|5414970|Christmalo.win|서태지|1868|2285308|Quiet Night|https://cdnimg.melon.co.kr/cm/album/images/022/85/308/2285308_500.jpg/melon/resize/48/quality/80/optimize
+93|4785453|19금 Body Language (Feat. 범키)|San E|402526|2271317|Body Language|https://cdnimg.melon.co.kr/cm/album/images/022/71/317/2271317_500.jpg/melon/resize/48/quality/80/optimize
+94|5421426|막을 올리며|에픽하이 (EPIK HIGH)|108356|2286432|신발장|https://cdnimg.melon.co.kr/cm/album/images/022/86/432/2286432_500.jpg/melon/resize/48/quality/80/optimize
+95|5440792|고스트 (GHOST)|스피카|615471|2288488|Autumn X Sweetune Special 고스트 (Ghost)|https://cdnimg.melon.co.kr/cm/album/images/022/88/488/2288488_500.jpg/melon/resize/48/quality/80/optimize
+96|5431145|슬픔을 참는 세 가지 방법 (Feat. 딘딘)|혜령|32201|2287570|슬픔을 참는 세 가지 방법 (Feat. 딘딘)|https://cdnimg.melon.co.kr/cm/album/images/022/87/570/2287570_500.jpg/melon/resize/48/quality/80/optimize
+97|5445197|미운 나|어반자카파|420527|2288961|[04]|https://cdnimg.melon.co.kr/cm/album/images/022/88/961/2288961_500.jpg/melon/resize/48/quality/80/optimize
+98|5413260|가까이 (Stay)|비스트|436981|2285785|TIME|https://cdnimg.melon.co.kr/cm/album/images/022/85/785/2285785_500.jpg/melon/resize/48/quality/80/optimize
+99|5440784|여자친구 (Feat. 바비킴, 정엽 (Chorus))|유니크노트 (Uniqnote)|789101|2288485|여자친구|https://cdnimg.melon.co.kr/cm/album/images/022/88/485/2288485_500.jpg/melon/resize/48/quality/80/optimize
+100|5421440|신발장 (Feat. MYK)|에픽하이 (EPIK HIGH)|108356|2286432|신발장|https://cdnimg.melon.co.kr/cm/album/images/022/86/432/2286432_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|31286161|사이렌 (Siren)|선미|22938|10200838|WARNING|https://cdnimg.melon.co.kr/cm/album/images/102/00/838/10200838_500.jpg/melon/resize/48/quality/80/optimize
+2|31151836|Way Back Home|숀 (SHAUN)|510242|10179508|Take|https://cdnimg.melon.co.kr/cm/album/images/101/79/508/10179508_500.jpg/melon/resize/48/quality/80/optimize
+3|31302310|헤어지는 중|펀치 (Punch)|749640|10203500|헤어지는 중|https://cdnimg.melon.co.kr/cm/album/images/102/03/500/10203500_500.jpg/melon/resize/48/quality/80/optimize
+4|30962526|모든 날, 모든 순간 (Every day, Every Moment)|폴킴|752425|10149492|'키스 먼저 할까요?' OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/48/quality/80/optimize
+5|31266290|IDOL|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+6|31062863|열애중|벤|655051|10164839|RECIPE|https://cdnimg.melon.co.kr/cm/album/images/101/64/839/10164839_500.jpg/melon/resize/48/quality/80/optimize
+7|31230093|Power Up|Red Velvet (레드벨벳)|780066|10191694|Summer Magic - Summer Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/91/694/10191694_500.jpg/melon/resize/48/quality/80/optimize
+8|31131273|뚜두뚜두 (DDU-DU DDU-DU)|BLACKPINK|995169|10176415|SQUARE UP|https://cdnimg.melon.co.kr/cm/album/images/101/76/415/10176415_500.jpg/melon/resize/48/quality/80/optimize
+9|31175119|Dance The Night Away|TWICE (트와이스)|905701|10183127|Summer Nights|https://cdnimg.melon.co.kr/cm/album/images/101/83/127/10183127_500.jpg/melon/resize/48/quality/80/optimize
+10|31189241|너나 해 (Egotistic)|마마무 (Mamamoo)|750053|10185416|RED MOON|https://cdnimg.melon.co.kr/cm/album/images/101/85/416/10185416_500.jpg/melon/resize/48/quality/80/optimize
+11|31215747|SoulMate (Feat. 아이유)|지코 (ZICO)|602056|10189402|SoulMate|https://cdnimg.melon.co.kr/cm/album/images/101/89/402/10189402_500.jpg/melon/resize/48/quality/80/optimize
+12|31288765|몰랐니 (Lil' Touch)|소녀시대-Oh!GG|2296946|10201272|몰랐니 - The 1st Single Album|https://cdnimg.melon.co.kr/cm/album/images/102/01/272/10201272_500.jpg/melon/resize/48/quality/80/optimize
+13|31266289|I'm Fine|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+14|31263577|매트리스|10CM|468244|10196980|4.1|https://cdnimg.melon.co.kr/cm/album/images/101/96/980/10196980_500.jpg/melon/resize/48/quality/80/optimize
+15|31093710|여행|볼빨간사춘기|792022|10170069|Red Diary Page.2|https://cdnimg.melon.co.kr/cm/album/images/101/70/069/10170069_500.jpg/melon/resize/48/quality/80/optimize
+16|31246870|한(一)|(여자)아이들|2137482|10194362|한(一)|https://cdnimg.melon.co.kr/cm/album/images/101/94/362/10194362_500.jpg/melon/resize/48/quality/80/optimize
+17|30699142|지나오다|닐로(Nilo)|896096|10106853|About You|https://cdnimg.melon.co.kr/cm/album/images/101/06/853/10106853_500.jpg/melon/resize/48/quality/80/optimize
+18|31085237|FAKE LOVE|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+19|31161280|1도 없어|Apink (에이핑크)|534360|10181013|ONE & SIX|https://cdnimg.melon.co.kr/cm/album/images/101/81/013/10181013_500.jpg/melon/resize/48/quality/80/optimize
+20|31280273|YOUNG|백현 (BAEKHYUN)~로꼬|672859~688432|10199959|YOUNG|https://cdnimg.melon.co.kr/cm/album/images/101/99/959/10199959_500.jpg/melon/resize/48/quality/80/optimize
+21|31131274|Forever Young|BLACKPINK|995169|10176415|SQUARE UP|https://cdnimg.melon.co.kr/cm/album/images/101/76/415/10176415_500.jpg/melon/resize/48/quality/80/optimize
+22|31164090|동화|멜로망스|839732|10181438|The Fairy Tale|https://cdnimg.melon.co.kr/cm/album/images/101/81/438/10181438_500.jpg/melon/resize/48/quality/80/optimize
+23|31266282|Euphoria|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+24|31199873|셋 셀테니 (1, 2, 3!)|승리|403841|10187129|THE GREAT SEUNGRI|https://cdnimg.melon.co.kr/cm/album/images/101/87/129/10187129_500.jpg/melon/resize/48/quality/80/optimize
+25|31035061|주지마|로꼬~화사 (Hwa Sa)|688432~756531|10160487|건반 위의 하이에나 Part.4|https://cdnimg.melon.co.kr/cm/album/images/101/60/487/10160487_500.jpg/melon/resize/48/quality/80/optimize
+26|30809895|미안해|양다일|695994|10123639|inside|https://cdnimg.melon.co.kr/cm/album/images/101/23/639/10123639_500.jpg/melon/resize/48/quality/80/optimize
+27|31133898|너 없인 안 된다|비투비|647971|10175106|THIS IS US|https://cdnimg.melon.co.kr/cm/album/images/101/75/106/10175106_500.jpg/melon/resize/48/quality/80/optimize
+28|8235260|비|폴킴|752425|2692501|비|https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/48/quality/80/optimize
+29|30859584|사랑을 했다 (LOVE SCENARIO)|iKON|895741|10132945|Return|https://cdnimg.melon.co.kr/cm/album/images/101/32/945/10132945_500.jpg/melon/resize/48/quality/80/optimize
+30|31194610|Love U|청하|968265|10186254|Blooming Blue|https://cdnimg.melon.co.kr/cm/album/images/101/86/254/10186254_500.jpg/melon/resize/48/quality/80/optimize
+31|30755375|그날처럼|장덕철|829211|10115186|그날처럼|https://cdnimg.melon.co.kr/cm/album/images/101/15/186/10115186_500.jpg/melon/resize/48/quality/80/optimize
+32|31224316|죽겠다 (KILLING ME)|iKON|895741|10190854|NEW KIDS : CONTINUE|https://cdnimg.melon.co.kr/cm/album/images/101/90/854/10190854_500.jpg/melon/resize/48/quality/80/optimize
+33|31085238|전하지 못한 진심 (Feat. Steve Aoki)|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+34|30669593|가을 안부|먼데이 키즈 (Monday Kiz)|175155|10102177|가을 안부|https://cdnimg.melon.co.kr/cm/album/images/101/02/177/10102177_500.jpg/melon/resize/48/quality/80/optimize
+35|30884950|그때 헤어지면 돼|로이킴|699632|10137574|그때 헤어지면 돼|https://cdnimg.melon.co.kr/cm/album/images/101/37/574/10137574_500.jpg/melon/resize/48/quality/80/optimize
+36|30849733|You|멜로망스|839732|10131018|투유 프로젝트 - 슈가맨2 Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/31/018/10131018_500.jpg/melon/resize/48/quality/80/optimize
+37|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+38|31266291|Answer : Love Myself|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+39|8111603|HandClap|Fitz & The Tantrums|750471|2675179|Fitz and The Tantrums (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/026/75/179/2675179_500.jpg/melon/resize/48/quality/80/optimize
+40|9642570|넋두리|닐로(Nilo)|896096|2710553|넋두리|https://cdnimg.melon.co.kr/cm/album/images/027/10/553/2710553_500.jpg/melon/resize/48/quality/80/optimize
+41|30721801|My Way|이수 (엠씨더맥스)|214784|10110396|돈꽃 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/101/10/396/10110396_500.jpg/melon/resize/48/quality/80/optimize
+42|30314784|밤편지|아이유|261143|10047890|밤편지|https://cdnimg.melon.co.kr/cm/album/images/100/47/890/10047890_500.jpg/melon/resize/48/quality/80/optimize
+43|30637982|DNA|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+44|30567963|Havana (Feat. Young Thug)|Camila Cabello|928017|10085877|Camila|https://cdnimg.melon.co.kr/cm/album/images/100/85/877/10085877_500.jpg/melon/resize/48/quality/80/optimize
+45|30514366|선물|멜로망스|839732|10078176|Moonlight|https://cdnimg.melon.co.kr/cm/album/images/100/78/176/10078176_500.jpg/melon/resize/48/quality/80/optimize
+46|31052421|밤 (Time for the moon night)|여자친구 (GFRIEND)|828478|10163106|여자친구 The 6th Mini Album 'Time for the moon night'|https://cdnimg.melon.co.kr/cm/album/images/101/63/106/10163106_500.jpg/melon/resize/48/quality/80/optimize
+47|31149418|BAAM|모모랜드 (MOMOLAND)|1221596|10179169|Fun to The World|https://cdnimg.melon.co.kr/cm/album/images/101/79/169/10179169_500.jpg/melon/resize/48/quality/80/optimize
+48|31266288|Epiphany|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+49|30188113|Shape of You|Ed Sheeran|549800|10028835|÷ (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/100/28/835/10028835_500.jpg/melon/resize/48/quality/80/optimize
+50|30937275|별이 빛나는 밤|마마무 (Mamamoo)|750053|10145303|Yellow Flower|https://cdnimg.melon.co.kr/cm/album/images/101/45/303/10145303_500.jpg/melon/resize/48/quality/80/optimize

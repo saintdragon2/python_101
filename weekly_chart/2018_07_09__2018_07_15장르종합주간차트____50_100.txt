@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|31046548|욕심|멜로망스|839732|10162211|욕심|https://cdnimg.melon.co.kr/cm/album/images/101/62/211/10162211_500.jpg/melon/resize/48/quality/80/optimize
+52|8235260|비|폴킴|752425|2692501|비|https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/48/quality/80/optimize
+53|31113243|모래시계 (Prod. 헤이즈)|Wanna One (워너원) - 더힐|2189928|10173365|1÷χ=1 (UNDIVIDED)|https://cdnimg.melon.co.kr/cm/album/images/101/73/365/10173365_500.jpg/melon/resize/48/quality/80/optimize
+54|4534974|Chandelier|Sia|54103|2243842|Chandelier (Single)|https://cdnimg.melon.co.kr/cm/album/images/022/43/842/2243842_500.jpg/melon/resize/48/quality/80/optimize
+55|31056799|잊을만하면|Crush|674710|10163835|잊을만하면|https://cdnimg.melon.co.kr/cm/album/images/101/63/835/10163835_500.jpg/melon/resize/48/quality/80/optimize
+56|30997649|EVERYDAY|WINNER|775197|10154916|EVERYD4Y|https://cdnimg.melon.co.kr/cm/album/images/101/54/916/10154916_500.jpg/melon/resize/48/quality/80/optimize
+57|30481578|마지막처럼|BLACKPINK|995169|10072696|마지막처럼|https://cdnimg.melon.co.kr/cm/album/images/100/72/696/10072696_500.jpg/melon/resize/48/quality/80/optimize
+58|30725482|Beautiful|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+59|31085243|Airplane pt.2|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+60|30393293|Thunder|Imagine Dragons|635412|10035055|Evolve|https://cdnimg.melon.co.kr/cm/album/images/100/35/055/10035055_500.jpg/melon/resize/48/quality/80/optimize
+61|30702937|우리 둘만 아는|윤건|14801|10107495|우리 둘만 아는|https://cdnimg.melon.co.kr/cm/album/images/101/07/495/10107495_500.jpg/melon/resize/48/quality/80/optimize
+62|31155216|그대만 보여서|김나영|735094|10180127|김비서가 왜 그럴까 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/101/80/127/10180127_500.jpg/melon/resize/48/quality/80/optimize
+63|30659630|밤이 되니까|펀치 (Punch)|749640|10100577|밤이 되니까|https://cdnimg.melon.co.kr/cm/album/images/101/00/577/10100577_500.jpg/melon/resize/48/quality/80/optimize
+64|30512671|빨간 맛 (Red Flavor)|Red Velvet (레드벨벳)|780066|10077879|The Red Summer - Summer Mini Album|https://cdnimg.melon.co.kr/cm/album/images/100/77/879/10077879_500.jpg/melon/resize/48/quality/80/optimize
+65|7928705|YOUTH|Troye Sivan|780919|2650433|Blue Neighbourhood (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/026/50/433/2650433_500.jpg/melon/resize/48/quality/80/optimize
+66|31085242|Magic Shop|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+67|30486509|좋니|윤종신|437|10073513|LISTEN 010 좋니|https://cdnimg.melon.co.kr/cm/album/images/100/73/513/10073513_500.jpg/melon/resize/48/quality/80/optimize
+68|31085241|Love Maze|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+69|31085240|낙원|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+70|30930312|약속해요 (I.P.U.)|Wanna One (워너원)|1865973|10144723|0+1=1 (I PROMISE YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/44/723/10144723_500.jpg/melon/resize/48/quality/80/optimize
+71|31085239|134340|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+72|31147211|Dejavu|뉴이스트 W|1816966|10178912|WHO, YOU|https://cdnimg.melon.co.kr/cm/album/images/101/78/912/10178912_500.jpg/melon/resize/48/quality/80/optimize
+73|31113242|영원+1 (Prod. NELL)|Wanna One (워너원) - 린온미|2189927|10173365|1÷χ=1 (UNDIVIDED)|https://cdnimg.melon.co.kr/cm/album/images/101/73/365/10173365_500.jpg/melon/resize/48/quality/80/optimize
+74|31009483|花요일 (Blooming Day)|EXO-CBX (첸백시)|1228017|10156597|Blooming Days - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/56/597/10156597_500.jpg/melon/resize/48/quality/80/optimize
+75|30341745|REALLY REALLY|WINNER|775197|10051659|FATE NUMBER FOR|https://cdnimg.melon.co.kr/cm/album/images/100/51/659/10051659_500.jpg/melon/resize/48/quality/80/optimize
+76|31172495|그 날 (Original Ver.)|박효신|1191|10182730|미스터 션샤인 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/101/82/730/10182730_500.jpg/melon/resize/48/quality/80/optimize
+77|31126139|불행 (Feat. 빈첸 (VINXEN))|오반 (OVAN)|925515|10175541|불행 (Feat. 빈첸 (VINXEN))|https://cdnimg.melon.co.kr/cm/album/images/101/75/541/10175541_500.jpg/melon/resize/48/quality/80/optimize
+78|31085245|So What|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+79|30781481|Heart Shaker|TWICE (트와이스)|905701|10118955|Merry & Happy|https://cdnimg.melon.co.kr/cm/album/images/101/18/955/10118955_500.jpg/melon/resize/48/quality/80/optimize
+80|31181342|마치 우린 없었던 사이 (Prod. 정키)|다비치|236815|10184110|마치 우린 없었던 사이 (Prod. 정키)|https://cdnimg.melon.co.kr/cm/album/images/101/84/110/10184110_500.jpg/melon/resize/48/quality/80/optimize
+81|31113244|11 (Prod. 다이나믹듀오)|Wanna One (워너원) - 남바완|2189929|10173365|1÷χ=1 (UNDIVIDED)|https://cdnimg.melon.co.kr/cm/album/images/101/73/365/10173365_500.jpg/melon/resize/48/quality/80/optimize
+82|30989550|바코드 (Prod. GroovyRoom)|김하온 (HAON)~빈첸|2112493~2113204|10153531|고등래퍼2 팀대항전 Part 3|https://cdnimg.melon.co.kr/cm/album/images/101/53/531/10153531_500.jpg/melon/resize/48/quality/80/optimize
+83|31123630|The Feeling|비투비|647971|10175106|THIS IS US|https://cdnimg.melon.co.kr/cm/album/images/101/75/106/10175106_500.jpg/melon/resize/48/quality/80/optimize
+84|30992157|빛나리|펜타곤|1201990|10153912|Positive|https://cdnimg.melon.co.kr/cm/album/images/101/53/912/10153912_500.jpg/melon/resize/48/quality/80/optimize
+85|30806536|Universe|EXO|724619|10122917|Universe - 겨울 스페셜 앨범, 2017|https://cdnimg.melon.co.kr/cm/album/images/101/22/917/10122917_500.jpg/melon/resize/48/quality/80/optimize
+86|31085236|Intro : Singularity|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+87|31097925|데리러 가 (Good Evening)|SHINee (샤이니)|247639|10170914|'The Story of Light' EP.1 - The 6th Album|https://cdnimg.melon.co.kr/cm/album/images/101/70/914/10170914_500.jpg/melon/resize/48/quality/80/optimize
+88|30864993|Bad Boy|Red Velvet (레드벨벳)|780066|10134032|The Perfect Red Velvet - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/101/34/032/10134032_500.jpg/melon/resize/48/quality/80/optimize
+89|31175120|CHILLAX|TWICE (트와이스)|905701|10183127|Summer Nights|https://cdnimg.melon.co.kr/cm/album/images/101/83/127/10183127_500.jpg/melon/resize/48/quality/80/optimize
+90|31161291|그해 여름|양다일~웬디 (WENDY)|695994~780915|10181015|그해 여름|https://cdnimg.melon.co.kr/cm/album/images/101/81/015/10181015_500.jpg/melon/resize/48/quality/80/optimize
+91|31085246|Outro : Tear|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+92|31186131|Cereal (Feat. ZICO)|Crush|674710|10184916|wonderlost|https://cdnimg.melon.co.kr/cm/album/images/101/84/916/10184916_500.jpg/melon/resize/48/quality/80/optimize
+93|30550388|all of my life|박원|41499|10083290|0M|https://cdnimg.melon.co.kr/cm/album/images/100/83/290/10083290_500.jpg/melon/resize/48/quality/80/optimize
+94|31107239|이 밤의 끝|펀치 (Punch)|749640|10172395|이 밤의 끝|https://cdnimg.melon.co.kr/cm/album/images/101/72/395/10172395_500.jpg/melon/resize/48/quality/80/optimize
+95|30690674|눈 떠보니 이별이더라|포맨 (4MEN)|100176|10105438|REMEMBER ME|https://cdnimg.melon.co.kr/cm/album/images/101/05/438/10105438_500.jpg/melon/resize/48/quality/80/optimize
+96|30613202|시차 (We Are) (Feat. 로꼬 & GRAY)|우원재|1866689|10093389|시차 (We Are)|https://cdnimg.melon.co.kr/cm/album/images/100/93/389/10093389_500.jpg/melon/resize/48/quality/80/optimize
+97|30700708|LIKEY|TWICE (트와이스)|905701|10107114|twicetagram|https://cdnimg.melon.co.kr/cm/album/images/101/07/114/10107114_500.jpg/melon/resize/48/quality/80/optimize
+98|30939452|Jenga (Feat. Gaeko)|헤이즈 (Heize)|751611|10145963|바람|https://cdnimg.melon.co.kr/cm/album/images/101/45/963/10145963_500.jpg/melon/resize/48/quality/80/optimize
+99|30806580|instagram|DEAN|880630|10122929|instagram|https://cdnimg.melon.co.kr/cm/album/images/101/22/929/10122929_500.jpg/melon/resize/48/quality/80/optimize
+100|30380953|There's Nothing Holdin' Me Back|Shawn Mendes|776533|2689280|Illuminate (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/026/89/280/2689280_500.jpg/melon/resize/48/quality/80/optimize

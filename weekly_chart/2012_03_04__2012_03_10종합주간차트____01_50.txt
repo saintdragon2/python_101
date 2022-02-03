@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3715672|BLUE|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+2|3713013|Touch|미쓰에이|481481|2082826|Touch|https://cdnimg.melon.co.kr/cm/album/images/020/82/826/2082826_500.jpg/melon/resize/48/quality/80/optimize
+3|3715674|BAD BOY|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+4|3701333|Heaven|에일리(Ailee)|629831|2077426|Heaven|https://cdnimg.melon.co.kr/cm/album/images/020/77/426/2077426_500.jpg/melon/resize/48/quality/80/optimize
+5|3715676|FANTASTIC BABY|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+6|3715673|사랑먼지|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+7|3678813|시간을 거슬러|린|8530|2065906|해를 품은 달 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/65/906/2065906_500.jpg/melon/resize/48/quality/80/optimize
+8|3706380|니가 필요해 (I Need You)|케이윌|175139|2079769|니가 필요해 (I Need You)|https://cdnimg.melon.co.kr/cm/album/images/020/79/769/2079769_500.jpg/melon/resize/48/quality/80/optimize
+9|3699257|생각날거야|다비치|236815|2076258|LOVE CALL (With 다비치)|https://cdnimg.melon.co.kr/cm/album/images/020/76/258/2076258_500.jpg/melon/resize/48/quality/80/optimize
+10|3714473|Falling|존박|28772|2083726|Knock|https://cdnimg.melon.co.kr/cm/album/images/020/83/726/2083726_500.jpg/melon/resize/48/quality/80/optimize
+11|3689468|지독하게|FTISLAND (FT아일랜드)|226490|2072048|Grown-Up|https://cdnimg.melon.co.kr/cm/album/images/020/72/048/2072048_500.jpg/melon/resize/48/quality/80/optimize
+12|3691429|내가 노래를 못해도|SE7EN|33513|2072673|Se7en New Mini Album|https://cdnimg.melon.co.kr/cm/album/images/020/72/673/2072673_500.jpg/melon/resize/48/quality/80/optimize
+13|3715675|재미없어|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+14|3663978|Lovey-Dovey|티아라|412000|2058067|Funky Town|https://cdnimg.melon.co.kr/cm/album/images/020/58/067/2058067_500.jpg/melon/resize/48/quality/80/optimize
+15|3725788|비를 내려줘요|린|8530|2088749|비를 내려줘요|https://cdnimg.melon.co.kr/cm/album/images/020/88/749/2088749_500.jpg/melon/resize/48/quality/80/optimize
+16|3666573|애상|10CM|468244|2059186|윤일상 작곡가 21주년 기념 앨범 I'm 21|https://cdnimg.melon.co.kr/cm/album/images/020/59/186/2059186_500.jpg/melon/resize/48/quality/80/optimize
+17|3692955|난리나|블락비 (Block B)|532201|2073331|Welcome to the BLOCK|https://cdnimg.melon.co.kr/cm/album/images/020/73/331/2073331_500.jpg/melon/resize/48/quality/80/optimize
+18|3675692|베짱이 찬가|써니힐|229494|2064311|The Grasshoppers|https://cdnimg.melon.co.kr/cm/album/images/020/64/311/2064311_500.jpg/melon/resize/48/quality/80/optimize
+19|3715677|날개 (대성 SOLO)|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+20|3685853|이럴 줄 알았어|비스트|436981|2069786|이럴 줄 알았어|https://cdnimg.melon.co.kr/cm/album/images/020/69/786/2069786_500.jpg/melon/resize/48/quality/80/optimize
+21|3724260|B급인생|정진운~진영 (GOT7)~김지수~강소라|557582~640634~8806~640633|2088111|드림하이2 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/020/88/111/2088111_500.jpg/melon/resize/48/quality/80/optimize
+22|3681993|널 사랑하겠어|효린|573812|2067506|사랑을 보다 2 OST|https://cdnimg.melon.co.kr/cm/album/images/020/67/506/2067506_500.jpg/melon/resize/48/quality/80/optimize
+23|3689060|내가 싫다|케이윌|175139|2071810|내가 싫다|https://cdnimg.melon.co.kr/cm/album/images/020/71/810/2071810_500.jpg/melon/resize/48/quality/80/optimize
+24|3630755|Trouble Maker|트러블메이커|591031|2043387|Trouble Maker|https://cdnimg.melon.co.kr/cm/album/images/020/43/387/2043387_500.jpg/melon/resize/48/quality/80/optimize
+25|3625504|너랑 나|아이유|261143|2040666|Last Fantasy|https://cdnimg.melon.co.kr/cm/album/images/020/40/666/2040666_500.jpg/melon/resize/48/quality/80/optimize
+26|3686634|Hit U|달샤벳|514619|2070186|Hit U|https://cdnimg.melon.co.kr/cm/album/images/020/70/186/2070186_500.jpg/melon/resize/48/quality/80/optimize
+27|3698565|겁이 나서|나윤권~백지영|58979~1118|2075930|겁이 나서|https://cdnimg.melon.co.kr/cm/album/images/020/75/930/2075930_500.jpg/melon/resize/48/quality/80/optimize
+28|3665143|거기서거기 (Without You)|다이나믹 듀오|108358|2058415|Dynamicduo 6th Digilog 2/2|https://cdnimg.melon.co.kr/cm/album/images/020/58/415/2058415_500.jpg/melon/resize/48/quality/80/optimize
+29|3719653|그러고도 남자야 (Feat. 쇼리 Of 마이티마우스)|가비엔제이|174997|2086186|그러고도 남자야|https://cdnimg.melon.co.kr/cm/album/images/020/86/186/2086186_500.jpg/melon/resize/48/quality/80/optimize
+30|3143265|Rolling In The Deep|Adele|241925|1173053|21|https://cdnimg.melon.co.kr/cm/album/images/011/73/053/1173053_500.jpg/melon/resize/48/quality/80/optimize
+31|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+32|3716713|아니기를|이기찬|6225|2084786|해를 품은 달 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/020/84/786/2084786_500.jpg/melon/resize/48/quality/80/optimize
+33|3713916|애인 있어요|김범수|6502|2083407|윤일상 작곡가 21주년 기념 앨범 I'm 21 Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/83/407/2083407_500.jpg/melon/resize/48/quality/80/optimize
+34|3585793|그리워 그리워|노을|105623|2024088|그리움|https://cdnimg.melon.co.kr/cm/album/images/020/24/088/2024088_500.jpg/melon/resize/48/quality/80/optimize
+35|3666277|미치겠어|틴탑|483581|2059007|It's|https://cdnimg.melon.co.kr/cm/album/images/020/59/007/2059007_500.jpg/melon/resize/48/quality/80/optimize
+36|3654576|우리 사랑했잖아|다비치~티아라|236815~412000|2053887|우리 사랑했잖아|https://cdnimg.melon.co.kr/cm/album/images/020/53/887/2053887_500.jpg/melon/resize/48/quality/80/optimize
+37|3724835|돌아보다|민경훈|46187|2088248|돌아보다|https://cdnimg.melon.co.kr/cm/album/images/020/88/248/2088248_500.jpg/melon/resize/48/quality/80/optimize
+38|3705797|천년의 사랑 (박완규)|이영현|10210|2079446|[나는 가수다] 경연15-2. '내게 특별한 사람의 추천곡'|https://cdnimg.melon.co.kr/cm/album/images/020/79/446/2079446_500.jpg/melon/resize/48/quality/80/optimize
+39|3710333|잊었니|이승철|1010|2081526|신들의 만찬 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/81/526/2081526_500.jpg/melon/resize/48/quality/80/optimize
+40|3690927|DIRTY|미료|6272|2072614|MIRYO aka JOHONEY|https://cdnimg.melon.co.kr/cm/album/images/020/72/614/2072614_500.jpg/melon/resize/48/quality/80/optimize
+41|3715671|INTRO (ALIVE)|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+43|3714314|요즘 너|브레이브걸스|531700|2083666|Brave Girls' : Second Mini Album 'Re-Issue'|https://cdnimg.melon.co.kr/cm/album/images/020/83/666/2083666_500.jpg/melon/resize/48/quality/80/optimize
+44|3709444|WHOZ THAT GIRL|EXID|630454|2081127|HOLLA|https://cdnimg.melon.co.kr/cm/album/images/020/81/127/2081127_500.jpg/melon/resize/48/quality/80/optimize
+45|3694935|문자 (Feat. 백지영)|마리오|243278|2074487|문자|https://cdnimg.melon.co.kr/cm/album/images/020/74/487/2074487_500.jpg/melon/resize/48/quality/80/optimize
+46|3700135|러시안룰렛 (Russian Roulette)|스피카|615471|2076646|러시안룰렛 (Russian Roulette)|https://cdnimg.melon.co.kr/cm/album/images/020/76/646/2076646_500.jpg/melon/resize/48/quality/80/optimize
+47|3713873|Super Star|효린~지연~에일리(Ailee)|573812~449580~629831|2083366|드림하이2 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/020/83/366/2083366_500.jpg/melon/resize/48/quality/80/optimize
+48|3721730|사랑 (With 개리, 김그림)|타우~하하|255466~35007|2086983|사랑|https://cdnimg.melon.co.kr/cm/album/images/020/86/983/2086983_500.jpg/melon/resize/48/quality/80/optimize
+49|3633511|살기 위해서|노을|105623|2044412|빠담빠담 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/44/412/2044412_500.jpg/melon/resize/48/quality/80/optimize
+50|3719774|너 때문에|제아|230519|2086233|샐러리맨 초한지 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/020/86/233/2086233_500.jpg/melon/resize/48/quality/80/optimize
+51|3684693|눈물길|휘성 (Realslow)|10577|2069126|해를 품은 달 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/69/126/2069126_500.jpg/melon/resize/48/quality/80/optimize

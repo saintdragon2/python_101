@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3989869|키다리 아저씨|백아연|646173|2170236|청담동 앨리스 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/70/236/2170236_500.jpg/melon/resize/48/quality/80/optimize
+52|4014268|24/7|2YOON (포미닛 투윤)|715898|2172799|Harvest Moon|https://cdnimg.melon.co.kr/cm/album/images/021/72/799/2172799_500.jpg/melon/resize/48/quality/80/optimize
+53|3994075|Don't Go|디셈버|439021|2170614|The Last Legacy|https://cdnimg.melon.co.kr/cm/album/images/021/70/614/2170614_500.jpg/melon/resize/48/quality/80/optimize
+54|4012539|청개구리|김보경 (NEON)|60829|2172561|학교 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/72/561/2172561_500.jpg/melon/resize/48/quality/80/optimize
+55|4009752|니가 없을 때 (Feat. Zion.T)|인피니트H|715422|2172287|FLY HIGH|https://cdnimg.melon.co.kr/cm/album/images/021/72/287/2172287_500.jpg/melon/resize/48/quality/80/optimize
+56|3940755|똑같은 사랑 똑같은 이별|어반자카파|420527|2161187|[02]|https://cdnimg.melon.co.kr/cm/album/images/021/61/187/2161187_500.jpg/melon/resize/48/quality/80/optimize
+57|3929471|저녁 하늘|에일리(Ailee)|629831|2153251|Invitation|https://cdnimg.melon.co.kr/cm/album/images/021/53/251/2153251_500.jpg/melon/resize/48/quality/80/optimize
+58|4004322|슬픈약속 (Feat. 다비치)|스피드|714785|2171781|SPEED OF LIGHT|https://cdnimg.melon.co.kr/cm/album/images/021/71/781/2171781_500.jpg/melon/resize/48/quality/80/optimize
+59|3999205|Yesterday|정진운~L.Joe~이준~HOYA (호야)~이기광|557582~672545~514380~672264~458181|2171208|2012 SBS 가요대전 The Color Of K-Pop 'Dynamic Black'|https://cdnimg.melon.co.kr/cm/album/images/021/71/208/2171208_500.jpg/melon/resize/48/quality/80/optimize
+60|4001553|그 사람 (원곡가수 이승철)|The One (더원)|160816|2171413|'나는 가수다 2' 2012 가왕전 파이널|https://cdnimg.melon.co.kr/cm/album/images/021/71/413/2171413_500.jpg/melon/resize/48/quality/80/optimize
+61|4004025|사랑해요|정준하|229115|2171751|박명수의 어떤가요|https://cdnimg.melon.co.kr/cm/album/images/021/71/751/2171751_500.jpg/melon/resize/48/quality/80/optimize
+62|3928713|닐리리맘보|블락비 (Block B)|532201|2153172|BLOCKBUSTER|https://cdnimg.melon.co.kr/cm/album/images/021/53/172/2153172_500.jpg/melon/resize/48/quality/80/optimize
+63|4014352|You＆I|먼데이 키즈 (Monday Kiz)|175155|2172814|You＆I|https://cdnimg.melon.co.kr/cm/album/images/021/72/814/2172814_500.jpg/melon/resize/48/quality/80/optimize
+64|4011598|걱정마쇼 (Feat. 우혜미 & Loptimist)|배치기|101886|2172455|4집 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/72/455/2172455_500.jpg/melon/resize/48/quality/80/optimize
+65|3968900|허수아비|이하이|646171|2167828|허수아비|https://cdnimg.melon.co.kr/cm/album/images/021/67/828/2167828_500.jpg/melon/resize/48/quality/80/optimize
+66|3884575|I Need You|허각~지아|28801~227595|2145068|I Need You|https://cdnimg.melon.co.kr/cm/album/images/021/45/068/2145068_500.jpg/melon/resize/48/quality/80/optimize
+67|3928194|말리꽃 (원곡가수 이승철)|이정|39256|2153066|'나는 가수다 2' 10월 B조 경연|https://cdnimg.melon.co.kr/cm/album/images/021/53/066/2153066_500.jpg/melon/resize/48/quality/80/optimize
+68|3911750|피어나|가인|428821|2150966|Talk About S.|https://cdnimg.melon.co.kr/cm/album/images/021/50/966/2150966_500.jpg/melon/resize/48/quality/80/optimize
+69|4001335|Express 999|소녀시대 (GIRLS' GENERATION)|228069|2170744|I Got A Boy|https://cdnimg.melon.co.kr/cm/album/images/021/70/744/2170744_500.jpg/melon/resize/48/quality/80/optimize
+70|3948917|If You Love Me (Feat. 박재범)|NS 윤지|433746|2165341|If You Love Me (Feat. 박재범)|https://cdnimg.melon.co.kr/cm/album/images/021/65/341/2165341_500.jpg/melon/resize/48/quality/80/optimize
+71|4004022|노가르시아|노홍철|228767|2171751|박명수의 어떤가요|https://cdnimg.melon.co.kr/cm/album/images/021/71/751/2171751_500.jpg/melon/resize/48/quality/80/optimize
+72|3972199|스쳐간다|로이킴|699632|2168242|스쳐간다|https://cdnimg.melon.co.kr/cm/album/images/021/68/242/2168242_500.jpg/melon/resize/48/quality/80/optimize
+73|3906377|크레용 (Crayon)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+74|4001753|300원짜리 커피|소울스타 (SOULSTAR)|170042|2171442|300원짜리 커피|https://cdnimg.melon.co.kr/cm/album/images/021/71/442/2171442_500.jpg/melon/resize/48/quality/80/optimize
+75|3958817|있기 없기|달샤벳|514619|2166681|있기 없기|https://cdnimg.melon.co.kr/cm/album/images/021/66/681/2166681_500.jpg/melon/resize/48/quality/80/optimize
+76|4008965|아이야 (I Yah)|보이프렌드|541500|2172192|아이야 (I Yah)|https://cdnimg.melon.co.kr/cm/album/images/021/72/192/2172192_500.jpg/melon/resize/48/quality/80/optimize
+77|4014287|지혈|옥주현|1714|2172802|지혈|https://cdnimg.melon.co.kr/cm/album/images/021/72/802/2172802_500.jpg/melon/resize/48/quality/80/optimize
+78|4009753|못해 (Feat. 개코 Of Dynamic Duo)|인피니트H|715422|2172287|FLY HIGH|https://cdnimg.melon.co.kr/cm/album/images/021/72/287/2172287_500.jpg/melon/resize/48/quality/80/optimize
+79|3906383|Missing You (Feat. 김윤아 Of 자우림)|G-DRAGON|6984|2147867|One Of A Kind|https://cdnimg.melon.co.kr/cm/album/images/021/47/867/2147867_500.jpg/melon/resize/48/quality/80/optimize
+80|4009437|밤하늘의 별을 4 (With 푸름, 진영 Of 엠스트리트)|양정승|3493|2172245|Cello|https://cdnimg.melon.co.kr/cm/album/images/021/72/245/2172245_500.jpg/melon/resize/48/quality/80/optimize
+81|4013287|Suit & Tie (Feat. Jay-Z)|Justin Timberlake|2646|2172678|Suit & Tie (Feat. Jay-Z)|https://cdnimg.melon.co.kr/cm/album/images/021/72/678/2172678_500.jpg/melon/resize/48/quality/80/optimize
+82|3997737|인어공주|강지영~보라~한선화~허가윤 (4minute)~리지 (오렌지 캬라멜)|512342~668711~672329~454903~539120|2171068|2012 SBS 가요대전 The Color Of K-Pop 'Mystic White'|https://cdnimg.melon.co.kr/cm/album/images/021/71/068/2171068_500.jpg/melon/resize/48/quality/80/optimize
+83|3928294|남자 없이 잘 살아|미쓰에이|481481|2153096|Independent Women pt.Ⅲ|https://cdnimg.melon.co.kr/cm/album/images/021/53/096/2153096_500.jpg/melon/resize/48/quality/80/optimize
+84|3995040|아무나 (Feat. 길미)|은지원|1682|2170766|아무나|https://cdnimg.melon.co.kr/cm/album/images/021/70/766/2170766_500.jpg/melon/resize/48/quality/80/optimize
+85|4011594|태양 아래서 (Feat. DC)|배치기|101886|2172455|4집 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/72/455/2172455_500.jpg/melon/resize/48/quality/80/optimize
+86|3976916|하얀 겨울|김범수~박정현|6502~1099|2168716|하얀 겨울|https://cdnimg.melon.co.kr/cm/album/images/021/68/716/2168716_500.jpg/melon/resize/48/quality/80/optimize
+87|4014292|조용필처럼|팬텀|588431|2172804|Phantom Theory|https://cdnimg.melon.co.kr/cm/album/images/021/72/804/2172804_500.jpg/melon/resize/48/quality/80/optimize
+88|4011595|아홉수|배치기|101886|2172455|4집 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/72/455/2172455_500.jpg/melon/resize/48/quality/80/optimize
+89|1589050|사랑이 다른 사랑으로 잊혀지네|하림|6706|346909|Whistle In A Maze|https://cdnimg.melon.co.kr/cm/album/images/003/46/909/346909_500.jpg/melon/resize/48/quality/80/optimize
+90|3986045|Young Girls|Bruno Mars|495811|2169778|Unorthodox Jukebox|https://cdnimg.melon.co.kr/cm/album/images/021/69/778/2169778_500.jpg/melon/resize/48/quality/80/optimize
+91|3980980|니 얼굴 떠올라 (Feat. 스윙스)|별|27033|2169144|보고싶다 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/69/144/2169144_500.jpg/melon/resize/48/quality/80/optimize
+92|4013575|Mine|김재중|52614|2172700|I|https://cdnimg.melon.co.kr/cm/album/images/021/72/700/2172700_500.jpg/melon/resize/48/quality/80/optimize
+93|3935594|Ice Cream (Feat. Maboos)|현아|449401|2157426|MELTING|https://cdnimg.melon.co.kr/cm/album/images/021/57/426/2157426_500.jpg/melon/resize/48/quality/80/optimize
+94|3997693|눈물나게 아름다운|조권~니엘~지오 (G.O)~양요섭~남우현|434621~672543~468640~510565~672263|2171062|2012 SBS 가요대전 The Color Of K-Pop 'Dramatic Blue'|https://cdnimg.melon.co.kr/cm/album/images/021/71/062/2171062_500.jpg/melon/resize/48/quality/80/optimize
+95|4013401|마법의 성|멜로디데이 (MelodyDay)|693951|2172686|보고싶다 OST|https://cdnimg.melon.co.kr/cm/album/images/021/72/686/2172686_500.jpg/melon/resize/48/quality/80/optimize
+96|4005910|One Kiss|김재중|52614|2171858|One Kiss|https://cdnimg.melon.co.kr/cm/album/images/021/71/858/2171858_500.jpg/melon/resize/48/quality/80/optimize
+97|3914860|사랑은 눈꽃처럼|XIA (준수)|52607|2151384|세상 어디에도 없는 착한남자 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/51/384/2151384_500.jpg/melon/resize/48/quality/80/optimize
+98|4011520|너는 모른다|김남길|450241|2172439|야왕 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/72/439/2172439_500.jpg/melon/resize/48/quality/80/optimize
+99|4006345|돈 들어오면|양요섭~프리픽스|510565~642811|2171903|Look To Listen 3rd|https://cdnimg.melon.co.kr/cm/album/images/021/71/903/2171903_500.jpg/melon/resize/48/quality/80/optimize
+100|3995016|서랍정리|빅마마|105803|2170757|서랍정리|https://cdnimg.melon.co.kr/cm/album/images/021/70/757/2170757_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|30698332|나의 밤 나의 너|성시경|3305|10106733|나의 밤 나의 너|https://cdnimg.melon.co.kr/cm/album/images/101/06/733/10106733_500.jpg/melon/resize/48/quality/80/optimize
+52|30611680|폰서트|10CM|468244|10093077|4.0|https://cdnimg.melon.co.kr/cm/album/images/100/93/077/10093077_500.jpg/melon/resize/48/quality/80/optimize
+53|30725490|To Be One (Outro.)|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+54|30378156|팔레트 (Feat. G-DRAGON)|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+55|-1|너를 찾아서|윤종신|437|10100704|건반 위의 하이에나|https://cdnimg.melon.co.kr/cm/album/images/101/00/704/10100704_500.jpg/melon/resize/48/quality/80/optimize
+56|30712793|박수|세븐틴|861436|10109208|SEVENTEEN 2ND ALBUM 'TEEN, AGE'|https://cdnimg.melon.co.kr/cm/album/images/101/09/208/10109208_500.jpg/melon/resize/48/quality/80/optimize
+57|30099927|노력|박원|41499|10016012|1/24|https://cdnimg.melon.co.kr/cm/album/images/100/16/012/10016012_500.jpg/melon/resize/48/quality/80/optimize
+58|30661885|WHERE YOU AT|뉴이스트 W|1816966|10100941|W, HERE|https://cdnimg.melon.co.kr/cm/album/images/101/00/941/10100941_500.jpg/melon/resize/48/quality/80/optimize
+59|30519033|Artist|지코 (ZICO)|602056|10078915|TELEVISION|https://cdnimg.melon.co.kr/cm/album/images/100/78/915/10078915_500.jpg/melon/resize/48/quality/80/optimize
+60|30669593|가을 안부|먼데이 키즈 (Monday Kiz)|175155|10102177|가을 안부|https://cdnimg.melon.co.kr/cm/album/images/101/02/177/10102177_500.jpg/melon/resize/48/quality/80/optimize
+61|30725486|에너제틱 (Energetic) (Prequel Remix)|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+62|4786735|Marry Me|마크툽 (MAKTUB)~구윤회|566431~441487|2271467|마크툽 프로젝트 Vol.03|https://cdnimg.melon.co.kr/cm/album/images/022/71/467/2271467_500.jpg/melon/resize/48/quality/80/optimize
+63|30390068|오늘 취하면 (Feat. 창모) (Prod. SUGA)|SURAN (수란)|792765|10058598|WINE|https://cdnimg.melon.co.kr/cm/album/images/100/58/598/10058598_500.jpg/melon/resize/48/quality/80/optimize
+64|30341745|REALLY REALLY|WINNER|775197|10051659|FATE NUMBER FOR|https://cdnimg.melon.co.kr/cm/album/images/100/51/659/10051659_500.jpg/melon/resize/48/quality/80/optimize
+65|30725487|Wanna Be (My Baby)|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+66|30637983|Best Of Me|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+67|30725485|활활 (Burn It Up) (Prequel Remix)|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+68|30657309|고쳐주세요|볼빨간사춘기|792022|10100191|Red Diary Page.1|https://cdnimg.melon.co.kr/cm/album/images/101/00/191/10100191_500.jpg/melon/resize/48/quality/80/optimize
+69|4032981|여보세요|뉴이스트|640891|2175137|THE SECOND MINI ALBUM '여보세요'|https://cdnimg.melon.co.kr/cm/album/images/021/75/137/2175137_500.jpg/melon/resize/48/quality/80/optimize
+70|30029173|피 땀 눈물|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+71|30529996|Ko Ko Bop|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+72|30461396|무제(無題) (Untitled, 2014)|G-DRAGON|6984|10069644|권지용|https://cdnimg.melon.co.kr/cm/album/images/100/69/644/10069644_500.jpg/melon/resize/48/quality/80/optimize
+73|30605241|베베 (BABE)|현아|449401|10091938|Following|https://cdnimg.melon.co.kr/cm/album/images/100/91/938/10091938_500.jpg/melon/resize/48/quality/80/optimize
+74|30543235|있다면|뉴이스트 W|1816966|10082330|NU'EST W '있다면'|https://cdnimg.melon.co.kr/cm/album/images/100/82/330/10082330_500.jpg/melon/resize/48/quality/80/optimize
+75|30637987|MIC Drop|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+76|30566061|N분의1 (Feat. 다이나믹듀오)|넉살~한해~RYNO (라이노)~조우찬|672461~602174~1866706~1866684|10085618|쇼미더머니 6 Episode 1|https://cdnimg.melon.co.kr/cm/album/images/100/85/618/10085618_500.jpg/melon/resize/48/quality/80/optimize
+77|30729250|너의 계절|플라이 투 더 스카이|100183|10111494|너의 계절|https://cdnimg.melon.co.kr/cm/album/images/101/11/494/10111494_500.jpg/melon/resize/48/quality/80/optimize
+78|30720574|되돌리고 싶다 (Rewind)|황치열|205746|10110277|되돌리고 싶다|https://cdnimg.melon.co.kr/cm/album/images/101/10/277/10110277_500.jpg/melon/resize/48/quality/80/optimize
+79|30657310|상상|볼빨간사춘기|792022|10100191|Red Diary Page.1|https://cdnimg.melon.co.kr/cm/album/images/101/00/191/10100191_500.jpg/melon/resize/48/quality/80/optimize
+80|30672400|어쩔 수 없지 뭐|하이라이트 (Highlight)|1624993|10102644|CELEBRATE|https://cdnimg.melon.co.kr/cm/album/images/101/02/644/10102644_500.jpg/melon/resize/48/quality/80/optimize
+81|30720237|듣고 싶은 말|수지 (SUZY)|514741|10110240|당신이 잠든 사이에 OST Part.13|https://cdnimg.melon.co.kr/cm/album/images/101/10/240/10110240_500.jpg/melon/resize/48/quality/80/optimize
+82|30637984|보조개|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+83|30725401|비가 내리던 어느날|어쿠루브|742478|10110994|비가 내리던 어느날|https://cdnimg.melon.co.kr/cm/album/images/101/10/994/10110994_500.jpg/melon/resize/48/quality/80/optimize
+84|8287788|Closer (Feat. Halsey)|The Chainsmokers|713297|2700553|Collage EP|https://cdnimg.melon.co.kr/cm/album/images/027/00/553/2700553_500.jpg/melon/resize/48/quality/80/optimize
+85|30680190|오늘도 그리워 그리워|다비치|236815|10104028|당신이 잠든 사이에 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/101/04/028/10104028_500.jpg/melon/resize/48/quality/80/optimize
+86|9620473|나만 안되는 연애|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+87|30616684|Power|EXO|724619|10093773|The Power of Music - The 4th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/100/93/773/10093773_500.jpg/melon/resize/48/quality/80/optimize
+88|30667988|짙어져|멜로망스|839732|10101927|Yellow OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/01/927/10101927_500.jpg/melon/resize/48/quality/80/optimize
+89|30637985|Pied Piper|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+90|30646584|비밀의 화원|아이유|261143|10096855|꽃갈피 둘|https://cdnimg.melon.co.kr/cm/album/images/100/96/855/10096855_500.jpg/melon/resize/48/quality/80/optimize
+91|30566064|요즘것들 (Feat. ZICO, DEAN)|행주~양홍원~Hash Swan~킬라그램 (KILLAGRAMZ)|340669~907416~827434~1023874|10085618|쇼미더머니 6 Episode 1|https://cdnimg.melon.co.kr/cm/album/images/100/85/618/10085618_500.jpg/melon/resize/48/quality/80/optimize
+92|30661884|하루만|뉴이스트 W|1816966|10100941|W, HERE|https://cdnimg.melon.co.kr/cm/album/images/101/00/941/10100941_500.jpg/melon/resize/48/quality/80/optimize
+93|30712771|Black Suit|SUPER JUNIOR (슈퍼주니어)|175404|10109125|PLAY - The 8th Album|https://cdnimg.melon.co.kr/cm/album/images/101/09/125/10109125_500.jpg/melon/resize/48/quality/80/optimize
+94|30286429|MOVIE|비투비|647971|10041603|Feel'eM|https://cdnimg.melon.co.kr/cm/album/images/100/41/603/10041603_500.jpg/melon/resize/48/quality/80/optimize
+95|30637981|Intro : Serendipity|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+96|30725404|퇴근 (Feat. 박재범, Crush)|스윙스|236970|10110996|퇴근|https://cdnimg.melon.co.kr/cm/album/images/101/10/996/10110996_500.jpg/melon/resize/48/quality/80/optimize
+97|30710522|Bye Babe|10CM~첸 (CHEN)|468244~715176|10108857|Bye Babe - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/101/08/857/10108857_500.jpg/melon/resize/48/quality/80/optimize
+98|30163110|좋다고 말해|볼빨간사춘기|792022|10024816|Full Album RED PLANET 'Hidden Track'|https://cdnimg.melon.co.kr/cm/album/images/100/24/816/10024816_500.jpg/melon/resize/48/quality/80/optimize
+99|30663524|나에게 넌|다비치|236815|10101322|나에게 넌|https://cdnimg.melon.co.kr/cm/album/images/101/01/322/10101322_500.jpg/melon/resize/48/quality/80/optimize
+100|30637989|Outro : Her|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize

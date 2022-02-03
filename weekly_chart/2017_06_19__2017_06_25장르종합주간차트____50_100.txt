@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|30478322|Super Hot|PRODUCE 101|926037|10072182|PRODUCE 101 - FINAL|https://cdnimg.melon.co.kr/cm/album/images/100/72/182/10072182_500.jpg/melon/resize/48/quality/80/optimize
+52|8203900|너였다면|정승환|792091|2687963|또 오해영 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/87/963/2687963_500.jpg/melon/resize/48/quality/80/optimize
+53|9614761|그대라는 사치|한동근|711476|2706226|The 3rd Digital Single '그대라는 사치'|https://cdnimg.melon.co.kr/cm/album/images/027/06/226/2706226_500.jpg/melon/resize/48/quality/80/optimize
+54|30478323|이 자리에 (Always)|PRODUCE 101|926037|10072182|PRODUCE 101 - FINAL|https://cdnimg.melon.co.kr/cm/album/images/100/72/182/10072182_500.jpg/melon/resize/48/quality/80/optimize
+55|30355842|She's a Baby|지코 (ZICO)|602056|10053651|She's a Baby|https://cdnimg.melon.co.kr/cm/album/images/100/53/651/10053651_500.jpg/melon/resize/48/quality/80/optimize
+56|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+57|30431400|모해 (mohae) (Feat. 볼빨간사춘기)|San E|402526|10064916|모해 (mohae)|https://cdnimg.melon.co.kr/cm/album/images/100/64/916/10064916_500.jpg/melon/resize/48/quality/80/optimize
+58|3853980|어땠을까 (Feat. 박정현)|싸이 (PSY)|3865|2137275|싸이6甲 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/37/275/2137275_500.jpg/melon/resize/48/quality/80/optimize
+59|30157753|Beautiful|Crush|674710|10024106|도깨비 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/100/24/106/10024106_500.jpg/melon/resize/48/quality/80/optimize
+60|30378157|이런 엔딩|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+61|30461393|19금 INTRO. 권지용 (Middle Fingers-Up)|G-DRAGON|6984|10069644|권지용|https://cdnimg.melon.co.kr/cm/album/images/100/69/644/10069644_500.jpg/melon/resize/48/quality/80/optimize
+62|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+63|30079086|Decalcomanie (데칼코마니)|마마무 (Mamamoo)|750053|10012900|MEMORY|https://cdnimg.melon.co.kr/cm/album/images/100/12/900/10012900_500.jpg/melon/resize/48/quality/80/optimize
+64|30378155|이 지금|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+65|30428238|울고 싶지 않아|세븐틴|861436|10064466|SEVENTEEN 4th Mini Album 'Al1'|https://cdnimg.melon.co.kr/cm/album/images/100/64/466/10064466_500.jpg/melon/resize/48/quality/80/optimize
+66|30271730|Something Just Like This|The Chainsmokers~Coldplay|713297~100260|10031250|Memories...Do Not Open|https://cdnimg.melon.co.kr/cm/album/images/100/31/250/10031250_500.jpg/melon/resize/48/quality/80/optimize
+67|5398990|이 소설의 끝을 다시 써보려 해|한동근|711476|2284064|The 1st Digital Single '이 소설의 끝을 다시 써보려 해'|https://cdnimg.melon.co.kr/cm/album/images/022/84/064/2284064_500.jpg/melon/resize/48/quality/80/optimize
+68|30208070|소나기|아이오아이 (I.O.I)|960251|10032040|소나기|https://cdnimg.melon.co.kr/cm/album/images/100/32/040/10032040_500.jpg/melon/resize/48/quality/80/optimize
+69|30147445|에라 모르겠다|BIGBANG|198094|10022709|MADE|https://cdnimg.melon.co.kr/cm/album/images/100/22/709/10022709_500.jpg/melon/resize/48/quality/80/optimize
+70|9620471|You(=I)|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+71|4383833|바람이 불었으면 좋겠어|길구봉구|500421|2224353|바람이 불었으면 좋겠어|https://cdnimg.melon.co.kr/cm/album/images/022/24/353/2224353_500.jpg/melon/resize/48/quality/80/optimize
+72|30227054|Rookie|Red Velvet (레드벨벳)|780066|10035026|Rookie - The 4th Mini Album|https://cdnimg.melon.co.kr/cm/album/images/100/35/026/10035026_500.jpg/melon/resize/48/quality/80/optimize
+73|8109412|D (half moon) (Feat. 개코)|DEAN|880630|2674623|130 Mood : TRBL|https://cdnimg.melon.co.kr/cm/album/images/026/74/623/2674623_500.jpg/melon/resize/48/quality/80/optimize
+74|30419668|혼자|어반자카파|420527|10063174|혼자|https://cdnimg.melon.co.kr/cm/album/images/100/63/174/10063174_500.jpg/melon/resize/48/quality/80/optimize
+75|30278209|Fine|태연 (TAEYEON)|236797|10040265|My Voice - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/100/40/265/10040265_500.jpg/melon/resize/48/quality/80/optimize
+76|30442275|달콤한 빈말 (Feat. 바버렛츠)|백아연|646173|10066518|Bittersweet|https://cdnimg.melon.co.kr/cm/album/images/100/66/518/10066518_500.jpg/melon/resize/48/quality/80/optimize
+77|8158031|CHEER UP|TWICE (트와이스)|905701|2681333|PAGE TWO|https://cdnimg.melon.co.kr/cm/album/images/026/81/333/2681333_500.jpg/melon/resize/48/quality/80/optimize
+78|8143111|돌아오지마 (Feat. 용준형 Of 비스트)|헤이즈 (Heize)|751611|2679308|돌아오지마|https://cdnimg.melon.co.kr/cm/album/images/026/79/308/2679308_500.jpg/melon/resize/48/quality/80/optimize
+79|9631530|내가 저지른 사랑|임창정|1142|2708957|I'M|https://cdnimg.melon.co.kr/cm/album/images/027/08/957/2708957_500.jpg/melon/resize/48/quality/80/optimize
+80|30465044|좋아한다 안 한다 (Duet. 세정 of 구구단) (Prod. 박경)|태일 (블락비)|670611|10070260|태일X세정 Single (좋아한다 안 한다)|https://cdnimg.melon.co.kr/cm/album/images/100/70/260/10070260_500.jpg/melon/resize/48/quality/80/optimize
+81|30011624|숨|박효신|1191|10001952|I am A Dreamer|https://cdnimg.melon.co.kr/cm/album/images/100/01/952/10001952_500.jpg/melon/resize/48/quality/80/optimize
+82|5629279|See You Again|Charlie Puth~Wiz Khalifa|838654~513802|2309376|분노의 질주: 더 세븐 OST|https://cdnimg.melon.co.kr/cm/album/images/023/09/376/2309376_500.jpg/melon/resize/48/quality/80/optimize
+83|8199190|널 사랑하지 않아|어반자카파|420527|2687420|스틸|https://cdnimg.melon.co.kr/cm/album/images/026/87/420/2687420_500.jpg/melon/resize/48/quality/80/optimize
+84|30461397|OUTRO. 신곡(神曲) (Divina Commedia)|G-DRAGON|6984|10069644|권지용|https://cdnimg.melon.co.kr/cm/album/images/100/69/644/10069644_500.jpg/melon/resize/48/quality/80/optimize
+85|30230986|우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)|매드클라운|219621|10035799|우리집을 못 찾겠군요|https://cdnimg.melon.co.kr/cm/album/images/100/35/799/10035799_500.jpg/melon/resize/48/quality/80/optimize
+86|30453632|I Know You Know|월하소년 (月下少年)|1758622|10068359|PRODUCE 101 - 35 Boys 5 Concepts|https://cdnimg.melon.co.kr/cm/album/images/100/68/359/10068359_500.jpg/melon/resize/48/quality/80/optimize
+87|30378159|잼잼|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+88|30462531|알듯 말듯해|서은광 (비투비)~임현식 (비투비)~육성재 (비투비)|672287~672289~672296|10069828|쌈, 마이웨이 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/100/69/828/10069828_500.jpg/melon/resize/48/quality/80/optimize
+89|30286429|MOVIE|비투비|647971|10041603|Feel'eM|https://cdnimg.melon.co.kr/cm/album/images/100/41/603/10041603_500.jpg/melon/resize/48/quality/80/optimize
+90|30029173|피 땀 눈물|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+91|30132687|Stay With Me|찬열 (CHANYEOL)~펀치 (Punch)|672857~749640|10020654|도깨비 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/100/20/654/10020654_500.jpg/melon/resize/48/quality/80/optimize
+92|30453631|Show Time|It's|1758621|10068359|PRODUCE 101 - 35 Boys 5 Concepts|https://cdnimg.melon.co.kr/cm/album/images/100/68/359/10068359_500.jpg/melon/resize/48/quality/80/optimize
+93|30488205|아재개그 (Narr. 김대희, 김준호)|마마무 (Mamamoo)|750053|10073791|Purple|https://cdnimg.melon.co.kr/cm/album/images/100/73/791/10073791_500.jpg/melon/resize/48/quality/80/optimize
+94|30403591|마지막 장면 (Feat. 이성경)|싸이 (PSY)|3865|10060647|PSY 8th 4X2=8|https://cdnimg.melon.co.kr/cm/album/images/100/60/647/10060647_500.jpg/melon/resize/48/quality/80/optimize
+95|30482790|너야 (Feat. 빈지노)|임슬옹|474423|10072913|너야 (Feat. 빈지노)|https://cdnimg.melon.co.kr/cm/album/images/100/72/913/10072913_500.jpg/melon/resize/48/quality/80/optimize
+96|30378164|이름에게|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+97|30232778|YESTERDAY|블락비 (Block B)|532201|10036123|YESTERDAY|https://cdnimg.melon.co.kr/cm/album/images/100/36/123/10036123_500.jpg/melon/resize/48/quality/80/optimize
+98|9621300|Love Paint (every afternoon)|뉴이스트|640891|2707281|The 5th Mini Album 'CANVAS'|https://cdnimg.melon.co.kr/cm/album/images/027/07/281/2707281_500.jpg/melon/resize/48/quality/80/optimize
+99|30453406|1+1=0 (Feat. DEAN)|SURAN (수란)|792765|10068300|Walkin'|https://cdnimg.melon.co.kr/cm/album/images/100/68/300/10068300_500.jpg/melon/resize/48/quality/80/optimize
+100|30464586|잘해준 것 밖에 없는데|벤|655051|10070173|어마어마한 라이브 STAGE 2|https://cdnimg.melon.co.kr/cm/album/images/100/70/173/10070173_500.jpg/melon/resize/48/quality/80/optimize

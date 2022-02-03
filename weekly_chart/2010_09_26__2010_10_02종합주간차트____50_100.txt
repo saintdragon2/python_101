@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2772064|Better Together|SE7EN|33513|963051|Digital Bounce|https://cdnimg.melon.co.kr/cm/album/images/009/63/051/963051_500.jpg/melon/resize/48/quality/80/optimize
+52|2939099|가려진 시간 사이로|장혜진|5675|1023956|가려진 시간 사이로|https://cdnimg.melon.co.kr/cm/album/images/010/23/956/1023956_500.jpg/melon/resize/48/quality/80/optimize
+53|2951008|하늘땅 별땅|티아라|412000|1030070|TWENTYth Urban|https://cdnimg.melon.co.kr/cm/album/images/010/30/070/1030070_500.jpg/melon/resize/48/quality/80/optimize
+54|2759748|꺼져 줄게 잘 살아 (Feat. 용준형)|지나|482640|960351|Draw G's First Breath|https://cdnimg.melon.co.kr/cm/album/images/009/60/351/960351_500.jpg/melon/resize/48/quality/80/optimize
+55|2923570|미쳤나봐|씨야|181679|1011376|안영민 Baby Brown|https://cdnimg.melon.co.kr/cm/album/images/010/11/376/1011376_500.jpg/melon/resize/48/quality/80/optimize
+56|2919565|오! 나의 여신님 (Oh! My Goddess)|TraxX (트랙스)|108965|1007954|오! 나의 여신님|https://cdnimg.melon.co.kr/cm/album/images/010/07/954/1007954_500.jpg/melon/resize/48/quality/80/optimize
+57|2768149|Lucifer|SHINee (샤이니)|247639|966451|The 2nd Album 'Lucifer'|https://cdnimg.melon.co.kr/cm/album/images/009/66/451/966451_500.jpg/melon/resize/48/quality/80/optimize
+58|2801651|애기야 (My Baby U)|서인국|436700|995752|애기야|https://cdnimg.melon.co.kr/cm/album/images/009/95/752/995752_500.jpg/melon/resize/48/quality/80/optimize
+59|2801292|너를 그린다|다비치~일렉트로보이즈|236815~475721|995560|The Classic|https://cdnimg.melon.co.kr/cm/album/images/009/95/560/995560_500.jpg/melon/resize/48/quality/80/optimize
+60|2951356|다시 내게로 돌아와 (Feat. 개리)|김종국|1692|1030163|노래|https://cdnimg.melon.co.kr/cm/album/images/010/30/163/1030163_500.jpg/melon/resize/48/quality/80/optimize
+61|2772063|Digital Bounce (Feat. T.O.P)|SE7EN|33513|963051|Digital Bounce|https://cdnimg.melon.co.kr/cm/album/images/009/63/051/963051_500.jpg/melon/resize/48/quality/80/optimize
+62|2937631|맛좋은산 (Feat. Min)|San E|402526|1023058|Everybody ready?|https://cdnimg.melon.co.kr/cm/album/images/010/23/058/1023058_500.jpg/melon/resize/48/quality/80/optimize
+63|2951898|그대랑|이적|1088|1030216|사랑|https://cdnimg.melon.co.kr/cm/album/images/010/30/216/1030216_500.jpg/melon/resize/48/quality/80/optimize
+64|2951390|I'm Going Crazy|SE7EN|33513|1030166|I'm Going Crazy (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/010/30/166/1030166_500.jpg/melon/resize/48/quality/80/optimize
+65|2943948|하쿠나마타타|MC 스나이퍼|7560|1026251|2010 Snipersound #3|https://cdnimg.melon.co.kr/cm/album/images/010/26/251/1026251_500.jpg/melon/resize/48/quality/80/optimize
+66|2949412|Fall In Love With You|바비 킴|6027|1028853|닥터챔프 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/010/28/853/1028853_500.jpg/melon/resize/48/quality/80/optimize
+67|2896555|하얀 눈물|이루|173424|999327|Got To Be|https://cdnimg.melon.co.kr/cm/album/images/009/99/327/999327_500.jpg/melon/resize/48/quality/80/optimize
+68|-1|Give A Little More|Maroon 5|107721|1025652|Hands All Over|https://cdnimg.melon.co.kr/cm/album/images/010/25/652/1025652_500.jpg/melon/resize/48/quality/80/optimize
+69|2688951|I My Me Mine|4minute|417985|896751|Hit Your Heart|https://cdnimg.melon.co.kr/cm/album/images/008/96/751/896751_500.jpg/melon/resize/48/quality/80/optimize
+70|2944648|사랑한다 말할까|소유 (SOYOU)|490981|1026751|장난스런 키스 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/010/26/751/1026751_500.jpg/melon/resize/48/quality/80/optimize
+71|2763048|혼자 왔어요 (December Ver.)|디셈버|439021|961351|Lonely Night|https://cdnimg.melon.co.kr/cm/album/images/009/61/351/961351_500.jpg/melon/resize/48/quality/80/optimize
+72|2948448|Step Up|미쓰에이|481481|1028251|Step Up|https://cdnimg.melon.co.kr/cm/album/images/010/28/251/1028251_500.jpg/melon/resize/48/quality/80/optimize
+73|2183857|Because Of You|Kelly Clarkson|36329|574752|Because Of You (Remixes)|https://cdnimg.melon.co.kr/cm/album/images/005/74/752/574752_500.jpg/melon/resize/48/quality/80/optimize
+74|2705414|땡땡땡|Supreme Team|410162|911359|Spin Off (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/009/11/359/911359_500.jpg/melon/resize/48/quality/80/optimize
+75|2952363|Too Late (Part.1)|남녀공학|13149|1030271|Too Late (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/010/30/271/1030271_500.jpg/melon/resize/48/quality/80/optimize
+76|2948450|멍하니|미쓰에이|481481|1028251|Step Up|https://cdnimg.melon.co.kr/cm/album/images/010/28/251/1028251_500.jpg/melon/resize/48/quality/80/optimize
+77|2929086|기분 좋은 말|럼블피쉬|108951|1015956|기분 좋은 말|https://cdnimg.melon.co.kr/cm/album/images/010/15/956/1015956_500.jpg/melon/resize/48/quality/80/optimize
+78|2948451|그 음악을 틀어줘요 DJ|미쓰에이|481481|1028251|Step Up|https://cdnimg.melon.co.kr/cm/album/images/010/28/251/1028251_500.jpg/melon/resize/48/quality/80/optimize
+79|2951511|친구와 사랑에 빠질 때|베이지~려욱 (RYEOWOOK)|222697~209406|1030179|친구와 사랑에 빠질 때|https://cdnimg.melon.co.kr/cm/album/images/010/30/179/1030179_500.jpg/melon/resize/48/quality/80/optimize
+80|2943722|Too Love|XIA (준수)|52607|1026061|성균관 스캔들 OST|https://cdnimg.melon.co.kr/cm/album/images/010/26/061/1026061_500.jpg/melon/resize/48/quality/80/optimize
+81|2945473|Nella Fantasia (남자의 자격 합창곡)|Il Divo|168236|1026885|Harmony 아름다운 노래, 그리고 하모니|https://cdnimg.melon.co.kr/cm/album/images/010/26/885/1026885_500.jpg/melon/resize/48/quality/80/optimize
+82|-1|One In A Million|Ne-Yo|181769|1023856|One In A Million|https://cdnimg.melon.co.kr/cm/album/images/010/23/856/1023856_500.jpg/melon/resize/48/quality/80/optimize
+83|2728462|19금 Love The Way You Lie (Feat. Rihanna)|Eminem|1986|931351|Recovery|https://cdnimg.melon.co.kr/cm/album/images/009/31/351/931351_500.jpg/melon/resize/48/quality/80/optimize
+84|2936289|빨래|이적|1088|1022255|빨래|https://cdnimg.melon.co.kr/cm/album/images/010/22/255/1022255_500.jpg/melon/resize/48/quality/80/optimize
+85|2919003|키스해줄래|지나|482640|1007660|장난스런 키스 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/07/660/1007660_500.jpg/melon/resize/48/quality/80/optimize
+86|2748528|queen|손담비|226582|944653|The Queen|https://cdnimg.melon.co.kr/cm/album/images/009/44/653/944653_500.jpg/melon/resize/48/quality/80/optimize
+87|1467993|Nella Fantasia (남자의 자격 합창곡)|Sarah Brightman|2056|328422|Diva : The Singles Collection|https://cdnimg.melon.co.kr/cm/album/images/003/28/422/328422_500.jpg/melon/resize/48/quality/80/optimize
+88|2917440|2Me (투미)|카라|222128|1007116|We Online Part.2|https://cdnimg.melon.co.kr/cm/album/images/010/07/116/1007116_500.jpg/melon/resize/48/quality/80/optimize
+89|2942659|혹시 돌아올까봐 (Feat. H-유진)|서영은|3033|1025536|혹시 돌아올까봐|https://cdnimg.melon.co.kr/cm/album/images/010/25/536/1025536_500.jpg/melon/resize/48/quality/80/optimize
+90|2946195|고백할 때 이노래 꼭 불러주세요|BGM|456681|1026945|고백할 때 이노래 꼭 불러주세요|https://cdnimg.melon.co.kr/cm/album/images/010/26/945/1026945_500.jpg/melon/resize/48/quality/80/optimize
+91|2898721|끝까지 들어|나비|242868|999647|끝까지 들어|https://cdnimg.melon.co.kr/cm/album/images/009/99/647/999647_500.jpg/melon/resize/48/quality/80/optimize
+92|2940075|True Colors|soulsweet (버블시스터즈 서승희)~바비 킴|16812~6027|1024658|Project 'True Colors' 1|https://cdnimg.melon.co.kr/cm/album/images/010/24/658/1024658_500.jpg/melon/resize/48/quality/80/optimize
+93|2741397|I Need A Girl (Feat. G-dragon)|태양|247621|943464|Solar|https://cdnimg.melon.co.kr/cm/album/images/009/43/464/943464_500.jpg/melon/resize/48/quality/80/optimize
+94|2741566|고백하던 날|조권|434621|943653|고백하던 날|https://cdnimg.melon.co.kr/cm/album/images/009/43/653/943653_500.jpg/melon/resize/48/quality/80/optimize
+95|2733251|너 때문이야 (Feat. Soulman)|Supreme Team|410162|935651|블루브랜드 Trauma Part 2|https://cdnimg.melon.co.kr/cm/album/images/009/35/651/935651_500.jpg/melon/resize/48/quality/80/optimize
+96|2719683|마법소녀 (魔法少女)|오렌지 캬라멜|477632|924053|The First Mini Album|https://cdnimg.melon.co.kr/cm/album/images/009/24/053/924053_500.jpg/melon/resize/48/quality/80/optimize
+97|2782665|미안해 사랑해서...(Feat. 케이윌)|길미|14490|979354|Love Actually|https://cdnimg.melon.co.kr/cm/album/images/009/79/354/979354_500.jpg/melon/resize/48/quality/80/optimize
+98|2931072|Nori For U|2PM|259822|1017260|Nori For U|https://cdnimg.melon.co.kr/cm/album/images/010/17/260/1017260_500.jpg/melon/resize/48/quality/80/optimize
+99|2756660|DJ Got Us Fallin' In Love (feat. Pitbull)|Usher|4463|957452|Versus|https://cdnimg.melon.co.kr/cm2/album/images/009/57/452/957452_20191224121820_500.jpg/melon/resize/48/quality/80/optimize
+100|2788462|사랑을 믿어요|아이유~유승호|261143~489281|984452|사랑의 리퀘스트|https://cdnimg.melon.co.kr/cm/album/images/009/84/452/984452_500.jpg/melon/resize/48/quality/80/optimize

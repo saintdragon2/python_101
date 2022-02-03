@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2159569|흔들려|채연|41894|554252|Shake|https://cdnimg.melon.co.kr/cm/album/images/005/54/252/554252_500.jpg/melon/resize/48/quality/80/optimize
+52|2200950|뒤차가 경적을|엠씨더맥스 (M.C the MAX)|161636|589251|Rewind & Remind|https://cdnimg.melon.co.kr/cm/album/images/005/89/251/589251_500.jpg/melon/resize/48/quality/80/optimize
+53|2218823|Let's Go Party|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+54|2135848|사랑해 (Feat. 유리상자 박승화)|SG 워너비|108363|542651|Gift From SG Wanna Be|https://cdnimg.melon.co.kr/cm/album/images/005/42/651/542651_500.jpg/melon/resize/48/quality/80/optimize
+55|2229258|Glam Girl|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+56|2245592|희망사항 (Feat. 아이유)|마이티 마우스|239366|625656|Love Class|https://cdnimg.melon.co.kr/cm/album/images/006/25/656/625656_500.jpg/melon/resize/48/quality/80/optimize
+57|2247067|하이힐|박혜경|1790|626454|My Favorite|https://cdnimg.melon.co.kr/cm/album/images/006/26/454/626454_500.jpg/melon/resize/48/quality/80/optimize
+58|2182750|넌센스 (Nonsense)|코요태|100022|574051|Jumping|https://cdnimg.melon.co.kr/cm/album/images/005/74/051/574051_500.jpg/melon/resize/48/quality/80/optimize
+59|2218825|Stay Together|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+60|2173948|기억과 추억 (Feat. 준형, 호영, 데니)|김태우|182430|566551|기억과 추억|https://cdnimg.melon.co.kr/cm/album/images/005/66/551/566551_500.jpg/melon/resize/48/quality/80/optimize
+61|2250349|영원한 하나|조성모|969|629152|영원한 하나|https://cdnimg.melon.co.kr/cm/album/images/006/29/152/629152_500.jpg/melon/resize/48/quality/80/optimize
+62|2210161|Monster (Korean Ver.)|드렁큰 타이거|100027|596251|Feel gHood Muzik : The 8th Wonder|https://cdnimg.melon.co.kr/cm/album/images/005/96/251/596251_500.jpg/melon/resize/48/quality/80/optimize
+63|2231899|사랑보다 아름다운 말 (Feat. 숙희)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+64|2213520|결국 너야|왁스|2267|598561|Always You|https://cdnimg.melon.co.kr/cm/album/images/005/98/561/598561_500.jpg/melon/resize/48/quality/80/optimize
+65|2117748|Lollipop|BIGBANG~2NE1|198094~406712|528151|Lollipop (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/005/28/151/528151_500.jpg/melon/resize/48/quality/80/optimize
+66|2218827|가라가라 고!! (Kor Ver.)|BIGBANG|198094|602760|가라가라 고!!|https://cdnimg.melon.co.kr/cm/album/images/006/02/760/602760_500.jpg/melon/resize/48/quality/80/optimize
+67|2185578|피에로의 눈물 (Feat. 무웅 Of 배치기)|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+68|2243748|지지리|이시영|24650|624351|지지리|https://cdnimg.melon.co.kr/cm/album/images/006/24/351/624351_500.jpg/melon/resize/48/quality/80/optimize
+69|2101157|심장이 없어|에이트|228841|514852|골든에이지|https://cdnimg.melon.co.kr/cm/album/images/005/14/852/514852_500.jpg/melon/resize/48/quality/80/optimize
+70|2231903|죽도록 사랑해 2 (Feat. 조성모)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+71|2234275|천생연분 (Narr. 이수근)|브랜뉴데이|315175|616656|천생연분|https://cdnimg.melon.co.kr/cm/album/images/006/16/656/616656_500.jpg/melon/resize/48/quality/80/optimize
+72|2221854|난 멋있어|안 편한 사람들|421626|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+73|2210448|령혼|양파|3854|596551|혼 OST|https://cdnimg.melon.co.kr/cm/album/images/005/96/551/596551_500.jpg/melon/resize/48/quality/80/optimize
+74|2197072|사랑은 벌이다|케이윌|175139|585953|찬란한 유산 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/005/85/953/585953_500.jpg/melon/resize/48/quality/80/optimize
+75|2093361|사고쳤어요|다비치|236815|508460|Davichi In Wonderland|https://cdnimg.melon.co.kr/cm/album/images/005/08/460/508460_500.jpg/melon/resize/48/quality/80/optimize
+76|2249186|착한아이|크라잉넛 (CRYING NUT)|100766|628356|불편한 파티|https://cdnimg.melon.co.kr/cm/album/images/006/28/356/628356_500.jpg/melon/resize/48/quality/80/optimize
+77|2183950|What You Do (Feat. Ne-Yo)|Chrisette Michele|227390|574851|Epiphany|https://cdnimg.melon.co.kr/cm/album/images/005/74/851/574851_500.jpg/melon/resize/48/quality/80/optimize
+78|2221851|더위 먹은 갈매기|돌브레인|421627|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+79|2214143|바보라서... (고질병)|고유진 (플라워)|4172|598962|바보라서...|https://cdnimg.melon.co.kr/cm/album/images/005/98/962/598962_500.jpg/melon/resize/48/quality/80/optimize
+80|2240848|소녀를 만나다 (With O'z)|조규찬|525|622251|소녀를 만나다 (With O'z)|https://cdnimg.melon.co.kr/cm/album/images/006/22/251/622251_500.jpg/melon/resize/48/quality/80/optimize
+81|2189148|똑 같은 맘|카라|222128|579351|아이뮤지션|https://cdnimg.melon.co.kr/cm/album/images/005/79/351/579351_500.jpg/melon/resize/48/quality/80/optimize
+82|2231896|로반줄아 (로미오를 반대한 줄리엣 아버지) (Feat. Simon Of Dalmatian)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+83|2218552|고등어|노라조|172193|602552|여름싱글|https://cdnimg.melon.co.kr/cm/album/images/006/02/552/602552_500.jpg/melon/resize/48/quality/80/optimize
+84|2207370|Etude|소녀시대 (GIRLS' GENERATION)|228069|590853|'소원을 말해봐 (Genie)' The Second Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/90/853/590853_500.jpg/melon/resize/48/quality/80/optimize
+85|2243749|해피송 (Feat. 이지라이프)|이수근|23432|624352|해피송|https://cdnimg.melon.co.kr/cm/album/images/006/24/352/624352_500.jpg/melon/resize/48/quality/80/optimize
+86|2222469|Love Again|클래지콰이|107725|605857|Mucho Punk|https://cdnimg.melon.co.kr/cm/album/images/006/05/857/605857_500.jpg/melon/resize/48/quality/80/optimize
+87|2231897|진실은 천국에서라도 (Feat. 김희선)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+88|2253960|그대없이 좋은날|가비엔제이|174997|632153|태양을 삼켜라 OST 2|https://cdnimg.melon.co.kr/cm/album/images/006/32/153/632153_500.jpg/melon/resize/48/quality/80/optimize
+89|2238776|바다에 입맞춤|더 넛츠 (The NuTs)|108988|620156|바다에 입맞춤|https://cdnimg.melon.co.kr/cm/album/images/006/20/156/620156_500.jpg/melon/resize/48/quality/80/optimize
+90|2100540|쏘리 쏘리 (Sorry, Sorry)|SUPER JUNIOR (슈퍼주니어)|175404|514152|The 3rd Album '쏘리 쏘리 (SORRY, SORRY)'|https://cdnimg.melon.co.kr/cm/album/images/005/14/152/514152_500.jpg/melon/resize/48/quality/80/optimize
+91|2122195|터질 것 같아|지아|227595|531754|Orchestra|https://cdnimg.melon.co.kr/cm/album/images/005/31/754/531754_500.jpg/melon/resize/48/quality/80/optimize
+92|2012282|Gee|소녀시대 (GIRLS' GENERATION)|228069|458355|The First Mini Album 'Gee'|https://cdnimg.melon.co.kr/cm/album/images/004/58/355/458355_500.jpg/melon/resize/48/quality/80/optimize
+93|2231898|나비효과 (Feat. SG워너비)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+94|2250772|Seaside 휴게소 (Boom Boom) (Sung By 동방신기, 슈퍼주니어, SHINee)|SMTOWN|160072|629554|09 Summer SMTOWN - Seaside 휴게소|https://cdnimg.melon.co.kr/cm/album/images/006/29/554/629554_500.jpg/melon/resize/48/quality/80/optimize
+95|2231906|Luv D.N.A (Feat. 나비)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+96|2112982|토요일밤에|손담비|226582|524357|Type B|https://cdnimg.melon.co.kr/cm/album/images/005/24/357/524357_500.jpg/melon/resize/48/quality/80/optimize
+97|2243848|사랑이 사랑을|안재욱|1083|624451|사랑에 살다|https://cdnimg.melon.co.kr/cm/album/images/006/24/451/624451_500.jpg/melon/resize/48/quality/80/optimize
+98|2134448|Simple Love (Feat. 나비)|MC몽|11538|541551|BlueBrand Part 1|https://cdnimg.melon.co.kr/cm/album/images/005/41/551/541551_500.jpg/melon/resize/48/quality/80/optimize
+99|2238774|Countdown|SHINee (샤이니)|247639|620155|드림 OST|https://cdnimg.melon.co.kr/cm/album/images/006/20/155/620155_500.jpg/melon/resize/48/quality/80/optimize
+100|2237643|돌이킬 수 없는|박정은|193513|619360|돌이킬 수 없는|https://cdnimg.melon.co.kr/cm/album/images/006/19/360/619360_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3164251|이 밤이 지나면|먼데이 키즈 (Monday Kiz)|175155|1190752|Nostalgia Part.2|https://cdnimg.melon.co.kr/cm/album/images/011/90/752/1190752_500.jpg/melon/resize/48/quality/80/optimize
+52|3356304|She Is Not Following You (Feat. 지은)|이루펀트|182366|1241155|She Is Not Following You|https://cdnimg.melon.co.kr/cm/album/images/012/41/155/1241155_500.jpg/melon/resize/48/quality/80/optimize
+53|3089448|샤이보이|시크릿|435121|1125351|샤이보이|https://cdnimg.melon.co.kr/cm/album/images/011/25/351/1125351_500.jpg/melon/resize/48/quality/80/optimize
+54|3353418|핑크 로켓 (Pink Rocket)|달샤벳|514619|1238759|핑크 로켓|https://cdnimg.melon.co.kr/cm/album/images/012/38/759/1238759_500.jpg/melon/resize/48/quality/80/optimize
+55|3325188|그대 모습은 장미|김범수|6502|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+56|3325190|너에게로 또 다시|이소라|983|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+57|3357876|나쁜습관 (Feat. 쥬얼리-예원)|소울다이브|433162|1242656|Bad Habits|https://cdnimg.melon.co.kr/cm/album/images/012/42/656/1242656_500.jpg/melon/resize/48/quality/80/optimize
+58|3354546|BABY DON'T CRY|대성|251080|1236055|빅뱅 스페셜에디션|https://cdnimg.melon.co.kr/cm/album/images/012/36/055/1236055_500.jpg/melon/resize/48/quality/80/optimize
+59|3325191|짝사랑|정엽|265067|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+60|3118780|하루하루|김보경 (NEON)|60829|1150353|The First Day|https://cdnimg.melon.co.kr/cm/album/images/011/50/353/1150353_500.jpg/melon/resize/48/quality/80/optimize
+61|3357860|몸부림|정재욱|7839|1242653|몸부림|https://cdnimg.melon.co.kr/cm/album/images/012/42/653/1242653_500.jpg/melon/resize/48/quality/80/optimize
+62|3337770|나의 하루|이소라|983|1228854|[서바이벌 나는 가수다] 경연2. '서로의 노래 바꿔 부르기'|https://cdnimg.melon.co.kr/cm/album/images/012/28/854/1228854_500.jpg/melon/resize/48/quality/80/optimize
+63|3352759|Chocolate Drive|김지수|8806|1238156|Chocolate Drive|https://cdnimg.melon.co.kr/cm/album/images/012/38/156/1238156_500.jpg/melon/resize/48/quality/80/optimize
+64|3364512|들리나요|지아|227595|1247357|내 마음이 들리니 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/012/47/357/1247357_500.jpg/melon/resize/48/quality/80/optimize
+65|3339179|I Wanna Go|Britney Spears|8046|1229952|Femme Fatale|https://cdnimg.melon.co.kr/cm/album/images/012/29/952/1229952_500.jpg/melon/resize/48/quality/80/optimize
+66|3166756|가질 수 없는 너|현빈|57798|1193153|현빈, 가질 수 없는 너|https://cdnimg.melon.co.kr/cm/album/images/011/93/153/1193153_500.jpg/melon/resize/48/quality/80/optimize
+67|3145650|너 말이야|F-ve Dolls|520160|1175152|Charming Five Girls|https://cdnimg.melon.co.kr/cm/album/images/011/75/152/1175152_500.jpg/melon/resize/48/quality/80/optimize
+68|3325102|무시로|백지영|1118|1216951|[서바이벌 나는 가수다] 경연1. '80년대 명곡 부르기|https://cdnimg.melon.co.kr/cm/album/images/012/16/951/1216951_500.jpg/melon/resize/48/quality/80/optimize
+69|3345633|그 곳|장재인|28498|1233162|Early Days|https://cdnimg.melon.co.kr/cm/album/images/012/33/162/1233162_500.jpg/melon/resize/48/quality/80/optimize
+70|3140874|Dreaming|김수현|8433|1170953|드림하이 OST|https://cdnimg.melon.co.kr/cm/album/images/011/70/953/1170953_500.jpg/melon/resize/48/quality/80/optimize
+71|3364510|배가 불렀지 (Feat. GaeKo of DYNAMIC DUO)|Supreme Team|410162|1247356|Hommage To Quincy Jones|https://cdnimg.melon.co.kr/cm/album/images/012/47/356/1247356_500.jpg/melon/resize/48/quality/80/optimize
+72|3106066|처음 사랑하는 연인들을 위해 (반말송)|정용화 (CNBLUE)|20908|1139654|처음 사랑하는 연인들을 위해 (부제: 반말송)|https://cdnimg.melon.co.kr/cm/album/images/011/39/654/1139654_500.jpg/melon/resize/48/quality/80/optimize
+73|432309|꿈에|박정현|1099|16456|박정현 Op.4|https://cdnimg.melon.co.kr/cm/album/images/000/16/456/16456_500.jpg/melon/resize/48/quality/80/optimize
+74|3156951|SOMEBODY TO LOVE|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+75|3362496|그대로 멈춰라!|블락비 (Block B)|532201|1236255|Do U Wanna B?|https://cdnimg.melon.co.kr/cm/album/images/012/36/255/1236255_500.jpg/melon/resize/48/quality/80/optimize
+76|2944372|We No Speak Americano (Radio Edit) (SKT T월드 CF 삽입곡)|Yolanda Be Cool~Dcup|498560~498561|1026554|We No Speak Americano|https://cdnimg.melon.co.kr/cm/album/images/010/26/554/1026554_500.jpg/melon/resize/48/quality/80/optimize
+77|3065250|Oh Yeah (Feat. 박봄)|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+78|3108907|비밀 (Special Vocal. 박완규)|부활|100594|1141557|부활 Collaboration Project '+ (plus)' / +1|https://cdnimg.melon.co.kr/cm/album/images/011/41/557/1141557_500.jpg/melon/resize/48/quality/80/optimize
+79|3156949|HANDS UP|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+80|3174006|한사람|다비치|236815|1199261|웃어요, 엄마 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/011/99/261/1199261_500.jpg/melon/resize/48/quality/80/optimize
+81|3173249|이런 쓰레기 같은...|엠투엠 (M To M)|108581|1198752|이런 쓰레기같은...|https://cdnimg.melon.co.kr/cm/album/images/011/98/752/1198752_500.jpg/melon/resize/48/quality/80/optimize
+82|3087888|Supa Dupa Diva|달샤벳|514619|1123990|Supa Dupa Diva|https://cdnimg.melon.co.kr/cm/album/images/011/23/990/1123990_500.jpg/melon/resize/48/quality/80/optimize
+83|3354480|I'll Be There (Feat. 박재범)|스윙스|236970|1239656|I'll Be There|https://cdnimg.melon.co.kr/cm/album/images/012/39/656/1239656_500.jpg/melon/resize/48/quality/80/optimize
+84|3065249|High High|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+85|3088249|Someday|아이유|261143|1124351|드림하이 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/24/351/1124351_500.jpg/melon/resize/48/quality/80/optimize
+86|3364555|My Darling|플라워|100391|1247364|My Darling|https://cdnimg.melon.co.kr/cm/album/images/012/47/364/1247364_500.jpg/melon/resize/48/quality/80/optimize
+87|3345254|2년만에|김재석|47321|1233052|김재석 Of WANTED-2년만에|https://cdnimg.melon.co.kr/cm/album/images/012/33/052/1233052_500.jpg/melon/resize/48/quality/80/optimize
+88|3347648|통보|니모|230284|1234651|통보|https://cdnimg.melon.co.kr/cm/album/images/012/34/651/1234651_500.jpg/melon/resize/48/quality/80/optimize
+89|3360476|별 짓 다해봤는데|알리 (ALi)|312266|1244754|별 짓 다해봤는데|https://cdnimg.melon.co.kr/cm/album/images/012/44/754/1244754_500.jpg/melon/resize/48/quality/80/optimize
+90|3156359|언제나 사랑해|제이세라|484881|1183654|Endless Love|https://cdnimg.melon.co.kr/cm/album/images/011/83/654/1183654_500.jpg/melon/resize/48/quality/80/optimize
+91|3335871|이러다가 (Feat. Panda) (Rap Ver.)|박화요비|2017|1227053|사랑을 믿어요 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/012/27/053/1227053_500.jpg/melon/resize/48/quality/80/optimize
+92|-1|Born This Way|Lady Gaga|253688|1169455|Born This Way|https://cdnimg.melon.co.kr/cm/album/images/011/69/455/1169455_500.jpg/melon/resize/48/quality/80/optimize
+93|3354521|사랑이 내리고...|김정훈|1103|1239662|Present|https://cdnimg.melon.co.kr/cm/album/images/012/39/662/1239662_500.jpg/melon/resize/48/quality/80/optimize
+94|3176989|이것만은 알고 가 (Before U Go)|동방신기 (TVXQ!)|108316|1201353|왜 (Keep Your Head Down) REPACKAGE '이것만은 알고 가'|https://cdnimg.melon.co.kr/cm/album/images/012/01/353/1201353_500.jpg/melon/resize/48/quality/80/optimize
+95|3356264|사랑은 잔인하게 쓰여진다|럼블피쉬|108951|1241152|신기생뎐 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/012/41/152/1241152_500.jpg/melon/resize/48/quality/80/optimize
+96|3360575|언제까지나|박보람|499464|1244856|49일 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/012/44/856/1244856_500.jpg/melon/resize/48/quality/80/optimize
+97|3145655|잔혹동화|아이유|261143|1173161|Real+|https://cdnimg.melon.co.kr/cm/album/images/011/73/161/1173161_500.jpg/melon/resize/48/quality/80/optimize
+98|3287401|봄처럼|김보경 (NEON)|60829|1205151|봄처럼|https://cdnimg.melon.co.kr/cm/album/images/012/05/151/1205151_500.jpg/melon/resize/48/quality/80/optimize
+99|3350553|DR Feel Good (Korean Ver.)|라니아|532321|1236653|Teddy Riley, The First Expansion In Asia|https://cdnimg.melon.co.kr/cm/album/images/012/36/653/1236653_500.jpg/melon/resize/48/quality/80/optimize
+100|3329348|It's Beautiful|윤하 (YOUNHA)|203912|1221251|It's Beautiful|https://cdnimg.melon.co.kr/cm/album/images/012/21/251/1221251_500.jpg/melon/resize/48/quality/80/optimize

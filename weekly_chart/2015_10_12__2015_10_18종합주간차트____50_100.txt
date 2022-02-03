@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|7868801|19금 Me, Myself & I (Prod. by 버벌진트) (Feat. 제시, 휘성)|헤이즈 (Heize)|751611|2642396|언프리티 랩스타 2 Track 2|https://cdnimg.melon.co.kr/cm/album/images/026/42/396/2642396_500.jpg/melon/resize/48/quality/80/optimize
+52|4743560|Lost Stars|Adam Levine|14417|2266865|Begin Again - Music From And Inspired By The Original Motion Picture|https://cdnimg.melon.co.kr/cm/album/images/022/66/865/2266865_500.jpg/melon/resize/48/quality/80/optimize
+53|5826464|I'm So Sexy|댄싱게놈 (유재석, JYP)|889391|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+54|7876552|미안해요|박보람|499464|2643513|미안해요|https://cdnimg.melon.co.kr/cm/album/images/026/43/513/2643513_500.jpg/melon/resize/48/quality/80/optimize
+55|5760115|IF YOU|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize
+56|5748499|SHAKE IT|씨스타|473181|2325345|SHAKE IT|https://cdnimg.melon.co.kr/cm/album/images/023/25/345/2325345_500.jpg/melon/resize/48/quality/80/optimize
+57|4857981|Sugar|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+58|7877920|스트레스 (Stress)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+59|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+60|5807273|쩔어 (GD & T.O.P)|BIGBANG|198094|2333193|E|https://cdnimg.melon.co.kr/cm/album/images/023/33/193/2333193_500.jpg/melon/resize/48/quality/80/optimize
+61|7881322|19금 사랑 할 때 아니야 (Money) (Prod. by 박재범, Cha Cha Malone) (Feat. 박재범, 지구인)|효린|573812|2644198|언프리티 랩스타 2 Track 5|https://cdnimg.melon.co.kr/cm/album/images/026/44/198/2644198_500.jpg/melon/resize/48/quality/80/optimize
+62|7876373|지금처럼 사랑할게|2BIC(투빅)|643551|2643497|Return 2BiC|https://cdnimg.melon.co.kr/cm/album/images/026/43/497/2643497_500.jpg/melon/resize/48/quality/80/optimize
+63|7855597|Girl Crush|마마무 (Mamamoo)|750053|2640434|이니시아 네스트 OST|https://cdnimg.melon.co.kr/cm/album/images/026/40/434/2640434_500.jpg/melon/resize/48/quality/80/optimize
+64|5781104|Remember|Apink (에이핑크)|534360|2329610|Pink MEMORY|https://cdnimg.melon.co.kr/cm/album/images/023/29/610/2329610_500.jpg/melon/resize/48/quality/80/optimize
+65|5804238|I Feel You|원더걸스|217764|2332752|REBOOT|https://cdnimg.melon.co.kr/cm/album/images/023/32/752/2332752_500.jpg/melon/resize/48/quality/80/optimize
+66|5684826|BAE BAE|BIGBANG|198094|2316478|M|https://cdnimg.melon.co.kr/cm/album/images/023/16/478/2316478_500.jpg/melon/resize/48/quality/80/optimize
+67|7877921|먼저 말해줘 (Farewell)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+68|5650996|우연히 봄|로꼬~유주 (여자친구)|688432~858238|2312287|냄새를 보는 소녀 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/12/287/2312287_500.jpg/melon/resize/48/quality/80/optimize
+69|5700639|마음|아이유|261143|2319008|마음|https://cdnimg.melon.co.kr/cm/album/images/023/19/008/2319008_500.jpg/melon/resize/48/quality/80/optimize
+70|7870472|Ah-Choo|러블리즈|789331|2639766|Lovelyz8|https://cdnimg.melon.co.kr/cm/album/images/026/39/766/2639766_500.jpg/melon/resize/48/quality/80/optimize
+71|5793206|아끼지마 (Don't Be Shy) (Feat. 초아 (AOA), 아이언)|프라이머리|35682|2331227|2-3|https://cdnimg.melon.co.kr/cm/album/images/023/31/227/2331227_500.jpg/melon/resize/48/quality/80/optimize
+72|5818487|19금 ON IT + BO$$|릴보이 (lIlBOI)~로꼬~박재범|623251~688432~443420|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+73|5824767|잘나가서 그래 (Feat. 정일훈 Of BTOB)|현아|449401|2333883|A+|https://cdnimg.melon.co.kr/cm/album/images/023/33/883/2333883_500.jpg/melon/resize/48/quality/80/optimize
+74|7859960|음악이 아니었다면 (Prod. by 버벌진트) (Feat. 치타, 버벌진트)|트루디 (Truedy)|896141|2641112|언프리티 랩스타 2 Track 3|https://cdnimg.melon.co.kr/cm/album/images/026/41/112/2641112_500.jpg/melon/resize/48/quality/80/optimize
+75|5760116|맨정신|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize
+76|5811228|moneyflow (다 비켜봐)|MINO (송민호)~지코 (ZICO)~팔로알토 (Paloalto)|742773~602056~170978|2333774|쇼미더머니 4 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/023/33/774/2333774_500.jpg/melon/resize/48/quality/80/optimize
+77|7863754|쿵쿵쿵|김민승|2561048|2641734|그녀는 예뻤다 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/41/734/2641734_500.jpg/melon/resize/48/quality/80/optimize
+78|7874463|연락해 (Feat. 화사)|릴보이 (lIlBOI)~베이식 (Basick)|623251~241227|2643260|베이식 X 릴보이|https://cdnimg.melon.co.kr/cm/album/images/026/43/260/2643260_500.jpg/melon/resize/48/quality/80/optimize
+79|5576417|같은 시간 속의 너|나얼|3959|2302870|브라운 아이드 소울 싱글 프로젝트 1st. 같은 시간 속의 너 By 나얼|https://cdnimg.melon.co.kr/cm/album/images/023/02/870/2302870_500.jpg/melon/resize/48/quality/80/optimize
+80|5795006|예뻐서 (Feat. 루이 Of 긱스) (You're beautiful)|유승우|699637|2331496|예뻐서|https://cdnimg.melon.co.kr/cm/album/images/023/31/496/2331496_500.jpg/melon/resize/48/quality/80/optimize
+81|5781707|New Thang|Redfoo|674833|2329696|New Thang|https://cdnimg.melon.co.kr/cm/album/images/023/29/696/2329696_500.jpg/melon/resize/48/quality/80/optimize
+82|5682700|LOSER|BIGBANG|198094|2316478|M|https://cdnimg.melon.co.kr/cm/album/images/023/16/478/2316478_500.jpg/melon/resize/48/quality/80/optimize
+83|5822925|좋은 기억|SG 워너비|108363|2335653|THE VOICE|https://cdnimg.melon.co.kr/cm/album/images/023/35/653/2335653_500.jpg/melon/resize/48/quality/80/optimize
+84|5765885|사랑할수록 (화생방실 클레오파트라)|김연우|6017|2327658|복면가왕 14회|https://cdnimg.melon.co.kr/cm/album/images/023/27/658/2327658_500.jpg/melon/resize/48/quality/80/optimize
+85|7847624|이렇게 우리|백아연|646173|2639232|용팔이 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/026/39/232/2639232_500.jpg/melon/resize/48/quality/80/optimize
+86|7852464|19금 언프리티 랩스타 (Don't Stop) (Prod. By D.O)|언프리티 랩스타 2|896110|2639924|언프리티 랩스타 2 Track 1|https://cdnimg.melon.co.kr/cm/album/images/026/39/924/2639924_500.jpg/melon/resize/48/quality/80/optimize
+87|7881448|걷고 싶다|전우성 (노을)|30348|2644207|걷고 싶다|https://cdnimg.melon.co.kr/cm/album/images/026/44/207/2644207_500.jpg/melon/resize/48/quality/80/optimize
+88|7859965|19금 엉덩이 (Feat. 박재범)|개리|1732|2640915|2002|https://cdnimg.melon.co.kr/cm/album/images/026/40/915/2640915_500.jpg/melon/resize/48/quality/80/optimize
+89|5731941|아프다|지코 (ZICO)~소진 (Sojin)|602056~516080|2323162|가면 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/23/162/2323162_500.jpg/melon/resize/48/quality/80/optimize
+90|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+91|7868593|니가 하면|GOT7 (갓세븐)|751059|2642372|MAD|https://cdnimg.melon.co.kr/cm/album/images/026/42/372/2642372_500.jpg/melon/resize/48/quality/80/optimize
+92|7865111|Solo (Feat. Hoody)|박재범|443420|2641980|Solo|https://cdnimg.melon.co.kr/cm/album/images/026/41/980/2641980_500.jpg/melon/resize/48/quality/80/optimize
+93|5721440|LOVE ME RIGHT|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize
+94|7888331|19금 Bandz Up (Prod. by Dok2) (Feat. Dok2)|트루디 (Truedy)|896141|2645311|언프리티 랩스타 2 Track 6 & 7|https://cdnimg.melon.co.kr/cm/album/images/026/45/311/2645311_500.jpg/melon/resize/48/quality/80/optimize
+95|7855347|내게 와줘서|케이윌|175139|2640379|용팔이 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/40/379/2640379_500.jpg/melon/resize/48/quality/80/optimize
+96|7869469|울지 말자|Homme (창민, 이현)|778464|2642501|울지 말자|https://cdnimg.melon.co.kr/cm/album/images/026/42/501/2642501_500.jpg/melon/resize/48/quality/80/optimize
+97|5459268|Uptown Funk (Feat. Bruno Mars)|Mark Ronson|45077|2290446|Uptown Funk (Feat. Bruno Mars)|https://cdnimg.melon.co.kr/cm/album/images/022/90/446/2290446_500.jpg/melon/resize/48/quality/80/optimize
+98|7888412|말해 Yes Or No (Feat. PENOMECO, The Quiett)|지코 (ZICO)|602056|2645320|말해 Yes Or No|https://cdnimg.melon.co.kr/cm/album/images/026/45/320/2645320_500.jpg/melon/resize/48/quality/80/optimize
+99|7849542|쎈언니|제시 (Jessi)|176393|2639551|쎈언니|https://cdnimg.melon.co.kr/cm/album/images/026/39/551/2639551_500.jpg/melon/resize/48/quality/80/optimize
+100|7870706|오늘따라|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize

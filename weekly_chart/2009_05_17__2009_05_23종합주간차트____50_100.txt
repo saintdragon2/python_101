@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2161949|그때 그 여자|일 락|57315|556551|3집 Part.1|https://cdnimg.melon.co.kr/cm/album/images/005/56/551/556551_500.jpg/melon/resize/48/quality/80/optimize
+52|1996934|이젠 남이야 (Feat. Baby-J Of Jewelry)|김경록 (V.O.S)|57528|444358|People & People|https://cdnimg.melon.co.kr/cm/album/images/004/44/358/444358_500.jpg/melon/resize/48/quality/80/optimize
+53|2030248|떠나지마...|윤미래|1654|475051|떠나지마... (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/75/051/475051_500.jpg/melon/resize/48/quality/80/optimize
+54|2160049|손톱이 빠져서|이승철|1010|554652|Mutopia|https://cdnimg.melon.co.kr/cm/album/images/005/54/652/554652_500.jpg/melon/resize/48/quality/80/optimize
+55|2166252|나 왜 헤어져 (Feat. 손호영)|혜령|32201|560051|One Night Love|https://cdnimg.melon.co.kr/cm/album/images/005/60/051/560051_500.jpg/melon/resize/48/quality/80/optimize
+56|2164617|너만을 느끼며 (Feat. 티파니&수영)|더 블루|180144|558856|The Blue '너만을 느끼며'|https://cdnimg.melon.co.kr/cm/album/images/005/58/856/558856_500.jpg/melon/resize/48/quality/80/optimize
+57|2051448|전화 한 번 못하니 (Feat. 미스에스 태혜영)|왁스|2267|493151|전화 한 번 못하니 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/93/151/493151_500.jpg/melon/resize/48/quality/80/optimize
+58|2020854|사랑..다 거짓말|린|8530|466352|Let Go, Let In, It's A New Day|https://cdnimg.melon.co.kr/cm/album/images/004/66/352/466352_500.jpg/melon/resize/48/quality/80/optimize
+59|2168071|내 심장이 뛰어요 (Feat. 숙희)|PK 헤만|211782|561753|내 심장이 뛰어요|https://cdnimg.melon.co.kr/cm/album/images/005/61/753/561753_500.jpg/melon/resize/48/quality/80/optimize
+60|2169455|숨바꼭질|서영은|3033|562962|숨바꼭질|https://cdnimg.melon.co.kr/cm/album/images/005/62/962/562962_500.jpg/melon/resize/48/quality/80/optimize
+61|2167649|미행|나윤권|58979|561351|마주치다|https://cdnimg.melon.co.kr/cm/album/images/005/61/351/561351_500.jpg/melon/resize/48/quality/80/optimize
+62|2161550|사랑밖에 난 몰라 (Feat. 차여울)|나몰라패밀리 (Namolla Family)|194009|556152|사랑밖에 난 몰라|https://cdnimg.melon.co.kr/cm/album/images/005/56/152/556152_500.jpg/melon/resize/48/quality/80/optimize
+63|2157848|Mission No.4|김현중~손담비~김준|253518~226582~11723|552451|햅틱미션 OST|https://cdnimg.melon.co.kr/cm/album/images/005/52/451/552451_500.jpg/melon/resize/48/quality/80/optimize
+64|1951550|붉은 노을|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+65|2172039|아무리 생각해도 난 너를|박정현~스윗소로우 (SWEET SORROW)|1099~175203|565064|음악여행 라라라 Live Vol.2|https://cdnimg.melon.co.kr/cm/album/images/005/65/064/565064_500.jpg/melon/resize/48/quality/80/optimize
+66|2168600|슈퍼스타 (Feat. 낯선)|태군|323676|562256|Rising Star|https://cdnimg.melon.co.kr/cm/album/images/005/62/256/562256_500.jpg/melon/resize/48/quality/80/optimize
+67|2144768|Never Ending Story|윤상현|411121|550053|내조의 여왕 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/005/50/053/550053_500.jpg/melon/resize/48/quality/80/optimize
+68|2012251|연애소설|가비엔제이|174997|458352|연애소설|https://cdnimg.melon.co.kr/cm/album/images/004/58/352/458352_500.jpg/melon/resize/48/quality/80/optimize
+69|2169578|Again (다시시작해) (Original Ver.)|썸데이|316967|563053|Again (다시 시작해)|https://cdnimg.melon.co.kr/cm/album/images/005/63/053/563053_500.jpg/melon/resize/48/quality/80/optimize
+70|2139250|쿨하게 헤어지는 방법 (Feat. 잔디)|김진표|1136|545352|BlueBrand Part 2|https://cdnimg.melon.co.kr/cm/album/images/005/45/352/545352_500.jpg/melon/resize/48/quality/80/optimize
+71|2176979|여자는 그래...|김동희|25890|569256|My Reality|https://cdnimg.melon.co.kr/cm/album/images/005/69/256/569256_500.jpg/melon/resize/48/quality/80/optimize
+72|2169486|가슴이 아파요|신재|50451|562965|The Edge Of Heartbeat|https://cdnimg.melon.co.kr/cm/album/images/005/62/965/562965_500.jpg/melon/resize/48/quality/80/optimize
+73|1951553|Wonderful|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+74|2159714|영원한 사랑|씨야~다비치~티아라|181679~236815~412000|554262|여성시대/영원한 사랑|https://cdnimg.melon.co.kr/cm/album/images/005/54/262/554262_500.jpg/melon/resize/48/quality/80/optimize
+75|2144082|Cry|오종혁|5599|549356|He's Story Vol.2 'Cry'|https://cdnimg.melon.co.kr/cm/album/images/005/49/356/549356_500.jpg/melon/resize/48/quality/80/optimize
+76|2129648|Extreme (Feat. 제시카에이치오)|이민호|408680|537451|Extreme (Single)|https://cdnimg.melon.co.kr/cm/album/images/005/37/451/537451_500.jpg/melon/resize/48/quality/80/optimize
+77|2175754|잊은 만큼 후회해|김범수|6502|568152|잊은 만큼 후회해|https://cdnimg.melon.co.kr/cm/album/images/005/68/152/568152_500.jpg/melon/resize/48/quality/80/optimize
+78|2132361|따줘|김종국|1692|539753|따줘|https://cdnimg.melon.co.kr/cm/album/images/005/39/753/539753_500.jpg/melon/resize/48/quality/80/optimize
+79|2176177|Twilight 영원토록|가비엔제이~장혜진|174997~5675|568554|Twilight 영원토록|https://cdnimg.melon.co.kr/cm/album/images/005/68/554/568554_500.jpg/melon/resize/48/quality/80/optimize
+80|2169748|어쩜 (Feat. Speed Motion)|수빈|314166|563251|어쩜|https://cdnimg.melon.co.kr/cm/album/images/005/63/251/563251_500.jpg/melon/resize/48/quality/80/optimize
+81|1977448|러브119 (Feat. MC몽)|케이윌|175139|429351|Love119|https://cdnimg.melon.co.kr/cm/album/images/004/29/351/429351_500.jpg/melon/resize/48/quality/80/optimize
+82|2128624|사랑한단 말 못해|옥주현|1714|536658|신데렐라 맨 OST|https://cdnimg.melon.co.kr/cm/album/images/005/36/658/536658_500.jpg/melon/resize/48/quality/80/optimize
+83|2163683|Fantasia|인순이|4232|557957|인순이|https://cdnimg.melon.co.kr/cm/album/images/005/57/957/557957_500.jpg/melon/resize/48/quality/80/optimize
+84|2135570|벌 받을 거야|솔비|227228|536862|벌 받을 거야|https://cdnimg.melon.co.kr/cm/album/images/005/36/862/536862_500.jpg/melon/resize/48/quality/80/optimize
+85|2043348|그런 사람 또 없습니다|이승철|1010|486251|슬픔보다 더 슬픈이야기 OST 2nd|https://cdnimg.melon.co.kr/cm/album/images/004/86/251/486251_500.jpg/melon/resize/48/quality/80/optimize
+86|2017349|내 머리가 나빠서|SS501|170541|463151|꽃보다 남자 OST|https://cdnimg.melon.co.kr/cm/album/images/004/63/151/463151_500.jpg/melon/resize/48/quality/80/optimize
+87|2114005|19금 Love Sex Magic (Feat. Justin Timberlake)|Ciara|55278|524754|Love Sex Magic|https://cdnimg.melon.co.kr/cm/album/images/005/24/754/524754_500.jpg/melon/resize/48/quality/80/optimize
+88|2169582|멋쟁이 VS 예쁜이|FTISLAND (FT아일랜드)|226490|563054|Rock Prince (2nd Live Concert)|https://cdnimg.melon.co.kr/cm/album/images/005/63/054/563054_500.jpg/melon/resize/48/quality/80/optimize
+89|2104532|그대에게 하는 말|스윗소로우 (SWEET SORROW)|175203|517656|Songs|https://cdnimg.melon.co.kr/cm/album/images/005/17/656/517656_500.jpg/melon/resize/48/quality/80/optimize
+90|-1|사랑, 그 고통스런 말|정연욱|8582|563552|Il Ricordo|https://cdnimg.melon.co.kr/cm/album/images/005/63/552/563552_500.jpg/melon/resize/48/quality/80/optimize
+91|1928055|들리나요...|태연 (TAEYEON)|236797|397893|베토벤 바이러스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/97/893/397893_500.jpg/melon/resize/48/quality/80/optimize
+92|2113264|여우랍니다|이수영|995|524463|내조의 여왕 OST|https://cdnimg.melon.co.kr/cm/album/images/005/24/463/524463_500.jpg/melon/resize/48/quality/80/optimize
+93|2172327|Luv Luv (Feat. 소울트로닉)|한지혜|414123|565157|쉬즈올리브 지혜의 슈즈마이드림|https://cdnimg.melon.co.kr/cm/album/images/005/65/157/565157_500.jpg/melon/resize/48/quality/80/optimize
+94|2167352|내 여자친구에게|트리탑스|230206|561054|내 여자 친구에게|https://cdnimg.melon.co.kr/cm/album/images/005/61/054/561054_500.jpg/melon/resize/48/quality/80/optimize
+95|2172771|고독한 항해 (Studio Ver.)|김동률|925|565552|2008 Concert, Monologue|https://cdnimg.melon.co.kr/cm/album/images/005/65/552/565552_500.jpg/melon/resize/48/quality/80/optimize
+96|2159248|그바보|박정현|1099|553951|그저 바라 보다가 OST|https://cdnimg.melon.co.kr/cm/album/images/005/53/951/553951_500.jpg/melon/resize/48/quality/80/optimize
+97|2174389|Miracle Blue (Song By 신민아)|러브홀릭스|242066|566853|Miracle Blue|https://cdnimg.melon.co.kr/cm/album/images/005/66/853/566853_500.jpg/melon/resize/48/quality/80/optimize
+98|2167348|이별 연습|호람|413280|561051|이별 연습|https://cdnimg.melon.co.kr/cm/album/images/005/61/051/561051_500.jpg/melon/resize/48/quality/80/optimize
+99|2143059|너를 비운다|란 (RAN)|236880|548452|This Is Ran|https://cdnimg.melon.co.kr/cm/album/images/005/48/452/548452_500.jpg/melon/resize/48/quality/80/optimize
+100|2174391|My Everything|이민호|408680|566854|F4 스페셜 에디션 2|https://cdnimg.melon.co.kr/cm/album/images/005/66/854/566854_500.jpg/melon/resize/48/quality/80/optimize

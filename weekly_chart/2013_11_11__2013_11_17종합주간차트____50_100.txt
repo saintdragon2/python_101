@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4311261|그대와 함께|B1A4|535440|2215123|응답하라 1994 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/15/123/2215123_500.jpg/melon/resize/48/quality/80/optimize
+52|4226211|니가 뭔데 (Who You?)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+53|4092360|봉숙이|장미여관|578231|2182180|산전수전 공중전|https://cdnimg.melon.co.kr/cm/album/images/021/82/180/2182180_500.jpg/melon/resize/48/quality/80/optimize
+54|3948908|씨스루 (Feat. Zion.T, 개코 Of 다이나믹듀오)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+55|4287434|거꾸로 걷는다|어반자카파|420527|2212123|거꾸로 걷는다|https://cdnimg.melon.co.kr/cm/album/images/022/12/123/2212123_500.jpg/melon/resize/48/quality/80/optimize
+56|4205993|갖고놀래 (Feat. 다이나믹 듀오)|범키|623851|2196906|갖고놀래|https://cdnimg.melon.co.kr/cm/album/images/021/96/906/2196906_500.jpg/melon/resize/48/quality/80/optimize
+57|4270949|말이야|이홍기 (FT아일랜드)|42554|2209824|상속자들 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/09/824/2209824_500.jpg/melon/resize/48/quality/80/optimize
+58|4312920|배인 (VAIN) (Feat. Koonta Of Rude Paper)|언터쳐블|190493|2215342|TRIP|https://cdnimg.melon.co.kr/cm/album/images/022/15/342/2215342_500.jpg/melon/resize/48/quality/80/optimize
+59|4163116|NoNoNo|Apink (에이핑크)|534360|2191397|Secret Garden|https://cdnimg.melon.co.kr/cm/album/images/021/91/397/2191397_500.jpg/melon/resize/48/quality/80/optimize
+60|4226210|Black (Feat. 제니 of BLACKPINK)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+61|4314867|신세계 (Feat. 나비)|팬텀|588431|2215571|신세계|https://cdnimg.melon.co.kr/cm/album/images/022/15/571/2215571_500.jpg/melon/resize/48/quality/80/optimize
+62|4277805|그때로 가고싶다|김보경 (NEON)|60829|2210759|비밀 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/10/759/2210759_500.jpg/melon/resize/48/quality/80/optimize
+63|4274230|Everybody|SHINee (샤이니)|247639|2210329|The 5th Mini Album 'Everybody'|https://cdnimg.melon.co.kr/cm/album/images/022/10/329/2210329_500.jpg/melon/resize/48/quality/80/optimize
+64|4268433|누구나 비밀은 있다 (Feat. 가인 Of Brown Eyed Girls)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+65|4294468|가시사랑|포맨 (4MEN)|100176|2213020|기황후 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/13/020/2213020_500.jpg/melon/resize/48/quality/80/optimize
+66|4295819|너만 없다|JIN (러블리즈)|744170|2213183|너만 없다|https://cdnimg.melon.co.kr/cm/album/images/022/13/183/2213183_500.jpg/melon/resize/48/quality/80/optimize
+67|3947371|? (물음표) (Feat. 최자 Of 다이나믹듀오, Zion.T)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+68|4130922|미친연애 (Bad Girl) (Feat. E-Sens Of 슈프림팀)|범키|623851|2187466|미친연애|https://cdnimg.melon.co.kr/cm/album/images/021/87/466/2187466_500.jpg/melon/resize/48/quality/80/optimize
+69|4212782|미치게 만들어|효린|573812|2197684|주군의 태양 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/97/684/2197684_500.jpg/melon/resize/48/quality/80/optimize
+70|-1|살다가|김진호 (SG워너비)|259768|2210534|불후의 명곡 - 전설을 노래하다 (추모연가 7편)|https://cdnimg.melon.co.kr/cm/album/images/022/10/534/2210534_500.jpg/melon/resize/48/quality/80/optimize
+71|3436083|끝사랑|김범수|6502|1302654|Solista Part.2|https://cdnimg.melon.co.kr/cm/album/images/013/02/654/1302654_500.jpg/melon/resize/48/quality/80/optimize
+72|4142913|My Love|이승철|1010|2188937|MY LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/88/937/2188937_500.jpg/melon/resize/48/quality/80/optimize
+73|4171462|U & I|에일리(Ailee)|629831|2192532|A's Doll House|https://cdnimg.melon.co.kr/cm/album/images/021/92/532/2192532_500.jpg/melon/resize/48/quality/80/optimize
+74|4148967|빠빠빠|크레용팝|685904|2189686|빠빠빠|https://cdnimg.melon.co.kr/cm/album/images/021/89/686/2189686_500.jpg/melon/resize/48/quality/80/optimize
+75|4286274|말만해 (What You Want) (Feat. 김성규)|칸토|688051|2211932|말만해 (What You Want)|https://cdnimg.melon.co.kr/cm/album/images/022/11/932/2211932_500.jpg/melon/resize/48/quality/80/optimize
+76|4252730|그대 입술이 (With 채지연 - 풋풋)|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+77|4297233|문을 여시오 (Feat. 김창렬) (New Ver.)|임창정|1142|2213375|문을 여시오|https://cdnimg.melon.co.kr/cm/album/images/022/13/375/2213375_500.jpg/melon/resize/48/quality/80/optimize
+78|4027954|내일 할 일|윤종신~성시경|437~3305|2174473|2013 월간 윤종신 Repair 2월호|https://cdnimg.melon.co.kr/cm/album/images/021/74/473/2174473_500.jpg/melon/resize/48/quality/80/optimize
+79|4160246|BAAAM (Feat. Muzie Of UV)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+80|4279327|유후(U Who?) (Feat. San E)|유승우|699637|2210963|유후 (U Who?)|https://cdnimg.melon.co.kr/cm/album/images/022/10/963/2210963_500.jpg/melon/resize/48/quality/80/optimize
+81|4259861|그대여|먼데이 키즈 (Monday Kiz)|175155|2203427|Unfinished|https://cdnimg.melon.co.kr/cm/album/images/022/03/427/2203427_500.jpg/melon/resize/48/quality/80/optimize
+82|4252729|시원한 여자|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+83|4247632|겁도 없이|서인국|436700|2201724|주군의 태양 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/01/724/2201724_500.jpg/melon/resize/48/quality/80/optimize
+84|4236972|The Fox|Ylvis|734331|2200408|The Fox|https://cdnimg.melon.co.kr/cm/album/images/022/00/408/2200408_500.jpg/melon/resize/48/quality/80/optimize
+85|4309856|Story|박신혜|437043|2214921|상속자들 OST Part 5|https://cdnimg.melon.co.kr/cm/album/images/022/14/921/2214921_500.jpg/melon/resize/48/quality/80/optimize
+86|4252733|밤|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+87|2101171|오랜만이야|임창정|1142|514854|Return To My World|https://cdnimg.melon.co.kr/cm/album/images/005/14/854/514854_500.jpg/melon/resize/48/quality/80/optimize
+88|2575587|소주한잔|임창정|1142|798856|Remind|https://cdnimg.melon.co.kr/cm/album/images/007/98/856/798856_500.jpg/melon/resize/48/quality/80/optimize
+89|4264912|나를 사랑해줘 (Feat. 개코 Of 다이나믹 듀오)|서인영|26265|2206048|나를 사랑해줘|https://cdnimg.melon.co.kr/cm/album/images/022/06/048/2206048_500.jpg/melon/resize/48/quality/80/optimize
+90|4320910|눈물이 핑돌아|가비엔제이~더 씨야|174997~710965|2216262|눈물이 핑돌아|https://cdnimg.melon.co.kr/cm/album/images/022/16/262/2216262_500.jpg/melon/resize/48/quality/80/optimize
+91|4311260|대답은 너니까|VIXX (빅스)|672560|2215122|대답은 너니까|https://cdnimg.melon.co.kr/cm/album/images/022/15/122/2215122_500.jpg/melon/resize/48/quality/80/optimize
+92|4212184|24시간이 모자라|선미|22938|2197599|24시간이 모자라|https://cdnimg.melon.co.kr/cm/album/images/021/97/599/2197599_500.jpg/melon/resize/48/quality/80/optimize
+93|4232054|사랑했었다면|지아~이해리 (다비치)|227595~259769|2199844|사랑했었다면|https://cdnimg.melon.co.kr/cm/album/images/021/99/844/2199844_500.jpg/melon/resize/48/quality/80/optimize
+94|4282579|니가 아닌 것 같아 (It's Not You)|케이윌|175139|2211378|Will In Fall|https://cdnimg.melon.co.kr/cm/album/images/022/11/378/2211378_500.jpg/melon/resize/48/quality/80/optimize
+95|4252731|줄리엣|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+96|4305819|사랑하는 이에게|울랄라세션|569214|2214427|듀스 20주년 헌정앨범 Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/14/427/2214427_500.jpg/melon/resize/48/quality/80/optimize
+97|4305625|이별하기 좋은 밤|소울스타 (SOULSTAR)|170042|2214406|이별하기 좋은 밤|https://cdnimg.melon.co.kr/cm/album/images/022/14/406/2214406_500.jpg/melon/resize/48/quality/80/optimize
+98|4276045|건 (Gun)|나인뮤지스|465680|2210554|Prima Donna|https://cdnimg.melon.co.kr/cm/album/images/022/10/554/2210554_500.jpg/melon/resize/48/quality/80/optimize
+99|4300740|별.달.다 (Feat. 조현아 Of 어반자카파)|김조한|1873|2213829|김조한 디지털싱글 2013|https://cdnimg.melon.co.kr/cm/album/images/022/13/829/2213829_500.jpg/melon/resize/48/quality/80/optimize
+100|4252732|아름다운 나이|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize

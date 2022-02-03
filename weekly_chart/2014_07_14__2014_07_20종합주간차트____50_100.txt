@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4729598|노래 불러줘요 (Feat. 아이유)|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+52|4731710|Fantastic|헨리 (HENRY)|710006|2265615|The 2nd Mini Album 'Fantastic'|https://cdnimg.melon.co.kr/cm/album/images/022/65/615/2265615_500.jpg/melon/resize/48/quality/80/optimize
+53|4400561|짧은 치마 (Miniskirt)|AOA|686920|2226803|짧은 치마|https://cdnimg.melon.co.kr/cm/album/images/022/26/803/2226803_500.jpg/melon/resize/48/quality/80/optimize
+54|4711120|Nice Body (With 로꼬)|효민|473980|2263484|Make Up|https://cdnimg.melon.co.kr/cm/album/images/022/63/484/2263484_500.jpg/melon/resize/48/quality/80/optimize
+55|-1|인연|윤민수(바이브)~신용재 (2F)|151315~510537|2249074|불후의 명곡 - 전설을 노래하다 (이선희 2편)|https://cdnimg.melon.co.kr/cm/album/images/022/49/074/2249074_500.jpg/melon/resize/48/quality/80/optimize
+56|4665107|내가 할 수 없는 말 (Feat. 나비)|정키|570731|2258502|EMOTION|https://cdnimg.melon.co.kr/cm/album/images/022/58/502/2258502_500.jpg/melon/resize/48/quality/80/optimize
+57|4585736|Bad (Feat. Vassy) (Radio Edit)|David Guetta~Showtek|182123~243157|2249404|Bad (Feat. Vassy) (Radio Edit)|https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/48/quality/80/optimize
+58|4544242|그 중에 그대를 만나|이선희|966|2244913|15집 'SERENDIPITY' 30주년 기념앨범|https://cdnimg.melon.co.kr/cm/album/images/022/44/913/2244913_500.jpg/melon/resize/48/quality/80/optimize
+59|4503810|까탈레나 (Catallena)|오렌지 캬라멜|477632|2240082|The Third Single Catallena|https://cdnimg.melon.co.kr/cm/album/images/022/40/082/2240082_500.jpg/melon/resize/48/quality/80/optimize
+60|4724122|움직이지마|다비치|236815|2264814|움직이지마|https://cdnimg.melon.co.kr/cm/album/images/022/64/814/2264814_500.jpg/melon/resize/48/quality/80/optimize
+61|4583481|Give Love|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+62|4674336|사랑했으니..됐어|거미|30358|2259485|사랑했으니..됐어|https://cdnimg.melon.co.kr/cm/album/images/022/59/485/2259485_500.jpg/melon/resize/48/quality/80/optimize
+63|4579474|견딜만해 (Feat. 효린 Of 씨스타)|매드클라운|219621|2248665|표독|https://cdnimg.melon.co.kr/cm/album/images/022/48/665/2248665_500.jpg/melon/resize/48/quality/80/optimize
+64|4729578|보통날 (Original Ver.)|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+65|4646572|사랑이 지나가면|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+66|4594680|요즘 바쁜가봐|2BIC(투빅)|643551|2250420|Soul Mate (소울메이트)|https://cdnimg.melon.co.kr/cm/album/images/022/50/420/2250420_500.jpg/melon/resize/48/quality/80/optimize
+67|4746930|Buen Camino|신혜성~린|1741~8530|2267201|SHIN HYE SUNG - Once Again #1|https://cdnimg.melon.co.kr/cm/album/images/022/67/201/2267201_500.jpg/melon/resize/48/quality/80/optimize
+68|4667457|사랑 그 한마디|태연 (TAEYEON)|236797|2258762|너희들은 포위됐다 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/58/762/2258762_500.jpg/melon/resize/48/quality/80/optimize
+69|4639335|Night And Day|휘성 (Realslow)|10577|2255565|The Best Man|https://cdnimg.melon.co.kr/cm/album/images/022/55/565/2255565_500.jpg/melon/resize/48/quality/80/optimize
+70|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+71|4478187|Come Back Home|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+72|4751625|19금 Gravity (Feat. Mad Clown, 기리보이)|스윙스|236970|2267692|감정기복 II Part. 2 : 강박증 (Obsessive Compulsive Disorder)|https://cdnimg.melon.co.kr/cm/album/images/022/67/692/2267692_500.jpg/melon/resize/48/quality/80/optimize
+73|4706588|반도의흔한랩퍼 (Feat. San E, 스윙스)|버벌진트|6985|2262956|반도의흔한랩퍼|https://cdnimg.melon.co.kr/cm/album/images/022/62/956/2262956_500.jpg/melon/resize/48/quality/80/optimize
+74|4690053|바라만 보네요|손승연~The One (더원)|661773~160816|2261230|바라만 보네요|https://cdnimg.melon.co.kr/cm/album/images/022/61/230/2261230_500.jpg/melon/resize/48/quality/80/optimize
+75|4512170|흔한 노래|임창정|1142|2241157|흔한 노래... 흔한 멜로디...|https://cdnimg.melon.co.kr/cm/album/images/022/41/157/2241157_500.jpg/melon/resize/48/quality/80/optimize
+76|4736613|밤이 아까워서 (Clean Ver.)|유승우|699637|2266186|유승우|https://cdnimg.melon.co.kr/cm/album/images/022/66/186/2266186_500.jpg/melon/resize/48/quality/80/optimize
+77|3808189|Call You Mine (Feat. Geologic Of The Blue Scholars)|Jeff Bernat|673152|2124668|The Gentleman Approach|https://cdnimg.melon.co.kr/cm/album/images/021/24/668/2124668_500.jpg/melon/resize/48/quality/80/optimize
+78|4727317|All Night|f(x)|428501|2264531|The 3rd Album 'Red Light'|https://cdnimg.melon.co.kr/cm/album/images/022/64/531/2264531_500.jpg/melon/resize/48/quality/80/optimize
+79|4478191|멘붕 (CL Solo)|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+80|4671152|새벽한시 (1AM)|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+81|4671153|Stay With Me (Feat. G-Dragon Of Bigbang)|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+82|4692825|팔베개|다비치|236815|2261505|6,7|https://cdnimg.melon.co.kr/cm/album/images/022/61/505/2261505_500.jpg/melon/resize/48/quality/80/optimize
+83|4446485|너의 모든 순간|성시경|3305|2232505|별에서 온 그대 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/48/quality/80/optimize
+84|4532820|뜨래요 (Feat. 앙리 Of 3B)|배치기|101886|2243562|뜨래요|https://cdnimg.melon.co.kr/cm/album/images/022/43/562/2243562_500.jpg/melon/resize/48/quality/80/optimize
+85|4754241|Darling|에디킴|601979|2267980|너 사용법 Deluxe Edition|https://cdnimg.melon.co.kr/cm/album/images/022/67/980/2267980_500.jpg/melon/resize/48/quality/80/optimize
+86|4697864|A|GOT7 (갓세븐)|751059|2262060|GOT♡|https://cdnimg.melon.co.kr/cm/album/images/022/62/060/2262060_500.jpg/melon/resize/48/quality/80/optimize
+87|4749621|19금 미쳤어 (Feat. Don Mills)|빈지노 (Beenzino)|532029|2267501|Up All Night|https://cdnimg.melon.co.kr/cm/album/images/022/67/501/2267501_500.jpg/melon/resize/48/quality/80/optimize
+88|4535038|그런 남자|Bro|764630|2243859|그런 남자|https://cdnimg.melon.co.kr/cm/album/images/022/43/859/2243859_500.jpg/melon/resize/48/quality/80/optimize
+89|4650421|이젠 너 없이도 (Feat. 윤미래, 타이거 JK, Bizzy)|유나킴|770522|2256907|Love Me Love|https://cdnimg.melon.co.kr/cm/album/images/022/56/907/2256907_500.jpg/melon/resize/48/quality/80/optimize
+90|4751893|Be The One|Jeff Bernat|673152|2267724|운명처럼 널 사랑해 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/67/724/2267724_500.jpg/melon/resize/48/quality/80/optimize
+91|4730549|유후|박지윤|1121|2265481|Yoo Hoo|https://cdnimg.melon.co.kr/cm/album/images/022/65/481/2265481_500.jpg/melon/resize/48/quality/80/optimize
+92|4749622|19금 Up All Night (Feat. Mayson The Soul)|빈지노 (Beenzino)|532029|2267501|Up All Night|https://cdnimg.melon.co.kr/cm/album/images/022/67/501/2267501_500.jpg/melon/resize/48/quality/80/optimize
+93|4737281|캐논의 아침|백아연|646173|2266265|운명처럼 널 사랑해 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/66/265/2266265_500.jpg/melon/resize/48/quality/80/optimize
+94|4383773|Something|걸스데이|482762|2224342|걸스데이 미니앨범 3집|https://cdnimg.melon.co.kr/cm/album/images/022/24/342/2224342_500.jpg/melon/resize/48/quality/80/optimize
+95|4751939|결혼해요 (Feat. 유진 Of 더씨야)|스컬|543912|2267731|KING O' IRIE|https://cdnimg.melon.co.kr/cm/album/images/022/67/731/2267731_500.jpg/melon/resize/48/quality/80/optimize
+96|4709050|가끔 내가|김나영|735094|2263221|가끔 내가|https://cdnimg.melon.co.kr/cm/album/images/022/63/221/2263221_500.jpg/melon/resize/48/quality/80/optimize
+97|4478188|너 아님 안돼|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+98|4572941|가끔|Crush|674710|2247858|가끔|https://cdnimg.melon.co.kr/cm/album/images/022/47/858/2247858_500.jpg/melon/resize/48/quality/80/optimize
+99|4746829|그대 그리고 나|박정현|1099|2267189|유혹 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/67/189/2267189_500.jpg/melon/resize/48/quality/80/optimize
+100|4752181|얼음땡 (Feat. 빈지노)|박재정|738480|2267766|STEP 1|https://cdnimg.melon.co.kr/cm/album/images/022/67/766/2267766_500.jpg/melon/resize/48/quality/80/optimize

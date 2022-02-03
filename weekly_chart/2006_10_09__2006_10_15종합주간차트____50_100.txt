@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1467723|그리운 날엔|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+52|1368239|눈물뿐인 바보|BIGBANG|198094|324606|BigBang First Single|https://cdnimg.melon.co.kr/cm/album/images/003/24/606/324606_500.jpg/melon/resize/48/quality/80/optimize
+53|1177471|My Love (And)|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+54|1204915|Hold The Line|조pd (ZoPD)~브라운아이드걸스|2071~181694|318845|HOLD THE LINE|https://cdnimg.melon.co.kr/cm/album/images/003/18/845/318845_500.jpg/melon/resize/48/quality/80/optimize
+55|1472024|I'm Coming (Feat. Tablo)|비|17671|328756|Rain's World|https://cdnimg.melon.co.kr/cm/album/images/003/28/756/328756_500.jpg/melon/resize/48/quality/80/optimize
+56|1315554|Maybe I Love You (Feat. 빅톤)|걸 프렌즈|193606|322538|Another Myself|https://cdnimg.melon.co.kr/cm/album/images/003/22/538/322538_500.jpg/melon/resize/48/quality/80/optimize
+57|1355082|Still Loving You|BGH4|197310|323842|Memories Of HIM|https://cdnimg.melon.co.kr/cm/album/images/003/23/842/323842_500.jpg/melon/resize/48/quality/80/optimize
+58|1177475|남자를 몰라|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+59|1288745|Cutie Honey|아유미|192775|321974|Cutie Honey|https://cdnimg.melon.co.kr/cm/album/images/003/21/974/321974_500.jpg/melon/resize/48/quality/80/optimize
+60|1467724|사랑할 땐 몰랐던 것들|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+61|1114180|술이야|바이브|160080|314287|Re - Feel|https://cdnimg.melon.co.kr/cm/album/images/003/14/287/314287_500.jpg/melon/resize/48/quality/80/optimize
+62|1368238|This Love|BIGBANG|198094|324606|BigBang First Single|https://cdnimg.melon.co.kr/cm/album/images/003/24/606/324606_500.jpg/melon/resize/48/quality/80/optimize
+63|1466354|21살 이야기|JJMP|204633|328294|2006 MBC 대학가요제|https://cdnimg.melon.co.kr/cm/album/images/003/28/294/328294_500.jpg/melon/resize/48/quality/80/optimize
+64|1373852|그때처럼 사랑할 수 있을까...|오현란|2876|325738|그때처럼 사랑할 수 있을까...|https://cdnimg.melon.co.kr/cm/album/images/003/25/738/325738_500.jpg/melon/resize/48/quality/80/optimize
+65|1467725|그 길을 걷다가|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+66|1368869|그댈 위한 사랑|이정|39256|324839|천국보다 낯선 OST|https://cdnimg.melon.co.kr/cm/album/images/003/24/839/324839_500.jpg/melon/resize/48/quality/80/optimize
+67|1467726|바람, 그대|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+68|1467727|나 그리고 너야|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+69|1264220|불꽃 (Feat. 개리)|장혜진|5675|320177|불꽃 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/20/177/320177_500.jpg/melon/resize/48/quality/80/optimize
+70|1466871|떠나 (Feat. 김낙싸움닭)|버즈|160091|328340|‘떠나’ 그리고 ‘울지마’|https://cdnimg.melon.co.kr/cm/album/images/003/28/340/328340_500.jpg/melon/resize/48/quality/80/optimize
+71|1467728|Who Do You Love|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+72|1467697|Lady (무궁화 꽃이 또... 피었습니다)|신승훈|25|328394|The Romanticist|https://cdnimg.melon.co.kr/cm/album/images/003/28/394/328394_500.jpg/melon/resize/48/quality/80/optimize
+73|1335334|단 한사람|고유진 (플라워)|4172|323087|소문난 칠공주 OST|https://cdnimg.melon.co.kr/cm/album/images/003/23/087/323087_500.jpg/melon/resize/48/quality/80/optimize
+74|1467729|그 이름 모른다고|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+75|1423389|One By One|배슬기|24982|327350|The First Album|https://cdnimg.melon.co.kr/cm/album/images/003/27/350/327350_500.jpg/melon/resize/48/quality/80/optimize
+76|1364996|애수 (哀愁)|일 락|57315|324240|Sorrow|https://cdnimg.melon.co.kr/cm/album/images/003/24/240/324240_500.jpg/melon/resize/48/quality/80/optimize
+77|1416896|한번만 더|이승기|58793|326571|남자가 여자를 사랑할 때|https://cdnimg.melon.co.kr/cm/album/images/003/26/571/326571_500.jpg/melon/resize/48/quality/80/optimize
+78|1467730|비개인 날|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+79|1177472|은인|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+80|1355083|Please…|BGH4|197310|323842|Memories Of HIM|https://cdnimg.melon.co.kr/cm/album/images/003/23/842/323842_500.jpg/melon/resize/48/quality/80/optimize
+81|1467731|새로운 버릇|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+82|1454818|못된 영화 (Feat. Ivy)|MC몽|11538|327607|The Way I Am|https://cdnimg.melon.co.kr/cm/album/images/003/27/607/327607_500.jpg/melon/resize/48/quality/80/optimize
+83|1114171|구두|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+84|1467732|굿모닝|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+85|1467735|지금의 사랑 (Feat.Ann)|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+86|1467576|너의 홈피 (Feat.이정)|허니 패밀리|100073|328376|Honey Family 2006 Single #.01|https://cdnimg.melon.co.kr/cm/album/images/003/28/376/328376_500.jpg/melon/resize/48/quality/80/optimize
+87|1467733|기억을 나눔|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+88|1135163|사랑안해|백지영|1118|315848|Smile Again|https://cdnimg.melon.co.kr/cm/album/images/003/15/848/315848_500.jpg/melon/resize/48/quality/80/optimize
+89|1139741|내사람 : Partner For Life|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+90|1423901|사랑 같은 건|스윗소로우 (SWEET SORROW)|175203|327442|사랑 같은 건|https://cdnimg.melon.co.kr/cm/album/images/003/27/442/327442_500.jpg/melon/resize/48/quality/80/optimize
+91|1454608|Mama|쿤타&뉴올리언스|204069|327590|Koonta In Nuoliunce|https://cdnimg.melon.co.kr/cm/album/images/003/27/590/327590_500.jpg/melon/resize/48/quality/80/optimize
+92|1467734|살콤한 상상|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+93|1467736|그 자리에 그 시간에|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+94|1216149|I Go|럼블피쉬|108951|320073|I Go|https://cdnimg.melon.co.kr/cm/album/images/003/20/073/320073_500.jpg/melon/resize/48/quality/80/optimize
+95|1459876|세상에 단 하나뿐인 마음 (You're My Miracle)|동방신기 (TVXQ!)|108316|328098|O -正.反.合. (정반합)|https://cdnimg.melon.co.kr/cm/album/images/003/28/098/328098_500.jpg/melon/resize/48/quality/80/optimize
+96|1459879|I'll Be There|동방신기 (TVXQ!)|108316|328098|O -正.反.合. (정반합)|https://cdnimg.melon.co.kr/cm/album/images/003/28/098/328098_500.jpg/melon/resize/48/quality/80/optimize
+97|1315570|알 수 없는 인생|이문세|43|322540|이문세 + 발칙한 여자들 OST|https://cdnimg.melon.co.kr/cm/album/images/003/22/540/322540_500.jpg/melon/resize/48/quality/80/optimize
+98|1467978|Call On Me (Feat.Nelly)|Janet Jackson|3418|328421|20 Y.O.|https://cdnimg.melon.co.kr/cm/album/images/003/28/421/328421_500.jpg/melon/resize/48/quality/80/optimize
+99|1472025|With U|비|17671|328756|Rain's World|https://cdnimg.melon.co.kr/cm/album/images/003/28/756/328756_500.jpg/melon/resize/48/quality/80/optimize
+100|1454811|기도 (Feat. 박효신)|MC몽|11538|327607|The Way I Am|https://cdnimg.melon.co.kr/cm/album/images/003/27/607/327607_500.jpg/melon/resize/48/quality/80/optimize

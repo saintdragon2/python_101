@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2314380|불꽃놀이 (Fireworks)|다이나믹 듀오|108358|684955|Band Of Dynamic Brothers|https://cdnimg.melon.co.kr/cm/album/images/006/84/955/684955_500.jpg/melon/resize/48/quality/80/optimize
+52|2330961|심장을 놓쳐서|환희|1928|700353|H Soul|https://cdnimg.melon.co.kr/cm/album/images/007/00/353/700353_500.jpg/melon/resize/48/quality/80/optimize
+53|-1|보란듯이|아이비|171127|697852|I Be..|https://cdnimg.melon.co.kr/cm/album/images/006/97/852/697852_500.jpg/melon/resize/48/quality/80/optimize
+54|2301752|미안해|다이나믹 듀오|108358|673452|Triple Dynamite (0CD VS Gaeko)|https://cdnimg.melon.co.kr/cm/album/images/006/73/452/673452_500.jpg/melon/resize/48/quality/80/optimize
+55|2259948|Hot Stuff|다비치|236815|636651|아가씨를 부탁해 OST|https://cdnimg.melon.co.kr/cm/album/images/006/36/651/636651_500.jpg/melon/resize/48/quality/80/optimize
+56|2295270|너라면 좋겠어|윤도현|923|668353|Harmony (Present For 날아라 펭귄)|https://cdnimg.melon.co.kr/cm/album/images/006/68/353/668353_500.jpg/melon/resize/48/quality/80/optimize
+57|2283354|독설|테이|51893|657153|The Shine 2009|https://cdnimg.melon.co.kr/cm/album/images/006/57/153/657153_500.jpg/melon/resize/48/quality/80/optimize
+58|2314862|Yes I'm In Love (Feat. 2PM 택연)|바다 (BADA)|1605|685452|Yes I'm In Love|https://cdnimg.melon.co.kr/cm/album/images/006/85/452/685452_500.jpg/melon/resize/48/quality/80/optimize
+59|2321563|여전히|이홍기 (FT아일랜드)|42554|691654|미남이시네요 OST|https://cdnimg.melon.co.kr/cm/album/images/006/91/654/691654_500.jpg/melon/resize/48/quality/80/optimize
+60|2320881|Bad Girl|비스트|436981|690954|Beast Is The B2ST|https://cdnimg.melon.co.kr/cm/album/images/006/90/954/690954_500.jpg/melon/resize/48/quality/80/optimize
+61|2258760|소년이여|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+62|2315962|Chocolate Love (Electronic Pop Ver.)|f(x)|428501|686453|Chocolate Love|https://cdnimg.melon.co.kr/cm/album/images/006/86/453/686453_500.jpg/melon/resize/48/quality/80/optimize
+63|2235965|Wanna|카라|222128|616053|Revolution|https://cdnimg.melon.co.kr/cm/album/images/006/16/053/616053_500.jpg/melon/resize/48/quality/80/optimize
+64|2312178|나는... (Feat. Ivy)|MC몽|11538|682858|Humanimal (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/006/82/858/682858_500.jpg/melon/resize/48/quality/80/optimize
+65|2315806|사랑..그 몹쓸병|휘성 (Realslow)|10577|686358|Vocolate|https://cdnimg.melon.co.kr/cm/album/images/006/86/358/686358_500.jpg/melon/resize/48/quality/80/optimize
+67|2297547|사랑한단 말을 못해서|케이윌|175139|669961|쏘울 스페셜 OST|https://cdnimg.melon.co.kr/cm/album/images/006/69/961/669961_500.jpg/melon/resize/48/quality/80/optimize
+68|-1|FREE 두근두근 Tomorrow|포투모로우|436660|689258|두근두근 Tomorrow|https://cdnimg.melon.co.kr/cm/album/images/006/89/258/689258_500.jpg/melon/resize/48/quality/80/optimize
+69|2258764|Hello (Feat. 다라)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+70|2218824|Pretty Boy|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+71|2311048|기억이 안나|별|27033|681751|2009 No.1 Diva's Love (기억이 안나)|https://cdnimg.melon.co.kr/cm/album/images/006/81/751/681751_500.jpg/melon/resize/48/quality/80/optimize
+72|2226049|바래|FTISLAND (FT아일랜드)|226490|605252|Cross & Change|https://cdnimg.melon.co.kr/cm/album/images/006/05/252/605252_500.jpg/melon/resize/48/quality/80/optimize
+73|2312266|19금 내 몸은 너를 지웠다 (Feat. Enzo.B)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+74|2330968|웃어 (Feat. 인순이)|마이티 마우스|239366|700354|Smile|https://cdnimg.melon.co.kr/cm/album/images/007/00/354/700354_500.jpg/melon/resize/48/quality/80/optimize
+75|2258762|Breathe|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+76|2325889|해바라기|김종욱|4388|695754|해바라기|https://cdnimg.melon.co.kr/cm/album/images/006/95/754/695754_500.jpg/melon/resize/48/quality/80/optimize
+77|2245593|연애특강 (Feat. 한예슬)|마이티 마우스|239366|625656|Love Class|https://cdnimg.melon.co.kr/cm/album/images/006/25/656/625656_500.jpg/melon/resize/48/quality/80/optimize
+78|2276168|내 사랑 내 곁에|럼블피쉬|108951|650253|내 사랑 내 곁에|https://cdnimg.melon.co.kr/cm/album/images/006/50/253/650253_500.jpg/melon/resize/48/quality/80/optimize
+79|2266685|초콜릿|케이윌~마리오|175139~243278|642787|Color Chocolate|https://cdnimg.melon.co.kr/cm/album/images/006/42/787/642787_500.jpg/melon/resize/48/quality/80/optimize
+80|2331974|못된 여자 II (With 서인영)|원투|106928|701153|못된 여자 II|https://cdnimg.melon.co.kr/cm/album/images/007/01/153/701153_500.jpg/melon/resize/48/quality/80/optimize
+81|2276693|I Don't Care (Reggae Mix Ver.)|2NE1|406712|650559|I Don't Care (Reggae Mix Ver.)|https://cdnimg.melon.co.kr/cm/album/images/006/50/559/650559_500.jpg/melon/resize/48/quality/80/optimize
+82|2267559|피아니시모 (Pianissimo)|체리 필터|101491|642953|Rocksteric|https://cdnimg.melon.co.kr/cm/album/images/006/42/953/642953_500.jpg/melon/resize/48/quality/80/optimize
+83|2326960|왈칵 눈물이 (Feat. 간디-부가킹즈)|한효주|174552|696652|Soul Special Part2 OST|https://cdnimg.melon.co.kr/cm/album/images/006/96/652/696652_500.jpg/melon/resize/48/quality/80/optimize
+84|2315765|365일|알리 (ALi)|312266|686354|After The Love Has Gone|https://cdnimg.melon.co.kr/cm/album/images/006/86/354/686354_500.jpg/melon/resize/48/quality/80/optimize
+85|2185577|외톨이|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+86|2269963|안 줄래|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+87|2203097|소원을 말해봐 (Genie)|소녀시대 (GIRLS' GENERATION)|228069|590853|'소원을 말해봐 (Genie)' The Second Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/90/853/590853_500.jpg/melon/resize/48/quality/80/optimize
+88|2241848|울고 싶어 우는 사람이 있겠어 (Cry Mix)|에이트|228841|623151|울고 싶어 우는 사람이 있겠어|https://cdnimg.melon.co.kr/cm/album/images/006/23/151/623151_500.jpg/melon/resize/48/quality/80/optimize
+89|2330271|Love Of Iris|신승훈|25|699853|아이리스 OST (Part 2)|https://cdnimg.melon.co.kr/cm/album/images/006/99/853/699853_500.jpg/melon/resize/48/quality/80/optimize
+90|2317349|위풍당당 (Rap. 상추)|마야|32339|687652|위풍당당|https://cdnimg.melon.co.kr/cm/album/images/006/87/652/687652_500.jpg/melon/resize/48/quality/80/optimize
+91|2291014|Honesty|Beyonce|3535|664561|I Am... Sasha Fierce (Platinum Edition)|https://cdnimg.melon.co.kr/cm/album/images/006/64/561/664561_500.jpg/melon/resize/48/quality/80/optimize
+92|2219848|Candy Man|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+93|2315669|사랑인데|나오미|230497|686253|Soulchild|https://cdnimg.melon.co.kr/cm/album/images/006/86/253/686253_500.jpg/melon/resize/48/quality/80/optimize
+94|2218823|Let's Go Party|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+95|2231895|Indian Boy (Feat. 장근이, B.I)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+96|2327548|어떡해|우주|12590|697251|어떡해|https://cdnimg.melon.co.kr/cm/album/images/006/97/251/697251_500.jpg/melon/resize/48/quality/80/optimize
+97|2319150|눈물은 거짓말도 못하나봐|서경|436687|689351|사랑에...울다|https://cdnimg.melon.co.kr/cm/album/images/006/89/351/689351_500.jpg/melon/resize/48/quality/80/optimize
+98|2315808|눈물 쏟고 또 쏟고|휘성 (Realslow)|10577|686358|Vocolate|https://cdnimg.melon.co.kr/cm/album/images/006/86/358/686358_500.jpg/melon/resize/48/quality/80/optimize
+99|2330948|New Celebration (Feat. 도끼)|린|8530|700351|New Celebration|https://cdnimg.melon.co.kr/cm/album/images/007/00/351/700351_500.jpg/melon/resize/48/quality/80/optimize
+100|2312257|19금 일터 (Feat. Bizzy)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4221128|Touch Love|윤미래|1654|2198610|주군의 태양 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/98/610/2198610_500.jpg/melon/resize/48/quality/80/optimize
+52|4341846|꽁꽁|신보라|523906|2218941|꽁꽁|https://cdnimg.melon.co.kr/cm/album/images/022/18/941/2218941_500.jpg/melon/resize/48/quality/80/optimize
+53|4282611|서울 이곳은|로이킴|699632|2211383|응답하라 1994 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/11/383/2211383_500.jpg/melon/resize/48/quality/80/optimize
+54|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+55|4302976|오빠라고 불러다오|장미하관 (노홍철 & 장미여관)|743566|2214116|무한도전 자유로 가요제|https://cdnimg.melon.co.kr/cm/album/images/022/14/116/2214116_500.jpg/melon/resize/48/quality/80/optimize
+56|4298535|Always be there|브라운 아이드 소울|107728|2213566|Always be there|https://cdnimg.melon.co.kr/cm/album/images/022/13/566/2213566_500.jpg/melon/resize/48/quality/80/optimize
+57|4333567|사랑 하지 마 (Don't Love Me)|효린|573812|2217251|LOVE&HATE|https://cdnimg.melon.co.kr/cm/album/images/022/17/251/2217251_500.jpg/melon/resize/48/quality/80/optimize
+58|4345553|글루 (Glue)|나인뮤지스|465680|2219419|Glue|https://cdnimg.melon.co.kr/cm/album/images/022/19/419/2219419_500.jpg/melon/resize/48/quality/80/optimize
+59|4334089|없어 (Feat. 이루펀트)|윤하 (YOUNHA)|203912|2217929|Subsonic|https://cdnimg.melon.co.kr/cm/album/images/022/17/929/2217929_500.jpg/melon/resize/48/quality/80/optimize
+60|4252726|잘할 걸|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+61|4324755|그냥 있어줘|2AM|253866|2216762|NOCTURNE|https://cdnimg.melon.co.kr/cm/album/images/022/16/762/2216762_500.jpg/melon/resize/48/quality/80/optimize
+62|4345614|아픈 사랑|이민호|408680|2219430|상속자들 OST Part 9|https://cdnimg.melon.co.kr/cm/album/images/022/19/430/2219430_500.jpg/melon/resize/48/quality/80/optimize
+63|4340366|몇번이고 (Feat. 박지윤)|스윗소로우 (SWEET SORROW)|175203|2218681|스윗소로우 겨울 프로젝트 싱글 '몇번이고'|https://cdnimg.melon.co.kr/cm/album/images/022/18/681/2218681_500.jpg/melon/resize/48/quality/80/optimize
+64|4192787|아는사람 얘기|San E|402526|2195252|아는사람 얘기|https://cdnimg.melon.co.kr/cm/album/images/021/95/252/2195252_500.jpg/melon/resize/48/quality/80/optimize
+65|4312959|비포 선라이즈 (Duet With 정인)|이적|1088|2215349|고독의 의미|https://cdnimg.melon.co.kr/cm/album/images/022/15/349/2215349_500.jpg/melon/resize/48/quality/80/optimize
+66|4333790|어떤 하루|어반자카파|420527|2217893|[03]|https://cdnimg.melon.co.kr/cm/album/images/022/17/893/2217893_500.jpg/melon/resize/48/quality/80/optimize
+67|3973781|크리스마스니까|성시경~박효신~이석훈~서인국~VIXX (빅스)|3305~1191~205858~436700~672560|2168409|Jelly Christmas 2012 HEART PROJECT|https://cdnimg.melon.co.kr/cm/album/images/021/68/409/2168409_500.jpg/melon/resize/48/quality/80/optimize
+68|4334846|다르다는 것|어반자카파|420527|2217893|[03]|https://cdnimg.melon.co.kr/cm/album/images/022/17/893/2217893_500.jpg/melon/resize/48/quality/80/optimize
+69|4347891|Lonely Christmas|2BIC(투빅)|643551|2219701|Lonely Christmas|https://cdnimg.melon.co.kr/cm/album/images/022/19/701/2219701_500.jpg/melon/resize/48/quality/80/optimize
+70|4226211|니가 뭔데 (Who You?)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+71|4314604|같이 사랑했는데 (Duet With 하동균)|이정|39256|2215527|이정 10주년 기념 앨범 Part 02 'Synergy'|https://cdnimg.melon.co.kr/cm/album/images/022/15/527/2215527_500.jpg/melon/resize/48/quality/80/optimize
+72|4163116|NoNoNo|Apink (에이핑크)|534360|2191397|Secret Garden|https://cdnimg.melon.co.kr/cm/album/images/021/91/397/2191397_500.jpg/melon/resize/48/quality/80/optimize
+73|4262252|Very Good|블락비 (Block B)|532201|2201942|Very Good|https://cdnimg.melon.co.kr/cm/album/images/022/01/942/2201942_500.jpg/melon/resize/48/quality/80/optimize
+74|3436083|끝사랑|김범수|6502|1302654|Solista Part.2|https://cdnimg.melon.co.kr/cm/album/images/013/02/654/1302654_500.jpg/melon/resize/48/quality/80/optimize
+75|4332915|너부터 잘 해 (Feat. 윤보미 Of 에이핑크)|M.I.B|575911|2217778|너부터 잘 해|https://cdnimg.melon.co.kr/cm/album/images/022/17/778/2217778_500.jpg/melon/resize/48/quality/80/optimize
+76|4205993|갖고놀래 (Feat. 다이나믹 듀오)|범키|623851|2196906|갖고놀래|https://cdnimg.melon.co.kr/cm/album/images/021/96/906/2196906_500.jpg/melon/resize/48/quality/80/optimize
+77|4347821|영화처럼|40~임정희|542340~150529|2219693|영화처럼|https://cdnimg.melon.co.kr/cm/album/images/022/19/693/2219693_500.jpg/melon/resize/48/quality/80/optimize
+78|4322567|Goodbye 20|김예림 (Lim Kim)|643851|2216499|Goodbye 20|https://cdnimg.melon.co.kr/cm/album/images/022/16/499/2216499_500.jpg/melon/resize/48/quality/80/optimize
+79|3948908|씨스루 (Feat. Zion.T, 개코 Of 다이나믹듀오)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+80|4252727|사랑은 타이밍|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+81|4270949|말이야|이홍기 (FT아일랜드)|42554|2209824|상속자들 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/09/824/2209824_500.jpg/melon/resize/48/quality/80/optimize
+82|4262132|불치병 (Feat. 키비 Of 이루펀트)|나비|242868|2203948|비밀 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/03/948/2203948_500.jpg/melon/resize/48/quality/80/optimize
+83|4327143|저주인형|VIXX (빅스)|672560|2217040|VOODOO|https://cdnimg.melon.co.kr/cm/album/images/022/17/040/2217040_500.jpg/melon/resize/48/quality/80/optimize
+84|4343942|크리스마스 노래|4minute~비스트~지나~비투비~노지훈~김기리~신지훈~Apink (에이핑크)~허각|417985~436981~482640~647971~531830~747349~718041~534360~28801|2219213|크리스마스 노래|https://cdnimg.melon.co.kr/cm/album/images/022/19/213/2219213_500.jpg/melon/resize/48/quality/80/optimize
+85|4335498|안녕 여자친구|딕펑스 (DICKPUNKS)|454254|2218091|Hello Goodbye|https://cdnimg.melon.co.kr/cm/album/images/022/18/091/2218091_500.jpg/melon/resize/48/quality/80/optimize
+86|4226210|Black (Feat. 제니 of BLACKPINK)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+87|4327147|She (Feat. 79)|2BIC(투빅)|643551|2217044|She|https://cdnimg.melon.co.kr/cm/album/images/022/17/044/2217044_500.jpg/melon/resize/48/quality/80/optimize
+88|4328660|아프고 아프다|신지훈|718041|2217250|아프고 아프다|https://cdnimg.melon.co.kr/cm/album/images/022/17/250/2217250_500.jpg/melon/resize/48/quality/80/optimize
+89|4312920|배인 (VAIN) (Feat. Koonta Of Rude Paper)|언터쳐블|190493|2215342|TRIP|https://cdnimg.melon.co.kr/cm/album/images/022/15/342/2215342_500.jpg/melon/resize/48/quality/80/optimize
+90|4287434|거꾸로 걷는다|어반자카파|420527|2212123|거꾸로 걷는다|https://cdnimg.melon.co.kr/cm/album/images/022/12/123/2212123_500.jpg/melon/resize/48/quality/80/optimize
+91|4328882|돌아보지 마|최진혁|152441|2217274|상속자들 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/17/274/2217274_500.jpg/melon/resize/48/quality/80/optimize
+92|4130922|미친연애 (Bad Girl) (Feat. E-Sens Of 슈프림팀)|범키|623851|2187466|미친연애|https://cdnimg.melon.co.kr/cm/album/images/021/87/466/2187466_500.jpg/melon/resize/48/quality/80/optimize
+93|4350003|크리스마스를 부탁해 (Feat. 신승훈)|버벌진트|6985|2219968|크리스마스를 부탁해|https://cdnimg.melon.co.kr/cm/album/images/022/19/968/2219968_500.jpg/melon/resize/48/quality/80/optimize
+94|4341883|마취|숙희|341370|2218946|왕가네 식구들 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/022/18/946/2218946_500.jpg/melon/resize/48/quality/80/optimize
+95|4333569|마사지 (Feat. Dok2) (Massage)|효린|573812|2217251|LOVE&HATE|https://cdnimg.melon.co.kr/cm/album/images/022/17/251/2217251_500.jpg/melon/resize/48/quality/80/optimize
+96|3947371|? (물음표) (Feat. 최자 Of 다이나믹듀오, Zion.T)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+97|4333601|립스틱 짙게 바르고 (Feat. ZICO Of Block B) (Red Lipstick)|효린|573812|2217251|LOVE&HATE|https://cdnimg.melon.co.kr/cm/album/images/022/17/251/2217251_500.jpg/melon/resize/48/quality/80/optimize
+98|4308050|2013 원하고 원망하죠|애즈원|100093|2214673|New Wave Studio (Vol.3)|https://cdnimg.melon.co.kr/cm/album/images/022/14/673/2214673_500.jpg/melon/resize/48/quality/80/optimize
+99|4297233|문을 여시오 (Feat. 김창렬) (New Ver.)|임창정|1142|2213375|문을 여시오|https://cdnimg.melon.co.kr/cm/album/images/022/13/375/2213375_500.jpg/melon/resize/48/quality/80/optimize
+100|14776|All I Want for Christmas Is You|Mariah Carey|2274|829|Merry Christmas (Deluxe Anniversary Edition)|https://cdnimg.melon.co.kr/cm2/album/images/000/00/829/829_500.jpg/melon/resize/48/quality/80/optimize

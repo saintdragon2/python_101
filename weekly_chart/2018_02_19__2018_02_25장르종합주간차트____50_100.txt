@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|30667988|짙어져|멜로망스|839732|10101927|Yellow OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/01/927/10101927_500.jpg/melon/resize/48/quality/80/optimize
+52|30481578|마지막처럼|BLACKPINK|995169|10072696|마지막처럼|https://cdnimg.melon.co.kr/cm/album/images/100/72/696/10072696_500.jpg/melon/resize/48/quality/80/optimize
+53|30657311|나의 사춘기에게|볼빨간사춘기|792022|10100191|Red Diary Page.1|https://cdnimg.melon.co.kr/cm/album/images/101/00/191/10100191_500.jpg/melon/resize/48/quality/80/optimize
+54|30688990|그 사람을 아나요|임창정|1142|10105113|그 사람을 아나요|https://cdnimg.melon.co.kr/cm/album/images/101/05/113/10105113_500.jpg/melon/resize/48/quality/80/optimize
+55|30568338|에너제틱 (Energetic)|Wanna One (워너원)|1865973|10085951|1X1=1(TO BE ONE)|https://cdnimg.melon.co.kr/cm/album/images/100/85/951/10085951_500.jpg/melon/resize/48/quality/80/optimize
+56|30849733|You|멜로망스|839732|10131018|투유 프로젝트 - 슈가맨2 Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/31/018/10131018_500.jpg/melon/resize/48/quality/80/optimize
+57|30902280|네가 없는 곳|양요섭|510565|10138443|YANG YOSEOP 2ND MINI ALBUM '白'|https://cdnimg.melon.co.kr/cm/album/images/101/38/443/10138443_500.jpg/melon/resize/48/quality/80/optimize
+58|30810765|겨울소리|박효신|1191|10123826|겨울소리|https://cdnimg.melon.co.kr/cm/album/images/101/23/826/10123826_500.jpg/melon/resize/48/quality/80/optimize
+59|30690674|눈 떠보니 이별이더라|포맨 (4MEN)|100176|10105438|REMEMBER ME|https://cdnimg.melon.co.kr/cm/album/images/101/05/438/10105438_500.jpg/melon/resize/48/quality/80/optimize
+60|30889512|다시 쓰고 싶어|에일리(Ailee)|629831|10138239|이런 꽃 같은 엔딩 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/101/38/239/10138239_500.jpg/melon/resize/48/quality/80/optimize
+61|30529996|Ko Ko Bop|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize
+62|30341745|REALLY REALLY|WINNER|775197|10051659|FATE NUMBER FOR|https://cdnimg.melon.co.kr/cm/album/images/100/51/659/10051659_500.jpg/melon/resize/48/quality/80/optimize
+63|30890388|별|양요섭|510565|10138443|YANG YOSEOP 2ND MINI ALBUM '白'|https://cdnimg.melon.co.kr/cm/album/images/101/38/443/10138443_500.jpg/melon/resize/48/quality/80/optimize
+64|30827192|비밀정원|오마이걸 (OH MY GIRL)|857994|10126977|비밀정원|https://cdnimg.melon.co.kr/cm/album/images/101/26/977/10126977_500.jpg/melon/resize/48/quality/80/optimize
+65|4383833|바람이 불었으면 좋겠어|길구봉구|500421|2224353|바람이 불었으면 좋겠어|https://cdnimg.melon.co.kr/cm/album/images/022/24/353/2224353_500.jpg/melon/resize/48/quality/80/optimize
+66|30637988|고민보다 Go|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+67|30809895|미안해|양다일|695994|10123639|inside|https://cdnimg.melon.co.kr/cm/album/images/101/23/639/10123639_500.jpg/melon/resize/48/quality/80/optimize
+68|30879719|오늘밤도|펀치 (Punch)|749640|10136722|오늘밤도|https://cdnimg.melon.co.kr/cm/album/images/101/36/722/10136722_500.jpg/melon/resize/48/quality/80/optimize
+69|30467550|매일 듣는 노래 (A Daily Song)|황치열|205746|10070673|Be Ordinary|https://cdnimg.melon.co.kr/cm/album/images/100/70/673/10070673_500.jpg/melon/resize/48/quality/80/optimize
+70|8086947|한숨|이하이|646171|2671866|SEOULITE|https://cdnimg.melon.co.kr/cm/album/images/026/71/866/2671866_500.jpg/melon/resize/48/quality/80/optimize
+71|30657308|Blue|볼빨간사춘기|792022|10100191|Red Diary Page.1|https://cdnimg.melon.co.kr/cm/album/images/101/00/191/10100191_500.jpg/melon/resize/48/quality/80/optimize
+72|30753021|눈 (Feat. 이문세)|Zion.T|537920|10114798|눈|https://cdnimg.melon.co.kr/cm/album/images/101/14/798/10114798_500.jpg/melon/resize/48/quality/80/optimize
+73|30616684|Power|EXO|724619|10093773|The Power of Music - The 4th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/100/93/773/10093773_500.jpg/melon/resize/48/quality/80/optimize
+74|30637987|MIC Drop|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+75|30393293|Thunder|Imagine Dragons|635412|10035055|Evolve|https://cdnimg.melon.co.kr/cm/album/images/100/35/055/10035055_500.jpg/melon/resize/48/quality/80/optimize
+76|8287788|Closer (Feat. Halsey)|The Chainsmokers|713297|2700553|Collage EP|https://cdnimg.melon.co.kr/cm/album/images/027/00/553/2700553_500.jpg/melon/resize/48/quality/80/optimize
+77|30713051|덜덜덜|EXID|630454|10109244|Full Moon|https://cdnimg.melon.co.kr/cm/album/images/101/09/244/10109244_500.jpg/melon/resize/48/quality/80/optimize
+78|30882218|봉제선 (Feat. 수란)|다이나믹 듀오|108358|10137197|봉제선|https://cdnimg.melon.co.kr/cm/album/images/101/37/197/10137197_500.jpg/melon/resize/48/quality/80/optimize
+79|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+80|30851704|HOLIDAY (Feat. DPR LIVE)|수지 (SUZY)|514741|10131396|Faces of Love|https://cdnimg.melon.co.kr/cm/album/images/101/31/396/10131396_500.jpg/melon/resize/48/quality/80/optimize
+81|30889749|애쓰지 마요|박보람|499464|10138304|애쓰지 마요|https://cdnimg.melon.co.kr/cm/album/images/101/38/304/10138304_500.jpg/melon/resize/48/quality/80/optimize
+82|30029173|피 땀 눈물|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+83|30874386|마지막으로 안아도 될까|허각|28801|10135777|마지막으로 안아도 될까|https://cdnimg.melon.co.kr/cm/album/images/101/35/777/10135777_500.jpg/melon/resize/48/quality/80/optimize
+84|30378156|팔레트 (Feat. G-DRAGON)|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+85|30712793|박수|세븐틴|861436|10109208|SEVENTEEN 2ND ALBUM 'TEEN, AGE'|https://cdnimg.melon.co.kr/cm/album/images/101/09/208/10109208_500.jpg/melon/resize/48/quality/80/optimize
+86|30824600|Tell Me|인피니트|476181|10126375|TOP SEED|https://cdnimg.melon.co.kr/cm/album/images/101/26/375/10126375_500.jpg/melon/resize/48/quality/80/optimize
+87|30859595|LONG TIME NO SEE|iKON|895741|10132945|Return|https://cdnimg.melon.co.kr/cm/album/images/101/32/945/10132945_500.jpg/melon/resize/48/quality/80/optimize
+88|30806539|지나갈 테니 (Been Through)|EXO|724619|10122917|Universe - 겨울 스페셜 앨범, 2017|https://cdnimg.melon.co.kr/cm/album/images/101/22/917/10122917_500.jpg/melon/resize/48/quality/80/optimize
+89|30878839|지금 널 찾아가고 있어|세븐틴|861436|10136531|SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT'|https://cdnimg.melon.co.kr/cm/album/images/101/36/531/10136531_500.jpg/melon/resize/48/quality/80/optimize
+90|4032981|여보세요|뉴이스트|640891|2175137|THE SECOND MINI ALBUM '여보세요'|https://cdnimg.melon.co.kr/cm/album/images/021/75/137/2175137_500.jpg/melon/resize/48/quality/80/optimize
+91|30468654|남이 될 수 있을까|볼빨간사춘기~스무살|792022~714975|10070846|남이 될 수 있을까|https://cdnimg.melon.co.kr/cm/album/images/100/70/846/10070846_500.jpg/melon/resize/48/quality/80/optimize
+92|30637983|Best Of Me|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+93|30853153|빛이 나 (Shinin')|종현 (JONGHYUN)|544520|10131646|Poet｜Artist|https://cdnimg.melon.co.kr/cm/album/images/101/31/646/10131646_500.jpg/melon/resize/48/quality/80/optimize
+94|30878837|Thinkin' about you|세븐틴|861436|10136531|SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT'|https://cdnimg.melon.co.kr/cm/album/images/101/36/531/10136531_500.jpg/melon/resize/48/quality/80/optimize
+95|30661885|WHERE YOU AT|뉴이스트 W|1816966|10100941|W, HERE|https://cdnimg.melon.co.kr/cm/album/images/101/00/941/10100941_500.jpg/melon/resize/48/quality/80/optimize
+96|30869144|이별 뒷면|권진아|760046|10134779|이런 꽃 같은 엔딩 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/34/779/10134779_500.jpg/melon/resize/48/quality/80/optimize
+97|30550293|사랑하지 않은 것처럼|버즈|160091|10083276|'Be One' - Buzz The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/100/83/276/10083276_500.jpg/melon/resize/48/quality/80/optimize
+98|-1|What Lovers Do (Feat. SZA)|Maroon 5|107721|10006350|Red Pill Blues (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/100/06/350/10006350_500.jpg/melon/resize/48/quality/80/optimize
+99|30878840|Falling For U|세븐틴|861436|10136531|SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT'|https://cdnimg.melon.co.kr/cm/album/images/101/36/531/10136531_500.jpg/melon/resize/48/quality/80/optimize
+100|30611680|폰서트|10CM|468244|10093077|4.0|https://cdnimg.melon.co.kr/cm/album/images/100/93/077/10093077_500.jpg/melon/resize/48/quality/80/optimize

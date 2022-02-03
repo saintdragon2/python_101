@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3758104|나를 사랑했던 사람아|허각|28801|2105027|LACRIMOSO|https://cdnimg.melon.co.kr/cm/album/images/021/05/027/2105027_500.jpg/melon/resize/48/quality/80/optimize
+52|3818488|FEELING|BIGBANG|198094|2125847|BIGBANG SPECIAL EDITION 'STILL ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/021/25/847/2125847_500.jpg/melon/resize/48/quality/80/optimize
+53|3818492|빙글빙글|BIGBANG|198094|2125847|BIGBANG SPECIAL EDITION 'STILL ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/021/25/847/2125847_500.jpg/melon/resize/48/quality/80/optimize
+54|3813657|입장정리 (Feat. 최자, Simon D)|프라이머리|35682|2125281|Primary And The Messengers Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/25/281/2125281_500.jpg/melon/resize/48/quality/80/optimize
+55|3824773|연애의 시작|이석훈|205858|2126612|Y.BIRD From Jellyfish With 이석훈|https://cdnimg.melon.co.kr/cm/album/images/021/26/612/2126612_500.jpg/melon/resize/48/quality/80/optimize
+56|3753309|꽃송이가|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+57|3833453|눈물길|이창민~임슬옹|443620~474423|2129226|닥터 진 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/29/226/2129226_500.jpg/melon/resize/48/quality/80/optimize
+58|3820647|illa illa (일라 일라)|JUNIEL(서아)|673198|2124713|My First June|https://cdnimg.melon.co.kr/cm/album/images/021/24/713/2124713_500.jpg/melon/resize/48/quality/80/optimize
+59|-1|Payphone (Feat. Wiz Khalifa)|Maroon 5|107721|2112986|Payphone|https://cdnimg.melon.co.kr/cm/album/images/021/12/986/2112986_500.jpg/melon/resize/48/quality/80/optimize
+60|3805813|오늘같은 밤이면|2BIC(투빅)~다비치|643551~236815|2124390|조영수 All Star - 투빅&다비치|https://cdnimg.melon.co.kr/cm/album/images/021/24/390/2124390_500.jpg/melon/resize/48/quality/80/optimize
+61|3715676|FANTASTIC BABY|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+62|3809215|너에게 배운다 (My Love)|리쌍|103289|2124385|Unplugged|https://cdnimg.melon.co.kr/cm/album/images/021/24/385/2124385_500.jpg/melon/resize/48/quality/80/optimize
+63|3837773|어떻게|이기찬|6225|2131586|유령 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/31/586/2131586_500.jpg/melon/resize/48/quality/80/optimize
+64|3779134|씨스루 (Feat. 개코, Zion.T)|프라이머리|35682|2115647|Primary And The Messengers Part 3|https://cdnimg.melon.co.kr/cm/album/images/021/15/647/2115647_500.jpg/melon/resize/48/quality/80/optimize
+65|3764899|Volume Up|4minute|417985|2108004|Volume Up|https://cdnimg.melon.co.kr/cm/album/images/021/08/004/2108004_500.jpg/melon/resize/48/quality/80/optimize
+66|3827997|Animal (Feat. 정호석 Of 방탄소년단) (Radio Edit)|조권|434621|2126968|I'm Da One|https://cdnimg.melon.co.kr/cm/album/images/021/26/968/2126968_500.jpg/melon/resize/48/quality/80/optimize
+67|3815741|Girlfriend|원더걸스|217764|2125515|Wonder Party|https://cdnimg.melon.co.kr/cm/album/images/021/25/515/2125515_500.jpg/melon/resize/48/quality/80/optimize
+68|3834749|사랑... 어떡하나요|양파|3854|2129866|신사의 품격 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/29/866/2129866_500.jpg/melon/resize/48/quality/80/optimize
+69|3805780|겸손은 힘들어|리쌍|103289|2124385|Unplugged|https://cdnimg.melon.co.kr/cm/album/images/021/24/385/2124385_500.jpg/melon/resize/48/quality/80/optimize
+70|3836680|내게 무슨짓을 한 거야|김보경 (NEON)~셰인|60829~531828|2130952|707|https://cdnimg.melon.co.kr/cm/album/images/021/30/952/2130952_500.jpg/melon/resize/48/quality/80/optimize
+71|3830327|아저씨 (Feat. 제이레빗)|김진표|1136|2127217|아저씨 (Feat. 제이레빗)|https://cdnimg.melon.co.kr/cm/album/images/021/27/217/2127217_500.jpg/melon/resize/48/quality/80/optimize
+72|3825478|Love Style (러브스타일)|보이프렌드|541500|2126694|Love Style|https://cdnimg.melon.co.kr/cm/album/images/021/26/694/2126694_500.jpg/melon/resize/48/quality/80/optimize
+73|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+74|3828029|이미 슬픈 사랑 (원곡가수 야다)|이영현|10210|2126973|'나는 가수다 2' 6월 17일 - 고별 가수전|https://cdnimg.melon.co.kr/cm/album/images/021/26/973/2126973_500.jpg/melon/resize/48/quality/80/optimize
+75|3813439|올림픽대로 (Feat. MC날유)|형돈이와 대준이|673585|2125267|껭스타랩 볼륨 1|https://cdnimg.melon.co.kr/cm/album/images/021/25/267/2125267_500.jpg/melon/resize/48/quality/80/optimize
+76|3734735|LOVE DAY|양요섭~정은지|510565~644871|2093190|'A Cube' For Season # Green|https://cdnimg.melon.co.kr/cm/album/images/020/93/190/2093190_500.jpg/melon/resize/48/quality/80/optimize
+77|3753305|외로움증폭장치 (브래드 드럼 한판 쉬기)|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+78|3786713|Venus|헬로비너스|668491|2119306|1st Mini Album 'Venus'|https://cdnimg.melon.co.kr/cm/album/images/021/19/306/2119306_500.jpg/melon/resize/48/quality/80/optimize
+79|3811405|Someday (피쳐링. 윤도현 Of YB)|리쌍|103289|2124385|Unplugged|https://cdnimg.melon.co.kr/cm/album/images/021/24/385/2124385_500.jpg/melon/resize/48/quality/80/optimize
+80|3772625|떠나간다|노을|105623|2112227|떠나간다|https://cdnimg.melon.co.kr/cm/album/images/021/12/227/2112227_500.jpg/melon/resize/48/quality/80/optimize
+81|3817652|그대가 올까요|지아|227595|2125730|닥터 진 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/25/730/2125730_500.jpg/melon/resize/48/quality/80/optimize
+82|3743293|이상형|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+83|3832075|완벽한 날 (feat. 아이비)|버벌진트|6985|2128226|10년동안의오독 I|https://cdnimg.melon.co.kr/cm/album/images/021/28/226/2128226_500.jpg/melon/resize/48/quality/80/optimize
+84|3827558|몽타주 (Montage)|국카스텐|311166|2126911|몽타주|https://cdnimg.melon.co.kr/cm/album/images/021/26/911/2126911_500.jpg/melon/resize/48/quality/80/optimize
+85|3701333|Heaven|에일리(Ailee)|629831|2077426|Heaven|https://cdnimg.melon.co.kr/cm/album/images/020/77/426/2077426_500.jpg/melon/resize/48/quality/80/optimize
+86|3822827|제트별 (Jet)|f(x)|428501|2126375|'Electric Shock' The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/26/375/2126375_500.jpg/melon/resize/48/quality/80/optimize
+87|3763333|두 마리|배치기|101886|2107446|두 마리|https://cdnimg.melon.co.kr/cm/album/images/021/07/446/2107446_500.jpg/melon/resize/48/quality/80/optimize
+88|3791293|복숭아|아이유|261143|2121646|스무 살의 봄|https://cdnimg.melon.co.kr/cm/album/images/021/21/646/2121646_500.jpg/melon/resize/48/quality/80/optimize
+89|3827699|가슴에 새긴 말|별|27033|2126929|넝쿨째 굴러온 당신 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/26/929/2126929_500.jpg/melon/resize/48/quality/80/optimize
+90|3818792|감기라도 걸릴까|휘성 (Realslow)~이승우(소울스타)|10577~21336|2125915|The Lyrics - No.1|https://cdnimg.melon.co.kr/cm/album/images/021/25/915/2125915_500.jpg/melon/resize/48/quality/80/optimize
+91|3840677|미안해서 미안해 (Feat. G.NA)|김진표|1136|2133136|JP6|https://cdnimg.melon.co.kr/cm/album/images/021/33/136/2133136_500.jpg/melon/resize/48/quality/80/optimize
+92|3827451|좋은 사람|아이비|171127|2126890|추적자 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/26/890/2126890_500.jpg/melon/resize/48/quality/80/optimize
+93|3822633|난 이렇게 살아|박화요비|2017|2126379|난 이렇게 살아|https://cdnimg.melon.co.kr/cm/album/images/021/26/379/2126379_500.jpg/melon/resize/48/quality/80/optimize
+94|3835433|All Night|백청강|531823|2130246|All Night|https://cdnimg.melon.co.kr/cm/album/images/021/30/246/2130246_500.jpg/melon/resize/48/quality/80/optimize
+95|3833133|미워하지 말자|빅마마 소울|544960|2128986|미워하지 말자|https://cdnimg.melon.co.kr/cm/album/images/021/28/986/2128986_500.jpg/melon/resize/48/quality/80/optimize
+96|3830993|내 여자라고|FIX|546046|2127567|내 여자라고|https://cdnimg.melon.co.kr/cm/album/images/021/27/567/2127567_500.jpg/melon/resize/48/quality/80/optimize
+97|3804405|다 쓰고 없다|울랄라세션|569214|2124268|ULALA SENSATION Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/24/268/2124268_500.jpg/melon/resize/48/quality/80/optimize
+99|-1|작은 연못|울랄라세션|569214|2130336|불후의 명곡 - 전설을 노래하다 (양희은 2편)|https://cdnimg.melon.co.kr/cm/album/images/021/30/336/2130336_500.jpg/melon/resize/48/quality/80/optimize
+100|3779252|다른 사람 품에 안겨서 (Someone Else) (Duet With 가인)|박진영|1130|2115691|Spring 새로운 사랑에게 보내는 다섯곡의 노래|https://cdnimg.melon.co.kr/cm/album/images/021/15/691/2115691_500.jpg/melon/resize/48/quality/80/optimize

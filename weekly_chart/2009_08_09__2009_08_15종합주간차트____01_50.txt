@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|2229259|Abracadabra|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+2|2212365|I Don't Care|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+3|2235965|Wanna|카라|222128|616053|Revolution|https://cdnimg.melon.co.kr/cm/album/images/006/16/053/616053_500.jpg/melon/resize/48/quality/80/optimize
+4|2231895|Indian Boy (Feat. 장근이, B.I)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+5|2226049|바래|FTISLAND (FT아일랜드)|226490|605252|Cross & Change|https://cdnimg.melon.co.kr/cm/album/images/006/05/252/605252_500.jpg/melon/resize/48/quality/80/optimize
+6|2221852|냉면|명카드라이브|421624|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+7|2234748|거짓말 (Part.1)|티아라|412000|617051|거짓말|https://cdnimg.melon.co.kr/cm/album/images/006/17/051/617051_500.jpg/melon/resize/48/quality/80/optimize
+8|2197448|Hot Issue|4minute|417985|586251|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/005/86/251/586251_500.jpg/melon/resize/48/quality/80/optimize
+9|2203097|소원을 말해봐 (Genie)|소녀시대 (GIRLS' GENERATION)|228069|590853|'소원을 말해봐 (Genie)' The Second Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/90/853/590853_500.jpg/melon/resize/48/quality/80/optimize
+10|2221848|Let's Dance|퓨처라이거|421620|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+11|2231948|아몰레드 (Amoled)|손담비~애프터스쿨|226582~322666|614451|아몰레드|https://cdnimg.melon.co.kr/cm/album/images/006/14/451/614451_500.jpg/melon/resize/48/quality/80/optimize
+12|2200798|결혼해 줄래 (Feat. BIZNIZ)|이승기|58793|589178|결혼해줄래|https://cdnimg.melon.co.kr/cm/album/images/005/89/178/589178_500.jpg/melon/resize/48/quality/80/optimize
+13|2185577|외톨이|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+14|2219848|Candy Man|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+15|2218824|Pretty Boy|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+16|2135470|니가 밉다|2PM|259822|542253|2:00PM Time For Change|https://cdnimg.melon.co.kr/cm/album/images/005/42/253/542253_500.jpg/melon/resize/48/quality/80/optimize
+17|2245593|연애특강 (Feat. 한예슬)|마이티 마우스|239366|625656|Love Class|https://cdnimg.melon.co.kr/cm/album/images/006/25/656/625656_500.jpg/melon/resize/48/quality/80/optimize
+18|2194773|잘가요 내사랑|에이트|228841|583952|잘가요 내사랑|https://cdnimg.melon.co.kr/cm/album/images/005/83/952/583952_500.jpg/melon/resize/48/quality/80/optimize
+19|2210155|True Romance (Feat. T)|드렁큰 타이거|100027|596251|Feel gHood Muzik : The 8th Wonder|https://cdnimg.melon.co.kr/cm/album/images/005/96/251/596251_500.jpg/melon/resize/48/quality/80/optimize
+20|2213637|별이 빛나는 밤에|원투|106928|598572|별이 빛나는 밤에|https://cdnimg.melon.co.kr/cm/album/images/005/98/572/598572_500.jpg/melon/resize/48/quality/80/optimize
+21|2160048|Fire|2NE1|406712|554651|Fire (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/005/54/651/554651_500.jpg/melon/resize/48/quality/80/optimize
+22|2140978|있잖아 (Rock Ver.)|아이유|261143|546853|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/005/46/853/546853_500.jpg/melon/resize/48/quality/80/optimize
+23|2241848|울고 싶어 우는 사람이 있겠어 (Cry Mix)|에이트|228841|623151|울고 싶어 우는 사람이 있겠어|https://cdnimg.melon.co.kr/cm/album/images/006/23/151/623151_500.jpg/melon/resize/48/quality/80/optimize
+24|2238379|미스터|카라|222128|616053|Revolution|https://cdnimg.melon.co.kr/cm/album/images/006/16/053/616053_500.jpg/melon/resize/48/quality/80/optimize
+25|2180148|큰일이다|V.O.S|108794|571951|Routine Free|https://cdnimg.melon.co.kr/cm/album/images/005/71/951/571951_500.jpg/melon/resize/48/quality/80/optimize
+26|2218822|In The Club|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+27|2227760|보고보고|쿨 (COOL)|100004|610452|쿨 11집|https://cdnimg.melon.co.kr/cm/album/images/006/10/452/610452_500.jpg/melon/resize/48/quality/80/optimize
+28|2221850|바베큐|삼자돼면|421622|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+29|2135469|Again＆Again|2PM|259822|542253|2:00PM Time For Change|https://cdnimg.melon.co.kr/cm/album/images/005/42/253/542253_500.jpg/melon/resize/48/quality/80/optimize
+30|2195885|커플 (Feat. 황정음)|김용준|417791|584953|우리 결혼했어요|https://cdnimg.melon.co.kr/cm/album/images/005/84/953/584953_500.jpg/melon/resize/48/quality/80/optimize
+31|2229200|고잉고잉 (Going Going)|룰라|106610|611857|A9ain - Again|https://cdnimg.melon.co.kr/cm/album/images/006/11/857/611857_500.jpg/melon/resize/48/quality/80/optimize
+32|2172570|줄리엣 (Juliette)|SHINee (샤이니)|247639|565252|'ROMEO' The Second Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/65/252/565252_500.jpg/melon/resize/48/quality/80/optimize
+33|2221853|영계백숙|애프터쉐이빙|421625|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+34|2238056|1004 (너는 내운명 2) (Feat. 낯선)|엠투엠 (M To M)|108581|619565|1004 (너는 내운명 2)|https://cdnimg.melon.co.kr/cm/album/images/006/19/565/619565_500.jpg/melon/resize/48/quality/80/optimize
+35|2245640|장미|박화요비|2017|625662|Summer|https://cdnimg.melon.co.kr/cm/album/images/006/25/662/625662_500.jpg/melon/resize/48/quality/80/optimize
+36|2229176|소식 (So Sick)|엠씨더맥스 (M.C the MAX)|161636|611854|In The Season - 2009 Summer|https://cdnimg.melon.co.kr/cm/album/images/006/11/854/611854_500.jpg/melon/resize/48/quality/80/optimize
+37|2159715|여성시대|씨야~다비치~티아라|181679~236815~412000|554262|여성시대/영원한 사랑|https://cdnimg.melon.co.kr/cm/album/images/005/54/262/554262_500.jpg/melon/resize/48/quality/80/optimize
+38|2222748|Everyday (Feat. 길 Of 리쌍, Sean2slow)|BMK|36142|606151|BMK & Good Fellaz|https://cdnimg.melon.co.kr/cm/album/images/006/06/151/606151_500.jpg/melon/resize/48/quality/80/optimize
+39|2201948|Rally (Feat. 낯선)|쥬얼리|101487|589851|Super Star|https://cdnimg.melon.co.kr/cm/album/images/005/89/851/589851_500.jpg/melon/resize/48/quality/80/optimize
+40|2129151|Diva|애프터스쿨|322666|537052|Diva|https://cdnimg.melon.co.kr/cm/album/images/005/37/052/537052_500.jpg/melon/resize/48/quality/80/optimize
+41|2245550|Mad (Feat. 언터쳐블)|바다 (BADA)|1605|625651|바다를 바라보다...|https://cdnimg.melon.co.kr/cm/album/images/006/25/651/625651_500.jpg/melon/resize/48/quality/80/optimize
+42|2119816|눈물이 뚝뚝|케이윌|175139|529655|눈물이 뚝뚝|https://cdnimg.melon.co.kr/cm/album/images/005/29/655/529655_500.jpg/melon/resize/48/quality/80/optimize
+43|2165864|너라고 (It's You)|SUPER JUNIOR (슈퍼주니어)|175404|559754|너라고|https://cdnimg.melon.co.kr/cm/album/images/005/59/754/559754_500.jpg/melon/resize/48/quality/80/optimize
+44|2093362|My Man|다비치|236815|508460|Davichi In Wonderland|https://cdnimg.melon.co.kr/cm/album/images/005/08/460/508460_500.jpg/melon/resize/48/quality/80/optimize
+45|2126448|마음이 다쳐서 (Feat. Crown J)|나비|242868|534851|마음이 다쳐서|https://cdnimg.melon.co.kr/cm/album/images/005/34/851/534851_500.jpg/melon/resize/48/quality/80/optimize
+46|2188667|1초에 한방울 A Mix (Feat. 다이나믹듀오)|케이윌|175139|578856|1초에 한방울|https://cdnimg.melon.co.kr/cm/album/images/005/78/856/578856_500.jpg/melon/resize/48/quality/80/optimize
+47|2135850|내사랑 울보|SG 워너비|108363|542651|Gift From SG Wanna Be|https://cdnimg.melon.co.kr/cm/album/images/005/42/651/542651_500.jpg/melon/resize/48/quality/80/optimize
+48|2208726|친구 (Top & 태양)|BIGBANG~태양~T.O.P|198094~247621~152192|595056|친구, 우리들의 전설 OST|https://cdnimg.melon.co.kr/cm/album/images/005/95/056/595056_500.jpg/melon/resize/48/quality/80/optimize
+49|2140966|Boo|아이유|261143|546853|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/005/46/853/546853_500.jpg/melon/resize/48/quality/80/optimize
+50|2221849|세뇨리따 (Senorita)|카리스마|421621|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize

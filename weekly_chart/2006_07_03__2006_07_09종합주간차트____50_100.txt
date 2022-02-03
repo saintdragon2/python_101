@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1099596|입모양|이승기|58793|313335|Crazy For You|https://cdnimg.melon.co.kr/cm/album/images/003/13/335/313335_500.jpg/melon/resize/48/quality/80/optimize
+52|1268909|Show|클릭비 (Click-B)|100070|320944|Click-B Remake Album 'Smile'|https://cdnimg.melon.co.kr/cm/album/images/003/20/944/320944_500.jpg/melon/resize/48/quality/80/optimize
+53|1214990|그대만 있다면 (Drama Version)|러브홀릭|106718|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+54|1115206|다가와서|브라운아이드걸스|181694|314376|Your Story|https://cdnimg.melon.co.kr/cm/album/images/003/14/376/314376_500.jpg/melon/resize/48/quality/80/optimize
+55|1121540|누나의 꿈|현영|181704|314834|누나의 꿈|https://cdnimg.melon.co.kr/cm/album/images/003/14/834/314834_500.jpg/melon/resize/48/quality/80/optimize
+56|1185401|봄 여름 가을... 겨울 (Feat. 김태우 God)|수호|184926|317426|Thank U|https://cdnimg.melon.co.kr/cm/album/images/003/17/426/317426_500.jpg/melon/resize/48/quality/80/optimize
+57|-1|Stars Are Blind|Paris Hilton|191650|321104|Stars Are Blind|https://cdnimg.melon.co.kr/cm/album/images/003/21/104/321104_500.jpg/melon/resize/48/quality/80/optimize
+58|1144018|사랑한다는 말|김종국|1692|316531|네 번째 편지|https://cdnimg.melon.co.kr/cm/album/images/003/16/531/316531_500.jpg/melon/resize/48/quality/80/optimize
+59|1122105|웃는거야|서영은|3033|314896|Be My Sweet Heart|https://cdnimg.melon.co.kr/cm/album/images/003/14/896/314896_500.jpg/melon/resize/48/quality/80/optimize
+60|1268246|헤어지자|쿨 (COOL)|100004|320878|쿨 Never Ending Story|https://cdnimg.melon.co.kr/cm/album/images/003/20/878/320878_500.jpg/melon/resize/48/quality/80/optimize
+61|1144935|아름다운 이별|옥주현|1714|316609|김형석 With Friends|https://cdnimg.melon.co.kr/cm/album/images/003/16/609/316609_500.jpg/melon/resize/48/quality/80/optimize
+62|1270219|Ain't No Other Man|Christina Aguilera|2063|321121|Ain‘t No Other Man|https://cdnimg.melon.co.kr/cm/album/images/003/21/121/321121_500.jpg/melon/resize/48/quality/80/optimize
+63|1199252|Scandal|강타 & 바네스|185615|318611|Scandal|https://cdnimg.melon.co.kr/cm/album/images/003/18/611/318611_500.jpg/melon/resize/48/quality/80/optimize
+64|1268248|사랑합니다.|쿨 (COOL)|100004|320878|쿨 Never Ending Story|https://cdnimg.melon.co.kr/cm/album/images/003/20/878/320878_500.jpg/melon/resize/48/quality/80/optimize
+65|1099478|마주치지 말자|장혜진|5675|313320|4 Season Story|https://cdnimg.melon.co.kr/cm/album/images/003/13/320/313320_500.jpg/melon/resize/48/quality/80/optimize
+66|1209892|꿈일까봐|백지영|1118|318784|나도야 간다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/18/784/318784_500.jpg/melon/resize/48/quality/80/optimize
+67|-1|Deja Vu (Feat. Jay-Z)|Beyonce|3535|321122|Deja Vu|https://cdnimg.melon.co.kr/cm/album/images/003/21/122/321122_500.jpg/melon/resize/48/quality/80/optimize
+68|1125392|날 위한 이별|린|8530|315091|Misty Memories|https://cdnimg.melon.co.kr/cm/album/images/003/15/091/315091_500.jpg/melon/resize/48/quality/80/optimize
+69|-1|말만해 (Feat. 1kyne, 전혜빈 ,Bizzy)|크리스토퍼|186106|321260|1st Action|https://cdnimg.melon.co.kr/cm/album/images/003/21/260/321260_500.jpg/melon/resize/48/quality/80/optimize
+70|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+71|-1|Addicted|Sweetbox|100060|316869|Addicted|https://cdnimg.melon.co.kr/cm/album/images/003/16/869/316869_500.jpg/melon/resize/48/quality/80/optimize
+72|1120765|So Sick|Ne-Yo|181769|314762|In My Own Words|https://cdnimg.melon.co.kr/cm/album/images/003/14/762/314762_500.jpg/melon/resize/48/quality/80/optimize
+73|1214991|눈물이겠죠|장혜진|5675|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+74|1114173|Promise U|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+75|1177939|잊을래|소울스타 (SOULSTAR)|170042|317153|1st Single Album|https://cdnimg.melon.co.kr/cm/album/images/003/17/153/317153_500.jpg/melon/resize/48/quality/80/optimize
+76|1268247|아내에게|쿨 (COOL)|100004|320878|쿨 Never Ending Story|https://cdnimg.melon.co.kr/cm/album/images/003/20/878/320878_500.jpg/melon/resize/48/quality/80/optimize
+77|1146394|비익조|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+78|1143071|그대만 있다면|러브홀릭|106718|316457|Nice Dream|https://cdnimg.melon.co.kr/cm/album/images/003/16/457/316457_500.jpg/melon/resize/48/quality/80/optimize
+79|-1|Perfect Love ( CF - 이자녹스 제시카 알바편 )|Lutricia Mcneal|28329|308902|Metroplex|https://cdnimg.melon.co.kr/cm/album/images/003/08/902/308902_500.jpg/melon/resize/48/quality/80/optimize
+80|1267377|가능성 (Unplugged)|부활|100594|320755|부활 Live & Unplugged|https://cdnimg.melon.co.kr/cm/album/images/003/20/755/320755_500.jpg/melon/resize/48/quality/80/optimize
+81|1193995|괜찮은 오늘 (Feat. MC 몽)|별|27033|318144|눈물샘|https://cdnimg.melon.co.kr/cm/album/images/003/18/144/318144_500.jpg/melon/resize/48/quality/80/optimize
+82|-1|Let`s Get It Started|Black Eyed Peas|107538|64860|-|https://cdnimg.melon.co.kr/cm/album/images/000/64/860/64860_500.jpg/melon/resize/48/quality/80/optimize
+83|1199412|그리움도 안되겠죠|SE7EN|33513|318625|스마일 어게인 OST|https://cdnimg.melon.co.kr/cm/album/images/003/18/625/318625_500.jpg/melon/resize/48/quality/80/optimize
+84|1199413|너의 가슴으로 가는 길|먼데이 키즈 (Monday Kiz)|175155|318625|스마일 어게인 OST|https://cdnimg.melon.co.kr/cm/album/images/003/18/625/318625_500.jpg/melon/resize/48/quality/80/optimize
+85|1268553|사랑할 수 밖에 없었던|백지영|1118|320909|사랑은 아름답습니다|https://cdnimg.melon.co.kr/cm/album/images/003/20/909/320909_500.jpg/melon/resize/48/quality/80/optimize
+86|1130735|흔적|임정희|150529|315490|Thanks|https://cdnimg.melon.co.kr/cm/album/images/003/15/490/315490_500.jpg/melon/resize/48/quality/80/optimize
+87|1214995|사랑해... 사랑할 수 없을만큼|정재욱|7839|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+88|-1|19금 My Humps (CF - 벅스 황정음 편)|Black Eyed Peas|107538|303536|Monkey Business (Bonus Track)|https://cdnimg.melon.co.kr/cm/album/images/003/03/536/303536_500.jpg/melon/resize/48/quality/80/optimize
+89|1099594|하기 힘든 말|이승기|58793|313335|Crazy For You|https://cdnimg.melon.co.kr/cm/album/images/003/13/335/313335_500.jpg/melon/resize/48/quality/80/optimize
+90|1090580|남과 여 (Feat.김범수)|박선주 (Pak Sun Zoo)|4640|312550|A4rism|https://cdnimg.melon.co.kr/cm/album/images/003/12/550/312550_500.jpg/melon/resize/48/quality/80/optimize
+91|1213300|What's Left Of Me|Nick Lachey|2380|319751|What's Left Of Me|https://cdnimg.melon.co.kr/cm/album/images/003/19/751/319751_500.jpg/melon/resize/48/quality/80/optimize
+92|1146735|Against All Odds (CF - 투싼 휘성 편)|휘성 (Realslow)|10577|316744|Against All Odds|https://cdnimg.melon.co.kr/cm/album/images/003/16/744/316744_500.jpg/melon/resize/48/quality/80/optimize
+93|1268600|Begin|동방신기 (TVXQ!)|108316|320914|Begin|https://cdnimg.melon.co.kr/cm/album/images/003/20/914/320914_500.jpg/melon/resize/48/quality/80/optimize
+94|1209734|The First Time (Mordny K Mix) (Feat. 서인영)|V.O.S|108794|319366|The First Time|https://cdnimg.melon.co.kr/cm/album/images/003/19/366/319366_500.jpg/melon/resize/48/quality/80/optimize
+95|1284102|사랑이 되어줄래? (Feat. All Stars)|김형중|5247|321376|레인보우 로망스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/21/376/321376_500.jpg/melon/resize/48/quality/80/optimize
+96|1178406|그녀...웃었다|투샤이|107724|317184|그녀... 웃었다|https://cdnimg.melon.co.kr/cm/album/images/003/17/184/317184_500.jpg/melon/resize/48/quality/80/optimize
+97|1144213|Stupid Girls|Pink|10385|316548|I'm Not Dead|https://cdnimg.melon.co.kr/cm/album/images/003/16/548/316548_500.jpg/melon/resize/48/quality/80/optimize
+98|1099832|내가 사랑한 12가지 버릇|KCM|45995|313356|Love Affair|https://cdnimg.melon.co.kr/cm/album/images/003/13/356/313356_500.jpg/melon/resize/48/quality/80/optimize
+99|1268617|Summer Time Love|m-flo|101479|320916|Summer Time Love (M-Flo ♥ Emi Hinouchi & Ryohei)|https://cdnimg.melon.co.kr/cm/album/images/003/20/916/320916_500.jpg/melon/resize/48/quality/80/optimize
+100|1185418|못난이|청안|184927|317428|Synopsis|https://cdnimg.melon.co.kr/cm/album/images/003/17/428/317428_500.jpg/melon/resize/48/quality/80/optimize

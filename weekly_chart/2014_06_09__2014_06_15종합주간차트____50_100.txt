@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4535038|그런 남자|Bro|764630|2243859|그런 남자|https://cdnimg.melon.co.kr/cm/album/images/022/43/859/2243859_500.jpg/melon/resize/48/quality/80/optimize
+52|4649637|전화하지 말아요|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+53|4478191|멘붕 (CL Solo)|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+54|4478188|너 아님 안돼|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+55|4400561|짧은 치마 (Miniskirt)|AOA|686920|2226803|짧은 치마|https://cdnimg.melon.co.kr/cm/album/images/022/26/803/2226803_500.jpg/melon/resize/48/quality/80/optimize
+56|4585736|Bad (Feat. Vassy) (Radio Edit)|David Guetta~Showtek|182123~243157|2249404|Bad (Feat. Vassy) (Radio Edit)|https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/48/quality/80/optimize
+57|4572941|가끔|Crush|674710|2247858|가끔|https://cdnimg.melon.co.kr/cm/album/images/022/47/858/2247858_500.jpg/melon/resize/48/quality/80/optimize
+58|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+59|4677340|놀러가자 (Feat. 박유천 Of JYJ)|거미|30358|2259485|사랑했으니..됐어|https://cdnimg.melon.co.kr/cm/album/images/022/59/485/2259485_500.jpg/melon/resize/48/quality/80/optimize
+60|4446485|너의 모든 순간|성시경|3305|2232505|별에서 온 그대 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/48/quality/80/optimize
+61|4648495|오늘따라 (Feat. 가인)|팬텀|588431|2256686|Phantom Power|https://cdnimg.melon.co.kr/cm/album/images/022/56/686/2256686_500.jpg/melon/resize/48/quality/80/optimize
+62|4669783|룸메이트|김예림 (Lim Kim)~에디킴|643851~601979|2258995|룸메이트 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/58/995/2258995_500.jpg/melon/resize/48/quality/80/optimize
+63|4633491|불꽃|백지영|1118|2254789|불꽃|https://cdnimg.melon.co.kr/cm/album/images/022/54/789/2254789_500.jpg/melon/resize/48/quality/80/optimize
+64|4671154|아름다워 (Body)|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+65|4656370|기적 (ETERNITY)|VIXX (빅스)|672560|2257549|ETERNITY|https://cdnimg.melon.co.kr/cm/album/images/022/57/549/2257549_500.jpg/melon/resize/48/quality/80/optimize
+66|4478189|살아 봤으면 해|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+67|4381724|그대가 분다|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+68|4684703|Black (Feat. 스윙스)|40|542340|2260645|CANVAS|https://cdnimg.melon.co.kr/cm/album/images/022/60/645/2260645_500.jpg/melon/resize/48/quality/80/optimize
+69|4671156|이게 아닌데|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+70|4583483|얼음들|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+71|4383773|Something|걸스데이|482762|2224342|걸스데이 미니앨범 3집|https://cdnimg.melon.co.kr/cm/album/images/022/24/342/2224342_500.jpg/melon/resize/48/quality/80/optimize
+72|4646575|여름밤의 꿈|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+73|4674337|눈이 마주친 순간 (I Fancy You)|Crush|674710|2259487|Crush On You|https://cdnimg.melon.co.kr/cm/album/images/022/59/487/2259487_500.jpg/melon/resize/48/quality/80/optimize
+74|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize
+75|3893169|홀로 (Feat. 김나영)|정키|570731|2148411|Break Up|https://cdnimg.melon.co.kr/cm/album/images/021/48/411/2148411_500.jpg/melon/resize/48/quality/80/optimize
+76|4669789|설레고 있죠|스윗소로우 (SWEET SORROW)|175203|2258997|FOR LOVERS ONLY|https://cdnimg.melon.co.kr/cm/album/images/022/58/997/2258997_500.jpg/melon/resize/48/quality/80/optimize
+77|4658842|Sugar|15& (박지민, 백예린)|698291|2257815|Sugar|https://cdnimg.melon.co.kr/cm/album/images/022/57/815/2257815_500.jpg/melon/resize/48/quality/80/optimize
+78|4654324|지금 술 한잔 했어|김보경 (NEON)~펀치 (Punch)|60829~749640|2257340|지금 술 한잔 했어|https://cdnimg.melon.co.kr/cm/album/images/022/57/340/2257340_500.jpg/melon/resize/48/quality/80/optimize
+79|4454382|보름달 (Feat. Lena)|선미|22938|2233456|Full Moon|https://cdnimg.melon.co.kr/cm/album/images/022/33/456/2233456_500.jpg/melon/resize/48/quality/80/optimize
+80|4674340|Whatever You Do (Feat. Gray)|Crush|674710|2259487|Crush On You|https://cdnimg.melon.co.kr/cm/album/images/022/59/487/2259487_500.jpg/melon/resize/48/quality/80/optimize
+81|4674595|너란 여자 (OBSESSION)|보이프렌드|541500|2259511|OBSESSION|https://cdnimg.melon.co.kr/cm/album/images/022/59/511/2259511_500.jpg/melon/resize/48/quality/80/optimize
+82|4650488|아빙아빙 (Abing Abing)|오렌지 캬라멜|477632|2256922|아빙아빙 (Abing Abing)|https://cdnimg.melon.co.kr/cm/album/images/022/56/922/2256922_500.jpg/melon/resize/48/quality/80/optimize
+83|4671157|버리고|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+84|4640746|Love Never Felt So Good|Michael Jackson|7800|2255727|Xscape (Standard Ver.)|https://cdnimg.melon.co.kr/cm/album/images/022/55/727/2255727_500.jpg/melon/resize/48/quality/80/optimize
+85|4641392|하루하루|에일리(Ailee)|629831|2255834|트라이앵글 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/55/834/2255834_500.jpg/melon/resize/48/quality/80/optimize
+86|4676612|니가내가|민아 (걸스데이)|488423|2259727|닥터 이방인 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/59/727/2259727_500.jpg/melon/resize/48/quality/80/optimize
+87|4671949|어디니? 뭐하니?|B.A.P|623451|2259240|어디니? 뭐하니?|https://cdnimg.melon.co.kr/cm/album/images/022/59/240/2259240_500.jpg/melon/resize/48/quality/80/optimize
+88|4665158|달리 함께|정준영~윤하 (YOUNHA)|25869~203912|2258507|달리 함께|https://cdnimg.melon.co.kr/cm/album/images/022/58/507/2258507_500.jpg/melon/resize/48/quality/80/optimize
+89|3808189|Call You Mine (Feat. Geologic Of The Blue Scholars)|Jeff Bernat|673152|2124668|The Gentleman Approach|https://cdnimg.melon.co.kr/cm/album/images/021/24/668/2124668_500.jpg/melon/resize/48/quality/80/optimize
+90|4672967|What Is Luv (Feat. Loco)|알리 (ALi)|312266|2259355|What Is Luv|https://cdnimg.melon.co.kr/cm/album/images/022/59/355/2259355_500.jpg/melon/resize/48/quality/80/optimize
+91|4671158|Love You To Death|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+92|4516940|오늘 뭐해|4minute|417985|2241591|4MINUTE WORLD|https://cdnimg.melon.co.kr/cm/album/images/022/41/591/2241591_500.jpg/melon/resize/48/quality/80/optimize
+93|4680659|술잔에...|이보람~EB|151636~760515|2260185|술잔에...|https://cdnimg.melon.co.kr/cm/album/images/022/60/185/2260185_500.jpg/melon/resize/48/quality/80/optimize
+94|4680685|안드로메다|체리 필터|101491|2260189|안드로메다|https://cdnimg.melon.co.kr/cm/album/images/022/60/189/2260189_500.jpg/melon/resize/48/quality/80/optimize
+95|4676726|싫어도|김재중|52614|2259738|트라이앵글 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/59/738/2259738_500.jpg/melon/resize/48/quality/80/optimize
+96|4674339|Hey Baby (Feat. Zion.T)|Crush|674710|2259487|Crush On You|https://cdnimg.melon.co.kr/cm/album/images/022/59/487/2259487_500.jpg/melon/resize/48/quality/80/optimize
+97|4674338|A Little Bit (Feat. Lydia Paek)|Crush|674710|2259487|Crush On You|https://cdnimg.melon.co.kr/cm/album/images/022/59/487/2259487_500.jpg/melon/resize/48/quality/80/optimize
+98|4667349|히히하헤호|마마무 (Mamamoo)~긱스 (Geeks)|750053~525805|2258753|히히하헤호|https://cdnimg.melon.co.kr/cm/album/images/022/58/753/2258753_500.jpg/melon/resize/48/quality/80/optimize
+99|4646570|꽃|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+100|4650438|마지막 처음|이창민~멜로디데이 (MelodyDay)|443620~693951|2256912|마지막 처음|https://cdnimg.melon.co.kr/cm/album/images/022/56/912/2256912_500.jpg/melon/resize/48/quality/80/optimize

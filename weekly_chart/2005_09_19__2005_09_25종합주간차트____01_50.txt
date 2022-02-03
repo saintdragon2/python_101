@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|905857|세글자 (드라마 '루루공주' 김정은 메인 테마)|엠투엠 (M To M)|108581|307288|M to M|https://cdnimg.melon.co.kr/cm/album/images/003/07/288/307288_500.jpg/melon/resize/48/quality/80/optimize
+2|905582|아니|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+3|926191|내 마음의 보석상자|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+4|866710|사랑스러워|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+5|928700|Good-Bye Luv..|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+6|891878|으라차차|럼블피쉬|108951|305668|Have A Nice Dream|https://cdnimg.melon.co.kr/cm/album/images/003/05/668/305668_500.jpg/melon/resize/48/quality/80/optimize
+7|898497|내 눈물이 하는 말|견우 (Kyunwoo)|172281|306527|City Of Angel|https://cdnimg.melon.co.kr/cm/album/images/003/06/527/306527_500.jpg/melon/resize/48/quality/80/optimize
+8|864916|너에게 전하는 아홉가지 바램|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+9|904628|1,2,3,4. (원,투,쓰리,포.)|코요태|100022|307172|필업 (Feel Up)|https://cdnimg.melon.co.kr/cm/album/images/003/07/172/307172_500.jpg/melon/resize/48/quality/80/optimize
+10|866714|별, 바람, 햇살 그리고 사랑|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+11|845586|I Love U Oh Thank U (Feat. 김태우 Of God)|MC몽|11538|302961|His Story|https://cdnimg.melon.co.kr/cm/album/images/003/02/961/302961_500.jpg/melon/resize/48/quality/80/optimize
+12|928697|일년이면|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+13|903404|지지 않는 태양 (Feat. 한 에스더)|장우혁|1585|307085|No More Drama|https://cdnimg.melon.co.kr/cm/album/images/003/07/085/307085_500.jpg/melon/resize/48/quality/80/optimize
+14|891991|환희|싸이 (PSY)|3865|305676|Remake & Mix 18번|https://cdnimg.melon.co.kr/cm/album/images/003/05/676/305676_500.jpg/melon/resize/48/quality/80/optimize
+15|732516|나에게로 떠나는 여행|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+16|888345|추억속의 재회|엠씨더맥스 (M.C the MAX)|161636|305352|Memory Traveler|https://cdnimg.melon.co.kr/cm/album/images/003/05/352/305352_500.jpg/melon/resize/48/quality/80/optimize
+17|926193|꿈의 대화 (R&B Soul ver.)|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+18|866705|제자리 걸음|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+19|928698|울보|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+20|866706|그녀의 남자에게|김종국|1692|304499|This Is Me|https://cdnimg.melon.co.kr/cm/album/images/003/04/499/304499_500.jpg/melon/resize/48/quality/80/optimize
+21|884783|한숨만|이정|39256|305084|한숨만|https://cdnimg.melon.co.kr/cm/album/images/003/05/084/305084_500.jpg/melon/resize/48/quality/80/optimize
+22|928699|하늘을 걸어서|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+23|899426|웃어요|디바|100028|306731|Only Diva|https://cdnimg.melon.co.kr/cm/album/images/003/06/731/306731_500.jpg/melon/resize/48/quality/80/optimize
+24|916286|Rising Sun (순수)|동방신기 (TVXQ!)|108316|307424|Rising Sun|https://cdnimg.melon.co.kr/cm/album/images/003/07/424/307424_500.jpg/melon/resize/48/quality/80/optimize
+25|905587|혼자만 하는 사랑|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+26|899285|갈증|윤건|14801|306482|이별에 대처하는 우리의 자세 OST|https://cdnimg.melon.co.kr/cm/album/images/003/06/482/306482_500.jpg/melon/resize/48/quality/80/optimize
+27|894063|눈물씻고 화장하고|렉시|7664|305914|Lextacy|https://cdnimg.melon.co.kr/cm/album/images/003/05/914/305914_500.jpg/melon/resize/48/quality/80/optimize
+28|897147|힙합 뮤직 (Feat. 임정희)|주석|4326|302393|Superior Vol.2 - Seoul City's Finest|https://cdnimg.melon.co.kr/cm/album/images/003/02/393/302393_500.jpg/melon/resize/48/quality/80/optimize
+29|864906|Smile Again|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+30|864907|은영이에게 Part 2|KCM|45995|304352|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/003/04/352/304352_500.jpg/melon/resize/48/quality/80/optimize
+31|928702|왜 나만|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+32|-1|어쩌다가 (New Ver.)|란 (RAN)|236880|302255|-|https://cdnimg.melon.co.kr/cm/album/images/003/02/255/302255_500.jpg/melon/resize/48/quality/80/optimize
+33|897725|숙녀에게|유리상자|100130|306447|동상이몽|https://cdnimg.melon.co.kr/cm/album/images/003/06/447/306447_500.jpg/melon/resize/48/quality/80/optimize
+34|864431|Moto|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize
+35|926199|비 오는 날의 수채화|SG 워너비|108363|307560|Classic Odyssey|https://cdnimg.melon.co.kr/cm/album/images/003/07/560/307560_500.jpg/melon/resize/48/quality/80/optimize
+36|-1|All The Way|Craig David|4804|306176|The Story Goes|https://cdnimg.melon.co.kr/cm/album/images/003/06/176/306176_500.jpg/melon/resize/48/quality/80/optimize
+37|900583|소외된 모두, 왼발을 한 보 앞으로!|드렁큰 타이거|100027|306803|1945 해방|https://cdnimg.melon.co.kr/cm/album/images/003/06/803/306803_500.jpg/melon/resize/48/quality/80/optimize
+38|899430|76-70=♡ (Feat. 휘성)|디바|100028|306731|Only Diva|https://cdnimg.melon.co.kr/cm/album/images/003/06/731/306731_500.jpg/melon/resize/48/quality/80/optimize
+39|847132|체념 後(후)|빅마마|105803|303106|It's Unique|https://cdnimg.melon.co.kr/cm/album/images/003/03/106/303106_500.jpg/melon/resize/48/quality/80/optimize
+40|905581|손틈새로...|거미|30358|307264|For The Bloom|https://cdnimg.melon.co.kr/cm/album/images/003/07/264/307264_500.jpg/melon/resize/48/quality/80/optimize
+41|732519|가시|버즈|160091|300646|Buzz Effect|https://cdnimg.melon.co.kr/cm/album/images/003/00/646/300646_500.jpg/melon/resize/48/quality/80/optimize
+42|851277|떠나가요, 떠나지마요|더 크로스|107224|303566|Rush|https://cdnimg.melon.co.kr/cm/album/images/003/03/566/303566_500.jpg/melon/resize/48/quality/80/optimize
+43|928701|하나 둘 셋 넷|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+44|848156|가슴 아파도|환희|1928|303224|패션 70s OST|https://cdnimg.melon.co.kr/cm/album/images/003/03/224/303224_500.jpg/melon/resize/48/quality/80/optimize
+45|889545|오늘밤 일|아이비|171127|305450|My Sweet And Free Day|https://cdnimg.melon.co.kr/cm/album/images/003/05/450/305450_500.jpg/melon/resize/48/quality/80/optimize
+46|928705|내가 너를 잊는다|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+47|930037|너의 결혼식에서 Part 2 (Feat. 데니안)|홍경민|891|307842|Emotion In Memory|https://cdnimg.melon.co.kr/cm/album/images/003/07/842/307842_500.jpg/melon/resize/48/quality/80/optimize
+48|928704|Luv Shine|휘성 (Realslow)|10577|307746|LOVE.. LOVE..? LOVE..!|https://cdnimg.melon.co.kr/cm/album/images/003/07/746/307746_500.jpg/melon/resize/48/quality/80/optimize
+49|884620|내 사랑 송이 (Feat. 원우)|클론|100057|305073|Victory|https://cdnimg.melon.co.kr/cm/album/images/003/05/073/305073_500.jpg/melon/resize/48/quality/80/optimize
+50|864433|Girls On Top|보아 (BoA)|2165|304317|Girls On Top|https://cdnimg.melon.co.kr/cm/album/images/003/04/317/304317_500.jpg/melon/resize/48/quality/80/optimize

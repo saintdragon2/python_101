@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|7942948|소녀|오혁|757777|2652150|응답하라 1988 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/026/52/150/2652150_500.jpg/melon/resize/48/quality/80/optimize
+2|7933703|못먹는 감 (Sour Grapes)|San E~매드클라운|402526~219621|2651133|못먹는 감|https://cdnimg.melon.co.kr/cm/album/images/026/51/133/2651133_500.jpg/melon/resize/48/quality/80/optimize
+3|7911687|Boys And Girls (Feat. Babylon)|지코 (ZICO)|602056|2648403|Boys and Girls|https://cdnimg.melon.co.kr/cm/album/images/026/48/403/2648403_500.jpg/melon/resize/48/quality/80/optimize
+4|7861392|또 다시 사랑|임창정|1142|2638798|또 다시 사랑|https://cdnimg.melon.co.kr/cm/album/images/026/38/798/2638798_500.jpg/melon/resize/48/quality/80/optimize
+5|7931723|꿀잼|다이나믹 듀오|108358|2650829|GRAND CARNIVAL|https://cdnimg.melon.co.kr/cm/album/images/026/50/829/2650829_500.jpg/melon/resize/48/quality/80/optimize
+6|7921208|걱정말아요 그대|이적|1088|2649434|응답하라 1988 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/49/434/2649434_500.jpg/melon/resize/48/quality/80/optimize
+7|7924015|안아보자|포맨 (4MEN)|100176|2649785|4MEN 1st Live Album|https://cdnimg.melon.co.kr/cm/album/images/026/49/785/2649785_500.jpg/melon/resize/48/quality/80/optimize
+8|7899235|Hello|Adele|241925|2646659|Hello|https://cdnimg.melon.co.kr/cm/album/images/026/46/659/2646659_500.jpg/melon/resize/48/quality/80/optimize
+9|7896508|스물셋|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+10|7935396|HOT PINK|EXID|630454|2651328|HOT PINK|https://cdnimg.melon.co.kr/cm/album/images/026/51/328/2651328_500.jpg/melon/resize/48/quality/80/optimize
+11|7931712|지못미|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+12|7877917|I (Feat. 버벌진트)|태연 (TAEYEON)|236797|2643740|I - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/026/43/740/2643740_500.jpg/melon/resize/48/quality/80/optimize
+13|7909196|청춘 (Feat. 김창완)|김필|561051|2648091|응답하라 1988 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/026/48/091/2648091_500.jpg/melon/resize/48/quality/80/optimize
+14|7881505|No Make Up|Zion.T|537920|2644221|No Make Up|https://cdnimg.melon.co.kr/cm/album/images/026/44/221/2644221_500.jpg/melon/resize/48/quality/80/optimize
+15|7891119|OOH-AHH하게|TWICE (트와이스)|905701|2645617|THE STORY BEGINS|https://cdnimg.melon.co.kr/cm/album/images/026/45/617/2645617_500.jpg/melon/resize/48/quality/80/optimize
+16|7854179|취향저격|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+17|7943030|그날을 내 등 뒤로|허각|28801|2652160|겨울동화|https://cdnimg.melon.co.kr/cm/album/images/026/52/160/2652160_500.jpg/melon/resize/48/quality/80/optimize
+18|7900822|4 Walls|f(x)|428501|2646918|4 Walls - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/026/46/918/2646918_500.jpg/melon/resize/48/quality/80/optimize
+19|7858908|바람이나 좀 쐐 (Feat. 우혜미)|개리|1732|2640915|2002|https://cdnimg.melon.co.kr/cm/album/images/026/40/915/2640915_500.jpg/melon/resize/48/quality/80/optimize
+20|7946059|이별밖에|노을|105623|2652515|이별밖에|https://cdnimg.melon.co.kr/cm/album/images/026/52/515/2652515_500.jpg/melon/resize/48/quality/80/optimize
+21|7884171|모르나봐|소유 (SOYOU)~브라더수|490981~446175|2644698|그녀는 예뻤다 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/026/44/698/2644698_500.jpg/melon/resize/48/quality/80/optimize
+22|5791706|오늘부터 우리는 (Me Gustas Tu)|여자친구 (GFRIEND)|828478|2330981|여자친구 2nd Mini Album 'Flower Bud'|https://cdnimg.melon.co.kr/cm/album/images/023/30/981/2330981_500.jpg/melon/resize/48/quality/80/optimize
+23|7896509|푸르던|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+24|7953577|혜화동 (혹은 쌍문동)|박보람|499464|2653515|응답하라 1988 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/026/53/515/2653515_500.jpg/melon/resize/48/quality/80/optimize
+25|7858989|어깨|소유 (SOYOU)~권정열|490981~607226|2640930|어깨|https://cdnimg.melon.co.kr/cm/album/images/026/40/930/2640930_500.jpg/melon/resize/48/quality/80/optimize
+26|7896507|Zeze|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+27|5826447|겁 (Feat. 태양)|MINO (송민호)|742773|2336184|쇼미더머니 4 Episode 5|https://cdnimg.melon.co.kr/cm/album/images/023/36/184/2336184_500.jpg/melon/resize/48/quality/80/optimize
+28|7865089|가끔|지아|227595|2641976|그녀는 예뻤다 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/026/41/976/2641976_500.jpg/melon/resize/48/quality/80/optimize
+29|7935705|그리워 말아요|나비|242868|2651381|그리워 말아요|https://cdnimg.melon.co.kr/cm/album/images/026/51/381/2651381_500.jpg/melon/resize/48/quality/80/optimize
+30|7860122|보통연애 (Feat. 박보람)|박경|650832|2641140|보통연애|https://cdnimg.melon.co.kr/cm/album/images/026/41/140/2641140_500.jpg/melon/resize/48/quality/80/optimize
+31|7888412|말해 Yes Or No (Feat. PENOMECO, The Quiett)|지코 (ZICO)|602056|2645320|말해 Yes Or No|https://cdnimg.melon.co.kr/cm/album/images/026/45/320/2645320_500.jpg/melon/resize/48/quality/80/optimize
+32|7870705|리듬 타 (RHYTHM TA)|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+33|7881233|Break|빈지노 (Beenzino)|532029|2644190|Break|https://cdnimg.melon.co.kr/cm/album/images/026/44/190/2644190_500.jpg/melon/resize/48/quality/80/optimize
+34|851429|기억속의 먼 그대에게|박효신|1191|303582|Neo Classicism|https://cdnimg.melon.co.kr/cm/album/images/003/03/582/303582_500.jpg/melon/resize/48/quality/80/optimize
+35|5835766|Okey Dokey|MINO (송민호)~지코 (ZICO)|742773~602056|2337492|쇼미더머니 4 Episode 6|https://cdnimg.melon.co.kr/cm/album/images/023/37/492/2337492_500.jpg/melon/resize/48/quality/80/optimize
+36|7870472|Ah-Choo|러블리즈|789331|2639766|Lovelyz8|https://cdnimg.melon.co.kr/cm/album/images/026/39/766/2639766_500.jpg/melon/resize/48/quality/80/optimize
+37|7847861|Dumb Dumb|Red Velvet (레드벨벳)|780066|2639273|The Red - The 1st Album|https://cdnimg.melon.co.kr/cm/album/images/026/39/273/2639273_500.jpg/melon/resize/48/quality/80/optimize
+38|5826461|레옹|이유 갓지(GOD G) 않은 이유 (박명수, 아이유)|889388|2335950|무한도전 영동고속도로 가요제|https://cdnimg.melon.co.kr/cm/album/images/023/35/950/2335950_500.jpg/melon/resize/48/quality/80/optimize
+39|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+40|7931713|이리오너라 (B.I&BOBBY)|iKON|895741|2640151|WELCOME BACK|https://cdnimg.melon.co.kr/cm/album/images/026/40/151/2640151_500.jpg/melon/resize/48/quality/80/optimize
+41|7896511|무릎|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+42|5385974|위잉위잉|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+43|7911686|날 (Feat. JTONG)|지코 (ZICO)|602056|2648403|Boys and Girls|https://cdnimg.melon.co.kr/cm/album/images/026/48/403/2648403_500.jpg/melon/resize/48/quality/80/optimize
+44|5702706|꺼내 먹어요|Zion.T|537920|2319240|Eat|https://cdnimg.melon.co.kr/cm/album/images/023/19/240/2319240_500.jpg/melon/resize/48/quality/80/optimize
+45|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+46|7947906|But (Feat. 백지영)|길|410161|2652776|R.O.A.D PROJECT #1|https://cdnimg.melon.co.kr/cm/album/images/026/52/776/2652776_500.jpg/melon/resize/48/quality/80/optimize
+47|7896506|새 신발|아이유|261143|2646282|CHAT-SHIRE|https://cdnimg.melon.co.kr/cm/album/images/026/46/282/2646282_500.jpg/melon/resize/48/quality/80/optimize
+48|5818522|오빠차|인크레더블~Tablo~지누션|858852~231070~100054|2334942|쇼미더머니 4 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/023/34/942/2334942_500.jpg/melon/resize/48/quality/80/optimize
+49|7915771|신세계|브라운아이드걸스|181694|2648875|BASIC|https://cdnimg.melon.co.kr/cm/album/images/026/48/875/2648875_500.jpg/melon/resize/48/quality/80/optimize
+50|7931725|있어줘 (Feat. Lydia Paek)|다이나믹 듀오|108358|2650829|GRAND CARNIVAL|https://cdnimg.melon.co.kr/cm/album/images/026/50/829/2650829_500.jpg/melon/resize/48/quality/80/optimize

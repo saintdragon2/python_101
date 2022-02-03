@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2903041|결혼까지 생각했어|휘성 (Realslow)|10577|1000465|Realslow Is Back|https://cdnimg.melon.co.kr/cm/album/images/010/00/465/1000465_500.jpg/melon/resize/48/quality/80/optimize
+52|4342054|이별남녀|서인국~지아|436700~227595|2218964|이별남녀|https://cdnimg.melon.co.kr/cm/album/images/022/18/964/2218964_500.jpg/melon/resize/48/quality/80/optimize
+53|3893169|홀로 (Feat. 김나영)|정키|570731|2148411|Break Up|https://cdnimg.melon.co.kr/cm/album/images/021/48/411/2148411_500.jpg/melon/resize/48/quality/80/optimize
+54|4471543|Goodbye|소녀시대 (GIRLS' GENERATION)|228069|2235426|The 4th Mini Album 'Mr.Mr.'|https://cdnimg.melon.co.kr/cm/album/images/022/35/426/2235426_500.jpg/melon/resize/48/quality/80/optimize
+55|4402769|내 생각날 거야 (Narr. 이시영)|거미|30358|2227065|The Lyrics - No.4|https://cdnimg.melon.co.kr/cm/album/images/022/27/065/2227065_500.jpg/melon/resize/48/quality/80/optimize
+56|4312933|향기만 남아|허각|28801|2215345|Reminisce|https://cdnimg.melon.co.kr/cm/album/images/022/15/345/2215345_500.jpg/melon/resize/48/quality/80/optimize
+57|4381721|그때 우리|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+58|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+59|4404589|Cha Cha|레인보우 블랙|750398|2227348|Rainbow Blaxx Special Album (RB BLAXX)|https://cdnimg.melon.co.kr/cm/album/images/022/27/348/2227348_500.jpg/melon/resize/48/quality/80/optimize
+60|4452405|Pass Me By|브라운 아이드 소울|107728|2233196|Thank Your Soul - SIDE A|https://cdnimg.melon.co.kr/cm/album/images/022/33/196/2233196_500.jpg/melon/resize/48/quality/80/optimize
+61|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize
+62|4421555|1004 (Angel)|B.A.P|623451|2229193|First Sensibility|https://cdnimg.melon.co.kr/cm/album/images/022/29/193/2229193_500.jpg/melon/resize/48/quality/80/optimize
+63|4300699|너에게|성시경|3305|2213824|응답하라 1994 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/13/824/2213824_500.jpg/melon/resize/48/quality/80/optimize
+64|4252728|처음엔 사랑이란게|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+65|4440763|"Let It Go (From ""Frozen"")"|효린|573812|2231762|"Let It Go (from ""Frozen"")"|https://cdnimg.melon.co.kr/cm/album/images/022/31/762/2231762_500.jpg/melon/resize/48/quality/80/optimize
+66|4367874|너를|브라운 아이드 소울|107728|2222342|Thank Your Soul|https://cdnimg.melon.co.kr/cm/album/images/022/22/342/2222342_500.jpg/melon/resize/48/quality/80/optimize
+67|4454340|뛰뛰빵빵|비투비|647971|2233451|뛰뛰빵빵|https://cdnimg.melon.co.kr/cm/album/images/022/33/451/2233451_500.jpg/melon/resize/48/quality/80/optimize
+68|4389941|"For the First Time in Forever (From ""Frozen""/Soundtrack Version)"|Kristen Bell~Idina Menzel|746208~232538|2225293|Frozen (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm2/album/images/022/25/293/2225293_20200528094453_500.jpg/melon/resize/48/quality/80/optimize
+69|3436083|끝사랑|김범수|6502|1302654|Solista Part.2|https://cdnimg.melon.co.kr/cm/album/images/013/02/654/1302654_500.jpg/melon/resize/48/quality/80/optimize
+70|4362019|너에게만|범키~버벌진트|623851~6985|2221564|듀스 20주년 헌정앨범 Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/21/564/2221564_500.jpg/melon/resize/48/quality/80/optimize
+71|4398445|별에서 온 그대|윤하 (YOUNHA)|203912|2226535|별에서 온 그대 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/022/26/535/2226535_500.jpg/melon/resize/48/quality/80/optimize
+72|4476043|이겨낼거야 2 (Feat. GRAY)|스윙스|236970|2236088|감정기복 II Part.1 : 주요 우울증 (Major Depression)|https://cdnimg.melon.co.kr/cm/album/images/022/36/088/2236088_500.jpg/melon/resize/48/quality/80/optimize
+73|4478195|Come Back Home (Unplugged Ver.)|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+74|4328659|그리워해요|2NE1|406712|2217249|그리워해요|https://cdnimg.melon.co.kr/cm/album/images/022/17/249/2217249_500.jpg/melon/resize/48/quality/80/optimize
+75|4232200|삐딱하게 (Crooked)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+76|4333566|너 밖에 몰라 (One Way Love)|효린|573812|2217251|LOVE&HATE|https://cdnimg.melon.co.kr/cm/album/images/022/17/251/2217251_500.jpg/melon/resize/48/quality/80/optimize
+77|4481752|너 잖아|이영현|10210|2236963|너 잖아|https://cdnimg.melon.co.kr/cm/album/images/022/36/963/2236963_500.jpg/melon/resize/48/quality/80/optimize
+78|4393317|Good Morning Baby|Apink (에이핑크)|534360|2225857|Good Morning Baby|https://cdnimg.melon.co.kr/cm/album/images/022/25/857/2225857_500.jpg/melon/resize/48/quality/80/optimize
+79|4481273|고백|스탠딩 에그|467880|2236865|고백|https://cdnimg.melon.co.kr/cm/album/images/022/36/865/2236865_500.jpg/melon/resize/48/quality/80/optimize
+80|4490151|L.O.V.E|양파|3854|2238198|L.O.V.E|https://cdnimg.melon.co.kr/cm/album/images/022/38/198/2238198_500.jpg/melon/resize/48/quality/80/optimize
+81|4388691|B.B.B (Big Baby Baby)|달샤벳|514619|2225094|The 7th Mini Album 'B.B.B'|https://cdnimg.melon.co.kr/cm/album/images/022/25/094/2225094_500.jpg/melon/resize/48/quality/80/optimize
+82|4470215|The Day|지아|227595|2235224|기황후 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/35/224/2235224_500.jpg/melon/resize/48/quality/80/optimize
+83|4328770|이별식탁 (Feat. 산체스 Of 팬텀)|San E|402526|2217261|'Not' Based On The True Story|https://cdnimg.melon.co.kr/cm/album/images/022/17/261/2217261_500.jpg/melon/resize/48/quality/80/optimize
+84|4296990|눈물이 맘을 훔쳐서|에일리(Ailee)|629831|2213351|비밀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/022/13/351/2213351_500.jpg/melon/resize/48/quality/80/optimize
+85|4446749|Beep|박지윤|1121|2232533|Inner Space|https://cdnimg.melon.co.kr/cm/album/images/022/32/533/2232533_500.jpg/melon/resize/48/quality/80/optimize
+86|4488105|언제나 봄날 (Feat. EB)|김그림|499462|2237855|언제나 봄날|https://cdnimg.melon.co.kr/cm/album/images/022/37/855/2237855_500.jpg/melon/resize/48/quality/80/optimize
+87|-1|어느 소녀의 사랑 이야기|윤민수(바이브)|151315|2233454|불후의 명곡 - 전설을 노래하다 (박건호 편)|https://cdnimg.melon.co.kr/cm/album/images/022/33/454/2233454_500.jpg/melon/resize/48/quality/80/optimize
+88|4471545|Wait A Minute|소녀시대 (GIRLS' GENERATION)|228069|2235426|The 4th Mini Album 'Mr.Mr.'|https://cdnimg.melon.co.kr/cm/album/images/022/35/426/2235426_500.jpg/melon/resize/48/quality/80/optimize
+89|4381937|Something|동방신기 (TVXQ!)|108316|2224087|TVXQ! The 7th Album 'TENSE'|https://cdnimg.melon.co.kr/cm/album/images/022/24/087/2224087_500.jpg/melon/resize/48/quality/80/optimize
+90|4496046|잊고 있는중 (Ing)|DK|524801|2239090|CS Numbers Vol.5|https://cdnimg.melon.co.kr/cm/album/images/022/39/090/2239090_500.jpg/melon/resize/48/quality/80/optimize
+91|4381725|백야|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+92|4473167|어떤 안녕|멜로디데이 (MelodyDay)|693951|2235649|어떤 안녕|https://cdnimg.melon.co.kr/cm/album/images/022/35/649/2235649_500.jpg/melon/resize/48/quality/80/optimize
+93|4446470|마리오네트|스텔라|559971|2232501|마리오네트|https://cdnimg.melon.co.kr/cm/album/images/022/32/501/2232501_500.jpg/melon/resize/48/quality/80/optimize
+94|4471805|손만 잡을게|딘딘 (DINDIN)~민아 (Minah)|735541~488423|2235466|4U Project (손만 잡을게)|https://cdnimg.melon.co.kr/cm/album/images/022/35/466/2235466_500.jpg/melon/resize/48/quality/80/optimize
+95|4475639|Thank U Very Much|베스티|727818|2236026|베스티 세번째 디지털싱글|https://cdnimg.melon.co.kr/cm/album/images/022/36/026/2236026_500.jpg/melon/resize/48/quality/80/optimize
+96|4478630|여자이니까|1PS|759354|2236483|The First Score|https://cdnimg.melon.co.kr/cm/album/images/022/36/483/2236483_500.jpg/melon/resize/48/quality/80/optimize
+97|4493464|뒤에서 안아줘|린|8530|2238706|Le Grand Bleu|https://cdnimg.melon.co.kr/cm/album/images/022/38/706/2238706_500.jpg/melon/resize/48/quality/80/optimize
+98|4483078|사랑할 수 있나요|조현아 (어반자카파)|641331|2237138|여자만화구두 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/37/138/2237138_500.jpg/melon/resize/48/quality/80/optimize
+99|4488065|죄|V.O.S|108794|2237852|태양은 가득히 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/37/852/2237852_500.jpg/melon/resize/48/quality/80/optimize
+100|4467414|First Love (Feat. EB)|티아라|412000|2234864|조영수 All Star - 티아라|https://cdnimg.melon.co.kr/cm/album/images/022/34/864/2234864_500.jpg/melon/resize/48/quality/80/optimize

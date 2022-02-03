@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|2258761|Heartbreaker|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+2|2253748|내 귀에 캔디 (Feat. 택연 Of 2PM)|백지영|1118|628465|Ego|https://cdnimg.melon.co.kr/cm/album/images/006/28/465/628465_500.jpg/melon/resize/48/quality/80/optimize
+3|2229259|Abracadabra|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+4|2276194|사랑비|김태우|182430|650256|T-Virus|https://cdnimg.melon.co.kr/cm/album/images/006/50/256/650256_500.jpg/melon/resize/48/quality/80/optimize
+5|2269959|Muzik|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+6|2238379|미스터|카라|222128|616053|Revolution|https://cdnimg.melon.co.kr/cm/album/images/006/16/053/616053_500.jpg/melon/resize/48/quality/80/optimize
+7|2235965|Wanna|카라|222128|616053|Revolution|https://cdnimg.melon.co.kr/cm/album/images/006/16/053/616053_500.jpg/melon/resize/48/quality/80/optimize
+8|2234748|거짓말 (Part.1)|티아라|412000|617051|거짓말|https://cdnimg.melon.co.kr/cm/album/images/006/17/051/617051_500.jpg/melon/resize/48/quality/80/optimize
+9|2280185|Kiss (Feat. CL)|산다라박|165537|653653|Kiss|https://cdnimg.melon.co.kr/cm/album/images/006/53/653/653653_500.jpg/melon/resize/48/quality/80/optimize
+10|2259948|Hot Stuff|다비치|236815|636651|아가씨를 부탁해 OST|https://cdnimg.melon.co.kr/cm/album/images/006/36/651/636651_500.jpg/melon/resize/48/quality/80/optimize
+11|2212365|I Don't Care|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+12|2258760|소년이여|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+13|2267869|Vari2ty|쥬얼리|101487|634254|Sophisticated|https://cdnimg.melon.co.kr/cm/album/images/006/34/254/634254_500.jpg/melon/resize/48/quality/80/optimize
+14|2271648|라차타 (LA chA TA)|f(x)|428501|646251|라차타|https://cdnimg.melon.co.kr/cm/album/images/006/46/251/646251_500.jpg/melon/resize/48/quality/80/optimize
+15|2258764|Hello (Feat. 다라)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+16|2226049|바래|FTISLAND (FT아일랜드)|226490|605252|Cross & Change|https://cdnimg.melon.co.kr/cm/album/images/006/05/252/605252_500.jpg/melon/resize/48/quality/80/optimize
+17|2266685|초콜릿|케이윌~마리오|175139~243278|642787|Color Chocolate|https://cdnimg.melon.co.kr/cm/album/images/006/42/787/642787_500.jpg/melon/resize/48/quality/80/optimize
+18|2245593|연애특강 (Feat. 한예슬)|마이티 마우스|239366|625656|Love Class|https://cdnimg.melon.co.kr/cm/album/images/006/25/656/625656_500.jpg/melon/resize/48/quality/80/optimize
+19|2278748|사랑 참 어렵다|이승철|1010|652251|사랑 참 어렵다 (이승철 10th 리패키지)|https://cdnimg.melon.co.kr/cm/album/images/006/52/251/652251_500.jpg/melon/resize/48/quality/80/optimize
+20|2276168|내 사랑 내 곁에|럼블피쉬|108951|650253|내 사랑 내 곁에|https://cdnimg.melon.co.kr/cm/album/images/006/50/253/650253_500.jpg/melon/resize/48/quality/80/optimize
+21|2231895|Indian Boy (Feat. 장근이, B.I)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+22|2266940|사랑이 뭐길래|미스에스|275266|642809|Miss $ S Class|https://cdnimg.melon.co.kr/cm/album/images/006/42/809/642809_500.jpg/melon/resize/48/quality/80/optimize
+23|2281050|30분전 (Feat. 임정희)|이현|429480|654552|30분전|https://cdnimg.melon.co.kr/cm/album/images/006/54/552/654552_500.jpg/melon/resize/48/quality/80/optimize
+24|2280287|심장병|아웃사이더~MC 스나이퍼~호란|181785~7560~221838|653756|환타스틱 프로젝트 Vol.1|https://cdnimg.melon.co.kr/cm/album/images/006/53/756/653756_500.jpg/melon/resize/48/quality/80/optimize
+25|2276693|I Don't Care (Reggae Mix Ver.)|2NE1|406712|650559|I Don't Care (Reggae Mix Ver.)|https://cdnimg.melon.co.kr/cm/album/images/006/50/559/650559_500.jpg/melon/resize/48/quality/80/optimize
+26|2267559|피아니시모 (Pianissimo)|체리 필터|101491|642953|Rocksteric|https://cdnimg.melon.co.kr/cm/album/images/006/42/953/642953_500.jpg/melon/resize/48/quality/80/optimize
+27|2253769|눈물도 아까워 (Feat. 현아 From 4Minute)|나비|242868|631953|눈물도 아까워|https://cdnimg.melon.co.kr/cm/album/images/006/31/953/631953_500.jpg/melon/resize/48/quality/80/optimize
+28|2258767|The Leaders (Feat. Teddy, CL)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+29|2218824|Pretty Boy|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+30|2258762|Breathe|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+31|2257473|Strong Girl|쥬얼리|101487|634254|Sophisticated|https://cdnimg.melon.co.kr/cm/album/images/006/34/254/634254_500.jpg/melon/resize/48/quality/80/optimize
+32|2218822|In The Club|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+33|2258765|Gossip Man (Feat. 김건모)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+34|2231948|아몰레드 (Amoled)|손담비~애프터스쿨|226582~322666|614451|아몰레드|https://cdnimg.melon.co.kr/cm/album/images/006/14/451/614451_500.jpg/melon/resize/48/quality/80/optimize
+35|2197448|Hot Issue|4minute|417985|586251|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/005/86/251/586251_500.jpg/melon/resize/48/quality/80/optimize
+36|2185577|외톨이|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+37|2258763|Butterfly (Feat. Jin Jung)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+38|2241848|울고 싶어 우는 사람이 있겠어 (Cry Mix)|에이트|228841|623151|울고 싶어 우는 사람이 있겠어|https://cdnimg.melon.co.kr/cm/album/images/006/23/151/623151_500.jpg/melon/resize/48/quality/80/optimize
+39|2267605|울면 안돼|왁스|2267|642959|울면 안돼|https://cdnimg.melon.co.kr/cm/album/images/006/42/959/642959_500.jpg/melon/resize/48/quality/80/optimize
+40|2203097|소원을 말해봐 (Genie)|소녀시대 (GIRLS' GENERATION)|228069|590853|'소원을 말해봐 (Genie)' The Second Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/90/853/590853_500.jpg/melon/resize/48/quality/80/optimize
+41|2219848|Candy Man|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+42|2258768|19금 She's Gone (Feat. Kush)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+43|2200798|결혼해 줄래 (Feat. BIZNIZ)|이승기|58793|589178|결혼해줄래|https://cdnimg.melon.co.kr/cm/album/images/005/89/178/589178_500.jpg/melon/resize/48/quality/80/optimize
+44|2135470|니가 밉다|2PM|259822|542253|2:00PM Time For Change|https://cdnimg.melon.co.kr/cm/album/images/005/42/253/542253_500.jpg/melon/resize/48/quality/80/optimize
+45|2221852|냉면|명카드라이브|421624|605351|무한도전 올림픽대로 듀엣가요제|https://cdnimg.melon.co.kr/cm/album/images/006/05/351/605351_500.jpg/melon/resize/48/quality/80/optimize
+46|2277740|너를 향한 마음|리즈 (Leeds)|26762|651265|너를 향한 마음|https://cdnimg.melon.co.kr/cm/album/images/006/51/265/651265_500.jpg/melon/resize/48/quality/80/optimize
+47|2194773|잘가요 내사랑|에이트|228841|583952|잘가요 내사랑|https://cdnimg.melon.co.kr/cm/album/images/005/83/952/583952_500.jpg/melon/resize/48/quality/80/optimize
+48|2276249|사랑한다는 말 (Duet. 알렉스)|제이|1203|650258|Dream Catcher|https://cdnimg.melon.co.kr/cm/album/images/006/50/258/650258_500.jpg/melon/resize/48/quality/80/optimize
+49|2210155|True Romance (Feat. T)|드렁큰 타이거|100027|596251|Feel gHood Muzik : The 8th Wonder|https://cdnimg.melon.co.kr/cm/album/images/005/96/251/596251_500.jpg/melon/resize/48/quality/80/optimize
+50|2140978|있잖아 (Rock Ver.)|아이유|261143|546853|Growing Up|https://cdnimg.melon.co.kr/cm/album/images/005/46/853/546853_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|32183386|Blueming|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+2|32156286|늦은 밤 너의 집 앞 골목길에서|노을|105623|10348811|늦은 밤 너의 집 앞 골목길에서|https://cdnimg.melon.co.kr/cm2/album/images/103/48/811/10348811_500.jpg/melon/resize/48/quality/80/optimize
+3|32143487|Love poem|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+4|32171791|이 번호로 전화해줘|바이브|160080|10351268|이 번호로 전화해줘|https://cdnimg.melon.co.kr/cm2/album/images/103/51/268/10351268_500.jpg/melon/resize/48/quality/80/optimize
+5|32182535|시간의 바깥|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+6|32175937|HIP|마마무 (Mamamoo)|750053|10351886|reality in BLACK|https://cdnimg.melon.co.kr/cm2/album/images/103/51/886/10351886_500.jpg/melon/resize/48/quality/80/optimize
+7|32061975|어떻게 이별까지 사랑하겠어, 널 사랑하는 거지|AKMU (악뮤)|712452|10331947|항해|https://cdnimg.melon.co.kr/cm2/album/images/103/31/947/10331947_500.jpg/melon/resize/48/quality/80/optimize
+8|32183384|unlucky|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+9|32128104|인기 (Feat. 송가인, 챈슬러)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+10|32003395|흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야|장범준|648551|10320500|멜로가 체질 OST Part 3|https://cdnimg.melon.co.kr/cm2/album/images/103/20/500/10320500_500.jpg/melon/resize/48/quality/80/optimize
+11|32091557|새 사랑|송하예|722098|10337665|새 사랑|https://cdnimg.melon.co.kr/cm2/album/images/103/37/665/10337665_500.jpg/melon/resize/48/quality/80/optimize
+12|32059630|조금 취했어 (Prod. 2soo)|임재현|2087273|10331499|조금 취했어|https://cdnimg.melon.co.kr/cm2/album/images/103/31/499/10331499_500.jpg/melon/resize/48/quality/80/optimize
+13|32034629|사랑이란 멜로는 없어|전상근|979724|10326710|사랑이란 멜로는 없어|https://cdnimg.melon.co.kr/cm2/album/images/103/26/710/10326710_500.jpg/melon/resize/48/quality/80/optimize
+14|32130396|불티 (Spark)|태연 (TAEYEON)|236797|10344534|Purpose - The 2nd Album|https://cdnimg.melon.co.kr/cm2/album/images/103/44/534/10344534_500.jpg/melon/resize/48/quality/80/optimize
+15|32183385|그 사람|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+16|32085144|있어줘요|장덕철|829211|10336518|있어줘요|https://cdnimg.melon.co.kr/cm2/album/images/103/36/518/10336518_500.jpg/melon/resize/48/quality/80/optimize
+17|31853557|오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)|마크툽 (MAKTUB)|566431|10294603|Red Moon : To You My Light|https://cdnimg.melon.co.kr/cm/album/images/102/94/603/10294603_500.jpg/melon/resize/48/quality/80/optimize
+18|32183387|자장가|아이유|261143|10346650|Love poem|https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/48/quality/80/optimize
+19|31984204|안녕|폴킴|752425|10317137|호텔 델루나 OST Part.10|https://cdnimg.melon.co.kr/cm2/album/images/103/17/137/10317137_500.jpg/melon/resize/48/quality/80/optimize
+20|31703498|시든 꽃에 물을 주듯|HYNN (박혜원)|1229685|10267986|시든 꽃에 물을 주듯|https://cdnimg.melon.co.kr/cm/album/images/102/67/986/10267986_500.jpg/melon/resize/48/quality/80/optimize
+21|31788850|니 소식|송하예|722098|10283614|니 소식|https://cdnimg.melon.co.kr/cm/album/images/102/83/614/10283614_500.jpg/melon/resize/48/quality/80/optimize
+22|31873020|포장마차|황인욱|1865473|10298014|포장마차|https://cdnimg.melon.co.kr/cm/album/images/102/98/014/10298014_500.jpg/melon/resize/48/quality/80/optimize
+23|32128105|샤넬 (Feat. 박봄)|MC몽|11538|10344095|CHANNEL 8|https://cdnimg.melon.co.kr/cm2/album/images/103/44/095/10344095_500.jpg/melon/resize/48/quality/80/optimize
+24|32142272|이별주|황인욱|1865473|10346371|이별주|https://cdnimg.melon.co.kr/cm2/album/images/103/46/371/10346371_500.jpg/melon/resize/48/quality/80/optimize
+25|32038651|워커홀릭|볼빨간사춘기|792022|10327581|Two Five|https://cdnimg.melon.co.kr/cm2/album/images/103/27/581/10327581_500.jpg/melon/resize/48/quality/80/optimize
+26|31029291|2002|Anne-Marie|870307|10137250|Speak Your Mind (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/101/37/250/10137250_500.jpg/melon/resize/48/quality/80/optimize
+27|32081871|허전해|폴킴|752425|10335933|정규 2집 '마음, 하나'|https://cdnimg.melon.co.kr/cm2/album/images/103/35/933/10335933_500.jpg/melon/resize/48/quality/80/optimize
+28|31967064|기억해줘요 내 모든 날과 그때를|거미|30358|10314289|호텔 델루나 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/103/14/289/10314289_500.jpg/melon/resize/48/quality/80/optimize
+29|32031043|가을밤 떠난 너|케이시 (Kassy)|858125|10325945|Rewind|https://cdnimg.melon.co.kr/cm2/album/images/103/25/945/10325945_500.jpg/melon/resize/48/quality/80/optimize
+30|31324607|사랑에 연습이 있었다면 (Prod. 2soo)|임재현|2087273|10207131|사랑에 연습이 있었다면|https://cdnimg.melon.co.kr/cm/album/images/102/07/131/10207131_500.jpg/melon/resize/48/quality/80/optimize
+31|32168238|차가워진 이 바람엔 우리가 써있어 (Bad Love)|HYNN (박혜원)|1229685|10350708|차가워진 이 바람엔 우리가 써있어(Bad Love)|https://cdnimg.melon.co.kr/cm2/album/images/103/50/708/10350708_500.jpg/melon/resize/48/quality/80/optimize
+32|31829536|사랑이 식었다고 말해도 돼|먼데이 키즈 (Monday Kiz)|175155|10290621|사랑이 식었다고 말해도 돼|https://cdnimg.melon.co.kr/cm/album/images/102/90/621/10290621_500.jpg/melon/resize/48/quality/80/optimize
+33|32125782|LION|(여자)아이들|2137482|10343701|퀸덤 <FINAL 컴백 싱글>|https://cdnimg.melon.co.kr/cm2/album/images/103/43/701/10343701_500.jpg/melon/resize/48/quality/80/optimize
+34|31877297|Señorita|Shawn Mendes~Camila Cabello|776533~928017|10298832|Señorita|https://cdnimg.melon.co.kr/cm/album/images/102/98/832/10298832_500.jpg/melon/resize/48/quality/80/optimize
+35|32021744|다시 만날까 봐|V.O.S|108794|10324004|다시 만날까 봐|https://cdnimg.melon.co.kr/cm2/album/images/103/24/004/10324004_500.jpg/melon/resize/48/quality/80/optimize
+36|31870517|술이 문제야|장혜진~윤민수(바이브)|5675~151315|10297571|술이 문제야|https://cdnimg.melon.co.kr/cm/album/images/102/97/571/10297571_500.jpg/melon/resize/48/quality/80/optimize
+37|31737197|작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+38|30962526|모든 날, 모든 순간 (Every day, Every Moment)|폴킴|752425|10149492|'키스 먼저 할까요?' OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/48/quality/80/optimize
+39|32091434|떨어지는 낙엽까지도|헤이즈 (Heize)|751611|10337649|만추|https://cdnimg.melon.co.kr/cm2/album/images/103/37/649/10337649_500.jpg/melon/resize/48/quality/80/optimize
+40|32028531|헤어지자 (Prod. 정키)|휘인 (Whee In)|756533|10325421|soar|https://cdnimg.melon.co.kr/cm2/album/images/103/25/421/10325421_500.jpg/melon/resize/48/quality/80/optimize
+41|31701428|bad guy|Billie Eilish|1239008|10267565|WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?|https://cdnimg.melon.co.kr/cm/album/images/102/67/565/10267565_500.jpg/melon/resize/48/quality/80/optimize
+42|32153755|5월의 밤|Zion.T|537920|10348389|5월의 밤|https://cdnimg.melon.co.kr/cm2/album/images/103/48/389/10348389_500.jpg/melon/resize/48/quality/80/optimize
+43|31938460|그대라는 시|태연 (TAEYEON)|236797|10309213|호텔 델루나 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/103/09/213/10309213_500.jpg/melon/resize/48/quality/80/optimize
+44|32057802|Feel Special|TWICE (트와이스)|905701|10331167|Feel Special|https://cdnimg.melon.co.kr/cm2/album/images/103/31/167/10331167_500.jpg/melon/resize/48/quality/80/optimize
+45|31854689|19금 BAND|창모 (CHANGMO)~Hash Swan~ASH ISLAND~김효은|774900~827434~2112495~1024715|10294820|BAND|https://cdnimg.melon.co.kr/cm/album/images/102/94/820/10294820_500.jpg/melon/resize/48/quality/80/optimize
+46|32140355|이별은 늘 그렇게 (Duet. 정은지)|허각|28801|10346175|이별은 늘 그렇게|https://cdnimg.melon.co.kr/cm2/album/images/103/46/175/10346175_500.jpg/melon/resize/48/quality/80/optimize
+47|31388145|너를 만나|폴킴|752425|10217134|너를 만나|https://cdnimg.melon.co.kr/cm/album/images/102/17/134/10217134_500.jpg/melon/resize/48/quality/80/optimize
+48|32073454|우리 어떻게 할까요|첸 (CHEN)|715176|10334254|사랑하는 그대에게 - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm2/album/images/103/34/254/10334254_500.jpg/melon/resize/48/quality/80/optimize
+49|31688205|사계 (Four Seasons)|태연 (TAEYEON)|236797|10265079|사계 (Four Seasons)|https://cdnimg.melon.co.kr/cm/album/images/102/65/079/10265079_500.jpg/melon/resize/48/quality/80/optimize
+50|8119658|꿈속에 너 (Feat. 전상근)|에이치코드 (H:CODE)|946910|2676167|두 번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/026/76/167/2676167_500.jpg/melon/resize/48/quality/80/optimize

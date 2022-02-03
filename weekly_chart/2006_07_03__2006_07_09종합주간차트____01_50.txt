@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|1213524|LOVE ALL|gavy nj project group [H7美人(미인)]|186813|319770|gavy nj project group [H7美人(미인)]|https://cdnimg.melon.co.kr/cm/album/images/003/19/770/319770_500.jpg/melon/resize/48/quality/80/optimize
+2|1264220|불꽃 (Feat. 개리)|장혜진|5675|320177|불꽃 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/20/177/320177_500.jpg/melon/resize/48/quality/80/optimize
+3|1177475|남자를 몰라|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+4|1204915|Hold The Line|조pd (ZoPD)~브라운아이드걸스|2071~181694|318845|HOLD THE LINE|https://cdnimg.melon.co.kr/cm/album/images/003/18/845/318845_500.jpg/melon/resize/48/quality/80/optimize
+5|1266152|떠나지마|이승철|1010|320638|Somewhere Over The RAINBOW Vol. 1|https://cdnimg.melon.co.kr/cm/album/images/003/20/638/320638_500.jpg/melon/resize/48/quality/80/optimize
+6|1135163|사랑안해|백지영|1118|315848|Smile Again|https://cdnimg.melon.co.kr/cm/album/images/003/15/848/315848_500.jpg/melon/resize/48/quality/80/optimize
+7|1268244|오늘 하루|쿨 (COOL)|100004|320878|쿨 Never Ending Story|https://cdnimg.melon.co.kr/cm/album/images/003/20/878/320878_500.jpg/melon/resize/48/quality/80/optimize
+8|1216149|I Go|럼블피쉬|108951|320073|I Go|https://cdnimg.melon.co.kr/cm/album/images/003/20/073/320073_500.jpg/melon/resize/48/quality/80/optimize
+9|1199786|My Style|업타운|100043|318655|Testimony|https://cdnimg.melon.co.kr/cm/album/images/003/18/655/318655_500.jpg/melon/resize/48/quality/80/optimize
+10|1193994|눈물샘|별|27033|318144|눈물샘|https://cdnimg.melon.co.kr/cm/album/images/003/18/144/318144_500.jpg/melon/resize/48/quality/80/optimize
+11|1139741|내사람 : Partner For Life|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+12|1264830|그녀를 사랑해줘요|하동균|43806|320278|Stand Alone|https://cdnimg.melon.co.kr/cm/album/images/003/20/278/320278_500.jpg/melon/resize/48/quality/80/optimize
+13|1210836|U|SUPER JUNIOR (슈퍼주니어)|175404|319502|U|https://cdnimg.melon.co.kr/cm/album/images/003/19/502/319502_500.jpg/melon/resize/48/quality/80/optimize
+14|1204838|들리나요|정재욱|7839|318838|13월의 사랑|https://cdnimg.melon.co.kr/cm/album/images/003/18/838/318838_500.jpg/melon/resize/48/quality/80/optimize
+15|1173404|아름다운 이별 Ⅱ (PSY Ver.)|이재훈 (쿨)|1574|316609|김형석 With Friends|https://cdnimg.melon.co.kr/cm/album/images/003/16/609/316609_500.jpg/melon/resize/48/quality/80/optimize
+16|1268552|사랑은 아름답습니다|백지영|1118|320909|사랑은 아름답습니다|https://cdnimg.melon.co.kr/cm/album/images/003/20/909/320909_500.jpg/melon/resize/48/quality/80/optimize
+17|1194316|Once In A Lifetime|신화|100078|318167|State Of The Art|https://cdnimg.melon.co.kr/cm/album/images/003/18/167/318167_500.jpg/melon/resize/48/quality/80/optimize
+18|1119896|사랑하기 때문에 (Feat. SG워너비)|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+19|1205568|헤어져야 사랑을 알죠|리사|48312|318969|Mind Blowing|https://cdnimg.melon.co.kr/cm/album/images/003/18/969/318969_500.jpg/melon/resize/48/quality/80/optimize
+20|1145943|느림보|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+21|1266153|사랑한다는 한마디|신지|5907|320638|Somewhere Over The RAINBOW Vol. 1|https://cdnimg.melon.co.kr/cm/album/images/003/20/638/320638_500.jpg/melon/resize/48/quality/80/optimize
+22|1205780|한마디만...|이준기|184019|319043|마이준|https://cdnimg.melon.co.kr/cm/album/images/003/19/043/319043_500.jpg/melon/resize/48/quality/80/optimize
+23|1114170|여인의 향기|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+24|1177470|My Darling (End)|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+25|1114171|구두|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+26|1177472|은인|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+27|1177606|그대 돌아오면..|거미|30358|317123|Gummy Unplugged|https://cdnimg.melon.co.kr/cm/album/images/003/17/123/317123_500.jpg/melon/resize/48/quality/80/optimize
+28|1177471|My Love (And)|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+29|1197688|굳세어라 현정아|김현정|1177|318472|Dance With Hyun Jung|https://cdnimg.melon.co.kr/cm/album/images/003/18/472/318472_500.jpg/melon/resize/48/quality/80/optimize
+30|1139742|사랑했어요 (Feat. 데니안)|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+31|1266156|태양은 가득히|SMTOWN|160072|320639|2006 Summer Smtown|https://cdnimg.melon.co.kr/cm/album/images/003/20/639/320639_500.jpg/melon/resize/48/quality/80/optimize
+32|1130736|사랑아 가지마|임정희|150529|315490|Thanks|https://cdnimg.melon.co.kr/cm/album/images/003/15/490/315490_500.jpg/melon/resize/48/quality/80/optimize
+33|1144020|편지|김종국|1692|316531|네 번째 편지|https://cdnimg.melon.co.kr/cm/album/images/003/16/531/316531_500.jpg/melon/resize/48/quality/80/optimize
+34|1207275|믿을 수 없는 말|심태윤 (Stay)|180700|319138|믿을 수 없는 말|https://cdnimg.melon.co.kr/cm/album/images/003/19/138/319138_500.jpg/melon/resize/48/quality/80/optimize
+35|1268897|맨발의 청춘|캔|100139|320943|New & Old|https://cdnimg.melon.co.kr/cm/album/images/003/20/943/320943_500.jpg/melon/resize/48/quality/80/optimize
+36|1214988|우리 사랑하지만 (Feat. 지선)|마이 앤트 메리|101143|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+37|1134895|V.I.P (Volume Instead Pause)|바다 (BADA)|1605|315826|Made In Sea (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/15/826/315826_500.jpg/melon/resize/48/quality/80/optimize
+38|1145088|다소|메이비 (Maybee)|43443|316621|A Letter From Abell 1689|https://cdnimg.melon.co.kr/cm/album/images/003/16/621/316621_500.jpg/melon/resize/48/quality/80/optimize
+39|1205554|Goodbye|이브|100126|318968|Seventh Evening|https://cdnimg.melon.co.kr/cm/album/images/003/18/968/318968_500.jpg/melon/resize/48/quality/80/optimize
+40|1147109|열 (Feat. Tablo)|이정|39256|316771|Rebirth Of Regent|https://cdnimg.melon.co.kr/cm/album/images/003/16/771/316771_500.jpg/melon/resize/48/quality/80/optimize
+41|1108584|전부 너였다|노을|105623|313823|전부 너였다|https://cdnimg.melon.co.kr/cm/album/images/003/13/823/313823_500.jpg/melon/resize/48/quality/80/optimize
+42|1173448|유추프라카치아|토니 안|1586|316874|유추프라카치아 (Yutzpracachia's Love)|https://cdnimg.melon.co.kr/cm/album/images/003/16/874/316874_500.jpg/melon/resize/48/quality/80/optimize
+43|1141600|폭풍|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+44|1190874|아무리 생각해도 난 너를|스윗소로우 (SWEET SORROW)|175203|317869|연애시대 OST|https://cdnimg.melon.co.kr/cm/album/images/003/17/869/317869_500.jpg/melon/resize/48/quality/80/optimize
+45|1206086|도망자|다이나믹 듀오|108358|319060|도망자 (영화 ‘짝패‘ 삽입곡)|https://cdnimg.melon.co.kr/cm/album/images/003/19/060/319060_500.jpg/melon/resize/48/quality/80/optimize
+46|-1|Smile|May|181810|319970|Smile|https://cdnimg.melon.co.kr/cm/album/images/003/19/970/319970_500.jpg/melon/resize/48/quality/80/optimize
+47|1268245|잘한거죠|쿨 (COOL)|100004|320878|쿨 Never Ending Story|https://cdnimg.melon.co.kr/cm/album/images/003/20/878/320878_500.jpg/melon/resize/48/quality/80/optimize
+48|1216109|넋두리|하동균|43806|320071|DQ From Wanted|https://cdnimg.melon.co.kr/cm/album/images/003/20/071/320071_500.jpg/melon/resize/48/quality/80/optimize
+49|1205314|그래서...|타이푼|186309|318957|TROIKA|https://cdnimg.melon.co.kr/cm/album/images/003/18/957/318957_500.jpg/melon/resize/48/quality/80/optimize
+50|1188514|하루 또 하루|신혜성|1741|317672|신혜성 김현성 에코브릿지 멜론파워싱글 #7|https://cdnimg.melon.co.kr/cm/album/images/003/17/672/317672_500.jpg/melon/resize/48/quality/80/optimize

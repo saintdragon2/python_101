@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1668465|좋은걸 어떡해|블랙펄|227655|353914|Black Pearl (블랙펄)|https://cdnimg.melon.co.kr/cm/album/images/003/53/914/353914_500.jpg/melon/resize/48/quality/80/optimize
+52|1768014|니가 내린다|보이스원|206689|361152|Travel #1 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/61/152/361152_500.jpg/melon/resize/48/quality/80/optimize
+53|-1|또 한번 사랑은 가고|왁스~이기찬|2267~6225|358932|또 한번 사랑은 가고...|https://cdnimg.melon.co.kr/cm/album/images/003/58/932/358932_500.jpg/melon/resize/48/quality/80/optimize
+54|1737717|미안했어요|박기영|908|358487|미안했어요|https://cdnimg.melon.co.kr/cm/album/images/003/58/487/358487_500.jpg/melon/resize/48/quality/80/optimize
+55|1657769|So Fresh (Feat. 김태우) (위대한 캣츠비 OST 삽입곡)|MC몽|11538|353051|So Fresh (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/53/051/353051_500.jpg/melon/resize/48/quality/80/optimize
+56|1727626|너에게 속았다|브라운아이드걸스|181694|357603|떠나라 미스김|https://cdnimg.melon.co.kr/cm/album/images/003/57/603/357603_500.jpg/melon/resize/48/quality/80/optimize
+57|1646085|나 이젠 (Duet 진성 Of 먼데이키즈)|최현준 (V.O.S)|225993|352147|NA2ZEN (나이젠)|https://cdnimg.melon.co.kr/cm/album/images/003/52/147/352147_500.jpg/melon/resize/48/quality/80/optimize
+58|1765765|I Don't Understand|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+59|1669012|그대 내게 다시|럼블피쉬|108951|353970|그대 내게 다시|https://cdnimg.melon.co.kr/cm/album/images/003/53/970/353970_500.jpg/melon/resize/48/quality/80/optimize
+60|1766171|남자를 모르고|이수영|995|361010|내려놓음 (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/61/010/361010_500.jpg/melon/resize/48/quality/80/optimize
+61|1733861|사랑도... 이별도...|이기찬|6225|358153|사랑도... 이별도...|https://cdnimg.melon.co.kr/cm/album/images/003/58/153/358153_500.jpg/melon/resize/48/quality/80/optimize
+62|-1|키스할거야|성은|169436|360957|Comeback To Winter|https://cdnimg.melon.co.kr/cm/album/images/003/60/957/360957_500.jpg/melon/resize/48/quality/80/optimize
+63|-1|12월 32일|블레스|231334|361048|첫번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/003/61/048/361048_500.jpg/melon/resize/48/quality/80/optimize
+64|1764197|19금 Kiss|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+65|1755470|안녕|초신성|229544|359951|The Beautiful Stardust|https://cdnimg.melon.co.kr/cm/album/images/003/59/951/359951_500.jpg/melon/resize/48/quality/80/optimize
+66|1698297|그녀를 뺏겠습니다|크라운제이 (CROWN J)|182206|355815|Miss Me?|https://cdnimg.melon.co.kr/cm/album/images/003/55/815/355815_500.jpg/melon/resize/48/quality/80/optimize
+67|1752528|나쁜놈 (Feat. 바비킴)|제드|3596|359776|Jed 2nd Single - Jed Show|https://cdnimg.melon.co.kr/cm/album/images/003/59/776/359776_500.jpg/melon/resize/48/quality/80/optimize
+68|1727554|부디..|V.O.S|108794|357598|꽃이 웃는다|https://cdnimg.melon.co.kr/cm/album/images/003/57/598/357598_500.jpg/melon/resize/48/quality/80/optimize
+69|1764785|눈물 (Feat. 거북이)|에스진|172890|360945|눈물|https://cdnimg.melon.co.kr/cm/album/images/003/60/945/360945_500.jpg/melon/resize/48/quality/80/optimize
+70|1750989|허락 (許諾)|준서|15932|359657|태왕사신기 OST|https://cdnimg.melon.co.kr/cm/album/images/003/59/657/359657_500.jpg/melon/resize/48/quality/80/optimize
+71|1668957|그래도 사랑합니다|일 락|57315|353965|그래도 사랑합니다|https://cdnimg.melon.co.kr/cm/album/images/003/53/965/353965_500.jpg/melon/resize/48/quality/80/optimize
+72|1763171|그대를 그대를|김동희|25890|360744|This Is Donghee|https://cdnimg.melon.co.kr/cm/album/images/003/60/744/360744_500.jpg/melon/resize/48/quality/80/optimize
+73|1768752|쪼요쪼요 (미니게임천국 3 주제가)|원더걸스|217764|361202|쪼요쪼요|https://cdnimg.melon.co.kr/cm/album/images/003/61/202/361202_500.jpg/melon/resize/48/quality/80/optimize
+74|1694435|가라 사랑아|장혜진|5675|355602|Tomboy|https://cdnimg.melon.co.kr/cm/album/images/003/55/602/355602_500.jpg/melon/resize/48/quality/80/optimize
+75|1762064|열흘만|제이|1203|360669|Inlove Again|https://cdnimg.melon.co.kr/cm/album/images/003/60/669/360669_500.jpg/melon/resize/48/quality/80/optimize
+76|1686586|첫사람|신혜성|1741|355403|The Beginning, New Days|https://cdnimg.melon.co.kr/cm/album/images/003/55/403/355403_500.jpg/melon/resize/48/quality/80/optimize
+77|1759290|Marry U (New Ver.)|SUPER JUNIOR (슈퍼주니어)|175404|360230|돈 돈! (Don't Don) (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/60/230/360230_500.jpg/melon/resize/48/quality/80/optimize
+78|1769276|못잊어 (Feat. 이지혜) (Sampling Mendelssohn 봄의 노래)|PK 헤만|211782|361140|연인 (戀人)|https://cdnimg.melon.co.kr/cm/album/images/003/61/140/361140_500.jpg/melon/resize/48/quality/80/optimize
+79|1701604|사랑해요 (Feat. V.O.S 김경록, 태인)|나몰라패밀리 (Namolla Family)|194009|356031|나몰라패밀리|https://cdnimg.melon.co.kr/cm/album/images/003/56/031/356031_500.jpg/melon/resize/48/quality/80/optimize
+80|1769622|바보 (Feat. Tae Won)|데니안|225888|361268|Love Ballad In 2007 Vol.2 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/61/268/361268_500.jpg/melon/resize/48/quality/80/optimize
+81|1765953|좋아 (Original Ver.)|미나|27005|360835|좋아 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/60/835/360835_500.jpg/melon/resize/48/quality/80/optimize
+82|1769817|습관|김경호|895|361239|INFINITY|https://cdnimg.melon.co.kr/cm/album/images/003/61/239/361239_500.jpg/melon/resize/48/quality/80/optimize
+83|1716431|눈물이 많은 이유|백지영|1118|356881|여섯번째 기적|https://cdnimg.melon.co.kr/cm/album/images/003/56/881/356881_500.jpg/melon/resize/48/quality/80/optimize
+84|1765762|Hot Issue (Intro)|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+85|1761733|I'm Sorry|플라이 투 더 스카이|100183|360664|No Limitations (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/60/664/360664_500.jpg/melon/resize/48/quality/80/optimize
+86|1755551|사랑이 늦어서 미안해|김조한|1873|359962|Soul Family With Johan|https://cdnimg.melon.co.kr/cm/album/images/003/59/962/359962_500.jpg/melon/resize/48/quality/80/optimize
+87|1762230|사랑을 보았나봐|FTISLAND (FT아일랜드)|226490|360686|인순이는 예쁘다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/60/686/360686_500.jpg/melon/resize/48/quality/80/optimize
+88|1765958|바다에서 태어난 해|은우|231026|360836|바다에서 태어난 해 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/60/836/360836_500.jpg/melon/resize/48/quality/80/optimize
+89|1648996|눈물로 (Duet 이정)|제이|1203|352423|눈물로|https://cdnimg.melon.co.kr/cm/album/images/003/52/423/352423_500.jpg/melon/resize/48/quality/80/optimize
+90|1727369|다쳐도 좋아|휘성 (Realslow)|10577|357587|Eternal Essence Of Music|https://cdnimg.melon.co.kr/cm/album/images/003/57/587/357587_500.jpg/melon/resize/48/quality/80/optimize
+91|1750994|천년연가 (千年戀歌)|동방신기 (TVXQ!)|108316|359657|태왕사신기 OST|https://cdnimg.melon.co.kr/cm/album/images/003/59/657/359657_500.jpg/melon/resize/48/quality/80/optimize
+92|1649191|한사람만|FTISLAND (FT아일랜드)|226490|352436|Cheerful Sensibility|https://cdnimg.melon.co.kr/cm/album/images/003/52/436/352436_500.jpg/melon/resize/48/quality/80/optimize
+93|1764209|독설.. 이 지독한 사랑..|니모|230284|360900|Ne;MO 002|https://cdnimg.melon.co.kr/cm/album/images/003/60/900/360900_500.jpg/melon/resize/48/quality/80/optimize
+94|1764570|요즘 나는|남규리~이홍기 (FT아일랜드)|223392~42554|360930|시트콤 못말리는 결혼 OST|https://cdnimg.melon.co.kr/cm/album/images/003/60/930/360930_500.jpg/melon/resize/48/quality/80/optimize
+95|1764445|How Do U Want It (Feat. 임정희)|라임버스|219893|360922|The Way Stop (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/60/922/360922_500.jpg/melon/resize/48/quality/80/optimize
+96|1768072|울다가 아프다가 걷다가 헤매다가|O.N|472683|361105|Once And Again|https://cdnimg.melon.co.kr/cm/album/images/003/61/105/361105_500.jpg/melon/resize/48/quality/80/optimize
+97|1757996|아름다운 구속|서영은|3033|360149|Remake : Romantic 3|https://cdnimg.melon.co.kr/cm/album/images/003/60/149/360149_500.jpg/melon/resize/48/quality/80/optimize
+98|1762950|아프다 (MBC 주말드라마 '겨울새' 삽입곡)|The One (더원)|160816|360724|Love Ballad In 2007 (Vol.1) (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/60/724/360724_500.jpg/melon/resize/48/quality/80/optimize
+99|1657561|I Promise You|원티드, 이정|227316|353036|7DAYZ & WANTED|https://cdnimg.melon.co.kr/cm/album/images/003/53/036/353036_500.jpg/melon/resize/48/quality/80/optimize
+100|1766891|Touch The Sky (Original Ver.)|소녀시대 (GIRLS' GENERATION)|228069|361064|아들 찾아 삼만리 OST|https://cdnimg.melon.co.kr/cm/album/images/003/61/064/361064_500.jpg/melon/resize/48/quality/80/optimize

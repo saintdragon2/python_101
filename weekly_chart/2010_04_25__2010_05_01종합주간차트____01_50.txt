@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|2650539|흩어져|먼데이 키즈 (Monday Kiz)|175155|862970|New Sentimental|https://cdnimg.melon.co.kr/cm/album/images/008/62/970/862970_500.jpg/melon/resize/48/quality/80/optimize
+2|2640165|Chitty Chitty Bang Bang (Feat. Ceejay Of Freshboyz)|이효리|1713|846251|H-Logic|https://cdnimg.melon.co.kr/cm/album/images/008/46/251/846251_500.jpg/melon/resize/48/quality/80/optimize
+3|2648642|Without U|2PM|259822|861656|Don't Stop Can't Stop|https://cdnimg.melon.co.kr/cm/album/images/008/61/656/861656_500.jpg/melon/resize/48/quality/80/optimize
+4|2626610|널 붙잡을 노래|비|17671|841954|Back To The Basic|https://cdnimg.melon.co.kr/cm2/album/images/008/41/954/841954_20200319170158_500.jpg/melon/resize/48/quality/80/optimize
+5|2629049|Magic|시크릿|435121|844351|Secret Time|https://cdnimg.melon.co.kr/cm/album/images/008/44/351/844351_500.jpg/melon/resize/48/quality/80/optimize
+6|2654948|사랑은 없다|거미|30358|866451|사랑은 없다|https://cdnimg.melon.co.kr/cm/album/images/008/66/451/866451_500.jpg/melon/resize/48/quality/80/optimize
+7|2660148|이 거지같은 말 (With 정엽 Of 브라운 아이드 소울)|서영은|3033|870651|With|https://cdnimg.melon.co.kr/cm/album/images/008/70/651/870651_500.jpg/melon/resize/48/quality/80/optimize
+8|2651832|바보처럼|2AM|253866|864171|개인의 취향 OST|https://cdnimg.melon.co.kr/cm/album/images/008/64/171/864171_500.jpg/melon/resize/48/quality/80/optimize
+9|2621364|뱅(Bang) !|애프터스쿨|322666|838454|Bang!|https://cdnimg.melon.co.kr/cm/album/images/008/38/454/838454_500.jpg/melon/resize/48/quality/80/optimize
+10|2627950|너 아니면 안돼|예성 (YESUNG)|261447|843252|신데렐라 언니 OST|https://cdnimg.melon.co.kr/cm/album/images/008/43/252/843252_500.jpg/melon/resize/48/quality/80/optimize
+11|2656760|사랑에 아파한 날들 (Duet. 윤하)|임재범|4838|867363|사랑에 아파한 날들|https://cdnimg.melon.co.kr/cm/album/images/008/67/363/867363_500.jpg/melon/resize/48/quality/80/optimize
+12|2611648|Run Devil Run|소녀시대 (GIRLS' GENERATION)|228069|830051|'Run Devil Run' The 2nd Album (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/008/30/051/830051_500.jpg/melon/resize/48/quality/80/optimize
+13|2609744|잘못했어|2AM|253866|828461|잘못했어|https://cdnimg.melon.co.kr/cm/album/images/008/28/461/828461_500.jpg/melon/resize/48/quality/80/optimize
+14|2654264|그대를 사랑하는 10가지 이유|이석훈|205858|865853|인사|https://cdnimg.melon.co.kr/cm/album/images/008/65/853/865853_500.jpg/melon/resize/48/quality/80/optimize
+15|2656792|남자답게|바비 킴|6027|867368|Heart & Soul|https://cdnimg.melon.co.kr/cm/album/images/008/67/368/867368_500.jpg/melon/resize/48/quality/80/optimize
+16|2637292|가슴이 뭉클|씨야|181679|852257|개인의 취향 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/008/52/257/852257_500.jpg/melon/resize/48/quality/80/optimize
+17|2587788|너 때문에 미쳐|티아라|412000|809262|Breaking Heart (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/008/09/262/809262_500.jpg/melon/resize/48/quality/80/optimize
+18|2621349|비켜줄께|브라운 아이드 소울|107728|838452|비켜줄께 / Blowin My Mind|https://cdnimg.melon.co.kr/cm/album/images/008/38/452/838452_500.jpg/melon/resize/48/quality/80/optimize
+19|2596161|Bubble Love|MC몽~서인영|11538~26265|817052|조영수 All Star 2.5|https://cdnimg.melon.co.kr/cm/album/images/008/17/052/817052_500.jpg/melon/resize/48/quality/80/optimize
+20|2626611|Hip Song|비|17671|841954|Back To The Basic|https://cdnimg.melon.co.kr/cm2/album/images/008/41/954/841954_20200319170158_500.jpg/melon/resize/48/quality/80/optimize
+21|2579459|루팡 (Lupin)|카라|222128|802252|루팡 (Lupin)|https://cdnimg.melon.co.kr/cm/album/images/008/02/252/802252_500.jpg/melon/resize/48/quality/80/optimize
+22|2596063|배운게 사랑이라|디셈버|439021|816957|Honesty|https://cdnimg.melon.co.kr/cm/album/images/008/16/957/816957_500.jpg/melon/resize/48/quality/80/optimize
+23|2593618|Shock|비스트|436981|814562|Shock Of The New Era|https://cdnimg.melon.co.kr/cm/album/images/008/14/562/814562_500.jpg/melon/resize/48/quality/80/optimize
+24|2544949|못해 (Feat. 美)|포맨 (4MEN)|100176|772051|The 3rd Generation (Special Album)|https://cdnimg.melon.co.kr/cm/album/images/007/72/051/772051_500.jpg/melon/resize/48/quality/80/optimize
+25|2656848|아무도 모르죠|가비엔제이|174997|867372|신이라 불리운 사나이 OST|https://cdnimg.melon.co.kr/cm/album/images/008/67/372/867372_500.jpg/melon/resize/48/quality/80/optimize
+26|2601592|선물 (Feat. 은지원)|케이윌|175139|821856|선물|https://cdnimg.melon.co.kr/cm/album/images/008/21/856/821856_500.jpg/melon/resize/48/quality/80/optimize
+27|2601848|사랑이 올까요 (With 백지영)|마이티 마우스~백지영|239366~1118|822151|사랑이 올까요 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/008/22/151/822151_500.jpg/melon/resize/48/quality/80/optimize
+28|2627748|말도 안돼|윤하 (YOUNHA)|203912|843051|개인의 취향 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/008/43/051/843051_500.jpg/melon/resize/48/quality/80/optimize
+29|2646465|그대라는 날개|김태우|182430|860575|개인의 취향 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/008/60/575/860575_500.jpg/melon/resize/48/quality/80/optimize
+30|2643659|Goodbye My Princess|먼데이 키즈 (Monday Kiz)|175155|858352|검사 프린세스 OST|https://cdnimg.melon.co.kr/cm/album/images/008/58/352/858352_500.jpg/melon/resize/48/quality/80/optimize
+31|2623007|나쁜 버릇|지아|227595|839466|나쁜 버릇|https://cdnimg.melon.co.kr/cm/album/images/008/39/466/839466_500.jpg/melon/resize/48/quality/80/optimize
+32|-1|그네 (Feat. 개리 Of 리쌍)|이효리|1713|846251|H-Logic|https://cdnimg.melon.co.kr/cm/album/images/008/46/251/846251_500.jpg/melon/resize/48/quality/80/optimize
+33|2593649|주변인|아웃사이더|181785|814651|주변인 : The Outsider|https://cdnimg.melon.co.kr/cm/album/images/008/14/651/814651_500.jpg/melon/resize/48/quality/80/optimize
+34|2620650|Super Soul|길학미|462925|837851|Super Soul|https://cdnimg.melon.co.kr/cm/album/images/008/37/851/837851_500.jpg/melon/resize/48/quality/80/optimize
+35|2604975|미워요|정인|35989|824554|정인 From Andromeda|https://cdnimg.melon.co.kr/cm/album/images/008/24/554/824554_500.jpg/melon/resize/48/quality/80/optimize
+36|2546258|사랑이 술을 가르쳐 (Feat. 백찬 From 8eight)|이승기|58793|773051|Shadow (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/007/73/051/773051_500.jpg/melon/resize/48/quality/80/optimize
+37|2646084|황야의 무법자|현아~낯선|449401~261429|860364|E-Tribe Project Album (201004)|https://cdnimg.melon.co.kr/cm/album/images/008/60/364/860364_500.jpg/melon/resize/48/quality/80/optimize
+38|2633352|뒤돌아봐|JOO|232696|848352|신데렐라 언니 OST|https://cdnimg.melon.co.kr/cm/album/images/008/48/352/848352_500.jpg/melon/resize/48/quality/80/optimize
+39|2643809|사랑 만들기|4minute|417985|858370|개인의 취향 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/008/58/370/858370_500.jpg/melon/resize/48/quality/80/optimize
+40|2554001|Oh!|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+41|2549955|죽어도 못 보내|2AM|253866|776152|죽어도 못 보내|https://cdnimg.melon.co.kr/cm/album/images/007/76/152/776152_500.jpg/melon/resize/48/quality/80/optimize
+42|2590471|널 위한 멜로디|M4|458940|811853|The Story Of M4|https://cdnimg.melon.co.kr/cm/album/images/008/11/853/811853_500.jpg/melon/resize/48/quality/80/optimize
+43|2587789|내가 너무 아파|티아라|412000|809262|Breaking Heart (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/008/09/262/809262_500.jpg/melon/resize/48/quality/80/optimize
+44|2617550|기다리다 미쳐|빅마마|105803|835251|5|https://cdnimg.melon.co.kr/cm/album/images/008/35/251/835251_500.jpg/melon/resize/48/quality/80/optimize
+45|2657048|웃으며 안녕|소야앤썬|468362|867551|웃으며 안녕|https://cdnimg.melon.co.kr/cm/album/images/008/67/551/867551_500.jpg/melon/resize/48/quality/80/optimize
+46|-1|Bring It Back (Feat. 베카 Of 애프터스쿨, 전지윤 Of 포미닛)|이효리|1713|846251|H-Logic|https://cdnimg.melon.co.kr/cm/album/images/008/46/251/846251_500.jpg/melon/resize/48/quality/80/optimize
+47|2617540|술김에...|은지원|1682|835160|술김에...|https://cdnimg.melon.co.kr/cm/album/images/008/35/160/835160_500.jpg/melon/resize/48/quality/80/optimize
+48|2566835|가슴에 살아 (Feat. 나르샤 Of Brown Eyed Girls)|언터쳐블|190493|790957|Untouchable Mini Album 2nd|https://cdnimg.melon.co.kr/cm/album/images/007/90/957/790957_500.jpg/melon/resize/48/quality/80/optimize
+49|2634099|Magic (FOI 2010 주제곡)|브라운아이드걸스|181694|849055|Festa On Ice 2010 스페셜 앨범|https://cdnimg.melon.co.kr/cm/album/images/008/49/055/849055_500.jpg/melon/resize/48/quality/80/optimize
+50|2626713|Heartbreaker (Feat. Flo Rida)|G-DRAGON|6984|842055|Shine A Light|https://cdnimg.melon.co.kr/cm/album/images/008/42/055/842055_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|30672529|그리워하다|비투비|647971|10102658|Brother Act.|https://cdnimg.melon.co.kr/cm/album/images/101/02/658/10102658_500.jpg/melon/resize/48/quality/80/optimize
+52|31085237|FAKE LOVE|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+53|31219546|flex (Prod. By 기리보이)|기리보이~Kid Milli~NO:EL~스윙스|585492~873162~1703593~236970|10189965|Dingo X Indigo Music|https://cdnimg.melon.co.kr/cm/album/images/101/89/965/10189965_500.jpg/melon/resize/48/quality/80/optimize
+54|31495659|첫눈에|헤이즈 (Heize)|751611|10233243|첫눈에|https://cdnimg.melon.co.kr/cm/album/images/102/33/243/10233243_500.jpg/melon/resize/48/quality/80/optimize
+55|31399728|24/7|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+56|31403263|Goodbye|웬디 (WENDY)|780915|10219307|뷰티 인사이드 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/102/19/307/10219307_500.jpg/melon/resize/48/quality/80/optimize
+57|31435731|알러뷰|EXID|630454|10224239|알러뷰|https://cdnimg.melon.co.kr/cm/album/images/102/24/239/10224239_500.jpg/melon/resize/48/quality/80/optimize
+58|30806536|Universe|EXO|724619|10122917|Universe - 겨울 스페셜 앨범, 2017|https://cdnimg.melon.co.kr/cm/album/images/101/22/917/10122917_500.jpg/melon/resize/48/quality/80/optimize
+59|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+60|30568338|에너제틱 (Energetic)|Wanna One (워너원)|1865973|10085951|1X1=1(TO BE ONE)|https://cdnimg.melon.co.kr/cm/album/images/100/85/951/10085951_500.jpg/melon/resize/48/quality/80/optimize
+61|31369994|Save (Feat. 팔로알토)(Prod. 코드 쿤스트)|루피 (Loopy)|957315|10214285|쇼미더머니 777 Episode 3|https://cdnimg.melon.co.kr/cm/album/images/102/14/285/10214285_500.jpg/melon/resize/48/quality/80/optimize
+62|30884950|그때 헤어지면 돼|로이킴|699632|10137574|그때 헤어지면 돼|https://cdnimg.melon.co.kr/cm/album/images/101/37/574/10137574_500.jpg/melon/resize/48/quality/80/optimize
+63|30725482|Beautiful|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+64|31399724|Sign|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+65|31399731|여기 있을게 (Smile On My Face)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+66|31266289|I'm Fine|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+67|31433085|집|Wanna One (워너원)|1865973|10223837|1¹¹=1 (POWER OF DESTINY)|https://cdnimg.melon.co.kr/cm/album/images/102/23/837/10223837_500.jpg/melon/resize/48/quality/80/optimize
+68|31399727|가끔 (With You)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+69|31487794|올해 제일 잘한 일|TWICE (트와이스)|905701|10232038|"The year of ""YES"""|https://cdnimg.melon.co.kr/cm/album/images/102/32/038/10232038_500.jpg/melon/resize/48/quality/80/optimize
+70|3053259|미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)|아이유|261143|1093562|Real|https://cdnimg.melon.co.kr/cm/album/images/010/93/562/1093562_500.jpg/melon/resize/48/quality/80/optimize
+71|30637982|DNA|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+72|31399729|후폭풍 (Bad Dream)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+73|30960341|BOOMERANG (부메랑)|Wanna One (워너원)|1865973|10144723|0+1=1 (I PROMISE YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/44/723/10144723_500.jpg/melon/resize/48/quality/80/optimize
+74|31093710|여행|볼빨간사춘기|792022|10170069|Red Diary Page.2|https://cdnimg.melon.co.kr/cm/album/images/101/70/069/10170069_500.jpg/melon/resize/48/quality/80/optimize
+75|31470006|행복|오반 (OVAN)|925515|10229387|행복|https://cdnimg.melon.co.kr/cm/album/images/102/29/387/10229387_500.jpg/melon/resize/48/quality/80/optimize
+76|31399730|Damage|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+77|31113240|켜줘 (Light)|Wanna One (워너원)|1865973|10173365|1÷χ=1 (UNDIVIDED)|https://cdnimg.melon.co.kr/cm/album/images/101/73/365/10173365_500.jpg/melon/resize/48/quality/80/optimize
+78|31189241|너나 해 (Egotistic)|마마무 (Mamamoo)|750053|10185416|RED MOON|https://cdnimg.melon.co.kr/cm/album/images/101/85/416/10185416_500.jpg/melon/resize/48/quality/80/optimize
+79|31451245|이 밤이 특별해진 건|어반자카파|420527|10226609|[05]|https://cdnimg.melon.co.kr/cm/album/images/102/26/609/10226609_500.jpg/melon/resize/48/quality/80/optimize
+80|31399722|오아시스 (Oasis)|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+81|31433086|불꽃놀이 (Flowerbomb)|Wanna One (워너원)|1865973|10223837|1¹¹=1 (POWER OF DESTINY)|https://cdnimg.melon.co.kr/cm/album/images/102/23/837/10223837_500.jpg/melon/resize/48/quality/80/optimize
+82|31433089|술래|Wanna One (워너원)|1865973|10223837|1¹¹=1 (POWER OF DESTINY)|https://cdnimg.melon.co.kr/cm/album/images/102/23/837/10223837_500.jpg/melon/resize/48/quality/80/optimize
+83|3973781|크리스마스니까|성시경~박효신~이석훈~서인국~VIXX (빅스)|3305~1191~205858~436700~672560|2168409|Jelly Christmas 2012 HEART PROJECT|https://cdnimg.melon.co.kr/cm/album/images/021/68/409/2168409_500.jpg/melon/resize/48/quality/80/optimize
+84|30514366|선물|멜로망스|839732|10078176|Moonlight|https://cdnimg.melon.co.kr/cm/album/images/100/78/176/10078176_500.jpg/melon/resize/48/quality/80/optimize
+85|30755375|그날처럼|장덕철|829211|10115186|그날처럼|https://cdnimg.melon.co.kr/cm/album/images/101/15/186/10115186_500.jpg/melon/resize/48/quality/80/optimize
+86|31266282|Euphoria|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+87|30717645|Snowman|Sia|54103|10107511|Everyday is Christmas (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/101/07/511/10107511_500.jpg/melon/resize/48/quality/80/optimize
+88|31085238|전하지 못한 진심 (Feat. Steve Aoki)|방탄소년단|672375|10168559|LOVE YOURSELF 轉 'Tear'|https://cdnimg.melon.co.kr/cm/album/images/101/68/559/10168559_500.jpg/melon/resize/48/quality/80/optimize
+89|31433087|묻고싶다 (One Love)|Wanna One (워너원)|1865973|10223837|1¹¹=1 (POWER OF DESTINY)|https://cdnimg.melon.co.kr/cm/album/images/102/23/837/10223837_500.jpg/melon/resize/48/quality/80/optimize
+90|31340982|사임사임 (Feat. CHANGMO)|쿠기 (Coogie)~수퍼비~D.Ark (디아크)|2111694~695757~2299742|10209647|쇼미더머니 777 Episode 1|https://cdnimg.melon.co.kr/cm/album/images/102/09/647/10209647_500.jpg/melon/resize/48/quality/80/optimize
+91|30859584|사랑을 했다 (LOVE SCENARIO)|iKON|895741|10132945|Return|https://cdnimg.melon.co.kr/cm/album/images/101/32/945/10132945_500.jpg/melon/resize/48/quality/80/optimize
+92|31469945|벌써 크리스마스|케이윌~소유 (SOYOU)~보이프렌드~몬스타엑스~우주소녀~유승우~브라더수~마인드유~듀에토~정세운|175139~490981~541500~791216~943959~699637~446175~1703188~1704571~1907398|10229386|STARSHIP PLANET 2018(스타쉽플래닛)|https://cdnimg.melon.co.kr/cm/album/images/102/29/386/10229386_500.jpg/melon/resize/48/quality/80/optimize
+93|31433088|Deeper|Wanna One (워너원)|1865973|10223837|1¹¹=1 (POWER OF DESTINY)|https://cdnimg.melon.co.kr/cm/album/images/102/23/837/10223837_500.jpg/melon/resize/48/quality/80/optimize
+94|31266291|Answer : Love Myself|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+95|31433092|소나무|Wanna One (워너원)|1865973|10223837|1¹¹=1 (POWER OF DESTINY)|https://cdnimg.melon.co.kr/cm/album/images/102/23/837/10223837_500.jpg/melon/resize/48/quality/80/optimize
+96|30930312|약속해요 (I.P.U.)|Wanna One (워너원)|1865973|10144723|0+1=1 (I PROMISE YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/44/723/10144723_500.jpg/melon/resize/48/quality/80/optimize
+97|261643|I Was Born To Love You|Queen|103964|19989|Made In Heaven|https://cdnimg.melon.co.kr/cm/album/images/000/19/989/19989_500.jpg/melon/resize/48/quality/80/optimize
+98|31230093|Power Up|Red Velvet (레드벨벳)|780066|10191694|Summer Magic - Summer Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/91/694/10191694_500.jpg/melon/resize/48/quality/80/optimize
+99|31433093|Beautiful (Part ll)|Wanna One (워너원)|1865973|10223837|1¹¹=1 (POWER OF DESTINY)|https://cdnimg.melon.co.kr/cm/album/images/102/23/837/10223837_500.jpg/melon/resize/48/quality/80/optimize
+100|31164090|동화|멜로망스|839732|10181438|The Fairy Tale|https://cdnimg.melon.co.kr/cm/album/images/101/81/438/10181438_500.jpg/melon/resize/48/quality/80/optimize

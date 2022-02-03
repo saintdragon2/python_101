@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1908553|Human Dream|서태지|1868|390452|Seotaiji 8th Atomos Part Moai|https://cdnimg.melon.co.kr/cm/album/images/003/90/452/390452_500.jpg/melon/resize/48/quality/80/optimize
+52|1851234|미치겠어 (Feat. M.A.C)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+53|1900548|행복해야 해|이기찬|6225|389181|Singing All My Song For You|https://cdnimg.melon.co.kr/cm/album/images/003/89/181/389181_500.jpg/melon/resize/48/quality/80/optimize
+54|1902386|그대만 보여요 (Feat. BigBang T.O.P)|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+55|1857967|모두 다 쉿!|쥬얼리|101487|377200|Kitchi Island 2|https://cdnimg.melon.co.kr/cm/album/images/003/77/200/377200_500.jpg/melon/resize/48/quality/80/optimize
+56|1903048|천하무적 이효리|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+57|1913501|하루 하루|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+58|1906440|남자 (男子)|남규리|223392|389061|고死(사): 피의 중간고사 OST|https://cdnimg.melon.co.kr/cm/album/images/003/89/061/389061_500.jpg/melon/resize/48/quality/80/optimize
+59|1846941|바보에게... 바보가|박명수|4263|375797|바보에게... 바보가 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/75/797/375797_500.jpg/melon/resize/48/quality/80/optimize
+60|1797709|아이처럼|김동률|925|366933|Monologue|https://cdnimg.melon.co.kr/cm/album/images/003/66/933/366933_500.jpg/melon/resize/48/quality/80/optimize
+61|1908554|T'IK T'AK|서태지|1868|390452|Seotaiji 8th Atomos Part Moai|https://cdnimg.melon.co.kr/cm/album/images/003/90/452/390452_500.jpg/melon/resize/48/quality/80/optimize
+62|1907237|한 남자 한 여자 (Duet. 한경일)|란 (RAN)|236880|390354|한 남자 한 여자|https://cdnimg.melon.co.kr/cm/album/images/003/90/354/390354_500.jpg/melon/resize/48/quality/80/optimize
+63|1890404|Your Eyes|브라운 아이즈|100742|386400|Two Things Needed For The Same Purpose And 5 Objets|https://cdnimg.melon.co.kr/cm/album/images/003/86/400/386400_500.jpg/melon/resize/48/quality/80/optimize
+64|1904001|해뜰날 (Feat. 마이티 마우스)|신지|5907|389812|1st Album|https://cdnimg.melon.co.kr/cm/album/images/003/89/812/389812_500.jpg/melon/resize/48/quality/80/optimize
+65|1911260|안타까워|제이워크|102409|391352|In The Season - 2008 Summer|https://cdnimg.melon.co.kr/cm/album/images/003/91/352/391352_500.jpg/melon/resize/48/quality/80/optimize
+66|1912290|Kiss|김건모|889|392154|Soul Groove|https://cdnimg.melon.co.kr/cm/album/images/003/92/154/392154_500.jpg/melon/resize/48/quality/80/optimize
+67|1905369|입버릇 (Feat. 이루)|제드|3596|390118|Showtime Project - Jed 입버릇|https://cdnimg.melon.co.kr/cm/album/images/003/90/118/390118_500.jpg/melon/resize/48/quality/80/optimize
+68|1905649|Just Friend (Feat. 다이나믹 듀오)|BMK|36142|390158|Blackberry Vol.1 (BMK With Fellaz)|https://cdnimg.melon.co.kr/cm/album/images/003/90/158/390158_500.jpg/melon/resize/48/quality/80/optimize
+69|1854857|멋지게 이별|SG 워너비|108363|376502|My Friend|https://cdnimg.melon.co.kr/cm/album/images/003/76/502/376502_500.jpg/melon/resize/48/quality/80/optimize
+70|1908235|여름날 (Feat. 페퍼톤스 신재평)|유희열|7523|390408|여름날 (유희열 소품집)|https://cdnimg.melon.co.kr/cm/album/images/003/90/408/390408_500.jpg/melon/resize/48/quality/80/optimize
+71|1833966|기억을 걷는 시간|넬 (NELL)|101094|374383|Separation Anxiety|https://cdnimg.melon.co.kr/cm/album/images/003/74/383/374383_500.jpg/melon/resize/48/quality/80/optimize
+72|1903056|빨간자동차 (With 김건모)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+73|1903053|Don't Cry|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+74|526391|청혼|노을|105623|34746|These Are The Times|https://cdnimg.melon.co.kr/cm/album/images/000/34/746/34746_500.jpg/melon/resize/48/quality/80/optimize
+75|1892695|결혼 (Feat. 가인 For 브라운아이드걸스)|정철 (최정철)|12872|386747|결혼|https://cdnimg.melon.co.kr/cm/album/images/003/86/747/386747_500.jpg/melon/resize/48/quality/80/optimize
+76|1849804|취중진담 (Feat. AND)|플라이 투 더 스카이|100183|376069|Recollection|https://cdnimg.melon.co.kr/cm/album/images/003/76/069/376069_500.jpg/melon/resize/48/quality/80/optimize
+77|1858074|I Love You (Feat. 신디)|란 (RAN)|236880|377216|I Love You|https://cdnimg.melon.co.kr/cm/album/images/003/77/216/377216_500.jpg/melon/resize/48/quality/80/optimize
+78|1903049|Lesson|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+79|1807098|One More Time|쥬얼리|101487|368317|5집 Kitchi Island|https://cdnimg.melon.co.kr/cm/album/images/003/68/317/368317_500.jpg/melon/resize/48/quality/80/optimize
+80|1907078|Find (파인드)|SS501|170541|390243|Find|https://cdnimg.melon.co.kr/cm/album/images/003/90/243/390243_500.jpg/melon/resize/48/quality/80/optimize
+81|1905756|남자의 사랑|김동완|1743|390254|The Secret ; between Us Part Ⅱ|https://cdnimg.melon.co.kr/cm/album/images/003/90/254/390254_500.jpg/melon/resize/48/quality/80/optimize
+82|1907279|Come On! Come On!|한영|253755|390288|1st Invitation|https://cdnimg.melon.co.kr/cm/album/images/003/90/288/390288_500.jpg/melon/resize/48/quality/80/optimize
+83|1903055|Sexy Boy (With 휘성)|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+84|1904805|너였구나|견우 (Kyunwoo)|172281|390080|너였구나|https://cdnimg.melon.co.kr/cm/album/images/003/90/080/390080_500.jpg/melon/resize/48/quality/80/optimize
+85|1798752|슬픈 다짐|다비치|236815|367137|AMARANTH|https://cdnimg.melon.co.kr/cm/album/images/003/67/137/367137_500.jpg/melon/resize/48/quality/80/optimize
+86|1746426|Brave|Jennifer Lopez|2845|359268|Brave|https://cdnimg.melon.co.kr/cm/album/images/003/59/268/359268_500.jpg/melon/resize/48/quality/80/optimize
+87|1913502|천국|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+88|1883538|요리왕 (Cooking? Cooking!)|SUPER JUNIOR-Happy (슈퍼주니어-Happy)|248146|382813|요리왕 (Cooking? Cooking!) The First Mini Album|https://cdnimg.melon.co.kr/cm/album/images/003/82/813/382813_500.jpg/melon/resize/48/quality/80/optimize
+89|1908709|지워도|윤화재인|228276|390556|지워도 (Season 3)|https://cdnimg.melon.co.kr/cm/album/images/003/90/556/390556_500.jpg/melon/resize/48/quality/80/optimize
+90|1897615|파파라치 (Feat. 윤하, 태완, a.k.a C-Luv)|아주|237439|388681|Paparazzi|https://cdnimg.melon.co.kr/cm/album/images/003/88/681/388681_500.jpg/melon/resize/48/quality/80/optimize
+91|1907243|이별을 견디는 몇가지 방법|쿨 (COOL)|100004|390355|사랑을 원해|https://cdnimg.melon.co.kr/cm/album/images/003/90/355/390355_500.jpg/melon/resize/48/quality/80/optimize
+92|1910148|Mabinogi (It's Fantastic!)|티파니 (TIFFANY)~Jessica (제시카)~서현 (SEOHYUN)|406421~428829~401220|390781|마비노기 OST|https://cdnimg.melon.co.kr/cm/album/images/003/90/781/390781_500.jpg/melon/resize/48/quality/80/optimize
+93|1909170|Happy Birthday To You (메리츠증권 CF음악 (아카펠라 Ver.))|빅마마|105803|390674|Happy Birthday To You|https://cdnimg.melon.co.kr/cm/album/images/003/90/674/390674_500.jpg/melon/resize/48/quality/80/optimize
+94|1907619|Orange Road|체리 필터|101491|390301|Orange Road (부제:게임 원더킹 OST)|https://cdnimg.melon.co.kr/cm/album/images/003/90/301/390301_500.jpg/melon/resize/48/quality/80/optimize
+95|1903051|사진첩|이효리|1713|389651|It's Hyorish|https://cdnimg.melon.co.kr/cm/album/images/003/89/651/389651_500.jpg/melon/resize/48/quality/80/optimize
+96|1908232|즐거운 나의 하루 (Feat. 신민아)|유희열|7523|390408|여름날 (유희열 소품집)|https://cdnimg.melon.co.kr/cm/album/images/003/90/408/390408_500.jpg/melon/resize/48/quality/80/optimize
+97|1765767|마지막 인사|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+98|1913503|착한 사람|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+99|1911466|우리들의 행복한 시간 (Feat. 주(Joo) Narr. 안혜경)|미노 (프리스타일)~타우|428828~255466|391552|The First Songs For You To Remember Our Happy Days|https://cdnimg.melon.co.kr/cm/album/images/003/91/552/391552_500.jpg/melon/resize/48/quality/80/optimize
+100|1816224|사랑해 (Feat. 윤은혜)|마이티 마우스|239366|370758|사랑해 (Feat. 윤은혜) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/70/758/370758_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3565243|여우야|투개월|569215|2017466|슈퍼스타K 3 Top11 Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/17/466/2017466_500.jpg/melon/resize/48/quality/80/optimize
+2|3565242|달의 몰락|울랄라세션|569214|2017466|슈퍼스타K 3 Top11 Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/17/466/2017466_500.jpg/melon/resize/48/quality/80/optimize
+3|3565240|동경소녀|버스커 버스커|569233|2017466|슈퍼스타K 3 Top11 Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/17/466/2017466_500.jpg/melon/resize/48/quality/80/optimize
+4|3549031|Hello|허각|28801|2012587|LIKE 1st MINI ALBUM 'First Story'|https://cdnimg.melon.co.kr/cm/album/images/020/12/587/2012587_500.jpg/melon/resize/48/quality/80/optimize
+5|3570032|Open Arms (Journey) (Feat. 크리스티나)|울랄라세션|569214|2019070|슈퍼스타K 3 Top11 Part 2|https://cdnimg.melon.co.kr/cm/album/images/020/19/070/2019070_500.jpg/melon/resize/48/quality/80/optimize
+6|3557196|Sixth Sense|브라운아이드걸스|181694|2013176|Sixth Sense|https://cdnimg.melon.co.kr/cm/album/images/020/13/176/2013176_500.jpg/melon/resize/48/quality/80/optimize
+7|3536905|안녕이라고 말하지마|다비치|236815|2008890|Love Delight|https://cdnimg.melon.co.kr/cm/album/images/020/08/890/2008890_500.jpg/melon/resize/48/quality/80/optimize
+8|3561276|내가 이렇지 (Feat. 하동균)|지아|227595|2015988|Avancer|https://cdnimg.melon.co.kr/cm/album/images/020/15/988/2015988_500.jpg/melon/resize/48/quality/80/optimize
+9|3570030|Poker Face (Lady GaGa)|투개월|569215|2019070|슈퍼스타K 3 Top11 Part 2|https://cdnimg.melon.co.kr/cm/album/images/020/19/070/2019070_500.jpg/melon/resize/48/quality/80/optimize
+10|3527235|19금 TV를 껐네... (Feat. t윤미래, 권정열 Of 10cm)|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+11|3568879|놈들이 온다|휘성 (Realslow)|10577|2018667|놈들이 온다|https://cdnimg.melon.co.kr/cm/album/images/020/18/667/2018667_500.jpg/melon/resize/48/quality/80/optimize
+12|3569458|사랑과 우정 사이 (With 김연우) (피노키오)|김경호|895|2018966|[나는 가수다] 경연10-1. '듀엣곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/020/18/966/2018966_500.jpg/melon/resize/48/quality/80/optimize
+13|3550136|난 좋아|성시경|3305|2011288|처음|https://cdnimg.melon.co.kr/cm/album/images/020/11/288/2011288_500.jpg/melon/resize/48/quality/80/optimize
+14|3538478|STEP|카라|222128|2009327|KARA 3rd Album STEP|https://cdnimg.melon.co.kr/cm/album/images/020/09/327/2009327_500.jpg/melon/resize/48/quality/80/optimize
+15|3521672|So Cool (쏘쿨)|씨스타|473181|2006957|So Cool|https://cdnimg.melon.co.kr/cm/album/images/020/06/957/2006957_500.jpg/melon/resize/48/quality/80/optimize
+16|3536906|사랑 사랑아|다비치|236815|2008890|Love Delight|https://cdnimg.melon.co.kr/cm/album/images/020/08/890/2008890_500.jpg/melon/resize/48/quality/80/optimize
+17|3534943|회상 (Feat. 백지영)|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+18|3551105|Hotshot|브라운아이드걸스|181694|2013176|Sixth Sense|https://cdnimg.melon.co.kr/cm/album/images/020/13/176/2013176_500.jpg/melon/resize/48/quality/80/optimize
+19|3558975|파라다이스 (Paradise)|인피니트|476181|2015246|'Paradise' (정규 1집 스페셜 리패키지)|https://cdnimg.melon.co.kr/cm/album/images/020/15/246/2015246_500.jpg/melon/resize/48/quality/80/optimize
+20|3509751|UGLY|2NE1|406712|1356152|2NE1 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/013/56/152/1356152_500.jpg/melon/resize/48/quality/80/optimize
+21|3532821|Top Girl|지나|482640|2008341|Top Girl|https://cdnimg.melon.co.kr/cm/album/images/020/08/341/2008341_500.jpg/melon/resize/48/quality/80/optimize
+22|3573175|연애시대 (Feat. Ra.D) (Narr. 한효주)|이승기|58793|2020067|연애시대|https://cdnimg.melon.co.kr/cm/album/images/020/20/067/2020067_500.jpg/melon/resize/48/quality/80/optimize
+23|3565173|짠해 (Cheerz)|사이먼 도미닉|428847|2017406|Simon Dominic Presents 'SNL LEAGUE BEGINS'|https://cdnimg.melon.co.kr/cm/album/images/020/17/406/2017406_500.jpg/melon/resize/48/quality/80/optimize
+24|3570626|눈물나|정엽|265067|2019288|Part I : Me|https://cdnimg.melon.co.kr/cm/album/images/020/19/288/2019288_500.jpg/melon/resize/48/quality/80/optimize
+25|3538775|좋아보여 (Feat. 검정치마)|버벌진트|6985|2009410|Go Easy|https://cdnimg.melon.co.kr/cm/album/images/020/09/410/2009410_500.jpg/melon/resize/48/quality/80/optimize
+26|3534941|나란 놈은 답은 너다 (Feat. 하림)|리쌍|103289|2007739|AsuRa BalBalTa|https://cdnimg.melon.co.kr/cm/album/images/020/07/739/2007739_500.jpg/melon/resize/48/quality/80/optimize
+27|3550280|사랑법|SG 워너비|108363|2012888|사랑법|https://cdnimg.melon.co.kr/cm/album/images/020/12/888/2012888_500.jpg/melon/resize/48/quality/80/optimize
+28|3546001|Get Out|JYJ|499453|2011558|Get Out|https://cdnimg.melon.co.kr/cm/album/images/020/11/558/2011558_500.jpg/melon/resize/48/quality/80/optimize
+29|3562467|뭐 이런 게 다 있어|알리 (ALi)|312266|2016374|뭐 이런 게 다 있어|https://cdnimg.melon.co.kr/cm/album/images/020/16/374/2016374_500.jpg/melon/resize/48/quality/80/optimize
+30|3545342|그대이길 바래요 (With 케이윌)|지아|227595|2011312|그대이길 바래요|https://cdnimg.melon.co.kr/cm/album/images/020/11/312/2011312_500.jpg/melon/resize/48/quality/80/optimize
+31|3570725|샹하이 로맨스 (上海之戀)|오렌지 캬라멜|477632|2019316|샹하이 로맨스 (上海之戀)|https://cdnimg.melon.co.kr/cm/album/images/020/19/316/2019316_500.jpg/melon/resize/48/quality/80/optimize
+32|3570031|Livin'La Vida Loca (Ricky Martin)|버스커 버스커|569233|2019070|슈퍼스타K 3 Top11 Part 2|https://cdnimg.melon.co.kr/cm/album/images/020/19/070/2019070_500.jpg/melon/resize/48/quality/80/optimize
+33|-1|Party Rock Anthem (Feat. Lauren Bennett & Goon Rock)|LMFAO|331467|1165751|Party Rock Anthem|https://cdnimg.melon.co.kr/cm/album/images/011/65/751/1165751_500.jpg/melon/resize/48/quality/80/optimize
+34|3436083|끝사랑|김범수|6502|1302654|Solista Part.2|https://cdnimg.melon.co.kr/cm/album/images/013/02/654/1302654_500.jpg/melon/resize/48/quality/80/optimize
+35|3457172|Roly-Poly|티아라|412000|1317401|존트라볼타 워너비|https://cdnimg.melon.co.kr/cm/album/images/013/17/401/1317401_500.jpg/melon/resize/48/quality/80/optimize
+36|3569457|물레방아 인생 (With 부가킹즈) (조영남)|바비 킴|6027|2018966|[나는 가수다] 경연10-1. '듀엣곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/020/18/966/2018966_500.jpg/melon/resize/48/quality/80/optimize
+37|3569455|체념 (With 이영현) (빅마마)|윤민수(바이브)|151315|2018966|[나는 가수다] 경연10-1. '듀엣곡 부르기'|https://cdnimg.melon.co.kr/cm/album/images/020/18/966/2018966_500.jpg/melon/resize/48/quality/80/optimize
+38|3574100|Airbag (feat. 나얼)|Tablo|231070|2020402|열꽃, Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/20/402/2020402_500.jpg/melon/resize/48/quality/80/optimize
+39|3520616|기다릴게|하동균~이정|43806~39256|2006804|공주의 남자 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/06/804/2006804_500.jpg/melon/resize/48/quality/80/optimize
+40|3488849|Good-bye Baby|미쓰에이|481481|1339951|A Class|https://cdnimg.melon.co.kr/cm/album/images/013/39/951/1339951_500.jpg/melon/resize/48/quality/80/optimize
+41|3524625|가슴으로 운다 (Feat. 아이린, 윤미)|디셈버~제이세라|439021~484881|2007385|Love Harmony|https://cdnimg.melon.co.kr/cm/album/images/020/07/385/2007385_500.jpg/melon/resize/48/quality/80/optimize
+42|3559100|아는 오빠|클로버|529805|2015288|아는 오빠|https://cdnimg.melon.co.kr/cm/album/images/020/15/288/2015288_500.jpg/melon/resize/48/quality/80/optimize
+43|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+44|-1|Who Am I (Feat. 유희열, 정재형)|UV|467060|2013827|Who Am I|https://cdnimg.melon.co.kr/cm/album/images/020/13/827/2013827_500.jpg/melon/resize/48/quality/80/optimize
+45|3566254|다음 사람에게는|먼데이 키즈 (Monday Kiz)|175155|2017827|Nostalgia Part 3-2|https://cdnimg.melon.co.kr/cm/album/images/020/17/827/2017827_500.jpg/melon/resize/48/quality/80/optimize
+46|3559933|어제보다 슬픈 오늘|김건모|889|2015586|自敍傳 (자서전) & Best|https://cdnimg.melon.co.kr/cm/album/images/020/15/586/2015586_500.jpg/melon/resize/48/quality/80/optimize
+47|3516563|Mr. Simple|SUPER JUNIOR (슈퍼주니어)|175404|1360352|'Mr. Simple' The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/013/60/352/1360352_500.jpg/melon/resize/48/quality/80/optimize
+48|3452769|내가 제일 잘 나가|2NE1|406712|1315551|내가 제일 잘 나가 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/013/15/551/1315551_500.jpg/melon/resize/48/quality/80/optimize
+49|3568873|새들처럼|FTISLAND (FT아일랜드)|226490|2018666|MEMORY IN FTISLAND|https://cdnimg.melon.co.kr/cm/album/images/020/18/666/2018666_500.jpg/melon/resize/48/quality/80/optimize
+50|3562113|내 여자 손대지마 (Don't Touch My Girl)|보이프렌드|541500|2016246|내 여자 손대지마|https://cdnimg.melon.co.kr/cm/album/images/020/16/246/2016246_500.jpg/melon/resize/48/quality/80/optimize

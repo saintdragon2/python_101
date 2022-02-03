@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|3059926|사랑해요 (I Love You)|태연 (TAEYEON)|236797|1100004|'사랑해요' 아테나 OST|https://cdnimg.melon.co.kr/cm/album/images/011/00/004/1100004_500.jpg/melon/resize/48/quality/80/optimize
+52|3059678|사랑이 고프다 (I Promise You)|박효신|1191|1099988|Gift (Part.2)|https://cdnimg.melon.co.kr/cm/album/images/010/99/988/1099988_500.jpg/melon/resize/48/quality/80/optimize
+53|3147952|너를 위한 10가지 거짓말|란 (RAN)|236880|1177053|너를 위한 10가지 거짓말|https://cdnimg.melon.co.kr/cm/album/images/011/77/053/1177053_500.jpg/melon/resize/48/quality/80/optimize
+54|3151428|누구보다 널 사랑해|디셈버|439021|1179761|조영수 All Star - 디셈버|https://cdnimg.melon.co.kr/cm/album/images/011/79/761/1179761_500.jpg/melon/resize/48/quality/80/optimize
+55|3114672|겨울아이|수지 (SUZY)|514741|1146753|드림하이 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/011/46/753/1146753_500.jpg/melon/resize/48/quality/80/optimize
+56|3137648|여자를 울렸으니까|신지|5907|1167951|여자를 울렸으니까|https://cdnimg.melon.co.kr/cm/album/images/011/67/951/1167951_500.jpg/melon/resize/48/quality/80/optimize
+57|3156948|INTRO (THANK YOU & YOU)|BIGBANG|198094|1184151|빅뱅 미니앨범 4집|https://cdnimg.melon.co.kr/cm/album/images/011/84/151/1184151_500.jpg/melon/resize/48/quality/80/optimize
+58|3125448|그때 난 사는거야|이해리 (다비치)|259769|1156851|그때 난 사는거야|https://cdnimg.melon.co.kr/cm/album/images/011/56/851/1156851_500.jpg/melon/resize/48/quality/80/optimize
+59|3136652|같이 있어줘|박화요비~태하|2017~7047|1167152|같이 있어줘|https://cdnimg.melon.co.kr/cm/album/images/011/67/152/1167152_500.jpg/melon/resize/48/quality/80/optimize
+60|3116348|V.V.I.P|승리|403841|1140251|승리 1st Mini Album V.V.I.P|https://cdnimg.melon.co.kr/cm/album/images/011/40/251/1140251_500.jpg/melon/resize/48/quality/80/optimize
+61|3132748|밤하늘의 별을 3 (Feat. 김하늘)|양정승|3493|1163751|밤하늘의 별을 3|https://cdnimg.melon.co.kr/cm/album/images/011/63/751/1163751_500.jpg/melon/resize/48/quality/80/optimize
+62|3145650|너 말이야|F-ve Dolls|520160|1175152|Charming Five Girls|https://cdnimg.melon.co.kr/cm/album/images/011/75/152/1175152_500.jpg/melon/resize/48/quality/80/optimize
+63|-1|어떻게 니가|배다해|252174|1166051|어떻게 니가|https://cdnimg.melon.co.kr/cm/album/images/011/66/051/1166051_500.jpg/melon/resize/48/quality/80/optimize
+64|3151471|Jump♡|루나 (LUNA)~정형돈|498356~39333|1179764|일밤 오늘을 즐겨라 록 프로젝트|https://cdnimg.melon.co.kr/cm/album/images/011/79/764/1179764_500.jpg/melon/resize/48/quality/80/optimize
+65|-1|Born This Way|Lady Gaga|253688|1169455|Born This Way|https://cdnimg.melon.co.kr/cm/album/images/011/69/455/1169455_500.jpg/melon/resize/48/quality/80/optimize
+66|2944372|We No Speak Americano (Radio Edit) (SKT T월드 CF 삽입곡)|Yolanda Be Cool~Dcup|498560~498561|1026554|We No Speak Americano|https://cdnimg.melon.co.kr/cm/album/images/010/26/554/1026554_500.jpg/melon/resize/48/quality/80/optimize
+67|3065253|19금 뻑이가요|GD&TOP|512321|1104951|GD&TOP|https://cdnimg.melon.co.kr/cm/album/images/011/04/951/1104951_500.jpg/melon/resize/48/quality/80/optimize
+68|3088248|드림하이|택연~장우영~수지 (SUZY)~김수현~JOO|514740~514760~514741~8433~232696|1124351|드림하이 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/011/24/351/1124351_500.jpg/melon/resize/48/quality/80/optimize
+69|3148680|Supa Luv A - Rex Remix|틴탑|483581|1177753|Teen Top Supa Luv|https://cdnimg.melon.co.kr/cm/album/images/011/77/753/1177753_500.jpg/melon/resize/48/quality/80/optimize
+70|3026178|행복한 나를 (Feat. 존박)|허각|28801|1077154|허각 1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/010/77/154/1077154_500.jpg/melon/resize/48/quality/80/optimize
+71|3037048|왜 이러니|티아라|412000|1085051|왜 이러니|https://cdnimg.melon.co.kr/cm/album/images/010/85/051/1085051_500.jpg/melon/resize/48/quality/80/optimize
+72|3147948|사랑은 네가 하고 후회는 내가 한다|홍경민|891|1177051|사랑은 네가 하고 후회는 내가 한다 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/011/77/051/1177051_500.jpg/melon/resize/48/quality/80/optimize
+73|3079872|너는 나의 봄이다|성시경|3305|1117461|시크릿 가든 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/011/17/461/1117461_500.jpg/melon/resize/48/quality/80/optimize
+74|3028777|별처럼|태연 (TAEYEON)~The One (더원)|236797~160816|1079253|별처럼|https://cdnimg.melon.co.kr/cm/album/images/010/79/253/1079253_500.jpg/melon/resize/48/quality/80/optimize
+75|3040227|이유|신용재 (2F)|510537|1085903|시크릿 가든 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/010/85/903/1085903_500.jpg/melon/resize/48/quality/80/optimize
+76|3157948|1분 1초|김현정|1177|1184951|1 MINUTE 1 SECOND|https://cdnimg.melon.co.kr/cm/album/images/011/84/951/1184951_500.jpg/melon/resize/48/quality/80/optimize
+77|3043748|yayaya|티아라|412000|1087651|Vol.2 Temptastic|https://cdnimg.melon.co.kr/cm/album/images/010/87/651/1087651_500.jpg/melon/resize/48/quality/80/optimize
+78|3018898|그여자|백지영|1118|1071555|시크릿 가든 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/71/555/1071555_500.jpg/melon/resize/48/quality/80/optimize
+79|3037107|똑같다면|브라운 아이드 소울|107728|1085056|Browneyed Soul|https://cdnimg.melon.co.kr/cm/album/images/010/85/056/1085056_500.jpg/melon/resize/48/quality/80/optimize
+80|3131861|악담|이현|429480|1162952|악담|https://cdnimg.melon.co.kr/cm/album/images/011/62/952/1162952_500.jpg/melon/resize/48/quality/80/optimize
+81|3141762|Hello 허니 (Feat. San E)|박혜경|1790|1171951|Hello 허니|https://cdnimg.melon.co.kr/cm/album/images/011/71/951/1171951_500.jpg/melon/resize/48/quality/80/optimize
+82|3155454|내 모습을|김건모|889|1182953|프레지던트 OST|https://cdnimg.melon.co.kr/cm/album/images/011/82/953/1182953_500.jpg/melon/resize/48/quality/80/optimize
+83|3147297|19금 Pick Up Line (Feat. 시진)|소지섭|52905|1176654|Pick Up Line|https://cdnimg.melon.co.kr/cm/album/images/011/76/654/1176654_500.jpg/melon/resize/48/quality/80/optimize
+84|3127770|Let's Dance|이정|39256|1158953|Let's Dance|https://cdnimg.melon.co.kr/cm/album/images/011/58/953/1158953_500.jpg/melon/resize/48/quality/80/optimize
+85|3093260|BTD (Before The Dawn)|인피니트|476181|1120763|Evolution|https://cdnimg.melon.co.kr/cm/album/images/011/20/763/1120763_500.jpg/melon/resize/48/quality/80/optimize
+86|3108907|비밀 (Special Vocal. 박완규)|부활|100594|1141557|부활 Collaboration Project '+ (plus)' / +1|https://cdnimg.melon.co.kr/cm/album/images/011/41/557/1141557_500.jpg/melon/resize/48/quality/80/optimize
+87|3098215|Supa Luv|틴탑|483581|1132657|Transform|https://cdnimg.melon.co.kr/cm/album/images/011/32/657/1132657_500.jpg/melon/resize/48/quality/80/optimize
+88|-1|What The Hell|Avril Lavigne|30023|1135052|What The Hell|https://cdnimg.melon.co.kr/cm/album/images/011/35/052/1135052_500.jpg/melon/resize/48/quality/80/optimize
+89|3135864|그 남자는 반대|달마시안 (DMTN)|494501|1166352|달마시안 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/011/66/352/1166352_500.jpg/melon/resize/48/quality/80/optimize
+90|2951700|그땐 그땐 그땐|Supreme Team~영준 (브라운 아이드 소울)|410162~45162|1030195|Ames Room|https://cdnimg.melon.co.kr/cm/album/images/010/30/195/1030195_500.jpg/melon/resize/48/quality/80/optimize
+91|2987448|훗 (Hoot)|소녀시대 (GIRLS' GENERATION)|228069|1051951|'훗 (Hoot)' The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/010/51/951/1051951_500.jpg/melon/resize/48/quality/80/optimize
+92|3150938|어퍼컷 (Feat. 슈프림팀)|인순이|4232|1179456|어퍼컷|https://cdnimg.melon.co.kr/cm/album/images/011/79/456/1179456_500.jpg/melon/resize/48/quality/80/optimize
+93|-1|Price Tag (Feat. B.o.B.)|Jessie J|510556|1161052|Price Tag|https://cdnimg.melon.co.kr/cm/album/images/011/61/052/1161052_500.jpg/melon/resize/48/quality/80/optimize
+94|3146048|My Love Song (Drama Ver.)|The One (더원)|160816|1175751|싸인 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/011/75/751/1175751_500.jpg/melon/resize/48/quality/80/optimize
+95|3133334|넌 그날 (Feat. 유인나)|HUS (허밍어반스테레오)|61280|1164156|그날|https://cdnimg.melon.co.kr/cm/album/images/011/64/156/1164156_500.jpg/melon/resize/48/quality/80/optimize
+96|3145666|사랑이 어떻게 변하니 (Feat. 버벌진트)|김경록 (V.O.S)|57528|1175253|박근태 Black Label 2|https://cdnimg.melon.co.kr/cm/album/images/011/75/253/1175253_500.jpg/melon/resize/48/quality/80/optimize
+97|3018899|Here I Am|포맨 (4MEN)~미(MIIII)|100176~197910|1071555|시크릿 가든 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/010/71/555/1071555_500.jpg/melon/resize/48/quality/80/optimize
+98|3013948|점핑 (Jumping)|카라|222128|1068498|점핑|https://cdnimg.melon.co.kr/cm/album/images/010/68/498/1068498_500.jpg/melon/resize/48/quality/80/optimize
+99|3141752|밥은 제때 챙겨 먹는지 (Feat. Ben Of BeBe Mignon)|노블레스|160738|1171853|밥은 제때 챙겨 먹는지|https://cdnimg.melon.co.kr/cm/album/images/011/71/853/1171853_500.jpg/melon/resize/48/quality/80/optimize
+100|3014305|Beautiful|비스트|436981|1068570|Lights Go On Again|https://cdnimg.melon.co.kr/cm/album/images/010/68/570/1068570_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1115249|숨길 수 없어요|롤러 코스터|100195|314381|Triangle|https://cdnimg.melon.co.kr/cm/album/images/003/14/381/314381_500.jpg/melon/resize/48/quality/80/optimize
+52|1143063|차라의 숲|러브홀릭|106718|316457|Nice Dream|https://cdnimg.melon.co.kr/cm/album/images/003/16/457/316457_500.jpg/melon/resize/48/quality/80/optimize
+53|1095798|Everlasting (Korean Ver.)|보아 (BoA)|2165|313052|Everlasting (Korean Single)|https://cdnimg.melon.co.kr/cm/album/images/003/13/052/313052_500.jpg/melon/resize/48/quality/80/optimize
+54|1145088|다소|메이비 (Maybee)|43443|316621|A Letter From Abell 1689|https://cdnimg.melon.co.kr/cm/album/images/003/16/621/316621_500.jpg/melon/resize/48/quality/80/optimize
+55|1135863|Luxury (Original Ver.)|한나|175174|315897|Luxury|https://cdnimg.melon.co.kr/cm/album/images/003/15/897/315897_500.jpg/melon/resize/48/quality/80/optimize
+56|1008495|사랑은 가슴이 시킨다|버즈|160091|310414|사랑은 가슴이 시킨다|https://cdnimg.melon.co.kr/cm/album/images/003/10/414/310414_500.jpg/melon/resize/48/quality/80/optimize
+57|1144775|七色の明日 ~Brand New Beat~ / Nanairono Asita ~Brand New Beat~ (일곱 빛깔의 내일 ~Brand New Beat~)|보아 (BoA)|2165|316597|七色の明日 ~Brand New Beat~ / Your Color / Nanairono Asita ~Brand New Beat~ / Your Color (일곱 빛깔의 내일 ~Brand New Beat~ / Your Color)|https://cdnimg.melon.co.kr/cm/album/images/003/16/597/316597_500.jpg/melon/resize/48/quality/80/optimize
+58|1136371|사랑하게 될 줄 알았어|신효범|1190|315930|사랑하게 될 줄 알았어|https://cdnimg.melon.co.kr/cm/album/images/003/15/930/315930_500.jpg/melon/resize/48/quality/80/optimize
+59|1140494|Against All Odds (CF - 투싼 박정현 편)|박정현|1099|316267|Against All Odds|https://cdnimg.melon.co.kr/cm/album/images/003/16/267/316267_500.jpg/melon/resize/48/quality/80/optimize
+60|1032605|Miracle|SUPER JUNIOR (슈퍼주니어)|175404|310133|Super Junior05|https://cdnimg.melon.co.kr/cm/album/images/003/10/133/310133_500.jpg/melon/resize/48/quality/80/optimize
+61|1133746|One Love|러브홀릭|106718|315695|봄의 왈츠 OST|https://cdnimg.melon.co.kr/cm/album/images/003/15/695/315695_500.jpg/melon/resize/48/quality/80/optimize
+62|1114262|어떡하라고 (Feat. 바이브(윤민수))|노블레스|160738|314293|Romance-Before|https://cdnimg.melon.co.kr/cm/album/images/003/14/293/314293_500.jpg/melon/resize/48/quality/80/optimize
+63|1114173|Promise U|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+64|1135866|나의 눈에 기억이|한나|175174|315897|Luxury|https://cdnimg.melon.co.kr/cm/album/images/003/15/897/315897_500.jpg/melon/resize/48/quality/80/optimize
+65|1099347|꿈속에서...(눈사람의 꿈)|팀|33614|313311|감성|https://cdnimg.melon.co.kr/cm/album/images/003/13/311/313311_500.jpg/melon/resize/48/quality/80/optimize
+66|1009239|사랑은 아프려고 하는 거죠|엠씨더맥스 (M.C the MAX)|161636|310479|The Rusted Love|https://cdnimg.melon.co.kr/cm/album/images/003/10/479/310479_500.jpg/melon/resize/48/quality/80/optimize
+67|1029602|바람과 함께 사라지다|Big4|177519|311053|Big4 Of Voices In My Dream|https://cdnimg.melon.co.kr/cm/album/images/003/11/053/311053_500.jpg/melon/resize/48/quality/80/optimize
+68|1121106|The Club (Feat. Rain)|천상지희 더 그레이스 (The Grace)|168015|314794|The Club (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/14/794/314794_500.jpg/melon/resize/48/quality/80/optimize
+69|1090580|남과 여 (Feat.김범수)|박선주 (Pak Sun Zoo)|4640|312550|A4rism|https://cdnimg.melon.co.kr/cm/album/images/003/12/550/312550_500.jpg/melon/resize/48/quality/80/optimize
+70|1128264|소리쳐봐|현진영|5083|315292|Street Jazz In My Soul|https://cdnimg.melon.co.kr/cm/album/images/003/15/292/315292_500.jpg/melon/resize/48/quality/80/optimize
+71|933582|19금 Don't Cha (CF - SKY 와이드 PMP폰 클럽편)|Pussycat Dolls|173455|308331|Pcd|https://cdnimg.melon.co.kr/cm/album/images/003/08/331/308331_500.jpg/melon/resize/48/quality/80/optimize
+72|1133281|끝이 아니길|윤도현|923|315666|서울 1945 OST|https://cdnimg.melon.co.kr/cm/album/images/003/15/666/315666_500.jpg/melon/resize/48/quality/80/optimize
+73|1120765|So Sick|Ne-Yo|181769|314762|In My Own Words|https://cdnimg.melon.co.kr/cm/album/images/003/14/762/314762_500.jpg/melon/resize/48/quality/80/optimize
+74|1144935|아름다운 이별|옥주현|1714|316609|김형석 With Friends|https://cdnimg.melon.co.kr/cm/album/images/003/16/609/316609_500.jpg/melon/resize/48/quality/80/optimize
+75|1135383|사랑한다는 말 (New Ver.)|비욘드|169635|315864|사랑한다는 말|https://cdnimg.melon.co.kr/cm/album/images/003/15/864/315864_500.jpg/melon/resize/48/quality/80/optimize
+76|1137097|그대는 모를겁니다|야다 (Yada)|101115|315981|Special Story|https://cdnimg.melon.co.kr/cm/album/images/003/15/981/315981_500.jpg/melon/resize/48/quality/80/optimize
+77|1115207|Far Away (Feat. MC 몽)|브라운아이드걸스|181694|314376|Your Story|https://cdnimg.melon.co.kr/cm/album/images/003/14/376/314376_500.jpg/melon/resize/48/quality/80/optimize
+78|1114171|구두|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+79|1145943|느림보|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+80|1142312|나보다 조금 더 높은 곳에 니가 있을 뿐|신승훈|25|316381|연리지 OST|https://cdnimg.melon.co.kr/cm/album/images/003/16/381/316381_500.jpg/melon/resize/48/quality/80/optimize
+81|1047240|너말고 니언니 (Feat. 유리)|이지라이프|178364|311457|This Is Not!|https://cdnimg.melon.co.kr/cm/album/images/003/11/457/311457_500.jpg/melon/resize/48/quality/80/optimize
+82|933390|그리고 그후|프리스타일|100144|308314|Funkiest Family Juice|https://cdnimg.melon.co.kr/cm/album/images/003/08/314/308314_500.jpg/melon/resize/48/quality/80/optimize
+83|1134895|V.I.P (Volume Instead Pause)|바다 (BADA)|1605|315826|Made In Sea (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/15/826/315826_500.jpg/melon/resize/48/quality/80/optimize
+84|985739|고백(Go Back) (Feat.정인)|다이나믹 듀오|108358|309097|Double Dynamite|https://cdnimg.melon.co.kr/cm/album/images/003/09/097/309097_500.jpg/melon/resize/48/quality/80/optimize
+85|1140888|지우개|박일곤|182357|316297|G1 Goniya|https://cdnimg.melon.co.kr/cm/album/images/003/16/297/316297_500.jpg/melon/resize/48/quality/80/optimize
+86|933378|Paris (Feat. Jisun of Loveholic)|에픽하이 (EPIK HIGH)|108356|308313|Swan Songs|https://cdnimg.melon.co.kr/cm/album/images/003/08/313/308313_500.jpg/melon/resize/48/quality/80/optimize
+87|1130735|흔적|임정희|150529|315490|Thanks|https://cdnimg.melon.co.kr/cm/album/images/003/15/490/315490_500.jpg/melon/resize/48/quality/80/optimize
+88|1008523|습관|우수|175994|310417|3.14...(Circle Ratio)|https://cdnimg.melon.co.kr/cm/album/images/003/10/417/310417_500.jpg/melon/resize/48/quality/80/optimize
+89|1010135|시한부|V.O.S|108794|310558|Blue Castle|https://cdnimg.melon.co.kr/cm/album/images/003/10/558/310558_500.jpg/melon/resize/48/quality/80/optimize
+90|1134893|Find The Way|바다 (BADA)|1605|315826|Made In Sea (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/15/826/315826_500.jpg/melon/resize/48/quality/80/optimize
+91|-1|Do Something|Britney Spears|8046|301519|Hot|https://cdnimg.melon.co.kr/cm/album/images/003/01/519/301519_500.jpg/melon/resize/48/quality/80/optimize
+92|-1|Perfect Love ( CF - 이자녹스 제시카 알바편 )|Lutricia Mcneal|28329|308902|Metroplex|https://cdnimg.melon.co.kr/cm/album/images/003/08/902/308902_500.jpg/melon/resize/48/quality/80/optimize
+93|1142834|Reds, Go Together|버즈|160091|316409|Reds, Go Together|https://cdnimg.melon.co.kr/cm/album/images/003/16/409/316409_500.jpg/melon/resize/48/quality/80/optimize
+94|1144018|사랑한다는 말|김종국|1692|316531|네 번째 편지|https://cdnimg.melon.co.kr/cm/album/images/003/16/531/316531_500.jpg/melon/resize/48/quality/80/optimize
+95|1115238|데이지|해이|3310|314379|데이지 OST|https://cdnimg.melon.co.kr/cm/album/images/003/14/379/314379_500.jpg/melon/resize/48/quality/80/optimize
+96|677886|Hotline (SKT 멜론 CF '댄스배틀'편)|Ciara|55278|48114|Goodies|https://cdnimg.melon.co.kr/cm/album/images/000/48/114/48114_500.jpg/melon/resize/48/quality/80/optimize
+97|1134672|봄바람 따라간 여인|뜨거운 감자|101871|315806|연기|https://cdnimg.melon.co.kr/cm/album/images/003/15/806/315806_500.jpg/melon/resize/48/quality/80/optimize
+98|1123713|와줘 PART 2|SE7EN|33513|315002|24 / 7|https://cdnimg.melon.co.kr/cm/album/images/003/15/002/315002_500.jpg/melon/resize/48/quality/80/optimize
+99|971439|내가 웃는게 아니야 (Feat. ALI)|리쌍|103289|308473|Library Of Soul|https://cdnimg.melon.co.kr/cm/album/images/003/08/473/308473_500.jpg/melon/resize/48/quality/80/optimize
+100|1144213|Stupid Girls|Pink|10385|316548|I'm Not Dead|https://cdnimg.melon.co.kr/cm/album/images/003/16/548/316548_500.jpg/melon/resize/48/quality/80/optimize

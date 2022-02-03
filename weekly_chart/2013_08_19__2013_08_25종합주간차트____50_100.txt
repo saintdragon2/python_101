@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4204703|설마 아닐거야 (With 하동균)|UV|467060|2196713|설마 아닐거야|https://cdnimg.melon.co.kr/cm/album/images/021/96/713/2196713_500.jpg/melon/resize/48/quality/80/optimize
+52|4212645|니가 오는 날|유승우|699637|2197663|투윅스 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/97/663/2197663_500.jpg/melon/resize/48/quality/80/optimize
+53|3843565|Boogie On & On|빈지노 (Beenzino)|532029|2134788|2 4 : 2 6|https://cdnimg.melon.co.kr/cm/album/images/021/34/788/2134788_500.jpg/melon/resize/48/quality/80/optimize
+54|4203787|다알아|팬텀|588431|2196571|다알아|https://cdnimg.melon.co.kr/cm/album/images/021/96/571/2196571_500.jpg/melon/resize/48/quality/80/optimize
+55|4200513|너와 나의 거리 (Selene 6.23)|SHINee (샤이니)|247639|2196165|The 3rd Album 'The Misconceptions Of Us'|https://cdnimg.melon.co.kr/cm/album/images/021/96/165/2196165_500.jpg/melon/resize/48/quality/80/optimize
+56|4209692|Let's Talk About Love (Feat. G-Dragon & 태양 Of BIGBANG)|승리|403841|2197293|LET'S TALK ABOUT LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/97/293/2197293_500.jpg/melon/resize/48/quality/80/optimize
+57|4154505|물 좋아?|4minute|417985|2190338|물 좋아?|https://cdnimg.melon.co.kr/cm/album/images/021/90/338/2190338_500.jpg/melon/resize/48/quality/80/optimize
+58|4164425|핫 앤 콜드 (Hot & Cold)|쥬얼리|101487|2191606|Hot & Cold|https://cdnimg.melon.co.kr/cm/album/images/021/91/606/2191606_500.jpg/melon/resize/48/quality/80/optimize
+59|4168680|미친게 아니라구요 (Feat. MC 스나이퍼)|손승연|661773|2192171|미친게 아니라구요|https://cdnimg.melon.co.kr/cm/album/images/021/92/171/2192171_500.jpg/melon/resize/48/quality/80/optimize
+60|4192782|바람의 유령|제국의아이들 (ZE:A)|449941|2195251|Illusion|https://cdnimg.melon.co.kr/cm/album/images/021/95/251/2195251_500.jpg/melon/resize/48/quality/80/optimize
+61|4209694|GG Be (지지베) (Feat. 제니 of BLACKPINK)|승리|403841|2197293|LET'S TALK ABOUT LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/97/293/2197293_500.jpg/melon/resize/48/quality/80/optimize
+62|4153481|Love Love Love|로이킴|699632|2190230|Love Love Love|https://cdnimg.melon.co.kr/cm/album/images/021/90/230/2190230_500.jpg/melon/resize/48/quality/80/optimize
+63|3947371|? (물음표) (Feat. 최자 Of 다이나믹듀오, Zion.T)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+64|4138608|바빠 (Bad Boy)|씨스타|473181|2188413|Give It To Me|https://cdnimg.melon.co.kr/cm/album/images/021/88/413/2188413_500.jpg/melon/resize/48/quality/80/optimize
+65|4204806|프라프치노 (Feat. 팀버)|제이워크|102409|2196740|프라프치노|https://cdnimg.melon.co.kr/cm/album/images/021/96/740/2196740_500.jpg/melon/resize/48/quality/80/optimize
+66|3864961|가수가 된 이유|신용재 (2F)|510537|2138690|24|https://cdnimg.melon.co.kr/cm/album/images/021/38/690/2138690_500.jpg/melon/resize/48/quality/80/optimize
+67|4202922|Papa Don't Cry|미스터 파파|730272|2196468|슈퍼스타K5 - 미스터 파파|https://cdnimg.melon.co.kr/cm/album/images/021/96/468/2196468_500.jpg/melon/resize/48/quality/80/optimize
+68|4100521|Wash Away (Feat. 에일리)|긱스 (Geeks)|525805|2183300|Backpack|https://cdnimg.melon.co.kr/cm/album/images/021/83/300/2183300_500.jpg/melon/resize/48/quality/80/optimize
+69|4203059|장난 아니야 (Feat. 김태우 / Narr. 이다해)|수호|184926|2196499|장난 아니야|https://cdnimg.melon.co.kr/cm/album/images/021/96/499/2196499_500.jpg/melon/resize/48/quality/80/optimize
+70|3946867|Officially Missing You, Too|긱스 (Geeks)~소유 (SOYOU)|525805~490981|2165024|re;code Episode I|https://cdnimg.melon.co.kr/cm/album/images/021/65/024/2165024_500.jpg/melon/resize/48/quality/80/optimize
+71|4186480|MOYA (모야)|AOA|686920|2194484|MOYA|https://cdnimg.melon.co.kr/cm/album/images/021/94/484/2194484_500.jpg/melon/resize/48/quality/80/optimize
+72|3948908|씨스루 (Feat. Zion.T, 개코 Of 다이나믹듀오)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+73|4191445|대.다.나.다.너|VIXX (빅스)|672560|2195068|Jekyll|https://cdnimg.melon.co.kr/cm/album/images/021/95/068/2195068_500.jpg/melon/resize/48/quality/80/optimize
+74|4201766|여름안에서 (Feat. 지조)|소진 (Sojin)|516080|2196326|듀스 20주년 헌정앨범 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/96/326/2196326_500.jpg/melon/resize/48/quality/80/optimize
+75|4117702|잘 있나요|The One (더원)|160816|2185652|구가의 서 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/021/85/652/2185652_500.jpg/melon/resize/48/quality/80/optimize
+76|4091105|봄봄봄|로이킴|699632|2182026|봄봄봄|https://cdnimg.melon.co.kr/cm/album/images/021/82/026/2182026_500.jpg/melon/resize/48/quality/80/optimize
+77|4138611|Crying|씨스타|473181|2188413|Give It To Me|https://cdnimg.melon.co.kr/cm/album/images/021/88/413/2188413_500.jpg/melon/resize/48/quality/80/optimize
+78|4212781|노토리어스 걸 (N.G.) (Feat. 보니)|대준|7567|2197683|L'Homme Libre Vol.1|https://cdnimg.melon.co.kr/cm/album/images/021/97/683/2197683_500.jpg/melon/resize/48/quality/80/optimize
+79|4211273|바보야|허니지 (Honey-G)|699642|2197489|1st Album|https://cdnimg.melon.co.kr/cm/album/images/021/97/489/2197489_500.jpg/melon/resize/48/quality/80/optimize
+80|4072715|녹는 중 (Feat. 버벌진트)|다비치|236815|2179893|녹는 중|https://cdnimg.melon.co.kr/cm/album/images/021/79/893/2179893_500.jpg/melon/resize/48/quality/80/optimize
+81|4100925|꼭 한번 만나고 싶다|바이브|160080|2183355|Organic Sound|https://cdnimg.melon.co.kr/cm/album/images/021/83/355/2183355_500.jpg/melon/resize/48/quality/80/optimize
+82|4189582|비키니 (Feat. 스컬)|티아라~다비치|412000~236815|2194823|비키니|https://cdnimg.melon.co.kr/cm/album/images/021/94/823/2194823_500.jpg/melon/resize/48/quality/80/optimize
+83|4203049|운동화 사줄께|신지수~마이노스 (MINOS)|569172~237552|2196496|운동화 사줄께|https://cdnimg.melon.co.kr/cm/album/images/021/96/496/2196496_500.jpg/melon/resize/48/quality/80/optimize
+84|4160245|거품 안 넘치게 따라줘 (Life Is Good) (Feat. Crush, DJ Friz)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+85|4178683|니가 아니었기를 (Narr. 버벌진트)|미스에스|275266|2193392|Lo$t & Found|https://cdnimg.melon.co.kr/cm/album/images/021/93/392/2193392_500.jpg/melon/resize/48/quality/80/optimize
+86|4147352|만인의 연인 (Feat. 하림)|써니힐|229494|2189501|Young Folk|https://cdnimg.melon.co.kr/cm/album/images/021/89/501/2189501_500.jpg/melon/resize/48/quality/80/optimize
+87|4210746|잘 지내니 (Feat. 넋업샨)|메이비 (Maybee)|43443|2197460|잘 지내니|https://cdnimg.melon.co.kr/cm/album/images/021/97/460/2197460_500.jpg/melon/resize/48/quality/80/optimize
+88|4196647|Hate You|레이디스 코드|718807|2195782|Hate You|https://cdnimg.melon.co.kr/cm/album/images/021/95/782/2195782_500.jpg/melon/resize/48/quality/80/optimize
+89|4184832|Goodbye Summer (f(Amber+Luna+Krystal) (Feat. D.O. Of EXO-K)|f(x)|428501|2194266|'Pink Tape' f(x) The 2nd Album|https://cdnimg.melon.co.kr/cm/album/images/021/94/266/2194266_500.jpg/melon/resize/48/quality/80/optimize
+90|4141700|첫사랑|애프터스쿨|322666|2188765|After School The 6th Maxi Single '첫사랑'|https://cdnimg.melon.co.kr/cm/album/images/021/88/765/2188765_500.jpg/melon/resize/48/quality/80/optimize
+91|4211271|그대|허니지 (Honey-G)|699642|2197489|1st Album|https://cdnimg.melon.co.kr/cm/album/images/021/97/489/2197489_500.jpg/melon/resize/48/quality/80/optimize
+92|4205994|오케바리 (OK ABOUT IT)|더블에이|579291|2196907|오케바리 (OK ABOUT IT)|https://cdnimg.melon.co.kr/cm/album/images/021/96/907/2196907_500.jpg/melon/resize/48/quality/80/optimize
+93|4171463|No No No|에일리(Ailee)|629831|2192532|A's Doll House|https://cdnimg.melon.co.kr/cm/album/images/021/92/532/2192532_500.jpg/melon/resize/48/quality/80/optimize
+94|4184827|미행 (그림자: Shadow)|f(x)|428501|2194266|'Pink Tape' f(x) The 2nd Album|https://cdnimg.melon.co.kr/cm/album/images/021/94/266/2194266_500.jpg/melon/resize/48/quality/80/optimize
+95|4082435|오늘 밤 (Feat. 배치기)|린|8530|2181061|8th #1 유리 심장|https://cdnimg.melon.co.kr/cm/album/images/021/81/061/2181061_500.jpg/melon/resize/48/quality/80/optimize
+96|4207567|Loving You (R&B Ver.)|챈슬러|730650|2197084|이단옆차기 프로젝트 Vol.03|https://cdnimg.melon.co.kr/cm/album/images/021/97/084/2197084_500.jpg/melon/resize/48/quality/80/optimize
+97|4211248|열대야 (Tell Me Love)|히스토리|721703|2197487|Just Now|https://cdnimg.melon.co.kr/cm/album/images/021/97/487/2197487_500.jpg/melon/resize/48/quality/80/optimize
+98|4204417|그사람 사랑하지마 (Feat. 윤민수 Of Vibe)|민연재|563552|2196667|그사람 사랑하지마 (Feat. 윤민수 Of Vibe)|https://cdnimg.melon.co.kr/cm/album/images/021/96/667/2196667_500.jpg/melon/resize/48/quality/80/optimize
+99|4215414|1-4-3 (I Love You) (Feat. f(Amber))|헨리 (HENRY)|710006|2198001|The 1st Digital Single 1-4-3|https://cdnimg.melon.co.kr/cm/album/images/021/98/001/2198001_500.jpg/melon/resize/48/quality/80/optimize
+100|4195244|미라클|이영현|10210|2195605|굿닥터 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/95/605/2195605_500.jpg/melon/resize/48/quality/80/optimize

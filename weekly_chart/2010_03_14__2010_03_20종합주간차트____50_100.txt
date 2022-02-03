@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2605917|Rain Man (Feat. 강현정 Of 버블시스터즈)|장우혁|1585|825261|신이라 불리운 사나이 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/008/25/261/825261_500.jpg/melon/resize/48/quality/80/optimize
+52|2558729|Show! Show! Show!|소녀시대 (GIRLS' GENERATION)|228069|779656|'Oh!' The Second Album|https://cdnimg.melon.co.kr/cm/album/images/007/79/656/779656_500.jpg/melon/resize/48/quality/80/optimize
+53|2609656|래퍼들이 헤어지는 방법 (Feat.구지성)|데프콘|7567|828452|Macho Museum|https://cdnimg.melon.co.kr/cm/album/images/008/28/452/828452_500.jpg/melon/resize/48/quality/80/optimize
+54|2612175|Thrill Love (스릴 러브)|f(x)|428501|830555|헝그리 로미오, 럭셔리 줄리엣 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/008/30/555/830555_500.jpg/melon/resize/48/quality/80/optimize
+55|2537461|Tik Tok|2PM|259822|765652|Tik Tok|https://cdnimg.melon.co.kr/cm/album/images/007/65/652/765652_500.jpg/melon/resize/48/quality/80/optimize
+56|2595563|동경소년|DGNA (대국남아)|459644|816553|동경소년|https://cdnimg.melon.co.kr/cm/album/images/008/16/553/816553_500.jpg/melon/resize/48/quality/80/optimize
+57|2605837|웃는 사람 다 이뻐|왁스|2267|825256|WAX Unplugged Side A|https://cdnimg.melon.co.kr/cm/album/images/008/25/256/825256_500.jpg/melon/resize/48/quality/80/optimize
+58|2569008|사랑까진 안돼요 (드라마 '산부인과'삽입곡)|케이윌|175139|792660|산부인과 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/007/92/660/792660_500.jpg/melon/resize/48/quality/80/optimize
+59|2596061|In My Head|브라이언|1929|816956|In My Head|https://cdnimg.melon.co.kr/cm/album/images/008/16/956/816956_500.jpg/melon/resize/48/quality/80/optimize
+60|2542751|잘해 주지 마요|김종국|1692|770351|Eleventh Story|https://cdnimg.melon.co.kr/cm/album/images/007/70/351/770351_500.jpg/melon/resize/48/quality/80/optimize
+61|2335459|사랑 참...|디셈버|439021|704452|Dear My Lover|https://cdnimg.melon.co.kr/cm/album/images/007/04/452/704452_500.jpg/melon/resize/48/quality/80/optimize
+62|2612766|Step Up|Supreme Team|410162|831152|Supremier|https://cdnimg.melon.co.kr/cm/album/images/008/31/152/831152_500.jpg/melon/resize/48/quality/80/optimize
+63|2352749|Heartbeat|2PM|259822|711451|1:59PM|https://cdnimg.melon.co.kr/cm/album/images/007/11/451/711451_500.jpg/melon/resize/48/quality/80/optimize
+64|2587789|내가 너무 아파|티아라|412000|809262|Breaking Heart (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/008/09/262/809262_500.jpg/melon/resize/48/quality/80/optimize
+65|2573848|좋은 사람 있으면 소개시켜줘|럼블피쉬|108951|797251|좋은 사람 있으면 소개시켜줘|https://cdnimg.melon.co.kr/cm/album/images/007/97/251/797251_500.jpg/melon/resize/48/quality/80/optimize
+66|2517998|처음처럼 그때처럼 (Feat. 강민경 From Davichi)|이승기|58793|750153|처음처럼 그때처럼|https://cdnimg.melon.co.kr/cm/album/images/007/50/153/750153_500.jpg/melon/resize/48/quality/80/optimize
+67|2530461|TiK ToK|Kesha|445350|759554|Animal|https://cdnimg.melon.co.kr/cm/album/images/007/59/554/759554_500.jpg/melon/resize/48/quality/80/optimize
+68|2549957|I Love You (Feat. 백찬, 주희 Of 8eight)|2AM|253866|776152|죽어도 못 보내|https://cdnimg.melon.co.kr/cm/album/images/007/76/152/776152_500.jpg/melon/resize/48/quality/80/optimize
+69|2507672|넌 나를 왜 (Feat. 정엽)|길미|14490|743331|The 2nd Purple Dream Sound|https://cdnimg.melon.co.kr/cm/album/images/007/43/331/743331_500.jpg/melon/resize/48/quality/80/optimize
+70|2338186|YOU AND I|박봄 (Park Bom)|439341|706753|YOU AND I|https://cdnimg.melon.co.kr/cm/album/images/007/06/753/706753_500.jpg/melon/resize/48/quality/80/optimize
+71|2588796|와랄라 랄라레|원투|106928|810256|Walala Lalale|https://cdnimg.melon.co.kr/cm/album/images/008/10/256/810256_500.jpg/melon/resize/48/quality/80/optimize
+72|2593215|19금 Blah Blah Blah (Feat. 3OH!3)|Kesha|445350|814275|Blah Blah Blah|https://cdnimg.melon.co.kr/cm/album/images/008/14/275/814275_500.jpg/melon/resize/48/quality/80/optimize
+73|2603127|No One (노원)|포커즈 (F.CUZ)|450220|823064|Mini Album 'No One'|https://cdnimg.melon.co.kr/cm/album/images/008/23/064/823064_500.jpg/melon/resize/48/quality/80/optimize
+74|2605088|혼잣말|씨엘|42390|824652|Refloat|https://cdnimg.melon.co.kr/cm/album/images/008/24/652/824652_500.jpg/melon/resize/48/quality/80/optimize
+75|2363261|Telephone (Feat. Beyoncé)|Lady Gaga|253688|720852|The Fame Monster|https://cdnimg.melon.co.kr/cm/album/images/007/20/852/720852_500.jpg/melon/resize/48/quality/80/optimize
+76|2593650|피에로의 눈물2 (Feat. 길미)|아웃사이더|181785|814651|주변인 : The Outsider|https://cdnimg.melon.co.kr/cm/album/images/008/14/651/814651_500.jpg/melon/resize/48/quality/80/optimize
+77|2572448|꽃을 든 남자 (Feat. MC몽)|KCM|45995|795851|Color Flower|https://cdnimg.melon.co.kr/cm/album/images/007/95/851/795851_500.jpg/melon/resize/48/quality/80/optimize
+78|2588963|미아|제아|230519|810353|추노 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/008/10/353/810353_500.jpg/melon/resize/48/quality/80/optimize
+79|2349352|만만하니|유키스|259928|715463|Conti Ukiss|https://cdnimg.melon.co.kr/cm/album/images/007/15/463/715463_500.jpg/melon/resize/48/quality/80/optimize
+80|2605190|초연|간종욱|204924|824656|Part.1 초연|https://cdnimg.melon.co.kr/cm/album/images/008/24/656/824656_500.jpg/melon/resize/48/quality/80/optimize
+81|2511579|그대라서|거미|30358|744964|크리스마스에 눈이 올까요? OST|https://cdnimg.melon.co.kr/cm/album/images/007/44/964/744964_500.jpg/melon/resize/48/quality/80/optimize
+82|2599150|빅토리2010 (Feat.코리아나)|조pd (ZoPD)|2071|819551|Victory|https://cdnimg.melon.co.kr/cm/album/images/008/19/551/819551_500.jpg/melon/resize/48/quality/80/optimize
+83|2291014|Honesty|Beyonce|3535|664561|I Am... Sasha Fierce (Platinum Edition)|https://cdnimg.melon.co.kr/cm/album/images/006/64/561/664561_500.jpg/melon/resize/48/quality/80/optimize
+84|2566458|밤하늘의 별을... (With KCM & No Noo)|양정승|3493|790653|Generation|https://cdnimg.melon.co.kr/cm/album/images/007/90/653/790653_500.jpg/melon/resize/48/quality/80/optimize
+85|2537575|첫사랑이죠|아이유~나윤권|261143~58979|765757|첫사랑이죠|https://cdnimg.melon.co.kr/cm/album/images/007/65/757/765757_500.jpg/melon/resize/48/quality/80/optimize
+86|2578965|늦은사랑|박화요비|2017|801955|산부인과 OST (Part 2)|https://cdnimg.melon.co.kr/cm/album/images/008/01/955/801955_500.jpg/melon/resize/48/quality/80/optimize
+87|2609462|Easy Come, Easy Go (Feat. Sugar Flow)|HUS (허밍어반스테레오)|61280|828252|Easy Come, Easy Go|https://cdnimg.melon.co.kr/cm/album/images/008/28/252/828252_500.jpg/melon/resize/48/quality/80/optimize
+88|2596149|Baby Baby|포맨 (4MEN)|100176|817051|Baby Baby + 4MEN|https://cdnimg.melon.co.kr/cm/album/images/008/17/051/817051_500.jpg/melon/resize/48/quality/80/optimize
+89|2610672|Nothin' On You (Feat. Bruno Mars)|B.o.B|461964|829156|Nothin' On You (Feat. Bruno Mars)|https://cdnimg.melon.co.kr/cm/album/images/008/29/156/829156_500.jpg/melon/resize/48/quality/80/optimize
+90|2612559|안녕 내 사랑아|보이스원|206689|830952|안녕 내 사랑아|https://cdnimg.melon.co.kr/cm/album/images/008/30/952/830952_500.jpg/melon/resize/48/quality/80/optimize
+91|2579460|Umbrella|카라|222128|802252|루팡 (Lupin)|https://cdnimg.melon.co.kr/cm/album/images/008/02/252/802252_500.jpg/melon/resize/48/quality/80/optimize
+93|2512058|Love Story|쥬얼리|101487|745452|End And.. (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/007/45/452/745452_500.jpg/melon/resize/48/quality/80/optimize
+94|2595959|Sweet Love (Feat. 라임버스)|별|27033|816854|Taste Of Love|https://cdnimg.melon.co.kr/cm/album/images/008/16/854/816854_500.jpg/melon/resize/48/quality/80/optimize
+95|2600850|바보 (Feat. Bumkey)|에픽하이 (EPIK HIGH)|108356|821151|Epilogue|https://cdnimg.melon.co.kr/cm/album/images/008/21/151/821151_500.jpg/melon/resize/48/quality/80/optimize
+96|2517760|하모니|제아~이영현|230519~10210|749952|하모니 OST|https://cdnimg.melon.co.kr/cm/album/images/007/49/952/749952_500.jpg/melon/resize/48/quality/80/optimize
+97|2361466|Please Don't Go|CL~민지|441844~441843|719553|Please Don't Go (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/007/19/553/719553_500.jpg/melon/resize/48/quality/80/optimize
+98|2609373|믿겨지지 않는 이야기|MC 한새~공소원|3519~217830|828156|Loview Music Part.1|https://cdnimg.melon.co.kr/cm/album/images/008/28/156/828156_500.jpg/melon/resize/48/quality/80/optimize
+99|2579716|놓치다|선민|198663|802457|놓치다|https://cdnimg.melon.co.kr/cm/album/images/008/02/457/802457_500.jpg/melon/resize/48/quality/80/optimize
+100|2606648|Knock (Feat. H-유진)|디아|400343|825851|Knock (Special Edition)|https://cdnimg.melon.co.kr/cm/album/images/008/25/851/825851_500.jpg/melon/resize/48/quality/80/optimize

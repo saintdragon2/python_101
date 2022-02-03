@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4171462|U & I|에일리(Ailee)|629831|2192532|A's Doll House|https://cdnimg.melon.co.kr/cm/album/images/021/92/532/2192532_500.jpg/melon/resize/48/quality/80/optimize
+52|4289386|Moment|이창민|443620|2212405|상속자들 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/12/405/2212405_500.jpg/melon/resize/48/quality/80/optimize
+53|4279461|Right There|신지훈|718041|2210982|Right There|https://cdnimg.melon.co.kr/cm/album/images/022/10/982/2210982_500.jpg/melon/resize/48/quality/80/optimize
+54|4232054|사랑했었다면|지아~이해리 (다비치)|227595~259769|2199844|사랑했었다면|https://cdnimg.melon.co.kr/cm/album/images/021/99/844/2199844_500.jpg/melon/resize/48/quality/80/optimize
+55|4260529|병이에요 (Spotless Mind)|정준영|25869|2203531|1st 미니앨범|https://cdnimg.melon.co.kr/cm/album/images/022/03/531/2203531_500.jpg/melon/resize/48/quality/80/optimize
+56|4285789|단비|영재|5080|2211873|포맨 솔로 프로젝트 #3 영재|https://cdnimg.melon.co.kr/cm/album/images/022/11/873/2211873_500.jpg/melon/resize/48/quality/80/optimize
+57|3947371|? (물음표) (Feat. 최자 Of 다이나믹듀오, Zion.T)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+58|4027954|내일 할 일|윤종신~성시경|437~3305|2174473|2013 월간 윤종신 Repair 2월호|https://cdnimg.melon.co.kr/cm/album/images/021/74/473/2174473_500.jpg/melon/resize/48/quality/80/optimize
+59|4268437|싫은 날|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+60|2101171|오랜만이야|임창정|1142|514854|Return To My World|https://cdnimg.melon.co.kr/cm/album/images/005/14/854/514854_500.jpg/melon/resize/48/quality/80/optimize
+61|4160246|BAAAM (Feat. Muzie Of UV)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+62|4268441|우울시계 (Feat. 종현 Of SHINee)|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+63|4270949|말이야|이홍기 (FT아일랜드)|42554|2209824|상속자들 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/09/824/2209824_500.jpg/melon/resize/48/quality/80/optimize
+64|4276045|건 (Gun)|나인뮤지스|465680|2210554|Prima Donna|https://cdnimg.melon.co.kr/cm/album/images/022/10/554/2210554_500.jpg/melon/resize/48/quality/80/optimize
+65|2575587|소주한잔|임창정|1142|798856|Remind|https://cdnimg.melon.co.kr/cm/album/images/007/98/856/798856_500.jpg/melon/resize/48/quality/80/optimize
+66|4282580|첫 사랑은 죽었다 (First Love End)|케이윌|175139|2211378|Will In Fall|https://cdnimg.melon.co.kr/cm/album/images/022/11/378/2211378_500.jpg/melon/resize/48/quality/80/optimize
+67|4286274|말만해 (What You Want) (Feat. 김성규)|칸토|688051|2211932|말만해 (What You Want)|https://cdnimg.melon.co.kr/cm/album/images/022/11/932/2211932_500.jpg/melon/resize/48/quality/80/optimize
+68|4258695|희망고문|송지은|446200|2203229|희망고문|https://cdnimg.melon.co.kr/cm/album/images/022/03/229/2203229_500.jpg/melon/resize/48/quality/80/optimize
+69|4280881|내가 많이 변했어 (with 최자 Of 다이나믹듀오)|신승훈|25|2211156|Great Wave|https://cdnimg.melon.co.kr/cm/album/images/022/11/156/2211156_500.jpg/melon/resize/48/quality/80/optimize
+70|4280858|가을남자|정인|35989|2211152|가을여자|https://cdnimg.melon.co.kr/cm/album/images/022/11/152/2211152_500.jpg/melon/resize/48/quality/80/optimize
+71|4252725|가을밤|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+72|4163613|오늘따라 보고싶어서 그래|다비치|236815|2191473|여름날의 추억|https://cdnimg.melon.co.kr/cm/album/images/021/91/473/2191473_500.jpg/melon/resize/48/quality/80/optimize
+73|3893169|홀로 (Feat. 김나영)|정키|570731|2148411|Break Up|https://cdnimg.melon.co.kr/cm/album/images/021/48/411/2148411_500.jpg/melon/resize/48/quality/80/optimize
+74|4172962|Be OK (Feat. 배치기)|유성은|658092|2192706|Be OK|https://cdnimg.melon.co.kr/cm/album/images/021/92/706/2192706_500.jpg/melon/resize/48/quality/80/optimize
+75|4243697|살자 (The Cure)|드렁큰 타이거~윤미래~비지 (Bizzy)|100027~1654~27644|2201224|살자 (The Cure)|https://cdnimg.melon.co.kr/cm/album/images/022/01/224/2201224_500.jpg/melon/resize/48/quality/80/optimize
+76|4236972|The Fox|Ylvis|734331|2200408|The Fox|https://cdnimg.melon.co.kr/cm/album/images/022/00/408/2200408_500.jpg/melon/resize/48/quality/80/optimize
+77|4204459|사랑하고 있습니다|2BIC(투빅)|643551|2196679|굿닥터 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/96/679/2196679_500.jpg/melon/resize/48/quality/80/optimize
+78|4204339|넌 내꺼라는걸 (Feat. 스윙스)|허각|28801|2196649|넌 내꺼라는걸|https://cdnimg.melon.co.kr/cm/album/images/021/96/649/2196649_500.jpg/melon/resize/48/quality/80/optimize
+79|4226369|집에 안갈래 (Feat. 긱스)|나비|242868|2199204|집에 안갈래|https://cdnimg.melon.co.kr/cm/album/images/021/99/204/2199204_500.jpg/melon/resize/48/quality/80/optimize
+80|4280882|Sorry|신승훈|25|2211156|Great Wave|https://cdnimg.melon.co.kr/cm/album/images/022/11/156/2211156_500.jpg/melon/resize/48/quality/80/optimize
+81|4198784|낮과 밤|거미|30358|2195976|주군의 태양 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/95/976/2195976_500.jpg/melon/resize/48/quality/80/optimize
+82|4138606|Give It To Me|씨스타|473181|2188413|Give It To Me|https://cdnimg.melon.co.kr/cm/album/images/021/88/413/2188413_500.jpg/melon/resize/48/quality/80/optimize
+83|4271716|It's ME (Feat. Dumbfoundead)|가희|520900|2209924|Who Are You?|https://cdnimg.melon.co.kr/cm/album/images/022/09/924/2209924_500.jpg/melon/resize/48/quality/80/optimize
+84|4268438|Obliviate|아이유|261143|2208448|Modern Times|https://cdnimg.melon.co.kr/cm/album/images/022/08/448/2208448_500.jpg/melon/resize/48/quality/80/optimize
+85|4209541|기억속의 먼 그대에게|송희진|727562|2197271|슈퍼스타K5 - 송희진|https://cdnimg.melon.co.kr/cm/album/images/021/97/271/2197271_500.jpg/melon/resize/48/quality/80/optimize
+86|4226209|R.O.D. (Feat. Lydia Paek)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+87|4248869|입만 살아가지고|신용재 (2F)|510537|2201914|포맨 솔로 프로젝트 #1 신용재|https://cdnimg.melon.co.kr/cm/album/images/022/01/914/2201914_500.jpg/melon/resize/48/quality/80/optimize
+88|4249274|빛이 되어줘|블락비 (Block B)|532201|2201942|Very Good|https://cdnimg.melon.co.kr/cm/album/images/022/01/942/2201942_500.jpg/melon/resize/48/quality/80/optimize
+89|4219031|울고만있어|백지영|1118|2198384|굿닥터 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/98/384/2198384_500.jpg/melon/resize/48/quality/80/optimize
+90|4279374|사랑이란게 뭐 이래요|김그림|499462|2210975|사랑이란게 뭐 이래요|https://cdnimg.melon.co.kr/cm/album/images/022/10/975/2210975_500.jpg/melon/resize/48/quality/80/optimize
+91|4260532|소독약 (Love medicine)|주원|16626|2203533|굿닥터 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/03/533/2203533_500.jpg/melon/resize/48/quality/80/optimize
+92|4184826|첫 사랑니 (Rum Pum Pum Pum)|f(x)|428501|2194266|'Pink Tape' f(x) The 2nd Album|https://cdnimg.melon.co.kr/cm/album/images/021/94/266/2194266_500.jpg/melon/resize/48/quality/80/optimize
+93|4277669|우리 무슨 사이야? (With 범키)|애즈원|100093|2210739|Simply As One|https://cdnimg.melon.co.kr/cm/album/images/022/10/739/2210739_500.jpg/melon/resize/48/quality/80/optimize
+94|4180409|Shadow (그림자)|비스트|436981|2193615|Hard to love, How to love|https://cdnimg.melon.co.kr/cm/album/images/021/93/615/2193615_500.jpg/melon/resize/48/quality/80/optimize
+95|4287490|못났다 (Lovefool)|틴탑|483581|2212134|틴탑 클래스 어디션|https://cdnimg.melon.co.kr/cm/album/images/022/12/134/2212134_500.jpg/melon/resize/48/quality/80/optimize
+96|4284047|천일의 밤|The One (더원)|160816|2211613|빠스껫볼 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/022/11/613/2211613_500.jpg/melon/resize/48/quality/80/optimize
+97|4271471|좀비 (Walking Dead) (Feat. Lyn)|김진표|1136|2209891|JP7|https://cdnimg.melon.co.kr/cm/album/images/022/09/891/2209891_500.jpg/melon/resize/48/quality/80/optimize
+98|4283808|내일도 맑음|메이비 (Maybee)|43443|2211571|내일도 맑음|https://cdnimg.melon.co.kr/cm/album/images/022/11/571/2211571_500.jpg/melon/resize/48/quality/80/optimize
+99|4265960|바람기억|송희진|727562|2206848|슈퍼스타K5 TOP10 Part1|https://cdnimg.melon.co.kr/cm/album/images/022/06/848/2206848_500.jpg/melon/resize/48/quality/80/optimize
+100|4294284|내일은 없어|트러블메이커|591031|2212999|Chemistry|https://cdnimg.melon.co.kr/cm/album/images/022/12/999/2212999_500.jpg/melon/resize/48/quality/80/optimize

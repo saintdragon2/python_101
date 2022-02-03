@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|5713422|와리가리|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+2|5748499|SHAKE IT|씨스타|473181|2325345|SHAKE IT|https://cdnimg.melon.co.kr/cm/album/images/023/25/345/2325345_500.jpg/melon/resize/48/quality/80/optimize
+3|5771304|Oasis (Feat. ZICO)|Crush|674710|2327886|Oasis|https://cdnimg.melon.co.kr/cm/album/images/023/27/886/2327886_500.jpg/melon/resize/48/quality/80/optimize
+4|5385974|위잉위잉|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+5|5768980|PARTY|소녀시대 (GIRLS' GENERATION)|228069|2328091|PARTY|https://cdnimg.melon.co.kr/cm/album/images/023/28/091/2328091_500.jpg/melon/resize/48/quality/80/optimize
+6|5748406|심쿵해 (Heart Attack)|AOA|686920|2325321|Heart Attack|https://cdnimg.melon.co.kr/cm/album/images/023/25/321/2325321_500.jpg/melon/resize/48/quality/80/optimize
+7|5779688|주마등 (Feat. 우혜미)|리쌍|103289|2329392|주마등|https://cdnimg.melon.co.kr/cm/album/images/023/29/392/2329392_500.jpg/melon/resize/48/quality/80/optimize
+8|5760115|IF YOU|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize
+9|5719286|뱅뱅뱅 (BANG BANG BANG)|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+10|5767424|링마벨 (Ring My Bell)|걸스데이|482762|2327866|Girl's Day Love Second Album|https://cdnimg.melon.co.kr/cm/album/images/023/27/866/2327866_500.jpg/melon/resize/48/quality/80/optimize
+11|5760116|맨정신|BIGBANG|198094|2326937|D|https://cdnimg.melon.co.kr/cm/album/images/023/26/937/2326937_500.jpg/melon/resize/48/quality/80/optimize
+12|5704397|이럴거면 그러지말지 (Feat. Young K)|백아연|646173|2319508|이럴거면 그러지말지|https://cdnimg.melon.co.kr/cm/album/images/023/19/508/2319508_500.jpg/melon/resize/48/quality/80/optimize
+13|5781104|Remember|Apink (에이핑크)|534360|2329610|Pink MEMORY|https://cdnimg.melon.co.kr/cm/album/images/023/29/610/2329610_500.jpg/melon/resize/48/quality/80/optimize
+14|5743804|음오아예 (Um Oh Ah Yeh)|마마무 (Mamamoo)|750053|2324685|Pink Funky|https://cdnimg.melon.co.kr/cm/album/images/023/24/685/2324685_500.jpg/melon/resize/48/quality/80/optimize
+15|5713425|Hooka|혁오 (HYUKOH)|785589|2320721|22|https://cdnimg.melon.co.kr/cm/album/images/023/20/721/2320721_500.jpg/melon/resize/48/quality/80/optimize
+16|5702706|꺼내 먹어요|Zion.T|537920|2319240|Eat|https://cdnimg.melon.co.kr/cm/album/images/023/19/240/2319240_500.jpg/melon/resize/48/quality/80/optimize
+17|5684826|BAE BAE|BIGBANG|198094|2316478|M|https://cdnimg.melon.co.kr/cm/album/images/023/16/478/2316478_500.jpg/melon/resize/48/quality/80/optimize
+18|5700639|마음|아이유|261143|2319008|마음|https://cdnimg.melon.co.kr/cm/album/images/023/19/008/2319008_500.jpg/melon/resize/48/quality/80/optimize
+19|5389475|양화대교|Zion.T|537920|2282942|양화대교|https://cdnimg.melon.co.kr/cm/album/images/022/82/942/2282942_500.jpg/melon/resize/48/quality/80/optimize
+20|5682700|LOSER|BIGBANG|198094|2316478|M|https://cdnimg.melon.co.kr/cm/album/images/023/16/478/2316478_500.jpg/melon/resize/48/quality/80/optimize
+21|5668985|그 남잔 말야|엠씨더맥스 (M.C the MAX)|161636|2314734|냄새를 보는 소녀 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/023/14/734/2314734_500.jpg/melon/resize/48/quality/80/optimize
+22|5719287|WE LIKE 2 PARTY|BIGBANG|198094|2321510|A|https://cdnimg.melon.co.kr/cm/album/images/023/21/510/2321510_500.jpg/melon/resize/48/quality/80/optimize
+23|5767582|Bad|인피니트|476181|2327888|Reality|https://cdnimg.melon.co.kr/cm/album/images/023/27/888/2327888_500.jpg/melon/resize/48/quality/80/optimize
+24|5765885|사랑할수록 (화생방실 클레오파트라)|김연우|6017|2327658|복면가왕 14회|https://cdnimg.melon.co.kr/cm/album/images/023/27/658/2327658_500.jpg/melon/resize/48/quality/80/optimize
+25|5650996|우연히 봄|로꼬~유주 (여자친구)|688432~858238|2312287|냄새를 보는 소녀 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/12/287/2312287_500.jpg/melon/resize/48/quality/80/optimize
+26|5721440|LOVE ME RIGHT|EXO|724619|2321827|LOVE ME RIGHT - The 2nd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/023/21/827/2321827_500.jpg/melon/resize/48/quality/80/optimize
+27|4857981|Sugar|Maroon 5|107721|2279275|V (Deluxe Edition)|https://cdnimg.melon.co.kr/cm/album/images/022/79/275/2279275_500.jpg/melon/resize/48/quality/80/optimize
+28|5572312|그냥 (Just)|Zion.T~Crush|537920~674710|2302415|Young|https://cdnimg.melon.co.kr/cm/album/images/023/02/415/2302415_500.jpg/melon/resize/48/quality/80/optimize
+29|5674119|Me You (Feat. 백예린 Of 15&)|San E|402526|2313106|양치기 소년|https://cdnimg.melon.co.kr/cm/album/images/023/13/106/2313106_500.jpg/melon/resize/48/quality/80/optimize
+30|5756880|괜찮아요|비투비|647971|2326467|Complete|https://cdnimg.melon.co.kr/cm/album/images/023/26/467/2326467_500.jpg/melon/resize/48/quality/80/optimize
+31|5742255|느껴 (My Everything)|범키|623851|2324472|느껴 (My Everything)|https://cdnimg.melon.co.kr/cm/album/images/023/24/472/2324472_500.jpg/melon/resize/48/quality/80/optimize
+32|5709750|사랑의 시작은 고백에서부터|김범수|6502|2320218|프로듀사 OST|https://cdnimg.melon.co.kr/cm/album/images/023/20/218/2320218_500.jpg/melon/resize/48/quality/80/optimize
+33|5748398|사랑.. 그 놈 (화생방실 클레오파트라)|김연우|6017|2325319|복면가왕 12회|https://cdnimg.melon.co.kr/cm/album/images/023/25/319/2325319_500.jpg/melon/resize/48/quality/80/optimize
+34|5731941|아프다|지코 (ZICO)~소진 (Sojin)|602056~516080|2323162|가면 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/023/23/162/2323162_500.jpg/melon/resize/48/quality/80/optimize
+35|5658708|어머님이 누구니 (Feat. 제시)|박진영|1130|2313436|24/34|https://cdnimg.melon.co.kr/cm/album/images/023/13/436/2313436_500.jpg/melon/resize/48/quality/80/optimize
+36|5660040|아예 (Ah Yeah)|EXID|630454|2313635|AH YEAH|https://cdnimg.melon.co.kr/cm/album/images/023/13/635/2313635_500.jpg/melon/resize/48/quality/80/optimize
+37|5459268|Uptown Funk (Feat. Bruno Mars)|Mark Ronson|45077|2290446|Uptown Funk (Feat. Bruno Mars)|https://cdnimg.melon.co.kr/cm/album/images/022/90/446/2290446_500.jpg/melon/resize/48/quality/80/optimize
+38|5731852|그리고 안녕|이승기|58793|2323159|그리고...|https://cdnimg.melon.co.kr/cm/album/images/023/23/159/2323159_500.jpg/melon/resize/48/quality/80/optimize
+39|5700879|View|SHINee (샤이니)|247639|2319050|Odd - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/023/19/050/2319050_500.jpg/melon/resize/48/quality/80/optimize
+40|5385973|Ohio|혁오 (HYUKOH)|785589|2282505|20|https://cdnimg.melon.co.kr/cm/album/images/022/82/505/2282505_500.jpg/melon/resize/48/quality/80/optimize
+41|5576417|같은 시간 속의 너|나얼|3959|2302870|브라운 아이드 소울 싱글 프로젝트 1st. 같은 시간 속의 너 By 나얼|https://cdnimg.melon.co.kr/cm/album/images/023/02/870/2302870_500.jpg/melon/resize/48/quality/80/optimize
+42|5704765|동네술집|허각~정인|28801~35989|2319548|동네술집|https://cdnimg.melon.co.kr/cm/album/images/023/19/548/2319548_500.jpg/melon/resize/48/quality/80/optimize
+43|5765888|가질 수 없는 너 (화생방실 클레오파트라) (Bonus Track)|김연우|6017|2327658|복면가왕 14회|https://cdnimg.melon.co.kr/cm/album/images/023/27/658/2327658_500.jpg/melon/resize/48/quality/80/optimize
+44|5708013|19금 몸매 (MOMMAE) (Feat. Ugly Duck)|박재범|443420|2320014|몸매 (MOMMAE)|https://cdnimg.melon.co.kr/cm/album/images/023/20/014/2320014_500.jpg/melon/resize/48/quality/80/optimize
+45|5765887|만약에 말야 (화생방실 클레오파트라) (Bonus Track)|김연우|6017|2327658|복면가왕 14회|https://cdnimg.melon.co.kr/cm/album/images/023/27/658/2327658_500.jpg/melon/resize/48/quality/80/optimize
+46|5634219|19금 Puss (Prod.by 라이머)|지민~아이언|687001~781841|2310080|언프리티 랩스타 SEMI FINAL|https://cdnimg.melon.co.kr/cm/album/images/023/10/080/2310080_500.jpg/melon/resize/48/quality/80/optimize
+47|5628083|두사랑 (Feat. 매드클라운)|다비치|236815|2309174|두사랑|https://cdnimg.melon.co.kr/cm/album/images/023/09/174/2309174_500.jpg/melon/resize/48/quality/80/optimize
+48|5644620|CALL ME BABY|EXO|724619|2311397|The 2nd Album 'EXODUS'|https://cdnimg.melon.co.kr/cm/album/images/023/11/397/2311397_500.jpg/melon/resize/48/quality/80/optimize
+49|4646573|너의 의미 (Feat. 김창완)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+50|5674470|연예할래|박보람|499464|2315407|CELEPRETTY|https://cdnimg.melon.co.kr/cm/album/images/023/15/407/2315407_500.jpg/melon/resize/48/quality/80/optimize

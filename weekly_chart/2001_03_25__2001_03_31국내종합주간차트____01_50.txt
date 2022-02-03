@@ -1,0 +1,46 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|10838|먼곳에서|박효신|1191|1111|Second Story|https://cdnimg.melon.co.kr/cm/album/images/000/01/111/1111_500.jpg/melon/resize/48/quality/80/optimize
+2|89806|I Love You|포지션|100177|5325|I Love You...|https://cdnimg.melon.co.kr/cm/album/images/000/05/325/5325_500.jpg/melon/resize/48/quality/80/optimize
+3|90782|Sweety|샵|100127|5352|Feel So Good|https://cdnimg.melon.co.kr/cm/album/images/000/05/352/5352_500.jpg/melon/resize/48/quality/80/optimize
+4|53615|사랑일뿐야|김민우|699|7975|사랑일뿐야|https://cdnimg.melon.co.kr/cm/album/images/000/07/975/7975_500.jpg/melon/resize/48/quality/80/optimize
+5|11043|I Love You|차태현|2830|1590|Accident|https://cdnimg.melon.co.kr/cm/album/images/000/01/590/1590_500.jpg/melon/resize/48/quality/80/optimize
+6|1564067|Never Again|이수영|995|344055|Never Again|https://cdnimg.melon.co.kr/cm/album/images/003/44/055/344055_500.jpg/melon/resize/48/quality/80/optimize
+7|609766|사진속에 담긴 추억|임재범|4838|42378|Memories|https://cdnimg.melon.co.kr/cm/album/images/000/42/378/42378_500.jpg/melon/resize/48/quality/80/optimize
+8|90105|A-Yo|지누션|100054|1664|The Reign|https://cdnimg.melon.co.kr/cm/album/images/000/01/664/1664_500.jpg/melon/resize/48/quality/80/optimize
+9|10398|하루|김범수|6502|721|Remember|https://cdnimg.melon.co.kr/cm/album/images/000/00/721/721_500.jpg/melon/resize/48/quality/80/optimize
+10|61962|새|싸이 (PSY)|3865|981|Psy From The Psycho World|https://cdnimg.melon.co.kr/cm/album/images/000/00/981/981_500.jpg/melon/resize/48/quality/80/optimize
+11|10126|파란|코요태|100022|709|Passion|https://cdnimg.melon.co.kr/cm/album/images/000/00/709/709_500.jpg/melon/resize/48/quality/80/optimize
+12|8921|오빠|왁스|2267|814|엄마의 일기|https://cdnimg.melon.co.kr/cm/album/images/000/00/814/814_500.jpg/melon/resize/48/quality/80/optimize
+13|9543|하루|박혜경|1790|969|O2-박혜경|https://cdnimg.melon.co.kr/cm/album/images/000/00/969/969_500.jpg/melon/resize/48/quality/80/optimize
+15|9040|제발|이소라|983|844|꽃|https://cdnimg.melon.co.kr/cm2/album/images/000/00/844/844_20201118181309_500.jpg/melon/resize/48/quality/80/optimize
+16|11028|약속|플라이 투 더 스카이|100183|1582|약속|https://cdnimg.melon.co.kr/cm/album/images/000/01/582/1582_500.jpg/melon/resize/48/quality/80/optimize
+18|5112|끝 (End)|샤크라|100068|1923|Chakra‘Ca 2집|https://cdnimg.melon.co.kr/cm/album/images/000/01/923/1923_500.jpg/melon/resize/48/quality/80/optimize
+19|10619|오늘까지만|김조한|1873|1548|2gether 4ever|https://cdnimg.melon.co.kr/cm/album/images/000/01/548/1548_500.jpg/melon/resize/48/quality/80/optimize
+20|9828|인형 (Duet. 신혜성)|이지훈|1123|1065|Lee Jeehoon Special With...|https://cdnimg.melon.co.kr/cm/album/images/000/01/065/1065_500.jpg/melon/resize/48/quality/80/optimize
+21|6028|Don't Start Now|보아 (BoA)|2165|1967|Don't Start Now - Jumping Into The World|https://cdnimg.melon.co.kr/cm/album/images/000/01/967/1967_500.jpg/melon/resize/48/quality/80/optimize
+22|106314|그런 사람 또 없습니다|황수정|11725|10055|황수정의 고백|https://cdnimg.melon.co.kr/cm/album/images/000/10/055/10055_500.jpg/melon/resize/48/quality/80/optimize
+23|4123405|어제 오늘 그리고|유승준|1008|2186440|Summit Revival|https://cdnimg.melon.co.kr/cm/album/images/021/86/440/2186440_500.jpg/melon/resize/48/quality/80/optimize
+25|9573|Endless|플라워|100391|781|소품집|https://cdnimg.melon.co.kr/cm/album/images/000/00/781/781_500.jpg/melon/resize/48/quality/80/optimize
+27|105714|니가 필요해|god|100007|717|Chapter 3|https://cdnimg.melon.co.kr/cm/album/images/000/00/717/717_500.jpg/melon/resize/48/quality/80/optimize
+28|89110|난 말야|유리상자|100130|4362|Home|https://cdnimg.melon.co.kr/cm/album/images/000/04/362/4362_500.jpg/melon/resize/48/quality/80/optimize
+29|3743|그런 일은|박화요비|2017|111|My All|https://cdnimg.melon.co.kr/cm/album/images/000/00/111/111_500.jpg/melon/resize/48/quality/80/optimize
+30|9202|이연(異緣)|신성우|34|878|Identity|https://cdnimg.melon.co.kr/cm/album/images/000/00/878/878_500.jpg/melon/resize/48/quality/80/optimize
+31|9815|영원의 서약|정일영|4107|1061|정일영|https://cdnimg.melon.co.kr/cm/album/images/000/01/061/1061_500.jpg/melon/resize/48/quality/80/optimize
+32|1786609|Episode Ⅱ|조pd (ZoPD)|2071|362829|ChoPD.Net / Best In East|https://cdnimg.melon.co.kr/cm/album/images/003/62/829/362829_500.jpg/melon/resize/48/quality/80/optimize
+33|2528|가져가|홍경민|891|1864|Hong Kyung Min|https://cdnimg.melon.co.kr/cm/album/images/000/01/864/1864_500.jpg/melon/resize/48/quality/80/optimize
+34|10288|www.사랑.com|임창정|1142|666|www.Love.7th|https://cdnimg.melon.co.kr/cm/album/images/000/00/666/666_500.jpg/melon/resize/48/quality/80/optimize
+35|75279|You Mean Everything To Me|박정현|1099|479|Naturally|https://cdnimg.melon.co.kr/cm/album/images/000/00/479/479_500.jpg/melon/resize/48/quality/80/optimize
+36|2940|Be Natural|S.E.S.|100016|953|A Letter From Green Land|https://cdnimg.melon.co.kr/cm/album/images/000/00/953/953_500.jpg/melon/resize/48/quality/80/optimize
+37|3680|너를 위해|임재범|4838|51|Story Of Two Years|https://cdnimg.melon.co.kr/cm/album/images/000/00/051/51_500.jpg/melon/resize/48/quality/80/optimize
+38|-1|오늘 하루|이상은 (=Lee-tzsche)|458|1673|Endless Lay|https://cdnimg.melon.co.kr/cm/album/images/000/01/673/1673_500.jpg/melon/resize/48/quality/80/optimize
+39|1576735|다 줄거야 (Acoustic Ver.)|조규만|1833|345496|I Will Give You All|https://cdnimg.melon.co.kr/cm/album/images/003/45/496/345496_500.jpg/melon/resize/48/quality/80/optimize
+40|9957|I Can Wait 4 U|여행스케치|100712|659|Love Story|https://cdnimg.melon.co.kr/cm/album/images/000/00/659/659_500.jpg/melon/resize/48/quality/80/optimize
+41|46181|틈|엄정화|1100|4317|Queen Of Charisma|https://cdnimg.melon.co.kr/cm/album/images/000/04/317/4317_500.jpg/melon/resize/48/quality/80/optimize
+42|106219|다음 사람에게는|조성모|969|4801|Let Me Love|https://cdnimg.melon.co.kr/cm/album/images/000/04/801/4801_500.jpg/melon/resize/48/quality/80/optimize
+43|1698077|기억이란 사랑보다|이문세|43|355804|Old And New|https://cdnimg.melon.co.kr/cm/album/images/003/55/804/355804_500.jpg/melon/resize/48/quality/80/optimize
+44|-1|벌|박미경|932|888|Parkmikyung 5|https://cdnimg.melon.co.kr/cm/album/images/000/00/888/888_500.jpg/melon/resize/48/quality/80/optimize
+45|27600|기도|정일영|4107|418|가을동화 OST|https://cdnimg.melon.co.kr/cm/album/images/000/00/418/418_500.jpg/melon/resize/48/quality/80/optimize
+46|38504|거짓말처럼|김현정|1177|3009|The Third Eye|https://cdnimg.melon.co.kr/cm/album/images/000/03/009/3009_500.jpg/melon/resize/48/quality/80/optimize
+47|445159|그대가 그대를|이승환|26|30708|His Ballad Ⅱ|https://cdnimg.melon.co.kr/cm/album/images/000/30/708/30708_500.jpg/melon/resize/48/quality/80/optimize
+48|-1|흐린 가을 하늘에 편지를 써|엄태환|1892|889|다시 꽃씨되어(김광석 Anthology)|https://cdnimg.melon.co.kr/cm/album/images/000/00/889/889_500.jpg/melon/resize/48/quality/80/optimize
+50|88773|눈물없는 이별|박완규|1037|3858|엽기발랄(獵奇潑剌)|https://cdnimg.melon.co.kr/cm/album/images/000/03/858/3858_500.jpg/melon/resize/48/quality/80/optimize

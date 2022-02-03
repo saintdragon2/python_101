@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|2117748|Lollipop|BIGBANG~2NE1|198094~406712|528151|Lollipop (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/005/28/151/528151_500.jpg/melon/resize/48/quality/80/optimize
+2|2100540|쏘리 쏘리 (Sorry, Sorry)|SUPER JUNIOR (슈퍼주니어)|175404|514152|The 3rd Album '쏘리 쏘리 (SORRY, SORRY)'|https://cdnimg.melon.co.kr/cm/album/images/005/14/152/514152_500.jpg/melon/resize/48/quality/80/optimize
+3|2093360|8282|다비치|236815|508460|Davichi In Wonderland|https://cdnimg.melon.co.kr/cm/album/images/005/08/460/508460_500.jpg/melon/resize/48/quality/80/optimize
+4|2112982|토요일밤에|손담비|226582|524357|Type B|https://cdnimg.melon.co.kr/cm/album/images/005/24/357/524357_500.jpg/melon/resize/48/quality/80/optimize
+5|2093361|사고쳤어요|다비치|236815|508460|Davichi In Wonderland|https://cdnimg.melon.co.kr/cm/album/images/005/08/460/508460_500.jpg/melon/resize/48/quality/80/optimize
+6|2101157|심장이 없어|에이트|228841|514852|골든에이지|https://cdnimg.melon.co.kr/cm/album/images/005/14/852/514852_500.jpg/melon/resize/48/quality/80/optimize
+7|2063248|Insomnia (불면증)|휘성 (Realslow)|10577|501551|Insomnia|https://cdnimg.melon.co.kr/cm/album/images/005/01/551/501551_500.jpg/melon/resize/48/quality/80/optimize
+8|2101171|오랜만이야|임창정|1142|514854|Return To My World|https://cdnimg.melon.co.kr/cm/album/images/005/14/854/514854_500.jpg/melon/resize/48/quality/80/optimize
+9|2119816|눈물이 뚝뚝|케이윌|175139|529655|눈물이 뚝뚝|https://cdnimg.melon.co.kr/cm/album/images/005/29/655/529655_500.jpg/melon/resize/48/quality/80/optimize
+10|2012282|Gee|소녀시대 (GIRLS' GENERATION)|228069|458355|The First Mini Album 'Gee'|https://cdnimg.melon.co.kr/cm/album/images/004/58/355/458355_500.jpg/melon/resize/48/quality/80/optimize
+11|2109706|친구의 고백|2AM|253866|521558|Time For Confession|https://cdnimg.melon.co.kr/cm/album/images/005/21/558/521558_500.jpg/melon/resize/48/quality/80/optimize
+12|2122195|터질 것 같아|지아|227595|531754|Orchestra|https://cdnimg.melon.co.kr/cm/album/images/005/31/754/531754_500.jpg/melon/resize/48/quality/80/optimize
+13|2056871|Honey|카라|222128|497862|Honey (Special Edition)|https://cdnimg.melon.co.kr/cm/album/images/004/97/862/497862_500.jpg/melon/resize/48/quality/80/optimize
+14|2049250|반쪽|박화요비|2017|490951|This Is Love|https://cdnimg.melon.co.kr/cm/album/images/004/90/951/490951_500.jpg/melon/resize/48/quality/80/optimize
+15|2102150|헤어지는 중입니다|이은미|1055|515751|소리 위를 걷다|https://cdnimg.melon.co.kr/cm/album/images/005/15/751/515751_500.jpg/melon/resize/48/quality/80/optimize
+16|2097619|행복병 (Feat. Shorry J (MM))|김종국|1692|511859|행복병|https://cdnimg.melon.co.kr/cm/album/images/005/11/859/511859_500.jpg/melon/resize/48/quality/80/optimize
+17|2042756|구속|플라이 투 더 스카이|100183|483954|Decennium|https://cdnimg.melon.co.kr/cm/album/images/004/83/954/483954_500.jpg/melon/resize/48/quality/80/optimize
+18|2019681|사랑..그 놈|바비 킴|6027|465354|Love Chapter.1 (Special Album)|https://cdnimg.melon.co.kr/cm/album/images/004/65/354/465354_500.jpg/melon/resize/48/quality/80/optimize
+19|2053450|나쁜 여자야|FTISLAND (FT아일랜드)|226490|495152|Jump Up|https://cdnimg.melon.co.kr/cm/album/images/004/95/152/495152_500.jpg/melon/resize/48/quality/80/optimize
+20|2024974|AH|애프터스쿨|322666|470153|New Schoolgirl|https://cdnimg.melon.co.kr/cm/album/images/004/70/153/470153_500.jpg/melon/resize/48/quality/80/optimize
+21|2109949|마음으로 하는 말 (Feat. Hanyi)|프리스타일|100144|521851|Dry&Wet|https://cdnimg.melon.co.kr/cm/album/images/005/21/851/521851_500.jpg/melon/resize/48/quality/80/optimize
+22|2015250|살만해|브랜뉴데이|315175|461051|Lady Garden|https://cdnimg.melon.co.kr/cm/album/images/004/61/051/461051_500.jpg/melon/resize/48/quality/80/optimize
+23|2051448|전화 한 번 못하니 (Feat. 미스에스 태혜영)|왁스|2267|493151|전화 한 번 못하니 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/93/151/493151_500.jpg/melon/resize/48/quality/80/optimize
+24|2097848|한사람을 위한 마음|럼블피쉬|108951|512051|한사람을 위한 마음|https://cdnimg.melon.co.kr/cm/album/images/005/12/051/512051_500.jpg/melon/resize/48/quality/80/optimize
+25|2115752|나 혼자서|티파니 (TIFFANY)|406421|526352|자명고 OST|https://cdnimg.melon.co.kr/cm/album/images/005/26/352/526352_500.jpg/melon/resize/48/quality/80/optimize
+26|1996934|이젠 남이야 (Feat. Baby-J Of Jewelry)|김경록 (V.O.S)|57528|444358|People & People|https://cdnimg.melon.co.kr/cm/album/images/004/44/358/444358_500.jpg/melon/resize/48/quality/80/optimize
+27|2117260|Map The Soul (Feat. MYK)|에픽하이 (EPIK HIGH)|108356|527652|魂: Map The Soul|https://cdnimg.melon.co.kr/cm/album/images/005/27/652/527652_500.jpg/melon/resize/48/quality/80/optimize
+28|2020854|사랑..다 거짓말|린|8530|466352|Let Go, Let In, It's A New Day|https://cdnimg.melon.co.kr/cm/album/images/004/66/352/466352_500.jpg/melon/resize/48/quality/80/optimize
+29|2030248|떠나지마...|윤미래|1654|475051|떠나지마... (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/75/051/475051_500.jpg/melon/resize/48/quality/80/optimize
+30|2012251|연애소설|가비엔제이|174997|458352|연애소설|https://cdnimg.melon.co.kr/cm/album/images/004/58/352/458352_500.jpg/melon/resize/48/quality/80/optimize
+31|2017349|내 머리가 나빠서|SS501|170541|463151|꽃보다 남자 OST|https://cdnimg.melon.co.kr/cm/album/images/004/63/151/463151_500.jpg/melon/resize/48/quality/80/optimize
+32|1964754|비와 당신 (영화 '라디오스타' 삽입곡)|럼블피쉬|108951|417652|Memory For You|https://cdnimg.melon.co.kr/cm/album/images/004/17/652/417652_500.jpg/melon/resize/48/quality/80/optimize
+33|2122156|전화하지마 (Feat. 태인)|나몰라패밀리 (Namolla Family)|194009|531752|전화하지마|https://cdnimg.melon.co.kr/cm/album/images/005/31/752/531752_500.jpg/melon/resize/48/quality/80/optimize
+34|1951550|붉은 노을|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+35|2122249|지겨워 (Feat. 하주연 Of 쥬얼리)|배슬기|24982|531851|Big Show|https://cdnimg.melon.co.kr/cm/album/images/005/31/851/531851_500.jpg/melon/resize/48/quality/80/optimize
+36|1977448|러브119 (Feat. MC몽)|케이윌|175139|429351|Love119|https://cdnimg.melon.co.kr/cm/album/images/004/29/351/429351_500.jpg/melon/resize/48/quality/80/optimize
+37|2104532|그대에게 하는 말|스윗소로우 (SWEET SORROW)|175203|517656|Songs|https://cdnimg.melon.co.kr/cm/album/images/005/17/656/517656_500.jpg/melon/resize/48/quality/80/optimize
+38|1984049|Pretty Girl|카라|222128|432151|Pretty Girl (2nd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/004/32/151/432151_500.jpg/melon/resize/48/quality/80/optimize
+39|2008648|Stylish (The FILA)|BIGBANG|198094|455651|FILA Limited Edition With Bigbang|https://cdnimg.melon.co.kr/cm/album/images/004/55/651/455651_500.jpg/melon/resize/48/quality/80/optimize
+40|1958819|총맞은것처럼|백지영|1118|412157|Sensibility|https://cdnimg.melon.co.kr/cm/album/images/004/12/157/412157_500.jpg/melon/resize/48/quality/80/optimize
+41|1951553|Wonderful|BIGBANG|198094|405351|Remember|https://cdnimg.melon.co.kr/cm/album/images/004/05/351/405351_500.jpg/melon/resize/48/quality/80/optimize
+42|2108080|사랑한다 외쳐요 (Feat. 미료 From 브라운 아이드 걸스)|제이워크|102409|520252|사랑한다 외쳐요|https://cdnimg.melon.co.kr/cm/album/images/005/20/252/520252_500.jpg/melon/resize/48/quality/80/optimize
+43|2114649|미칠듯.. (Feat. 진주)|비욘드|169635|525251|미칠듯|https://cdnimg.melon.co.kr/cm/album/images/005/25/251/525251_500.jpg/melon/resize/48/quality/80/optimize
+44|2066666|Beyond The Wall (Feat. Supreme Team)|다이나믹 듀오|108358|503553|Ballad For Fallen Soul Part 1|https://cdnimg.melon.co.kr/cm/album/images/005/03/553/503553_500.jpg/melon/resize/48/quality/80/optimize
+45|2017263|Tell Me Why (Feat. 화영)|언터쳐블|190493|463052|Quiet Storm|https://cdnimg.melon.co.kr/cm/album/images/004/63/052/463052_500.jpg/melon/resize/48/quality/80/optimize
+46|2113073|아직도 널|YB|100168|524452|공존|https://cdnimg.melon.co.kr/cm/album/images/005/24/452/524452_500.jpg/melon/resize/48/quality/80/optimize
+47|2040667|가버려 너|플라이 투 더 스카이|100183|483954|Decennium|https://cdnimg.melon.co.kr/cm/album/images/004/83/954/483954_500.jpg/melon/resize/48/quality/80/optimize
+48|2126448|마음이 다쳐서 (Feat. Crown J)|나비|242868|534851|마음이 다쳐서|https://cdnimg.melon.co.kr/cm/album/images/005/34/851/534851_500.jpg/melon/resize/48/quality/80/optimize
+49|2049362|웃으며 안녕|이석훈|205858|491052|SG Wannabe ＆ 숙희|https://cdnimg.melon.co.kr/cm/album/images/004/91/052/491052_500.jpg/melon/resize/48/quality/80/optimize
+50|2122254|골드미스가 간다 송|김현정|1177|531852|골드미스가 간다 송|https://cdnimg.melon.co.kr/cm/album/images/005/31/852/531852_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|-1|기다려 그리고 준비해|용감한 녀석들|649953|2098966|용감한 녀석들|https://cdnimg.melon.co.kr/cm/album/images/020/98/966/2098966_500.jpg/melon/resize/48/quality/80/optimize
+52|3781211|U Go Girl (이효리)|이하이|646171|2116668|SBS K팝 스타 Top 3|https://cdnimg.melon.co.kr/cm/album/images/021/16/668/2116668_500.jpg/melon/resize/48/quality/80/optimize
+53|3750466|Fame (Fame OST)|수펄스|651331|2100869|SBS K팝 스타 Special No.2|https://cdnimg.melon.co.kr/cm/album/images/021/00/869/2100869_500.jpg/melon/resize/48/quality/80/optimize
+54|3747899|Over The Rainbow (영화 '오즈의 마법사' OST)|JAMIE (제이미)|646172|2099306|SBS K팝 스타 Top 7|https://cdnimg.melon.co.kr/cm/album/images/020/99/306/2099306_500.jpg/melon/resize/48/quality/80/optimize
+55|3753301|봄바람|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+56|3714473|Falling|존박|28772|2083726|Knock|https://cdnimg.melon.co.kr/cm/album/images/020/83/726/2083726_500.jpg/melon/resize/48/quality/80/optimize
+57|3706380|니가 필요해 (I Need You)|케이윌|175139|2079769|니가 필요해 (I Need You)|https://cdnimg.melon.co.kr/cm/album/images/020/79/769/2079769_500.jpg/melon/resize/48/quality/80/optimize
+58|3143265|Rolling In The Deep|Adele|241925|1173053|21|https://cdnimg.melon.co.kr/cm/album/images/011/73/053/1173053_500.jpg/melon/resize/48/quality/80/optimize
+59|3753306|골목길|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+60|3772618|물들어|손승연|661773|2112226|보이스 코리아 Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/12/226/2112226_500.jpg/melon/resize/48/quality/80/optimize
+61|3783553|미친 인연 (Feat. 이수 Of M.C The Max)|이비아|419300|2117666|E.Viagradation Part.1 (Black & Red)|https://cdnimg.melon.co.kr/cm/album/images/021/17/666/2117666_500.jpg/melon/resize/48/quality/80/optimize
+62|3786880|비와 당신의 이야기|손승연|661773|2119406|보이스 코리아 Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/19/406/2119406_500.jpg/melon/resize/48/quality/80/optimize
+63|3787293|Killing Me Softly With His Song (The Fugees)|이하이|646171|2119626|SBS K팝 스타 Top 2|https://cdnimg.melon.co.kr/cm/album/images/021/19/626/2119626_500.jpg/melon/resize/48/quality/80/optimize
+64|3663978|Lovey-Dovey|티아라|412000|2058067|Funky Town|https://cdnimg.melon.co.kr/cm/album/images/020/58/067/2058067_500.jpg/melon/resize/48/quality/80/optimize
+65|3699257|생각날거야|다비치|236815|2076258|LOVE CALL (With 다비치)|https://cdnimg.melon.co.kr/cm/album/images/020/76/258/2076258_500.jpg/melon/resize/48/quality/80/optimize
+66|3774882|알 수 없는 인생 (Feat. 조PD & 윤일상 (PDIS))|김건모|889|2113386|윤일상 작곡가 21주년 기념 앨범 I'm 21|https://cdnimg.melon.co.kr/cm/album/images/021/13/386/2113386_500.jpg/melon/resize/48/quality/80/optimize
+67|3736524|아직 사랑한다|CNBLUE (씨엔블루)|450801|2093776|EAR FUN|https://cdnimg.melon.co.kr/cm/album/images/020/93/776/2093776_500.jpg/melon/resize/48/quality/80/optimize
+68|3692955|난리나|블락비 (Block B)|532201|2073331|Welcome to the BLOCK|https://cdnimg.melon.co.kr/cm/album/images/020/73/331/2073331_500.jpg/melon/resize/48/quality/80/optimize
+69|3715673|사랑먼지|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+70|3777353|사랑은 이렇게|이영현|10210|2114626|패션왕 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/14/626/2114626_500.jpg/melon/resize/48/quality/80/optimize
+71|3778833|이별은 다 그런거래요|양파~종국 (스피드)|3854~664871|2115526|Together|https://cdnimg.melon.co.kr/cm/album/images/021/15/526/2115526_500.jpg/melon/resize/48/quality/80/optimize
+72|3666573|애상|10CM|468244|2059186|윤일상 작곡가 21주년 기념 앨범 I'm 21|https://cdnimg.melon.co.kr/cm/album/images/020/59/186/2059186_500.jpg/melon/resize/48/quality/80/optimize
+73|3777538|Ma Boy 2 (일렉트로보이즈)|이승훈~백아연|646178~646173|2114691|SBS K팝 스타 Special No.3|https://cdnimg.melon.co.kr/cm/album/images/021/14/691/2114691_500.jpg/melon/resize/48/quality/80/optimize
+74|3625504|너랑 나|아이유|261143|2040666|Last Fantasy|https://cdnimg.melon.co.kr/cm/album/images/020/40/666/2040666_500.jpg/melon/resize/48/quality/80/optimize
+75|3765097|Love (키샤콜)|이하이|646171|2108106|SBS K팝 스타 Top 5|https://cdnimg.melon.co.kr/cm/album/images/021/08/106/2108106_500.jpg/melon/resize/48/quality/80/optimize
+76|3770034|할 수 있어 (With. 이루마)|MC 스나이퍼|7560|2110919|Full Time|https://cdnimg.melon.co.kr/cm/album/images/021/10/919/2110919_500.jpg/melon/resize/48/quality/80/optimize
+77|3678813|시간을 거슬러|린|8530|2065906|해를 품은 달 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/65/906/2065906_500.jpg/melon/resize/48/quality/80/optimize
+78|3630755|Trouble Maker|트러블메이커|591031|2043387|Trouble Maker|https://cdnimg.melon.co.kr/cm/album/images/020/43/387/2043387_500.jpg/melon/resize/48/quality/80/optimize
+79|-1|Livin' My Love (개그콘서트 '시청률의 제왕' 삽입곡)|LMFAO~Steve Aoki|331467~487524|2062026|Livin' My Love|https://cdnimg.melon.co.kr/cm/album/images/020/62/026/2062026_500.jpg/melon/resize/48/quality/80/optimize
+80|-1|Party Rock Anthem (Feat. Lauren Bennett & Goon Rock)|LMFAO|331467|1165751|Party Rock Anthem|https://cdnimg.melon.co.kr/cm/album/images/011/65/751/1165751_500.jpg/melon/resize/48/quality/80/optimize
+81|3710333|잊었니|이승철|1010|2081526|신들의 만찬 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/81/526/2081526_500.jpg/melon/resize/48/quality/80/optimize
+82|3786993|Baby Steps|소녀시대-태티서 (Girls' Generation-TTS)|663691|2117429|'Twinkle' Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/17/429/2117429_500.jpg/melon/resize/48/quality/80/optimize
+83|3768715|Lead Me|씨스타|473181|2107508|ALONE|https://cdnimg.melon.co.kr/cm/album/images/021/07/508/2107508_500.jpg/melon/resize/48/quality/80/optimize
+84|3780774|향수|미(MIIII)|197910|2116426|The 1st Album Of 'Beautiful'|https://cdnimg.melon.co.kr/cm/album/images/021/16/426/2116426_500.jpg/melon/resize/48/quality/80/optimize
+85|3759413|요즘 사람들|거미~바비 킴|30358~6027|2105946|러브 레시피 II|https://cdnimg.melon.co.kr/cm/album/images/021/05/946/2105946_500.jpg/melon/resize/48/quality/80/optimize
+86|3585793|그리워 그리워|노을|105623|2024088|그리움|https://cdnimg.melon.co.kr/cm/album/images/020/24/088/2024088_500.jpg/melon/resize/48/quality/80/optimize
+87|3786994|OMG (Oh My God)|소녀시대-태티서 (Girls' Generation-TTS)|663691|2117429|'Twinkle' Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/17/429/2117429_500.jpg/melon/resize/48/quality/80/optimize
+88|3715675|재미없어|BIGBANG|198094|2084128|빅뱅 미니앨범 5집 'ALIVE'|https://cdnimg.melon.co.kr/cm/album/images/020/84/128/2084128_500.jpg/melon/resize/48/quality/80/optimize
+89|3764815|사랑이 서럽다|이정|39256|2107991|MBC 뮤직 '그 여자 작사 그 남자 작곡' Part.2 준호-김소은|https://cdnimg.melon.co.kr/cm/album/images/021/07/991/2107991_500.jpg/melon/resize/48/quality/80/optimize
+90|3774333|그리워져 (Feat. 이희성)|백청강|531823|2113166|그리워져|https://cdnimg.melon.co.kr/cm/album/images/021/13/166/2113166_500.jpg/melon/resize/48/quality/80/optimize
+91|3741493|너만은 모르길|가인|428821|2096206|윤일상 작곡가 21주년 기념 앨범 I'm 21 Part.4|https://cdnimg.melon.co.kr/cm/album/images/020/96/206/2096206_500.jpg/melon/resize/48/quality/80/optimize
+92|3788156|도착|박정현~윤종신|1099~437|2120087|2012 월간 윤종신 5월호|https://cdnimg.melon.co.kr/cm/album/images/021/20/087/2120087_500.jpg/melon/resize/48/quality/80/optimize
+93|3786997|처음이었죠 (Love Sick)|소녀시대-태티서 (Girls' Generation-TTS)|663691|2117429|'Twinkle' Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/17/429/2117429_500.jpg/melon/resize/48/quality/80/optimize
+94|3740633|너를 위해 (임재범)|이하이|646171|2095786|SBS K팝 스타 Special No.1|https://cdnimg.melon.co.kr/cm/album/images/020/95/786/2095786_500.jpg/melon/resize/48/quality/80/optimize
+95|3791294|여자사람|노라조|172193|2121647|여자사람|https://cdnimg.melon.co.kr/cm/album/images/021/21/647/2121647_500.jpg/melon/resize/48/quality/80/optimize
+96|3783659|아쉬움 또는 그리움|애즈원|100093|2117707|불후의 명작 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/17/707/2117707_500.jpg/melon/resize/48/quality/80/optimize
+97|3786995|Library|소녀시대-태티서 (Girls' Generation-TTS)|663691|2117429|'Twinkle' Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/17/429/2117429_500.jpg/melon/resize/48/quality/80/optimize
+98|3782230|꼭 한번|영재|5080|2116988|인현왕후의 남자 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/16/988/2116988_500.jpg/melon/resize/48/quality/80/optimize
+99|3691429|내가 노래를 못해도|SE7EN|33513|2072673|Se7en New Mini Album|https://cdnimg.melon.co.kr/cm/album/images/020/72/673/2072673_500.jpg/melon/resize/48/quality/80/optimize
+100|3689468|지독하게|FTISLAND (FT아일랜드)|226490|2072048|Grown-Up|https://cdnimg.melon.co.kr/cm/album/images/020/72/048/2072048_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|30930312|약속해요 (I.P.U.)|Wanna One (워너원)|1865973|10144723|0+1=1 (I PROMISE YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/44/723/10144723_500.jpg/melon/resize/48/quality/80/optimize
+52|30689468|결혼|문문 (MoonMoon)|927668|10105219|이번 생은 처음이라 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/101/05/219/10105219_500.jpg/melon/resize/48/quality/80/optimize
+53|30700708|LIKEY|TWICE (트와이스)|905701|10107114|twicetagram|https://cdnimg.melon.co.kr/cm/album/images/101/07/114/10107114_500.jpg/melon/resize/48/quality/80/optimize
+54|30568338|에너제틱 (Energetic)|Wanna One (워너원)|1865973|10085951|1X1=1(TO BE ONE)|https://cdnimg.melon.co.kr/cm/album/images/100/85/951/10085951_500.jpg/melon/resize/48/quality/80/optimize
+55|30725482|Beautiful|Wanna One (워너원)|1865973|10111029|1-1=0 (NOTHING WITHOUT YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/11/029/10111029_500.jpg/melon/resize/48/quality/80/optimize
+56|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+57|30809895|미안해|양다일|695994|10123639|inside|https://cdnimg.melon.co.kr/cm/album/images/101/23/639/10123639_500.jpg/melon/resize/48/quality/80/optimize
+58|30829858|#첫사랑|볼빨간사춘기|792022|10127486|#첫사랑|https://cdnimg.melon.co.kr/cm/album/images/101/27/486/10127486_500.jpg/melon/resize/48/quality/80/optimize
+59|30806536|Universe|EXO|724619|10122917|Universe - 겨울 스페셜 앨범, 2017|https://cdnimg.melon.co.kr/cm/album/images/101/22/917/10122917_500.jpg/melon/resize/48/quality/80/optimize
+60|30512671|빨간 맛 (Red Flavor)|Red Velvet (레드벨벳)|780066|10077879|The Red Summer - Summer Mini Album|https://cdnimg.melon.co.kr/cm/album/images/100/77/879/10077879_500.jpg/melon/resize/48/quality/80/optimize
+61|30939454|내가 더 나빠|헤이즈 (Heize)|751611|10145963|바람|https://cdnimg.melon.co.kr/cm/album/images/101/45/963/10145963_500.jpg/melon/resize/48/quality/80/optimize
+62|30341745|REALLY REALLY|WINNER|775197|10051659|FATE NUMBER FOR|https://cdnimg.melon.co.kr/cm/album/images/100/51/659/10051659_500.jpg/melon/resize/48/quality/80/optimize
+63|30672529|그리워하다|비투비|647971|10102658|Brother Act.|https://cdnimg.melon.co.kr/cm/album/images/101/02/658/10102658_500.jpg/melon/resize/48/quality/80/optimize
+64|30974158|Like It (Feat. 행주, 보이비)|Rohann (이로한)~ASH ISLAND|2111771~2112495|10151113|고등래퍼2 팀대항전 Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/51/113/10151113_500.jpg/melon/resize/48/quality/80/optimize
+65|30838076|주인공|선미|22938|10128855|주인공|https://cdnimg.melon.co.kr/cm/album/images/101/28/855/10128855_500.jpg/melon/resize/48/quality/80/optimize
+66|30393293|Thunder|Imagine Dragons|635412|10035055|Evolve|https://cdnimg.melon.co.kr/cm/album/images/100/35/055/10035055_500.jpg/melon/resize/48/quality/80/optimize
+67|30667988|짙어져|멜로망스|839732|10101927|Yellow OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/101/01/927/10101927_500.jpg/melon/resize/48/quality/80/optimize
+68|30099927|노력|박원|41499|10016012|1/24|https://cdnimg.melon.co.kr/cm/album/images/100/16/012/10016012_500.jpg/melon/resize/48/quality/80/optimize
+69|30657307|썸 탈꺼야|볼빨간사춘기|792022|10100191|Red Diary Page.1|https://cdnimg.melon.co.kr/cm/album/images/101/00/191/10100191_500.jpg/melon/resize/48/quality/80/optimize
+70|30380953|There's Nothing Holdin' Me Back|Shawn Mendes|776533|2689280|Illuminate (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/026/89/280/2689280_500.jpg/melon/resize/48/quality/80/optimize
+71|30190630|첫눈처럼 너에게 가겠다|에일리(Ailee)|629831|10029181|도깨비 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/100/29/181/10029181_500.jpg/melon/resize/48/quality/80/optimize
+72|31009487|Playdate|EXO-CBX (첸백시)|1228017|10156597|Blooming Days - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/56/597/10156597_500.jpg/melon/resize/48/quality/80/optimize
+73|4383833|바람이 불었으면 좋겠어|길구봉구|500421|2224353|바람이 불었으면 좋겠어|https://cdnimg.melon.co.kr/cm/album/images/022/24/353/2224353_500.jpg/melon/resize/48/quality/80/optimize
+74|30481578|마지막처럼|BLACKPINK|995169|10072696|마지막처럼|https://cdnimg.melon.co.kr/cm/album/images/100/72/696/10072696_500.jpg/melon/resize/48/quality/80/optimize
+75|31004550|Adios (Prod. BOYCOLD)|김하온 (HAON)|2112493|10155857|고등래퍼2 Semi Final|https://cdnimg.melon.co.kr/cm/album/images/101/55/857/10155857_500.jpg/melon/resize/48/quality/80/optimize
+76|30889749|애쓰지 마요|박보람|499464|10138304|애쓰지 마요|https://cdnimg.melon.co.kr/cm/album/images/101/38/304/10138304_500.jpg/melon/resize/48/quality/80/optimize
+77|31009486|Vroom Vroom|EXO-CBX (첸백시)|1228017|10156597|Blooming Days - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/56/597/10156597_500.jpg/melon/resize/48/quality/80/optimize
+78|31025164|EASY (Feat. 식케이)|휘인 (Whee In)|756533|10159006|magnolia|https://cdnimg.melon.co.kr/cm/album/images/101/59/006/10159006_500.jpg/melon/resize/48/quality/80/optimize
+79|30757693|기억의 빈자리|나얼|3959|10115433|기억의 빈자리|https://cdnimg.melon.co.kr/cm/album/images/101/15/433/10115433_500.jpg/melon/resize/48/quality/80/optimize
+80|30662444|Stand By Your Man|Carla Bruni|181567|10063448|French Touch|https://cdnimg.melon.co.kr/cm/album/images/100/63/448/10063448_500.jpg/melon/resize/48/quality/80/optimize
+81|30951305|나타나줘 (Feat. 박재범)|로꼬|688432|10147750|나타나줘|https://cdnimg.melon.co.kr/cm/album/images/101/47/750/10147750_500.jpg/melon/resize/48/quality/80/optimize
+82|31009484|내일 만나 (Sweet Dreams!)|EXO-CBX (첸백시)|1228017|10156597|Blooming Days - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/56/597/10156597_500.jpg/melon/resize/48/quality/80/optimize
+83|31009482|Monday Blues|EXO-CBX (첸백시)|1228017|10156597|Blooming Days - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/56/597/10156597_500.jpg/melon/resize/48/quality/80/optimize
+84|30753213|바보야|허각|28801|10114851|바보야|https://cdnimg.melon.co.kr/cm/album/images/101/14/851/10114851_500.jpg/melon/resize/48/quality/80/optimize
+85|30729198|좋아|민서~윤종신|906283~437|10111490|2017 월간 윤종신 11월호|https://cdnimg.melon.co.kr/cm/album/images/101/11/490/10111490_500.jpg/melon/resize/48/quality/80/optimize
+86|31009485|Thursday|EXO-CBX (첸백시)|1228017|10156597|Blooming Days - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/56/597/10156597_500.jpg/melon/resize/48/quality/80/optimize
+87|30736437|피카부 (Peek-A-Boo)|Red Velvet (레드벨벳)|780066|10112486|Perfect Velvet - The 2nd Album|https://cdnimg.melon.co.kr/cm/album/images/101/12/486/10112486_500.jpg/melon/resize/48/quality/80/optimize
+88|30637988|고민보다 Go|방탄소년단|672375|10097112|LOVE YOURSELF 承 'Her'|https://cdnimg.melon.co.kr/cm/album/images/100/97/112/10097112_500.jpg/melon/resize/48/quality/80/optimize
+89|31009488|휴일 (Lazy)|EXO-CBX (첸백시)|1228017|10156597|Blooming Days - The 2nd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/101/56/597/10156597_500.jpg/melon/resize/48/quality/80/optimize
+90|30960344|너의 이름을|Wanna One (워너원)|1865973|10144723|0+1=1 (I PROMISE YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/44/723/10144723_500.jpg/melon/resize/48/quality/80/optimize
+91|30960340|GOLD|Wanna One (워너원)|1865973|10144723|0+1=1 (I PROMISE YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/44/723/10144723_500.jpg/melon/resize/48/quality/80/optimize
+92|30702937|우리 둘만 아는|윤건|14801|10107495|우리 둘만 아는|https://cdnimg.melon.co.kr/cm/album/images/101/07/495/10107495_500.jpg/melon/resize/48/quality/80/optimize
+93|31052723|뒤집어버려|박재범~사이먼 도미닉~로꼬~GRAY (그레이)|443420~428847~688432~672625|10163186|뒤집어버려|https://cdnimg.melon.co.kr/cm/album/images/101/63/186/10163186_500.jpg/melon/resize/48/quality/80/optimize
+94|30992157|빛나리|펜타곤|1201990|10153912|Positive|https://cdnimg.melon.co.kr/cm/album/images/101/53/912/10153912_500.jpg/melon/resize/48/quality/80/optimize
+95|30997650|AIR|WINNER|775197|10154916|EVERYD4Y|https://cdnimg.melon.co.kr/cm/album/images/101/54/916/10154916_500.jpg/melon/resize/48/quality/80/optimize
+96|30960345|약속해요 (고백 Ver.)|Wanna One (워너원)|1865973|10144723|0+1=1 (I PROMISE YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/44/723/10144723_500.jpg/melon/resize/48/quality/80/optimize
+97|30960343|보여|Wanna One (워너원)|1865973|10144723|0+1=1 (I PROMISE YOU)|https://cdnimg.melon.co.kr/cm/album/images/101/44/723/10144723_500.jpg/melon/resize/48/quality/80/optimize
+98|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+99|30974085|Someone like you|EXO-CBX (첸백시)|1228017|10151098|라이브 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/101/51/098/10151098_500.jpg/melon/resize/48/quality/80/optimize
+100|30529996|Ko Ko Bop|EXO|724619|10080589|THE WAR - The 4th Album|https://cdnimg.melon.co.kr/cm/album/images/100/80/589/10080589_500.jpg/melon/resize/48/quality/80/optimize

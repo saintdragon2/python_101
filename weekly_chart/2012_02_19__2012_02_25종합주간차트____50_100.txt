@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+52|3593455|서쪽 하늘|울랄라세션|569214|2026966|슈퍼스타K 3 Top11 Part 5|https://cdnimg.melon.co.kr/cm/album/images/020/26/966/2026966_500.jpg/melon/resize/48/quality/80/optimize
+53|3700135|러시안룰렛 (Russian Roulette)|스피카|615471|2076646|러시안룰렛 (Russian Roulette)|https://cdnimg.melon.co.kr/cm/album/images/020/76/646/2076646_500.jpg/melon/resize/48/quality/80/optimize
+54|3714314|요즘 너|브레이브걸스|531700|2083666|Brave Girls' : Second Mini Album 'Re-Issue'|https://cdnimg.melon.co.kr/cm/album/images/020/83/666/2083666_500.jpg/melon/resize/48/quality/80/optimize
+55|-1|Party Rock Anthem (Feat. Lauren Bennett & Goon Rock)|LMFAO|331467|1165751|Party Rock Anthem|https://cdnimg.melon.co.kr/cm/album/images/011/65/751/1165751_500.jpg/melon/resize/48/quality/80/optimize
+56|3600223|Be My Baby|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+57|3672259|뉴스 (News)|나인뮤지스|465680|2062567|NEWS|https://cdnimg.melon.co.kr/cm/album/images/020/62/567/2062567_500.jpg/melon/resize/48/quality/80/optimize
+58|3673495|사랑시 고백구 행복동|제이세라|484881|2063107|Love City|https://cdnimg.melon.co.kr/cm/album/images/020/63/107/2063107_500.jpg/melon/resize/48/quality/80/optimize
+59|3703068|토닥토닥 (With 소향)|하하|35007|2078372|토닥토닥|https://cdnimg.melon.co.kr/cm/album/images/020/78/372/2078372_500.jpg/melon/resize/48/quality/80/optimize
+60|3705150|Don't Say No (하이킥3 짧은다리의 역습 삽입곡)|윤건~서현 (SEOHYUN)|14801~401220|2079100|윤건 & 서현 Collaboration Single|https://cdnimg.melon.co.kr/cm/album/images/020/79/100/2079100_500.jpg/melon/resize/48/quality/80/optimize
+61|-1|겨울이 오면|신용재 (2F)|510537|2082806|불후의 명곡2 - 전설을 노래하다 (프로듀서 김창환편)|https://cdnimg.melon.co.kr/cm/album/images/020/82/806/2082806_500.jpg/melon/resize/48/quality/80/optimize
+62|3656320|속상해서 (술 한잔 해요 Part.2)|지아|227595|2054891|속상해서|https://cdnimg.melon.co.kr/cm/album/images/020/54/891/2054891_500.jpg/melon/resize/48/quality/80/optimize
+63|3559879|Sex Apeal (Max Farenthide Radio Edit) (Feat. Mike W.)|Bueno Clinic|567812|2015528|Sex Apeal|https://cdnimg.melon.co.kr/cm/album/images/020/15/528/2015528_500.jpg/melon/resize/48/quality/80/optimize
+64|-1|Livin' My Love (개그콘서트 '시청률의 제왕' 삽입곡)|LMFAO~Steve Aoki|331467~487524|2062026|Livin' My Love|https://cdnimg.melon.co.kr/cm/album/images/020/62/026/2062026_500.jpg/melon/resize/48/quality/80/optimize
+65|3703446|The Romantic|투개월|569215|2078506|The Romantic OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/78/506/2078506_500.jpg/melon/resize/48/quality/80/optimize
+66|3672273|달빛이 지고|해오라|540921|2062586|해를 품은 달 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/62/586/2062586_500.jpg/melon/resize/48/quality/80/optimize
+67|3602154|죽고 싶단 말 밖에|허각|28801|2031086|죽고 싶단 말 밖에|https://cdnimg.melon.co.kr/cm/album/images/020/31/086/2031086_500.jpg/melon/resize/48/quality/80/optimize
+68|3710813|입 맞추고 싶어요|정엽|265067|2081886|The Romantic OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/81/886/2081886_500.jpg/melon/resize/48/quality/80/optimize
+69|3683353|너에게로 간다|원티드|55255|2061087|VINTAGE|https://cdnimg.melon.co.kr/cm/album/images/020/61/087/2061087_500.jpg/melon/resize/48/quality/80/optimize
+70|3590149|그 남자 그 여자|포맨 (4MEN)~미(MIIII)|100176~197910|2025499|그 남자 그 여자|https://cdnimg.melon.co.kr/cm/album/images/020/25/499/2025499_500.jpg/melon/resize/48/quality/80/optimize
+71|3611633|Ma Boy 2 (Feat. 효린)|일렉트로보이즈|475721|2034566|Rebirth|https://cdnimg.melon.co.kr/cm/album/images/020/34/566/2034566_500.jpg/melon/resize/48/quality/80/optimize
+72|3687773|Kiss The Rain|이루마~신용재 (2F)~미(MIIII)~빅톤|8048~510537~197910~612482|2070886|Global Project 'Kiss The Rain'|https://cdnimg.melon.co.kr/cm/album/images/020/70/886/2070886_500.jpg/melon/resize/48/quality/80/optimize
+73|3673830|호이 호이 (Hoi Hoi)|레인보우 픽시|614911|2063369|호이 호이 (Hoi Hoi)|https://cdnimg.melon.co.kr/cm/album/images/020/63/369/2063369_500.jpg/melon/resize/48/quality/80/optimize
+74|3667495|예쁜게 다니|살찐고양이|567391|2059827|예쁜게 다니|https://cdnimg.melon.co.kr/cm/album/images/020/59/827/2059827_500.jpg/melon/resize/48/quality/80/optimize
+75|3618293|My My|Apink (에이핑크)|534360|2037666|Snow Pink|https://cdnimg.melon.co.kr/cm/album/images/020/37/666/2037666_500.jpg/melon/resize/48/quality/80/optimize
+76|3709556|나무가 되는 꿈|박지윤|1121|2081172|나무가 되는 꿈|https://cdnimg.melon.co.kr/cm/album/images/020/81/172/2081172_500.jpg/melon/resize/48/quality/80/optimize
+77|3698093|You're My Star|수지 (SUZY)|514741|2075726|드림하이2 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/75/726/2075726_500.jpg/melon/resize/48/quality/80/optimize
+78|3689033|Falling|박진영|1130|2071806|드림하이2 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/71/806/2071806_500.jpg/melon/resize/48/quality/80/optimize
+79|3664293|I Won't Give Up|Jason Mraz|50775|2058286|I Won't Give Up|https://cdnimg.melon.co.kr/cm/album/images/020/58/286/2058286_500.jpg/melon/resize/48/quality/80/optimize
+80|3642699|촌스럽게 굴지마 (Feat. 용준형)|알리 (ALi)|312266|2048291|SOUL-RI : 영혼이 있는 마을|https://cdnimg.melon.co.kr/cm/album/images/020/48/291/2048291_500.jpg/melon/resize/48/quality/80/optimize
+81|3685690|WARRIOR|B.A.P|623451|2069710|WARRIOR|https://cdnimg.melon.co.kr/cm/album/images/020/69/710/2069710_500.jpg/melon/resize/48/quality/80/optimize
+82|3666254|마녀가 된 이유|NS 윤지|433746|2058986|Neo Spirit|https://cdnimg.melon.co.kr/cm/album/images/020/58/986/2058986_500.jpg/melon/resize/48/quality/80/optimize
+83|3712766|사랑한다|써니힐|229494|2082687|도롱뇽도사와 그림자 조작단 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/82/687/2082687_500.jpg/melon/resize/48/quality/80/optimize
+84|3674655|The DJ Is Mine|원더걸스|217764|2063807|The DJ Is Mine|https://cdnimg.melon.co.kr/cm/album/images/020/63/807/2063807_500.jpg/melon/resize/48/quality/80/optimize
+85|3662813|너니까|이현|429480|2057366|The Healing Echo|https://cdnimg.melon.co.kr/cm/album/images/020/57/366/2057366_500.jpg/melon/resize/48/quality/80/optimize
+86|3712978|L.O.V.E|소피야 (Sophiya)|620773|2082786|'위대한 탄생 시즌2' TOP10 (Love Song)|https://cdnimg.melon.co.kr/cm/album/images/020/82/786/2082786_500.jpg/melon/resize/48/quality/80/optimize
+87|3682013|어쩜|Jessica (제시카)~김진표|428829~1136|2067526|난폭한 로맨스 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/67/526/2067526_500.jpg/melon/resize/48/quality/80/optimize
+88|3669418|더위 먹은 갈매기 (Feat. 송은이, 김숙)|유재석|9842|2060806|무한도전 나름 가수다|https://cdnimg.melon.co.kr/cm/album/images/020/60/806/2060806_500.jpg/melon/resize/48/quality/80/optimize
+89|2220302|Mama Do (Uh Oh, Uh Oh)|Pixie Lott|421442|604155|Mama Do (Uh Oh, Uh Oh)|https://cdnimg.melon.co.kr/cm/album/images/006/04/155/604155_500.jpg/melon/resize/48/quality/80/optimize
+90|3715495|어떡해|정인|35989|2084047|일년에 열두남자 OST Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/84/047/2084047_500.jpg/melon/resize/48/quality/80/optimize
+91|3549031|Hello|허각|28801|2012587|LIKE 1st MINI ALBUM 'First Story'|https://cdnimg.melon.co.kr/cm/album/images/020/12/587/2012587_500.jpg/melon/resize/48/quality/80/optimize
+92|3706437|Private|이정|39256|2079806|Private|https://cdnimg.melon.co.kr/cm/album/images/020/79/806/2079806_500.jpg/melon/resize/48/quality/80/optimize
+93|3712319|만약에 우리 둘 중 하나라도 (If We Were) (진재 테마)|박화요비|2017|2082527|한반도 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/82/527/2082527_500.jpg/melon/resize/48/quality/80/optimize
+94|3669897|Like You (Feat. 아이유)|원티드|55255|2061087|VINTAGE|https://cdnimg.melon.co.kr/cm/album/images/020/61/087/2061087_500.jpg/melon/resize/48/quality/80/optimize
+95|3711832|널 위해 (For You)|김재석|47321|2082411|컬러 오브 우먼 OST|https://cdnimg.melon.co.kr/cm/album/images/020/82/411/2082411_500.jpg/melon/resize/48/quality/80/optimize
+96|3538775|좋아보여 (Feat. 검정치마)|버벌진트|6985|2009410|Go Easy|https://cdnimg.melon.co.kr/cm/album/images/020/09/410/2009410_500.jpg/melon/resize/48/quality/80/optimize
+97|3710375|나 생각있는 여자야|혜령|32201|2081567|나 생각있는 여자야|https://cdnimg.melon.co.kr/cm/album/images/020/81/567/2081567_500.jpg/melon/resize/48/quality/80/optimize
+98|3565193|The Boys|소녀시대 (GIRLS' GENERATION)|228069|2017426|'The Boys' The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/020/17/426/2017426_500.jpg/melon/resize/48/quality/80/optimize
+99|3614345|서울사람들|버스커 버스커|569233|2036032|서울사람들|https://cdnimg.melon.co.kr/cm/album/images/020/36/032/2036032_500.jpg/melon/resize/48/quality/80/optimize
+100|3565240|동경소녀|버스커 버스커|569233|2017466|슈퍼스타K 3 Top11 Part 1|https://cdnimg.melon.co.kr/cm/album/images/020/17/466/2017466_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1538203|안녕|KCM|45995|338648|안녕 / 사랑이 올까봐|https://cdnimg.melon.co.kr/cm/album/images/003/38/648/338648_500.jpg/melon/resize/48/quality/80/optimize
+52|1622038|사랑하니까|엠씨더맥스 (M.C the MAX)|161636|349836|Curtain Call (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/49/836/349836_500.jpg/melon/resize/48/quality/80/optimize
+53|1579194|눈물도 미안해서|황보|1719|345776|Lady In Black|https://cdnimg.melon.co.kr/cm/album/images/003/45/776/345776_500.jpg/melon/resize/48/quality/80/optimize
+54|1621063|거짓말처럼 기적처럼|이현우|1176|349726|Heart Blossom|https://cdnimg.melon.co.kr/cm/album/images/003/49/726/349726_500.jpg/melon/resize/48/quality/80/optimize
+55|1586098|어쩌다가|전초아~SHY (손호영)|37649~1580|346599|어쩌다가 (손호영 & 예인)|https://cdnimg.melon.co.kr/cm/album/images/003/46/599/346599_500.jpg/melon/resize/48/quality/80/optimize
+56|1576533|로꾸거!!!|SUPER JUNIOR-T (슈퍼주니어 T)|251847|345483|로꾸거!!!|https://cdnimg.melon.co.kr/cm/album/images/003/45/483/345483_500.jpg/melon/resize/48/quality/80/optimize
+57|1613570|흔들어봐 (Feat. MC 타이푼)|길건|60360|349063|Born Again (본 어게인)|https://cdnimg.melon.co.kr/cm/album/images/003/49/063/349063_500.jpg/melon/resize/48/quality/80/optimize
+58|1459456|흰눈|이루|173424|328069|이루 LEVEL II|https://cdnimg.melon.co.kr/cm/album/images/003/28/069/328069_500.jpg/melon/resize/48/quality/80/optimize
+59|1539175|가지 말라고 (Feat. 박정은)|PK 헤만|211782|338846|Evergreen|https://cdnimg.melon.co.kr/cm/album/images/003/38/846/338846_500.jpg/melon/resize/48/quality/80/optimize
+60|1568640|바보처럼|버블 시스터즈|105696|344518|Dramatic Episode|https://cdnimg.melon.co.kr/cm/album/images/003/44/518/344518_500.jpg/melon/resize/48/quality/80/optimize
+61|1550828|기다릴게...|타이푼|186309|341940|기다릴게...|https://cdnimg.melon.co.kr/cm/album/images/003/41/940/341940_500.jpg/melon/resize/48/quality/80/optimize
+62|1618894|땡벌|이승기|58793|349441|Love|https://cdnimg.melon.co.kr/cm/album/images/003/49/441/349441_500.jpg/melon/resize/48/quality/80/optimize
+63|1613086|히트 (H.I.T)|SUPER JUNIOR (슈퍼주니어)|175404|349037|히트 OST|https://cdnimg.melon.co.kr/cm/album/images/003/49/037/349037_500.jpg/melon/resize/48/quality/80/optimize
+64|1617852|그림자|베이지|222697|349364|Something Like Beige Vol.1|https://cdnimg.melon.co.kr/cm/album/images/003/49/364/349364_500.jpg/melon/resize/48/quality/80/optimize
+65|1621187|고맙습니다|태훈|223082|349733|고맙습니다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/49/733/349733_500.jpg/melon/resize/48/quality/80/optimize
+66|708754|Because Of You|Kelly Clarkson|36329|50321|Breakaway|https://cdnimg.melon.co.kr/cm/album/images/000/50/321/50321_500.jpg/melon/resize/48/quality/80/optimize
+67|1615774|지상에서 영원으로|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+68|1622996|다행이다|이적|1088|350016|나무로 만든 노래|https://cdnimg.melon.co.kr/cm/album/images/003/50/016/350016_500.jpg/melon/resize/48/quality/80/optimize
+69|1574663|반지하나|혜령|32201|345251|하늘아래...그리움...|https://cdnimg.melon.co.kr/cm/album/images/003/45/251/345251_500.jpg/melon/resize/48/quality/80/optimize
+70|1575057|사랑 부르기 (Acoustic Ver.)|장나라|10575|345353|She|https://cdnimg.melon.co.kr/cm/album/images/003/45/353/345353_500.jpg/melon/resize/48/quality/80/optimize
+71|1539174|Evergreen (Feat. 이지혜)|PK 헤만|211782|338846|Evergreen|https://cdnimg.melon.co.kr/cm/album/images/003/38/846/338846_500.jpg/melon/resize/48/quality/80/optimize
+72|1525541|별 (Original Dialog Ver.)|김아중|204828|336050|미녀는 괴로워 OST|https://cdnimg.melon.co.kr/cm/album/images/003/36/050/336050_500.jpg/melon/resize/48/quality/80/optimize
+73|1587882|이별을 말하다|아이|35155|346838|Soul Mate|https://cdnimg.melon.co.kr/cm/album/images/003/46/838/346838_500.jpg/melon/resize/48/quality/80/optimize
+74|1621402|Get Up (Intro) (Feat. 태양)|렉시|7664|349748|RUSH|https://cdnimg.melon.co.kr/cm/album/images/003/49/748/349748_500.jpg/melon/resize/48/quality/80/optimize
+75|1615781|이별하길 정말 잘했어요|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+76|1538204|사랑이 올까봐 (Feat. 화요비)|KCM|45995|338648|안녕 / 사랑이 올까봐|https://cdnimg.melon.co.kr/cm/album/images/003/38/648/338648_500.jpg/melon/resize/48/quality/80/optimize
+77|1613531|What I've Done|LINKIN PARK|101879|349060|What I've Done|https://cdnimg.melon.co.kr/cm/album/images/003/49/060/349060_500.jpg/melon/resize/48/quality/80/optimize
+78|1622966|좋은 사람 (Original Ver.)|신효범|1190|350012|좋은 사람 (Acoustic Ver.)|https://cdnimg.melon.co.kr/cm/album/images/003/50/012/350012_500.jpg/melon/resize/48/quality/80/optimize
+79|1615773|잊어요|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+80|1615775|가시나무새|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+81|1587897|다시 내 곁으로|애즈원~SHY (손호영)|100093~1580|346839|우리가 알고 있는 사랑이야기 다섯|https://cdnimg.melon.co.kr/cm/album/images/003/46/839/346839_500.jpg/melon/resize/48/quality/80/optimize
+82|1621403|Rush (Feat. 태양)|렉시|7664|349748|RUSH|https://cdnimg.melon.co.kr/cm/album/images/003/49/748/349748_500.jpg/melon/resize/48/quality/80/optimize
+83|1613532|슬픈 선물|뱅크|100985|349061|From Vitalsign|https://cdnimg.melon.co.kr/cm/album/images/003/49/061/349061_500.jpg/melon/resize/48/quality/80/optimize
+84|-1|이별다짐|샤인|222889|349639|1st Album The Story Of 12 L.O.V.E|https://cdnimg.melon.co.kr/cm/album/images/003/49/639/349639_500.jpg/melon/resize/48/quality/80/optimize
+85|1574670|사랑하니까|더 크로스|107224|345252|눈물 이야기 1 (사랑하니까)|https://cdnimg.melon.co.kr/cm/album/images/003/45/252/345252_500.jpg/melon/resize/48/quality/80/optimize
+86|1610080|If|전혜빈|174009|348751|마녀유희 OST|https://cdnimg.melon.co.kr/cm/album/images/003/48/751/348751_500.jpg/melon/resize/48/quality/80/optimize
+87|1615779|한여름날의 꿈 Part.2|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+88|1613663|With Love|Hilary Duff|39088|349069|Dignity|https://cdnimg.melon.co.kr/cm/album/images/003/49/069/349069_500.jpg/melon/resize/48/quality/80/optimize
+89|1621404|19금 쿵쿵|렉시|7664|349748|RUSH|https://cdnimg.melon.co.kr/cm/album/images/003/49/748/349748_500.jpg/melon/resize/48/quality/80/optimize
+90|1610054|Break It|카라|222128|348747|Blooming|https://cdnimg.melon.co.kr/cm/album/images/003/48/747/348747_500.jpg/melon/resize/48/quality/80/optimize
+91|1583299|Way Back Into Love|Hugh Grant|220449|346239|그 여자 작사 그 남자 작곡 OST|https://cdnimg.melon.co.kr/cm/album/images/003/46/239/346239_500.jpg/melon/resize/48/quality/80/optimize
+92|1552384|새 살|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+93|1609560|잘못했나요|세이|222109|348693|Sei's Diary|https://cdnimg.melon.co.kr/cm/album/images/003/48/693/348693_500.jpg/melon/resize/48/quality/80/optimize
+94|1615778|꽃잎|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+95|1621406|Baby Boy (Feat. 박봄)|렉시|7664|349748|RUSH|https://cdnimg.melon.co.kr/cm/album/images/003/49/748/349748_500.jpg/melon/resize/48/quality/80/optimize
+96|1621408|Super Fly (Feat. G.D & T.O.P & 태양)|렉시|7664|349748|RUSH|https://cdnimg.melon.co.kr/cm/album/images/003/49/748/349748_500.jpg/melon/resize/48/quality/80/optimize
+97|1616546|비오니까|싸이 (PSY)|3865|349283|2006 올나잇스탠드 LIVE & DVD|https://cdnimg.melon.co.kr/cm/album/images/003/49/283/349283_500.jpg/melon/resize/48/quality/80/optimize
+98|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+99|1615783|사랑아 잘가|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+100|1621407|Hit This Party (Feat. 김지은)|렉시|7664|349748|RUSH|https://cdnimg.melon.co.kr/cm/album/images/003/49/748/349748_500.jpg/melon/resize/48/quality/80/optimize

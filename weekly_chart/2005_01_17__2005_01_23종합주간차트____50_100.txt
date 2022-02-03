@@ -1,0 +1,44 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+55|600942|It's Raining|비|17671|42127|It's Raining|https://cdnimg.melon.co.kr/cm/album/images/000/42/127/42127_500.jpg/melon/resize/48/quality/80/optimize
+56|531840|Y (Please Tell Me Why)|프리스타일|100144|35102|Freestyle 3|https://cdnimg.melon.co.kr/cm/album/images/000/35/102/35102_500.jpg/melon/resize/48/quality/80/optimize
+57|672045|쟈크와 래미 이야기|O2|4192|47647|The Story Of Zac & Lemi|https://cdnimg.melon.co.kr/cm/album/images/000/47/647/47647_500.jpg/melon/resize/48/quality/80/optimize
+59|665234|주여호와는 광대하시도다|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+60|602302|누구와 사랑을 하다가|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+61|665235|Reason 4 Breathing|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+63|623903|처음 그때로|정재욱|7839|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+64|530124|삭제|이승기|58793|34984|나방의 꿈|https://cdnimg.melon.co.kr/cm/album/images/000/34/984/34984_500.jpg/melon/resize/48/quality/80/optimize
+65|632786|그대 눈물까지도|신혜성|1741|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+66|672110|너만을 생각하며|해준|11832|47652|Winback with Hae Jun|https://cdnimg.melon.co.kr/cm/album/images/000/47/652/47652_500.jpg/melon/resize/48/quality/80/optimize
+67|667279|봄날|캔디맨|101224|47236|봄날 OST|https://cdnimg.melon.co.kr/cm/album/images/000/47/236/47236_500.jpg/melon/resize/48/quality/80/optimize
+68|-1|Superstar|Jamelia|56026|34495|Thank You|https://cdnimg.melon.co.kr/cm/album/images/000/34/495/34495_500.jpg/melon/resize/48/quality/80/optimize
+69|623241|반대가 끌리는 이유|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+70|632790|세월의 흔적 다 버리고 (Duet. Lyn)|에릭|1739|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+71|633409|힙합구조대 (Feat. 에픽하이, 김진표, 주석, 이준, 에릭, 조PD, 김창렬, 바스코)|이현도|3614|44653|The new Classik… And You Don’T Stop|https://cdnimg.melon.co.kr/cm/album/images/000/44/653/44653_500.jpg/melon/resize/48/quality/80/optimize
+72|623472|단 하나의 사랑|이재훈 (쿨)|1574|43741|미라클 2집|https://cdnimg.melon.co.kr/cm/album/images/000/43/741/43741_500.jpg/melon/resize/48/quality/80/optimize
+73|623248|헤어짐보다 아픈 그리움|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+74|533228|Life Is Cool|Sweetbox|100060|35191|Adagio|https://cdnimg.melon.co.kr/cm/album/images/000/35/191/35191_500.jpg/melon/resize/48/quality/80/optimize
+75|622443|Tangled Up In me|Skye Sweetnam|81450|43366|Noise From The Basement|https://cdnimg.melon.co.kr/cm/album/images/000/43/366/43366_500.jpg/melon/resize/48/quality/80/optimize
+76|642427|사랑하기 좋은 날|장나라|10575|45305|나의 이야기|https://cdnimg.melon.co.kr/cm/album/images/000/45/305/45305_500.jpg/melon/resize/48/quality/80/optimize
+77|665233|Whispering Of The Children|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+78|632785|붉은 노을|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+79|657254|Crazy|SE7EN|33513|46415|Crazy (Single)|https://cdnimg.melon.co.kr/cm/album/images/000/46/415/46415_500.jpg/melon/resize/48/quality/80/optimize
+80|623243|Loving You|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+81|663405|난 아직 모르잖아요|리즈 (Leeds)|26762|46872|Memory|https://cdnimg.melon.co.kr/cm/album/images/000/46/872/46872_500.jpg/melon/resize/48/quality/80/optimize
+82|642277|Candy|Mandy Moore|4065|45295|The Best Of Mandy Moore|https://cdnimg.melon.co.kr/cm/album/images/000/45/295/45295_500.jpg/melon/resize/48/quality/80/optimize
+83|534252|사랑의 바보|더 넛츠 (The NuTs)|108988|35269|The Nuts|https://cdnimg.melon.co.kr/cm/album/images/000/35/269/35269_500.jpg/melon/resize/48/quality/80/optimize
+84|623424|사랑이 변하니|페이지|100012|43738|She Is 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/738/43738_500.jpg/melon/resize/48/quality/80/optimize
+85|622664|빙고 (아싸)|거북이|101463|43466|Turtles 3집|https://cdnimg.melon.co.kr/cm/album/images/000/43/466/43466_500.jpg/melon/resize/48/quality/80/optimize
+86|632784|그 아픔까지 사랑한거야|전진|1740|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+87|623156|사랑해요|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+88|667795|Forever You|이수영|995|47283|As Time Goes By|https://cdnimg.melon.co.kr/cm/album/images/000/47/283/47283_500.jpg/melon/resize/48/quality/80/optimize
+89|601488|Toxic|Britney Spears|8046|41985|Greatest Hits : My Prerogative|https://cdnimg.melon.co.kr/cm/album/images/000/41/985/41985_500.jpg/melon/resize/48/quality/80/optimize
+90|-1|Run To You|m.e.l.o.n|170259|47032|진심으로 눈물이 흐릅니다.|https://cdnimg.melon.co.kr/cm/album/images/000/47/032/47032_500.jpg/melon/resize/48/quality/80/optimize
+91|623239|자유|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+92|642426|연인 (Duet. 신혜성)|장나라|10575|45305|나의 이야기|https://cdnimg.melon.co.kr/cm/album/images/000/45/305/45305_500.jpg/melon/resize/48/quality/80/optimize
+93|529685|한 남자|김종국|1692|34958|Evolution|https://cdnimg.melon.co.kr/cm/album/images/000/34/958/34958_500.jpg/melon/resize/48/quality/80/optimize
+94|632778|잠 못 드는 밤 비는 내리고|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+95|660976|Real To Me (Album Version)|Brian McFadden|45737|46665|Real To Me|https://cdnimg.melon.co.kr/cm/album/images/000/46/665/46665_500.jpg/melon/resize/48/quality/80/optimize
+96|623904|가슴에 누가 살아요|제이|1203|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+97|632219|러브송|7공주|108299|44546|겨울...봄, 여름, 가을|https://cdnimg.melon.co.kr/cm/album/images/000/44/546/44546_500.jpg/melon/resize/48/quality/80/optimize
+98|667796|연애하고 싶은 여자|이수영|995|47283|As Time Goes By|https://cdnimg.melon.co.kr/cm/album/images/000/47/283/47283_500.jpg/melon/resize/48/quality/80/optimize
+99|636332|언젠가는|싸이 (PSY)|3865|44877|언젠가는 (몽정기 2 삽입곡) - 디지털 싱글|https://cdnimg.melon.co.kr/cm/album/images/000/44/877/44877_500.jpg/melon/resize/48/quality/80/optimize

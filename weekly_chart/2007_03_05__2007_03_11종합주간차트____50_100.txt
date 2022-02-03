@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1555484|예쁘잖아|신화|100078|342795|Winter Story 2006~2007|https://cdnimg.melon.co.kr/cm/album/images/003/42/795/342795_500.jpg/melon/resize/48/quality/80/optimize
+52|1521142|가지마|브라이언|1929|335456|The Brian|https://cdnimg.melon.co.kr/cm/album/images/003/35/456/335456_500.jpg/melon/resize/48/quality/80/optimize
+53|1581008|미운오리 새끼|엠씨 더 맥스 2기|222283|346013|M.C The Max 5 #1|https://cdnimg.melon.co.kr/cm/album/images/003/46/013/346013_500.jpg/melon/resize/48/quality/80/optimize
+54|1583299|Way Back Into Love|Hugh Grant|220449|346239|그 여자 작사 그 남자 작곡 OST|https://cdnimg.melon.co.kr/cm/album/images/003/46/239/346239_500.jpg/melon/resize/48/quality/80/optimize
+55|1581599|잔소리|이효리|1713|346067|Toc Toc Toc (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/46/067/346067_500.jpg/melon/resize/48/quality/80/optimize
+56|1500204|사랑가|SG 워너비|108363|332658|The Precious History|https://cdnimg.melon.co.kr/cm/album/images/003/32/658/332658_500.jpg/melon/resize/48/quality/80/optimize
+57|1551689|날 사랑하지 마요 (Feat. J)|H-유진|198032|342096|날 사랑하지 마요|https://cdnimg.melon.co.kr/cm/album/images/003/42/096/342096_500.jpg/melon/resize/48/quality/80/optimize
+58|1570684|이게 나예요|SAT|218421|344902|Another Day|https://cdnimg.melon.co.kr/cm/album/images/003/44/902/344902_500.jpg/melon/resize/48/quality/80/optimize
+59|1583468|19금 Girlfriend (Radio Edit)|Avril Lavigne|30023|346355|Girlfriend EP|https://cdnimg.melon.co.kr/cm/album/images/003/46/355/346355_500.jpg/melon/resize/48/quality/80/optimize
+60|1524086|너에게 쓰는 편지 Part 2 (Feat. MayBee)|MC몽|11538|335843|The Way I Am (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/35/843/335843_500.jpg/melon/resize/48/quality/80/optimize
+61|1583268|...사랑했잖아... Part2|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+62|1579972|가지마 가지마|상상밴드|81449|345856|두번째 상상|https://cdnimg.melon.co.kr/cm/album/images/003/45/856/345856_500.jpg/melon/resize/48/quality/80/optimize
+63|1525533|Maria|김아중|204828|336050|미녀는 괴로워 OST|https://cdnimg.melon.co.kr/cm/album/images/003/36/050/336050_500.jpg/melon/resize/48/quality/80/optimize
+64|1574302|너는 눈물이다|레디오|219643|345208|Ready'O 1집|https://cdnimg.melon.co.kr/cm/album/images/003/45/208/345208_500.jpg/melon/resize/48/quality/80/optimize
+65|1537321|안 행복해|장나라|10575|338468|Lady Like|https://cdnimg.melon.co.kr/cm/album/images/003/38/468/338468_500.jpg/melon/resize/48/quality/80/optimize
+66|1583265|Kissing U|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+67|1583266|마음이 시킨 일|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+68|1569356|그깟 사랑|리즈 (Leeds)|26762|344615|The Land Of Dream|https://cdnimg.melon.co.kr/cm/album/images/003/44/615/344615_500.jpg/melon/resize/48/quality/80/optimize
+69|1587358|하나마나송 (TV Ver.)|무한도전|209787|346699|무한도전 하나마나송|https://cdnimg.melon.co.kr/cm/album/images/003/46/699/346699_500.jpg/melon/resize/48/quality/80/optimize
+70|1563630|착한 남자|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+71|1574301|끝이란 말이죠...|레디오|219643|345208|Ready'O 1집|https://cdnimg.melon.co.kr/cm/album/images/003/45/208/345208_500.jpg/melon/resize/48/quality/80/optimize
+72|1583269|눈물이 마를까요 (Feat. 강태우)|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+73|1484802|그녀가 울고있네요|가비엔제이|174997|330574|The Very Surprise|https://cdnimg.melon.co.kr/cm/album/images/003/30/574/330574_500.jpg/melon/resize/48/quality/80/optimize
+74|1459449|까만안경 (Feat. Day Light)|이루~Daylight|173424~27784|328069|이루 LEVEL II|https://cdnimg.melon.co.kr/cm/album/images/003/28/069/328069_500.jpg/melon/resize/48/quality/80/optimize
+75|1574391|Loving Memory|자우림~드렁큰 타이거|100094~100027|345218|Spray Love|https://cdnimg.melon.co.kr/cm/album/images/003/45/218/345218_500.jpg/melon/resize/48/quality/80/optimize
+76|1570569|지울 수 없는 사랑|SS501|170541|344891|외과의사 봉달희 OST|https://cdnimg.melon.co.kr/cm/album/images/003/44/891/344891_500.jpg/melon/resize/48/quality/80/optimize
+77|1583270|궁금해... (Feat. Eric)|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+78|1521181|내 사람입니다|더 넛츠 (The NuTs)|108988|335460|Whispers Of Love|https://cdnimg.melon.co.kr/cm/album/images/003/35/460/335460_500.jpg/melon/resize/48/quality/80/optimize
+79|1576344|안녕? (Original Ver.)|더필름|54988|345465|안녕?|https://cdnimg.melon.co.kr/cm/album/images/003/45/465/345465_500.jpg/melon/resize/48/quality/80/optimize
+80|1534968|가거라 사랑아|서문탁|2076|337448|Leap Of Truth|https://cdnimg.melon.co.kr/cm/album/images/003/37/448/337448_500.jpg/melon/resize/48/quality/80/optimize
+81|1570653|얼룩진 거울|박화요비|2017|344898|Somewhere Over The Rainbow Vol.4|https://cdnimg.melon.co.kr/cm/album/images/003/44/898/344898_500.jpg/melon/resize/48/quality/80/optimize
+82|1583271|미칠 것 같다|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+83|708754|Because Of You|Kelly Clarkson|36329|50321|Breakaway|https://cdnimg.melon.co.kr/cm/album/images/000/50/321/50321_500.jpg/melon/resize/48/quality/80/optimize
+84|1578936|Pop (Feat. Annie K)|엔젤|10892|345755|My Name Is Enjel|https://cdnimg.melon.co.kr/cm/album/images/003/45/755/345755_500.jpg/melon/resize/48/quality/80/optimize
+85|1525541|별 (Original Dialog Ver.)|김아중|204828|336050|미녀는 괴로워 OST|https://cdnimg.melon.co.kr/cm/album/images/003/36/050/336050_500.jpg/melon/resize/48/quality/80/optimize
+86|1585329|To The Maximum|맥시멈 크루|220589|346528|To The Maximum|https://cdnimg.melon.co.kr/cm/album/images/003/46/528/346528_500.jpg/melon/resize/48/quality/80/optimize
+87|1467722|거리에서|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+88|1583272|I'm Sorry|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+89|1562344|동화 (童話)|김형중|5247|343929|동화 (童話)|https://cdnimg.melon.co.kr/cm/album/images/003/43/929/343929_500.jpg/melon/resize/48/quality/80/optimize
+90|1580008|죽어도 갖지 못할 사랑|포코스|220255|345860|Recall To One's Mind|https://cdnimg.melon.co.kr/cm/album/images/003/45/860/345860_500.jpg/melon/resize/48/quality/80/optimize
+91|1569657|사랑아 어떻게|아이비|171127|344636|A Sweet Moment|https://cdnimg.melon.co.kr/cm/album/images/003/44/636/344636_500.jpg/melon/resize/48/quality/80/optimize
+92|1574888|사랑에 미치다|이수영|995|344974|사랑에 미치다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/44/974/344974_500.jpg/melon/resize/48/quality/80/optimize
+93|1583273|집으로|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+94|1583274|눈을 떠도 감아도|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+95|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+96|1575501|독백 (Feat. Clazziquai)|라임버스|219893|345408|Get On The Bus|https://cdnimg.melon.co.kr/cm/album/images/003/45/408/345408_500.jpg/melon/resize/48/quality/80/optimize
+97|1554679|19금 Shee|베이비복스 2기|216382|342740|오(五).가(歌).무(舞).세(世).경(炅)|https://cdnimg.melon.co.kr/cm/album/images/003/42/740/342740_500.jpg/melon/resize/48/quality/80/optimize
+98|1583275|Lovelyn (Feat. Crown J)|린|8530|346237|The Pride Of The Morning|https://cdnimg.melon.co.kr/cm/album/images/003/46/237/346237_500.jpg/melon/resize/48/quality/80/optimize
+99|1575589|Listen|Beyonce|3535|345414|드림걸즈 OST|https://cdnimg.melon.co.kr/cm/album/images/003/45/414/345414_500.jpg/melon/resize/48/quality/80/optimize
+100|1569163|이차선 다리|차태현|2830|344590|복면달호 OST|https://cdnimg.melon.co.kr/cm/album/images/003/44/590/344590_500.jpg/melon/resize/48/quality/80/optimize

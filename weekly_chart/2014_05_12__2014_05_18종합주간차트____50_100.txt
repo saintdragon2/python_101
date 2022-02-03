@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4478189|살아 봤으면 해|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+52|4633164|Thunder|EXO-K|625511|2254734|The 2nd Mini Album '중독 (Overdose)'|https://cdnimg.melon.co.kr/cm/album/images/022/54/734/2254734_500.jpg/melon/resize/48/quality/80/optimize
+53|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+54|4641436|사랑하게 해줘요|가비엔제이~6 to 8|174997~773241|2255843|사랑하게 해줘요|https://cdnimg.melon.co.kr/cm/album/images/022/55/843/2255843_500.jpg/melon/resize/48/quality/80/optimize
+55|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+56|4639333|Best Man (Feat. 에스나)|휘성 (Realslow)|10577|2255565|The Best Man|https://cdnimg.melon.co.kr/cm/album/images/022/55/565/2255565_500.jpg/melon/resize/48/quality/80/optimize
+57|4471542|Mr.Mr.|소녀시대 (GIRLS' GENERATION)|228069|2235426|The 4th Mini Album 'Mr.Mr.'|https://cdnimg.melon.co.kr/cm/album/images/022/35/426/2235426_500.jpg/melon/resize/48/quality/80/optimize
+58|4383349|노래가 늘었어|에일리(Ailee)|629831|2224293|노래가 늘었어|https://cdnimg.melon.co.kr/cm/album/images/022/24/293/2224293_500.jpg/melon/resize/48/quality/80/optimize
+59|4586090|밀당의 고수|에디킴|601979|2249449|너 사용법|https://cdnimg.melon.co.kr/cm/album/images/022/49/449/2249449_500.jpg/melon/resize/48/quality/80/optimize
+60|4639340|NObody kNOws|길미|14490|2255566|NObody kNOws|https://cdnimg.melon.co.kr/cm/album/images/022/55/566/2255566_500.jpg/melon/resize/48/quality/80/optimize
+61|4579475|19금 스토커 (Feat. 크루셜스타)|매드클라운|219621|2248665|표독|https://cdnimg.melon.co.kr/cm/album/images/022/48/665/2248665_500.jpg/melon/resize/48/quality/80/optimize
+62|4633163|월광 (Moonlight)|EXO-K|625511|2254734|The 2nd Mini Album '중독 (Overdose)'|https://cdnimg.melon.co.kr/cm/album/images/022/54/734/2254734_500.jpg/melon/resize/48/quality/80/optimize
+63|4592267|그 다음해|박정현|1099|2250127|싱크로퓨전 (Syncrofusion)|https://cdnimg.melon.co.kr/cm/album/images/022/50/127/2250127_500.jpg/melon/resize/48/quality/80/optimize
+64|3893169|홀로 (Feat. 김나영)|정키|570731|2148411|Break Up|https://cdnimg.melon.co.kr/cm/album/images/021/48/411/2148411_500.jpg/melon/resize/48/quality/80/optimize
+65|4583486|인공잔디|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+66|4564373|어이 (Uh-ee)|크레용팝|685904|2247021|어이 (Uh-ee)|https://cdnimg.melon.co.kr/cm/album/images/022/47/021/2247021_500.jpg/melon/resize/48/quality/80/optimize
+67|4412196|안녕|효린|573812|2228106|별에서 온 그대 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/28/106/2228106_500.jpg/melon/resize/48/quality/80/optimize
+68|4237755|착해 빠졌어 (Stupid In Love)|소유 (SOYOU)~매드클라운|490981~219621|2200521|착해 빠졌어 (Stupid In Love)|https://cdnimg.melon.co.kr/cm/album/images/022/00/521/2200521_500.jpg/melon/resize/48/quality/80/optimize
+69|4583484|지하철에서|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+70|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize
+71|4478191|멘붕 (CL Solo)|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+72|4462368|Can't Stop|CNBLUE (씨엔블루)|450801|2234269|Can't Stop|https://cdnimg.melon.co.kr/cm/album/images/022/34/269/2234269_500.jpg/melon/resize/48/quality/80/optimize
+73|3808189|Call You Mine (Feat. Geologic Of The Blue Scholars)|Jeff Bernat|673152|2124668|The Gentleman Approach|https://cdnimg.melon.co.kr/cm/album/images/021/24/668/2124668_500.jpg/melon/resize/48/quality/80/optimize
+74|4585736|Bad (Feat. Vassy) (Radio Edit)|David Guetta~Showtek|182123~243157|2249404|Bad (Feat. Vassy) (Radio Edit)|https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/48/quality/80/optimize
+75|4635458|그래, 너|스탠딩 에그|467880|2255052|36.5|https://cdnimg.melon.co.kr/cm/album/images/022/55/052/2255052_500.jpg/melon/resize/48/quality/80/optimize
+76|4493462|보고 싶어...운다|린|8530|2238706|Le Grand Bleu|https://cdnimg.melon.co.kr/cm/album/images/022/38/706/2238706_500.jpg/melon/resize/48/quality/80/optimize
+77|4635671|시계를 보며 계절을 지나|윤혁(디셈버)|673014|2255081|CS Numbers Vol.6|https://cdnimg.melon.co.kr/cm/album/images/022/55/081/2255081_500.jpg/melon/resize/48/quality/80/optimize
+78|4637285|미안해|정준일|242988|2255291|마녀의 연애 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/55/291/2255291_500.jpg/melon/resize/48/quality/80/optimize
+79|4630408|손|아웃사이더|181785|2254374|손|https://cdnimg.melon.co.kr/cm/album/images/022/54/374/2254374_500.jpg/melon/resize/48/quality/80/optimize
+80|4433528|오늘 같은 눈물이|허각|28801|2230896|별에서 온 그대 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/30/896/2230896_500.jpg/melon/resize/48/quality/80/optimize
+81|4443748|썸남썸녀 (Feat. 휘성)|케이윌~마마무 (Mamamoo)|175139~750053|2232117|썸남썸녀|https://cdnimg.melon.co.kr/cm/album/images/022/32/117/2232117_500.jpg/melon/resize/48/quality/80/optimize
+82|4583488|작은별|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+83|4629351|매일 다른 눈물이|손승연|661773|2254209|Sonnet Blooms|https://cdnimg.melon.co.kr/cm/album/images/022/54/209/2254209_500.jpg/melon/resize/48/quality/80/optimize
+84|4641336|OK|포맨 (4MEN)|100176|2255824|4MEN The 5th Album (1998)|https://cdnimg.melon.co.kr/cm/album/images/022/55/824/2255824_500.jpg/melon/resize/48/quality/80/optimize
+85|4412480|답이 없었어|홍대광|699623|2228144|THE SILVER LINING|https://cdnimg.melon.co.kr/cm/album/images/022/28/144/2228144_500.jpg/melon/resize/48/quality/80/optimize
+86|3174148|가슴 시린 이야기 (Feat. 용준형 Of Beast)|휘성 (Realslow)|10577|1199451|가슴 시린 이야기|https://cdnimg.melon.co.kr/cm/album/images/011/99/451/1199451_500.jpg/melon/resize/48/quality/80/optimize
+87|4639079|8dayz (Feat. 용준형 Of BEAST)|메건리|773111|2255525|MeGan The First Single 8dayz|https://cdnimg.melon.co.kr/cm/album/images/022/55/525/2255525_500.jpg/melon/resize/48/quality/80/optimize
+88|4572452|2 Years Apart|에디킴|601979|2247799|2 Years Apart|https://cdnimg.melon.co.kr/cm/album/images/022/47/799/2247799_500.jpg/melon/resize/48/quality/80/optimize
+89|4643464|Miss Right|방탄소년단|672375|2256072|Skool Luv Affair Special Addition|https://cdnimg.melon.co.kr/cm/album/images/022/56/072/2256072_500.jpg/melon/resize/48/quality/80/optimize
+90|4490672|그대라구요|정은지|644871|2238278|쓰리 데이즈 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/38/278/2238278_500.jpg/melon/resize/48/quality/80/optimize
+91|3436083|끝사랑|김범수|6502|1302654|Solista Part.2|https://cdnimg.melon.co.kr/cm/album/images/013/02/654/1302654_500.jpg/melon/resize/48/quality/80/optimize
+92|4633165|Run|EXO-K|625511|2254734|The 2nd Mini Album '중독 (Overdose)'|https://cdnimg.melon.co.kr/cm/album/images/022/54/734/2254734_500.jpg/melon/resize/48/quality/80/optimize
+93|4554286|사이드미러걸 (Feat. 산체스 Of 팬텀)|루이 (긱스)|657072|2245888|靈感 (영감)|https://cdnimg.melon.co.kr/cm/album/images/022/45/888/2245888_500.jpg/melon/resize/48/quality/80/optimize
+94|4366156|Dali, Van, Picasso|빈지노 (Beenzino)|532029|2222076|Dali, Van, Picasso|https://cdnimg.melon.co.kr/cm/album/images/022/22/076/2222076_500.jpg/melon/resize/48/quality/80/optimize
+95|4504110|널 사랑한다, 지운다, 또 운다|신용재 (2F)|510537|2240136|쓰리 데이즈 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/40/136/2240136_500.jpg/melon/resize/48/quality/80/optimize
+96|4606746|다음날|JUNIEL(서아)|673198|2251668|다음날|https://cdnimg.melon.co.kr/cm/album/images/022/51/668/2251668_500.jpg/melon/resize/48/quality/80/optimize
+97|4634786|사랑한단 말|이창민~정진운|443620~557582|2254958|호텔킹 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/54/958/2254958_500.jpg/melon/resize/48/quality/80/optimize
+98|4614200|사랑해도 너무나|윤건|14801|2252536|엔젤아이즈 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/52/536/2252536_500.jpg/melon/resize/48/quality/80/optimize
+99|4633166|Love, Love, Love|EXO-K|625511|2254734|The 2nd Mini Album '중독 (Overdose)'|https://cdnimg.melon.co.kr/cm/album/images/022/54/734/2254734_500.jpg/melon/resize/48/quality/80/optimize
+100|4484403|씨스루|권진아|760046|2237318|K팝 스타 시즌3 TOP10 Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/37/318/2237318_500.jpg/melon/resize/48/quality/80/optimize

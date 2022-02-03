@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|3678813|시간을 거슬러|린|8530|2065906|해를 품은 달 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/65/906/2065906_500.jpg/melon/resize/48/quality/80/optimize
+2|3691429|내가 노래를 못해도|SE7EN|33513|2072673|Se7en New Mini Album|https://cdnimg.melon.co.kr/cm/album/images/020/72/673/2072673_500.jpg/melon/resize/48/quality/80/optimize
+3|3663978|Lovey-Dovey|티아라|412000|2058067|Funky Town|https://cdnimg.melon.co.kr/cm/album/images/020/58/067/2058067_500.jpg/melon/resize/48/quality/80/optimize
+4|3689468|지독하게|FTISLAND (FT아일랜드)|226490|2072048|Grown-Up|https://cdnimg.melon.co.kr/cm/album/images/020/72/048/2072048_500.jpg/melon/resize/48/quality/80/optimize
+5|3689060|내가 싫다|케이윌|175139|2071810|내가 싫다|https://cdnimg.melon.co.kr/cm/album/images/020/71/810/2071810_500.jpg/melon/resize/48/quality/80/optimize
+6|3685853|이럴 줄 알았어|비스트|436981|2069786|이럴 줄 알았어|https://cdnimg.melon.co.kr/cm/album/images/020/69/786/2069786_500.jpg/melon/resize/48/quality/80/optimize
+7|3666573|애상|10CM|468244|2059186|윤일상 작곡가 21주년 기념 앨범 I'm 21|https://cdnimg.melon.co.kr/cm/album/images/020/59/186/2059186_500.jpg/melon/resize/48/quality/80/optimize
+8|3681993|널 사랑하겠어|효린|573812|2067506|사랑을 보다 2 OST|https://cdnimg.melon.co.kr/cm/album/images/020/67/506/2067506_500.jpg/melon/resize/48/quality/80/optimize
+9|3675692|베짱이 찬가|써니힐|229494|2064311|The Grasshoppers|https://cdnimg.melon.co.kr/cm/album/images/020/64/311/2064311_500.jpg/melon/resize/48/quality/80/optimize
+10|3699257|생각날거야|다비치|236815|2076258|LOVE CALL (With 다비치)|https://cdnimg.melon.co.kr/cm/album/images/020/76/258/2076258_500.jpg/melon/resize/48/quality/80/optimize
+11|3665143|거기서거기 (Without You)|다이나믹 듀오|108358|2058415|Dynamicduo 6th Digilog 2/2|https://cdnimg.melon.co.kr/cm/album/images/020/58/415/2058415_500.jpg/melon/resize/48/quality/80/optimize
+12|3625504|너랑 나|아이유|261143|2040666|Last Fantasy|https://cdnimg.melon.co.kr/cm/album/images/020/40/666/2040666_500.jpg/melon/resize/48/quality/80/optimize
+13|3630755|Trouble Maker|트러블메이커|591031|2043387|Trouble Maker|https://cdnimg.melon.co.kr/cm/album/images/020/43/387/2043387_500.jpg/melon/resize/48/quality/80/optimize
+14|3695630|너 없이 사는 것도|용준형|243232|2074713|너 없이 사는 것도|https://cdnimg.melon.co.kr/cm/album/images/020/74/713/2074713_500.jpg/melon/resize/48/quality/80/optimize
+15|3666277|미치겠어|틴탑|483581|2059007|It's|https://cdnimg.melon.co.kr/cm/album/images/020/59/007/2059007_500.jpg/melon/resize/48/quality/80/optimize
+16|3654576|우리 사랑했잖아|다비치~티아라|236815~412000|2053887|우리 사랑했잖아|https://cdnimg.melon.co.kr/cm/album/images/020/53/887/2053887_500.jpg/melon/resize/48/quality/80/optimize
+17|3686634|Hit U|달샤벳|514619|2070186|Hit U|https://cdnimg.melon.co.kr/cm/album/images/020/70/186/2070186_500.jpg/melon/resize/48/quality/80/optimize
+18|3684693|눈물길|휘성 (Realslow)|10577|2069126|해를 품은 달 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/020/69/126/2069126_500.jpg/melon/resize/48/quality/80/optimize
+19|3585793|그리워 그리워|노을|105623|2024088|그리움|https://cdnimg.melon.co.kr/cm/album/images/020/24/088/2024088_500.jpg/melon/resize/48/quality/80/optimize
+20|3669673|전쟁이야|엠블랙|436980|2058166|MBLAQ 4th Mini Album '100%Ver.'|https://cdnimg.melon.co.kr/cm/album/images/020/58/166/2058166_500.jpg/melon/resize/48/quality/80/optimize
+21|3692955|난리나|블락비 (Block B)|532201|2073331|Welcome to the BLOCK|https://cdnimg.melon.co.kr/cm/album/images/020/73/331/2073331_500.jpg/melon/resize/48/quality/80/optimize
+22|3694935|문자 (Feat. 백지영)|마리오|243278|2074487|문자|https://cdnimg.melon.co.kr/cm/album/images/020/74/487/2074487_500.jpg/melon/resize/48/quality/80/optimize
+23|3669413|키 큰 노총각 이야기|정준하|229115|2060806|무한도전 나름 가수다|https://cdnimg.melon.co.kr/cm/album/images/020/60/806/2060806_500.jpg/melon/resize/48/quality/80/optimize
+24|3690927|DIRTY|미료|6272|2072614|MIRYO aka JOHONEY|https://cdnimg.melon.co.kr/cm/album/images/020/72/614/2072614_500.jpg/melon/resize/48/quality/80/optimize
+25|3633511|살기 위해서|노을|105623|2044412|빠담빠담 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/44/412/2044412_500.jpg/melon/resize/48/quality/80/optimize
+26|3698093|You're My Star|수지 (SUZY)|514741|2075726|드림하이2 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/020/75/726/2075726_500.jpg/melon/resize/48/quality/80/optimize
+27|3698565|겁이 나서|나윤권~백지영|58979~1118|2075930|겁이 나서|https://cdnimg.melon.co.kr/cm/album/images/020/75/930/2075930_500.jpg/melon/resize/48/quality/80/optimize
+28|3639713|그 노래를 틀때마다|허각~LE (EXID)|28801~593194|2046966|그 노래를 틀때마다|https://cdnimg.melon.co.kr/cm/album/images/020/46/966/2046966_500.jpg/melon/resize/48/quality/80/optimize
+29|3607859|Cry Cry|티아라|412000|2033270|Black Eyes|https://cdnimg.melon.co.kr/cm/album/images/020/33/270/2033270_500.jpg/melon/resize/48/quality/80/optimize
+30|3143265|Rolling In The Deep|Adele|241925|1173053|21|https://cdnimg.melon.co.kr/cm/album/images/011/73/053/1173053_500.jpg/melon/resize/48/quality/80/optimize
+31|3689033|Falling|박진영|1130|2071806|드림하이2 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/020/71/806/2071806_500.jpg/melon/resize/48/quality/80/optimize
+32|971441|광대 (Feat. B.M.K)|리쌍|103289|308473|Library Of Soul|https://cdnimg.melon.co.kr/cm/album/images/003/08/473/308473_500.jpg/melon/resize/48/quality/80/optimize
+33|3687773|Kiss The Rain|이루마~신용재 (2F)~미(MIIII)~빅톤|8048~510537~197910~612482|2070886|Global Project 'Kiss The Rain'|https://cdnimg.melon.co.kr/cm/album/images/020/70/886/2070886_500.jpg/melon/resize/48/quality/80/optimize
+34|-1|Moves Like Jagger (Feat. Christina Aguilera) (Studio Recording From The Voice Performance)|Maroon 5|107721|1317394|Moves Like Jagger|https://cdnimg.melon.co.kr/cm/album/images/013/17/394/1317394_500.jpg/melon/resize/48/quality/80/optimize
+35|3683353|너에게로 간다|원티드|55255|2061087|VINTAGE|https://cdnimg.melon.co.kr/cm/album/images/020/61/087/2061087_500.jpg/melon/resize/48/quality/80/optimize
+36|3656320|속상해서 (술 한잔 해요 Part.2)|지아|227595|2054891|속상해서|https://cdnimg.melon.co.kr/cm/album/images/020/54/891/2054891_500.jpg/melon/resize/48/quality/80/optimize
+37|3600223|Be My Baby|원더걸스|217764|2030418|Wonder World|https://cdnimg.melon.co.kr/cm/album/images/020/30/418/2030418_500.jpg/melon/resize/48/quality/80/optimize
+38|3593455|서쪽 하늘|울랄라세션|569214|2026966|슈퍼스타K 3 Top11 Part 5|https://cdnimg.melon.co.kr/cm/album/images/020/26/966/2026966_500.jpg/melon/resize/48/quality/80/optimize
+39|3699274|Know Your Name (Feat. Dok2)|박재범|443420|2076266|New Breed|https://cdnimg.melon.co.kr/cm/album/images/020/76/266/2076266_500.jpg/melon/resize/48/quality/80/optimize
+40|3673495|사랑시 고백구 행복동|제이세라|484881|2063107|Love City|https://cdnimg.melon.co.kr/cm/album/images/020/63/107/2063107_500.jpg/melon/resize/48/quality/80/optimize
+41|3611633|Ma Boy 2 (Feat. 효린)|일렉트로보이즈|475721|2034566|Rebirth|https://cdnimg.melon.co.kr/cm/album/images/020/34/566/2034566_500.jpg/melon/resize/48/quality/80/optimize
+42|3672259|뉴스 (News)|나인뮤지스|465680|2062567|NEWS|https://cdnimg.melon.co.kr/cm/album/images/020/62/567/2062567_500.jpg/melon/resize/48/quality/80/optimize
+43|3602154|죽고 싶단 말 밖에|허각|28801|2031086|죽고 싶단 말 밖에|https://cdnimg.melon.co.kr/cm/album/images/020/31/086/2031086_500.jpg/melon/resize/48/quality/80/optimize
+44|3667495|예쁜게 다니|살찐고양이|567391|2059827|예쁜게 다니|https://cdnimg.melon.co.kr/cm/album/images/020/59/827/2059827_500.jpg/melon/resize/48/quality/80/optimize
+45|3669897|Like You (Feat. 아이유)|원티드|55255|2061087|VINTAGE|https://cdnimg.melon.co.kr/cm/album/images/020/61/087/2061087_500.jpg/melon/resize/48/quality/80/optimize
+46|3618293|My My|Apink (에이핑크)|534360|2037666|Snow Pink|https://cdnimg.melon.co.kr/cm/album/images/020/37/666/2037666_500.jpg/melon/resize/48/quality/80/optimize
+47|3590149|그 남자 그 여자|포맨 (4MEN)~미(MIIII)|100176~197910|2025499|그 남자 그 여자|https://cdnimg.melon.co.kr/cm/album/images/020/25/499/2025499_500.jpg/melon/resize/48/quality/80/optimize
+48|3669418|더위 먹은 갈매기 (Feat. 송은이, 김숙)|유재석|9842|2060806|무한도전 나름 가수다|https://cdnimg.melon.co.kr/cm/album/images/020/60/806/2060806_500.jpg/melon/resize/48/quality/80/optimize
+49|-1|Party Rock Anthem (Feat. Lauren Bennett & Goon Rock)|LMFAO|331467|1165751|Party Rock Anthem|https://cdnimg.melon.co.kr/cm/album/images/011/65/751/1165751_500.jpg/melon/resize/48/quality/80/optimize
+50|3674655|The DJ Is Mine|원더걸스|217764|2063807|The DJ Is Mine|https://cdnimg.melon.co.kr/cm/album/images/020/63/807/2063807_500.jpg/melon/resize/48/quality/80/optimize

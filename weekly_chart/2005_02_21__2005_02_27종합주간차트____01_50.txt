@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|698972|사랑은...하나다|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+2|708213|눈물이 나요|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+3|665226|귀로|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+4|686651|응급실|izi|164914|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+5|667278|봄날|아이|35155|47236|봄날 OST|https://cdnimg.melon.co.kr/cm/album/images/000/47/236/47236_500.jpg/melon/resize/48/quality/80/optimize
+6|631232|둘이서 (CF - 빙그레 '바나나맛 우유')|채연|41894|44462|Virginalness Bloom|https://cdnimg.melon.co.kr/cm/album/images/000/44/462/44462_500.jpg/melon/resize/48/quality/80/optimize
+7|686637|Memory|김범수|6502|48735|Again (Remake)|https://cdnimg.melon.co.kr/cm/album/images/000/48/735/48735_500.jpg/melon/resize/48/quality/80/optimize
+8|531840|Y (Please Tell Me Why)|프리스타일|100144|35102|Freestyle 3|https://cdnimg.melon.co.kr/cm/album/images/000/35/102/35102_500.jpg/melon/resize/48/quality/80/optimize
+9|623251|약속(Narration 강경헌)|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+10|684946|달|박정현|1099|48604|On&On|https://cdnimg.melon.co.kr/cm/album/images/000/48/604/48604_500.jpg/melon/resize/48/quality/80/optimize
+11|708701|몇번을 헤어져도|김희선|8896|50318|슬픈연가 OST|https://cdnimg.melon.co.kr/cm/album/images/000/50/318/50318_500.jpg/melon/resize/48/quality/80/optimize
+12|623250|보통날|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+13|667794|꽃들은 지고|이수영|995|47283|As Time Goes By|https://cdnimg.melon.co.kr/cm/album/images/000/47/283/47283_500.jpg/melon/resize/48/quality/80/optimize
+14|711627|죄와벌|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+15|622912|헤어지자고 (MBC 슬픈연가 삽입곡)|윤건|14801|43532|Now Is.. 2집|https://cdnimg.melon.co.kr/cm/album/images/000/43/532/43532_500.jpg/melon/resize/48/quality/80/optimize
+16|642420|겨울일기|장나라|10575|45305|나의 이야기|https://cdnimg.melon.co.kr/cm/album/images/000/45/305/45305_500.jpg/melon/resize/48/quality/80/optimize
+18|634613|Tonight|홍경민|891|44763|Listen & Repeat|https://cdnimg.melon.co.kr/cm/album/images/000/44/763/44763_500.jpg/melon/resize/48/quality/80/optimize
+19|665221|언젠가는|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+20|537749|날 그만 잊어요|거미|30358|35501|It's Different|https://cdnimg.melon.co.kr/cm/album/images/000/35/501/35501_500.jpg/melon/resize/48/quality/80/optimize
+21|632780|세월의 흔적 다 버리고|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+22|622649|전화번호|지누션|100054|43465|노.라.보.세. 4집|https://cdnimg.melon.co.kr/cm/album/images/000/43/465/43465_500.jpg/melon/resize/48/quality/80/optimize
+23|623241|반대가 끌리는 이유|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+24|686649|행복하길 바래|임형주|11937|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+25|602014|불치병 (Feat. Masta Wu)|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+26|720528|기억의 습작 (Live)|김동률|925|300049|2004 The Second Concert (Live)|https://cdnimg.melon.co.kr/cm/album/images/003/00/049/300049_500.jpg/melon/resize/48/quality/80/optimize
+27|686652|미안해야 하는거니|애즈원|100093|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+28|711626|살다가|SG 워너비|108363|50578|살다가|https://cdnimg.melon.co.kr/cm/album/images/000/50/578/50578_500.jpg/melon/resize/48/quality/80/optimize
+29|622664|빙고 (아싸)|거북이|101463|43466|Turtles 3집|https://cdnimg.melon.co.kr/cm/album/images/000/43/466/43466_500.jpg/melon/resize/48/quality/80/optimize
+30|623902|눈의 꽃|박효신|1191|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+31|623157|빙고|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+32|727900|너무 아파서|이기찬|6225|300243|홍콩익스프레스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/00/243/300243_500.jpg/melon/resize/48/quality/80/optimize
+33|720153|믿음|아우라 (Aura)|164777|300024|Aura #Zero|https://cdnimg.melon.co.kr/cm/album/images/003/00/024/300024_500.jpg/melon/resize/48/quality/80/optimize
+34|632779|천생연분|신화|100078|44592|Winter Story 2004-05|https://cdnimg.melon.co.kr/cm/album/images/000/44/592/44592_500.jpg/melon/resize/48/quality/80/optimize
+35|537210|은영이에게|KCM|45995|35465|Beautiful Mind|https://cdnimg.melon.co.kr/cm/album/images/000/35/465/35465_500.jpg/melon/resize/48/quality/80/optimize
+36|623161|이탈|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+37|533259|Don't Push Me|Sweetbox|100060|35195|Jade|https://cdnimg.melon.co.kr/cm/album/images/000/35/195/35195_500.jpg/melon/resize/48/quality/80/optimize
+38|698973|녹|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+39|600126|I Do|비|17671|42127|It's Raining|https://cdnimg.melon.co.kr/cm/album/images/000/42/127/42127_500.jpg/melon/resize/48/quality/80/optimize
+40|698971|어떤날|테이|51893|49657|Ucupracacia|https://cdnimg.melon.co.kr/cm/album/images/000/49/657/49657_500.jpg/melon/resize/48/quality/80/optimize
+41|665231|한번만 더|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+42|721553|사랑할거야|박혜경|1790|300107|제니 주노 OST|https://cdnimg.melon.co.kr/cm/album/images/003/00/107/300107_500.jpg/melon/resize/48/quality/80/optimize
+43|703745|And I Love You So|이동건|924|50008|B형 남자친구 OST|https://cdnimg.melon.co.kr/cm/album/images/000/50/008/50008_500.jpg/melon/resize/48/quality/80/optimize
+44|686650|자유로와Ⅱ (쾌걸춘향 Ver.)|Jiny|32898|48736|쾌걸춘향 OST|https://cdnimg.melon.co.kr/cm/album/images/000/48/736/48736_500.jpg/melon/resize/48/quality/80/optimize
+45|-1|Superstar|Jamelia|56026|34495|Thank You|https://cdnimg.melon.co.kr/cm/album/images/000/34/495/34495_500.jpg/melon/resize/48/quality/80/optimize
+46|623246|헤어지지 말자|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+48|708215|못다한 한마디...|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+49|708211|Mr. Flower|조성모|969|50294|My First|https://cdnimg.melon.co.kr/cm/album/images/000/50/294/50294_500.jpg/melon/resize/48/quality/80/optimize
+50|730864|올빼미 (All Famy)|은지원|1682|300478|The 2nd Round|https://cdnimg.melon.co.kr/cm/album/images/003/00/478/300478_500.jpg/melon/resize/48/quality/80/optimize
+51|665220|그대 떠난 뒤|나얼|3959|47037|Back To The Soul Flight|https://cdnimg.melon.co.kr/cm/album/images/000/47/037/47037_500.jpg/melon/resize/48/quality/80/optimize
+52|622515|Only When I Sleep|이은주|164508|43385|주홍글씨 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/385/43385_500.jpg/melon/resize/48/quality/80/optimize

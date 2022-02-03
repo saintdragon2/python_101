@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4041407|희맨사항|형돈이와 대준이|673585|2176153|스윗 껭스타랩 볼륨1|https://cdnimg.melon.co.kr/cm/album/images/021/76/153/2176153_500.jpg/melon/resize/48/quality/80/optimize
+52|3999213|이사람|효린~전효성~현아~니콜~나나 (애프터스쿨)|573812~672325~449401~408880~672334|2171212|2012 SBS 가요대전 The Color Of K-Pop 'Dazzling Red'|https://cdnimg.melon.co.kr/cm/album/images/021/71/212/2171212_500.jpg/melon/resize/48/quality/80/optimize
+53|3987723|매력있어|AKMU (악뮤)|712452|2170030|SBS K팝 스타 시즌2 '매력있어'|https://cdnimg.melon.co.kr/cm/album/images/021/70/030/2170030_500.jpg/melon/resize/48/quality/80/optimize
+54|4043793|사랑해 사랑해|한승희|642891|2176417|사랑해 사랑해|https://cdnimg.melon.co.kr/cm/album/images/021/76/417/2176417_500.jpg/melon/resize/48/quality/80/optimize
+55|4040010|White Day|걸스데이|482762|2175975|White Day|https://cdnimg.melon.co.kr/cm/album/images/021/75/975/2175975_500.jpg/melon/resize/48/quality/80/optimize
+56|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+57|3994911|Dancing Queen|소녀시대 (GIRLS' GENERATION)|228069|2170744|I Got A Boy|https://cdnimg.melon.co.kr/cm/album/images/021/70/744/2170744_500.jpg/melon/resize/48/quality/80/optimize
+58|4011597|행복하니 (Feat. 조현아 Of 어반자카파)|배치기|101886|2172455|4집 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/72/455/2172455_500.jpg/melon/resize/48/quality/80/optimize
+59|3864961|가수가 된 이유|신용재 (2F)|510537|2138690|24|https://cdnimg.melon.co.kr/cm/album/images/021/38/690/2138690_500.jpg/melon/resize/48/quality/80/optimize
+60|3946768|1,2,3,4 (원,투,쓰리,포)|이하이|646171|2165012|1,2,3,4 (원,투,쓰리,포)|https://cdnimg.melon.co.kr/cm/album/images/021/65/012/2165012_500.jpg/melon/resize/48/quality/80/optimize
+61|4027922|사랑하고 싶어서|허각|28801|2173383|LITTLE GIANT|https://cdnimg.melon.co.kr/cm/album/images/021/73/383/2173383_500.jpg/melon/resize/48/quality/80/optimize
+62|4041459|없는 번호|소울스타 (SOULSTAR)|170042|2176155|없는 번호|https://cdnimg.melon.co.kr/cm/album/images/021/76/155/2176155_500.jpg/melon/resize/48/quality/80/optimize
+63|3170749|Officially Missing You|긱스 (Geeks)|525805|1196552|Officially Missing You|https://cdnimg.melon.co.kr/cm/album/images/011/96/552/1196552_500.jpg/melon/resize/48/quality/80/optimize
+64|3929471|저녁 하늘|에일리(Ailee)|629831|2153251|Invitation|https://cdnimg.melon.co.kr/cm/album/images/021/53/251/2153251_500.jpg/melon/resize/48/quality/80/optimize
+65|3940533|귀여워 (With 권정열 Of 10cm)|별|27033|2161086|귀여워|https://cdnimg.melon.co.kr/cm/album/images/021/61/086/2161086_500.jpg/melon/resize/48/quality/80/optimize
+66|4022596|러브 레시피|클래지콰이|107725|2173800|Blessed|https://cdnimg.melon.co.kr/cm/album/images/021/73/800/2173800_500.jpg/melon/resize/48/quality/80/optimize
+67|3966128|나쁜 사람|JUNIEL(서아)|673198|2167530|원앤원 (1&1)|https://cdnimg.melon.co.kr/cm/album/images/021/67/530/2167530_500.jpg/melon/resize/48/quality/80/optimize
+68|3928293|먼지가 되어|로이킴~정준영|699632~25869|2153095|슈퍼스타 K4 Top 12 Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/53/095/2153095_500.jpg/melon/resize/48/quality/80/optimize
+69|4042477|못|JK 김동욱|20379|2176268|야왕 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/021/76/268/2176268_500.jpg/melon/resize/48/quality/80/optimize
+70|3890826|All For You|서인국~정은지|436700~644871|2148020|응답하라 1997 Love Story Part 1|https://cdnimg.melon.co.kr/cm/album/images/021/48/020/2148020_500.jpg/melon/resize/48/quality/80/optimize
+71|4036216|눈물비|살찐고양이|567391|2175538|야왕 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/75/538/2175538_500.jpg/melon/resize/48/quality/80/optimize
+72|4026620|오예|10CM|468244|2174328|The 2nd EP|https://cdnimg.melon.co.kr/cm/album/images/021/74/328/2174328_500.jpg/melon/resize/48/quality/80/optimize
+73|4035276|사랑하고 싶어|틴탑|483581|2175415|No.1|https://cdnimg.melon.co.kr/cm/album/images/021/75/415/2175415_500.jpg/melon/resize/48/quality/80/optimize
+74|4043826|비 내리는 고모령 (Feat. Double K, Yankie)|알리 (ALi)|312266|2176422|비 내리는 고모령|https://cdnimg.melon.co.kr/cm/album/images/021/76/422/2176422_500.jpg/melon/resize/48/quality/80/optimize
+75|3884575|I Need You|허각~지아|28801~227595|2145068|I Need You|https://cdnimg.melon.co.kr/cm/album/images/021/45/068/2145068_500.jpg/melon/resize/48/quality/80/optimize
+76|4037318|방백 (Aside)|SHINee (샤이니)|247639|2175668|SHINee The 3rd Album Chapter 1. 'Dream Girl - The Misconceptions Of You'|https://cdnimg.melon.co.kr/cm/album/images/021/75/668/2175668_500.jpg/melon/resize/48/quality/80/optimize
+77|4042547|사랑오후|권순일 (어반자카파)~박용인 (어반자카파)|644152~644151|2176273|광고천재 이태백 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/021/76/273/2176273_500.jpg/melon/resize/48/quality/80/optimize
+78|4046304|그림자 놀이|옥주현|1714|2176720|Reflection|https://cdnimg.melon.co.kr/cm/album/images/021/76/720/2176720_500.jpg/melon/resize/48/quality/80/optimize
+79|2590048|Baby (Feat. Ludacris)|Justin Bieber|420621|811451|Baby|https://cdnimg.melon.co.kr/cm/album/images/008/11/451/811451_500.jpg/melon/resize/48/quality/80/optimize
+80|4042278|You Are Not Alone|신지훈|718041|2176255|SBS K팝 스타 시즌2 TOP 10 (2회)|https://cdnimg.melon.co.kr/cm/album/images/021/76/255/2176255_500.jpg/melon/resize/48/quality/80/optimize
+81|3593455|서쪽 하늘|울랄라세션|569214|2026966|슈퍼스타K 3 Top11 Part 5|https://cdnimg.melon.co.kr/cm/album/images/020/26/966/2026966_500.jpg/melon/resize/48/quality/80/optimize
+82|3940755|똑같은 사랑 똑같은 이별|어반자카파|420527|2161187|[02]|https://cdnimg.melon.co.kr/cm/album/images/021/61/187/2161187_500.jpg/melon/resize/48/quality/80/optimize
+83|3970899|다리꼬지마|AKMU (악뮤)|712452|2168087|SBS K팝 스타 시즌2 '다리꼬지마'|https://cdnimg.melon.co.kr/cm/album/images/021/68/087/2168087_500.jpg/melon/resize/48/quality/80/optimize
+84|4031877|사랑해 미워해|이진성 (먼데이 키즈)|237650|2175016|야왕 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/75/016/2175016_500.jpg/melon/resize/48/quality/80/optimize
+85|4014352|You＆I|먼데이 키즈 (Monday Kiz)|175155|2172814|You＆I|https://cdnimg.melon.co.kr/cm/album/images/021/72/814/2172814_500.jpg/melon/resize/48/quality/80/optimize
+86|4017089|놀아도|케이윌~차쿤|175139~602180|2173171|놀아도|https://cdnimg.melon.co.kr/cm/album/images/021/73/171/2173171_500.jpg/melon/resize/48/quality/80/optimize
+87|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+88|3936237|휘파람|로이킴|699632|2157826|슈퍼스타 K4 Top 12 Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/57/826/2157826_500.jpg/melon/resize/48/quality/80/optimize
+89|4040024|Love In memory|별|27033|2175977|Love In Memory OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/75/977/2175977_500.jpg/melon/resize/48/quality/80/optimize
+90|3976699|TALK THAT|시크릿|435121|2168694|TALK THAT|https://cdnimg.melon.co.kr/cm/album/images/021/68/694/2168694_500.jpg/melon/resize/48/quality/80/optimize
+91|4021975|Nothing Like Us|Justin Bieber|420621|2173721|Believe Acoustic|https://cdnimg.melon.co.kr/cm/album/images/021/73/721/2173721_500.jpg/melon/resize/48/quality/80/optimize
+92|4037316|Punch Drunk Love|SHINee (샤이니)|247639|2175668|SHINee The 3rd Album Chapter 1. 'Dream Girl - The Misconceptions Of You'|https://cdnimg.melon.co.kr/cm/album/images/021/75/668/2175668_500.jpg/melon/resize/48/quality/80/optimize
+93|3922071|이러지마 제발 (Please Don't...)|케이윌|175139|2152296|The 3rd Album Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/52/296/2152296_500.jpg/melon/resize/48/quality/80/optimize
+94|4032981|여보세요|뉴이스트|640891|2175137|THE SECOND MINI ALBUM '여보세요'|https://cdnimg.melon.co.kr/cm/album/images/021/75/137/2175137_500.jpg/melon/resize/48/quality/80/optimize
+95|3964483|힐링이 필요해|로이킴|699632|2167336|슈퍼스타K4 Top 12 Part.6|https://cdnimg.melon.co.kr/cm/album/images/021/67/336/2167336_500.jpg/melon/resize/48/quality/80/optimize
+96|4036017|UGLY|유유 (YouU)|718040|2175511|SBS K팝 스타 시즌2 TOP 10 (1회)|https://cdnimg.melon.co.kr/cm/album/images/021/75/511/2175511_500.jpg/melon/resize/48/quality/80/optimize
+97|4037319|아름다워 (Beautiful)|SHINee (샤이니)|247639|2175668|SHINee The 3rd Album Chapter 1. 'Dream Girl - The Misconceptions Of You'|https://cdnimg.melon.co.kr/cm/album/images/021/75/668/2175668_500.jpg/melon/resize/48/quality/80/optimize
+98|4027919|헤어질걸 알기에 (Duet With 정은지)|허각|28801|2173383|LITTLE GIANT|https://cdnimg.melon.co.kr/cm/album/images/021/73/383/2173383_500.jpg/melon/resize/48/quality/80/optimize
+99|4038548|아는 오빠|미(MIIII)|197910|2175808|여심|https://cdnimg.melon.co.kr/cm/album/images/021/75/808/2175808_500.jpg/melon/resize/48/quality/80/optimize
+100|-1|고해|김태우|182430|2176253|불후의 명곡 - 전설을 노래하다 (임재범 편)|https://cdnimg.melon.co.kr/cm/album/images/021/76/253/2176253_500.jpg/melon/resize/48/quality/80/optimize

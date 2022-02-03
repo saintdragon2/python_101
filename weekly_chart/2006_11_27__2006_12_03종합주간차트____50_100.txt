@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1490153|잘못된 만남|아유미|192775|331411|잘못된 만남|https://cdnimg.melon.co.kr/cm/album/images/003/31/411/331411_500.jpg/melon/resize/48/quality/80/optimize
+52|1512753|겨울아이|빅마마|105803|334038|For The Christmas|https://cdnimg.melon.co.kr/cm/album/images/003/34/038/334038_500.jpg/melon/resize/48/quality/80/optimize
+53|1513768|한마디|테이크 (TAKE)|105789|334248|Take It All|https://cdnimg.melon.co.kr/cm/album/images/003/34/248/334248_500.jpg/melon/resize/48/quality/80/optimize
+54|1414764|마이동풍|배치기|101886|326139|마이동풍 (馬耳東風)|https://cdnimg.melon.co.kr/cm/album/images/003/26/139/326139_500.jpg/melon/resize/48/quality/80/optimize
+55|1415491|그대 때문에|박기영|908|326258|Bohemian|https://cdnimg.melon.co.kr/cm/album/images/003/26/258/326258_500.jpg/melon/resize/48/quality/80/optimize
+56|1516853|사랑이 다 그런거니까|왁스|2267|334566|WAX 6 (사랑이 다 그런거니까)|https://cdnimg.melon.co.kr/cm/album/images/003/34/566/334566_500.jpg/melon/resize/48/quality/80/optimize
+57|1493040|Unlock|SS501|170541|331727|SS501 S.T 01 NOW|https://cdnimg.melon.co.kr/cm/album/images/003/31/727/331727_500.jpg/melon/resize/48/quality/80/optimize
+58|1458832|La La La|BIGBANG|198094|328008|BigBang Is V.I.P (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/28/008/328008_500.jpg/melon/resize/48/quality/80/optimize
+59|1423391|말괄량이 (Feat. 카를로스(업타운))|배슬기|24982|327350|The First Album|https://cdnimg.melon.co.kr/cm/album/images/003/27/350/327350_500.jpg/melon/resize/48/quality/80/optimize
+60|1516426|고마워요|최재훈|1087|334527|Return|https://cdnimg.melon.co.kr/cm/album/images/003/34/527/334527_500.jpg/melon/resize/48/quality/80/optimize
+61|1488073|눈감아 줄게요(Duet Ver.)|에버투 & 투앤비|205878|330938|눈감아 줄게요|https://cdnimg.melon.co.kr/cm/album/images/003/30/938/330938_500.jpg/melon/resize/48/quality/80/optimize
+62|1513154|울지마요 (Don't Cry)|박상민|956|334068|울지마요 (Don't cry)|https://cdnimg.melon.co.kr/cm/album/images/003/34/068/334068_500.jpg/melon/resize/48/quality/80/optimize
+63|1508940|하루만큼|정재욱|7839|333596|90일, 사랑 할 시간 OST|https://cdnimg.melon.co.kr/cm/album/images/003/33/596/333596_500.jpg/melon/resize/48/quality/80/optimize
+64|1459885|풍선 (Balloons)|동방신기 (TVXQ!)|108316|328098|O -正.反.合. (정반합)|https://cdnimg.melon.co.kr/cm/album/images/003/28/098/328098_500.jpg/melon/resize/48/quality/80/optimize
+65|1472028|카시오페아 (Cassiopeia) (Feat. 임정희)|비|17671|328756|Rain's World|https://cdnimg.melon.co.kr/cm/album/images/003/28/756/328756_500.jpg/melon/resize/48/quality/80/optimize
+66|1476927|You And Me|자우림|100094|329197|Ashes To Ashes|https://cdnimg.melon.co.kr/cm/album/images/003/29/197/329197_500.jpg/melon/resize/48/quality/80/optimize
+67|1500205|그저 바라볼 수만 있어도|SG 워너비|108363|332658|The Precious History|https://cdnimg.melon.co.kr/cm/album/images/003/32/658/332658_500.jpg/melon/resize/48/quality/80/optimize
+68|623902|눈의 꽃|박효신|1191|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+69|1515286|그대 내맘에 들어오면은 (M/V Ver.)|거북이|101463|334452|거북이 크리스마스 Mix|https://cdnimg.melon.co.kr/cm/album/images/003/34/452/334452_500.jpg/melon/resize/48/quality/80/optimize
+70|1509619|사랑은 이별을 데리고 오다|SHY (손호영)|1580|333672|손호영 1집 Yes (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/33/672/333672_500.jpg/melon/resize/48/quality/80/optimize
+71|1509829|기다리다|윤하 (YOUNHA)|203912|333687|Audition|https://cdnimg.melon.co.kr/cm/album/images/003/33/687/333687_500.jpg/melon/resize/48/quality/80/optimize
+72|1512808|나를 봐요|토니 안|1586|334042|겨울애 (愛)|https://cdnimg.melon.co.kr/cm/album/images/003/34/042/334042_500.jpg/melon/resize/48/quality/80/optimize
+73|1478189|폭풍속으로 (One Way) (Feat. 에스더)|장우혁|1585|329439|My Way|https://cdnimg.melon.co.kr/cm/album/images/003/29/439/329439_500.jpg/melon/resize/48/quality/80/optimize
+74|1335334|단 한사람|고유진 (플라워)|4172|323087|소문난 칠공주 OST|https://cdnimg.melon.co.kr/cm/album/images/003/23/087/323087_500.jpg/melon/resize/48/quality/80/optimize
+75|1484166|잘할게|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+76|1368869|그댈 위한 사랑|이정|39256|324839|천국보다 낯선 OST|https://cdnimg.melon.co.kr/cm/album/images/003/24/839/324839_500.jpg/melon/resize/48/quality/80/optimize
+77|1114180|술이야|바이브|160080|314287|Re - Feel|https://cdnimg.melon.co.kr/cm/album/images/003/14/287/314287_500.jpg/melon/resize/48/quality/80/optimize
+78|1502238|Love Is Feeling|테이~혜령|51893~32201|332861|Rainbow Duet Vol.3|https://cdnimg.melon.co.kr/cm/album/images/003/32/861/332861_500.jpg/melon/resize/48/quality/80/optimize
+79|1476574|그대 보세요|최서연|24288|329169|황진이 OST|https://cdnimg.melon.co.kr/cm/album/images/003/29/169/329169_500.jpg/melon/resize/48/quality/80/optimize
+80|1507743|Good Bye Baby|BIGBANG|198094|333501|BigBang 3 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/33/501/333501_500.jpg/melon/resize/48/quality/80/optimize
+81|1494395|고고고 (Go Go Go)|바다 (BADA)|1605|331969|Start|https://cdnimg.melon.co.kr/cm/album/images/003/31/969/331969_500.jpg/melon/resize/48/quality/80/optimize
+82|1454597|마음을 잃다|넬 (NELL)|101094|327589|Healing Process|https://cdnimg.melon.co.kr/cm/album/images/003/27/589/327589_500.jpg/melon/resize/48/quality/80/optimize
+83|1504238|The Rose|Westlife|100377|333090|The Love Album|https://cdnimg.melon.co.kr/cm/album/images/003/33/090/333090_500.jpg/melon/resize/48/quality/80/optimize
+84|1356054|사랑을 찾아서|엠씨더맥스 (M.C the MAX)|161636|323908|Rainbow Vol. 2|https://cdnimg.melon.co.kr/cm/album/images/003/23/908/323908_500.jpg/melon/resize/48/quality/80/optimize
+85|1507741|BigBang|BIGBANG|198094|333501|BigBang 3 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/33/501/333501_500.jpg/melon/resize/48/quality/80/optimize
+86|1454587|우리 이제 어떻게 하나요|김현철~거미|1424~30358|327587|우리 이제 어떻게 하나요|https://cdnimg.melon.co.kr/cm/album/images/003/27/587/327587_500.jpg/melon/resize/48/quality/80/optimize
+87|1500828|Beautiful Night|소찬휘|3897|332765|Eight Times - Begin Again|https://cdnimg.melon.co.kr/cm/album/images/003/32/765/332765_500.jpg/melon/resize/48/quality/80/optimize
+88|1507744|웃어본다|BIGBANG|198094|333501|BigBang 3 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/33/501/333501_500.jpg/melon/resize/48/quality/80/optimize
+89|1488184|행복의 조건|드렁큰 타이거|100027|331040|희망승일:행복의 조건|https://cdnimg.melon.co.kr/cm/album/images/003/31/040/331040_500.jpg/melon/resize/48/quality/80/optimize
+90|1512806|사랑할 수 있었다는 건|리치|7631|334042|겨울애 (愛)|https://cdnimg.melon.co.kr/cm/album/images/003/34/042/334042_500.jpg/melon/resize/48/quality/80/optimize
+91|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+92|1484932|연인|조장혁|5973|330585|연인 OST|https://cdnimg.melon.co.kr/cm/album/images/003/30/585/330585_500.jpg/melon/resize/48/quality/80/optimize
+93|1177475|남자를 몰라|버즈|160091|317113|Perfect|https://cdnimg.melon.co.kr/cm/album/images/003/17/113/317113_500.jpg/melon/resize/48/quality/80/optimize
+94|1502029|Grace Love|SAT & IM (빅톤)|206405|332841|눈의 여왕 OST|https://cdnimg.melon.co.kr/cm/album/images/003/32/841/332841_500.jpg/melon/resize/48/quality/80/optimize
+95|1455695|칵테일 사랑|거북이|101463|327689|The Land Of Turtles|https://cdnimg.melon.co.kr/cm/album/images/003/27/689/327689_500.jpg/melon/resize/48/quality/80/optimize
+96|1502030|첫눈애 (愛)|강성민|47005|332841|눈의 여왕 OST|https://cdnimg.melon.co.kr/cm/album/images/003/32/841/332841_500.jpg/melon/resize/48/quality/80/optimize
+97|1502031|가난한 남자|최원준|43292|332841|눈의 여왕 OST|https://cdnimg.melon.co.kr/cm/album/images/003/32/841/332841_500.jpg/melon/resize/48/quality/80/optimize
+98|1314788|미친 사랑의 노래|씨야|181679|322386|투명인간 최장수 OST|https://cdnimg.melon.co.kr/cm/album/images/003/22/386/322386_500.jpg/melon/resize/48/quality/80/optimize
+99|1510795|천사들의 노래가|컬투패밀리|207032|333755|CultActually LovelyChristmas|https://cdnimg.melon.co.kr/cm/album/images/003/33/755/333755_500.jpg/melon/resize/48/quality/80/optimize
+100|1500206|Ordinary People|SG 워너비|108363|332658|The Precious History|https://cdnimg.melon.co.kr/cm/album/images/003/32/658/332658_500.jpg/melon/resize/48/quality/80/optimize

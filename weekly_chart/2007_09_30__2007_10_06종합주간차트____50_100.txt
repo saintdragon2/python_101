@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1653451|얼마나 (Feat. 버블 시스터즈)|비욘드|169635|352633|얼마나|https://cdnimg.melon.co.kr/cm/album/images/003/52/633/352633_500.jpg/melon/resize/48/quality/80/optimize
+52|1740853|Memories|프리스타일|100144|358809|2007 Memories|https://cdnimg.melon.co.kr/cm/album/images/003/58/809/358809_500.jpg/melon/resize/48/quality/80/optimize
+53|1675904|하늘에 내 마음이|SHY (손호영)|1580|354473|Sweet Love|https://cdnimg.melon.co.kr/cm/album/images/003/54/473/354473_500.jpg/melon/resize/48/quality/80/optimize
+54|1737913|돈 돈! (Don't Don)|SUPER JUNIOR (슈퍼주니어)|175404|358498|돈 돈! (Don't Don)|https://cdnimg.melon.co.kr/cm/album/images/003/58/498/358498_500.jpg/melon/resize/48/quality/80/optimize
+55|1741282|내 잘못이니까|김동완|1743|358837|Kim Dong Wan Is - Special Package|https://cdnimg.melon.co.kr/cm/album/images/003/58/837/358837_500.jpg/melon/resize/48/quality/80/optimize
+56|1738781|Hit|초신성|229544|358575|1st Album|https://cdnimg.melon.co.kr/cm/album/images/003/58/575/358575_500.jpg/melon/resize/48/quality/80/optimize
+57|-1|또 한번 사랑은 가고|왁스~이기찬|2267~6225|358932|또 한번 사랑은 가고...|https://cdnimg.melon.co.kr/cm/album/images/003/58/932/358932_500.jpg/melon/resize/48/quality/80/optimize
+58|1742529|사랑에 미치면 (Feat. 아웃캐스트 빅보이 & J.Y.Park 'The Asiansoul')|임정희|150529|358949|Before I Go J-Lim|https://cdnimg.melon.co.kr/cm/album/images/003/58/949/358949_500.jpg/melon/resize/48/quality/80/optimize
+59|1650193|머리를 자르고|Daylight|27784|352515|머리를 자르고|https://cdnimg.melon.co.kr/cm/album/images/003/52/515/352515_500.jpg/melon/resize/48/quality/80/optimize
+60|1701604|사랑해요 (Feat. V.O.S 김경록, 태인)|나몰라패밀리 (Namolla Family)|194009|356031|나몰라패밀리|https://cdnimg.melon.co.kr/cm/album/images/003/56/031/356031_500.jpg/melon/resize/48/quality/80/optimize
+61|1650501|우리가 이별할 때 (Duet 백지영)|소울스타 (SOULSTAR)|170042|352530|우리가 이별할 때 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/52/530/352530_500.jpg/melon/resize/48/quality/80/optimize
+62|1740354|Walking In The Rain|원우|229778|358777|Walking In The Rain|https://cdnimg.melon.co.kr/cm/album/images/003/58/777/358777_500.jpg/melon/resize/48/quality/80/optimize
+63|1738948|피그말리온 효과|리치|7631|358592|미치기 직전에 만든 앨범|https://cdnimg.melon.co.kr/cm/album/images/003/58/592/358592_500.jpg/melon/resize/48/quality/80/optimize
+64|1666162|내마음별과같이 (Feat. KCM)|지아|227595|353752|Voice Of Heaven|https://cdnimg.melon.co.kr/cm/album/images/003/53/752/353752_500.jpg/melon/resize/48/quality/80/optimize
+65|1615772|한여름날의 꿈 (Duet With 옥주현)|SG 워너비|108363|349217|The Sentimental Chord|https://cdnimg.melon.co.kr/cm/album/images/003/49/217/349217_500.jpg/melon/resize/48/quality/80/optimize
+66|1649191|한사람만|FTISLAND (FT아일랜드)|226490|352436|Cheerful Sensibility|https://cdnimg.melon.co.kr/cm/album/images/003/52/436/352436_500.jpg/melon/resize/48/quality/80/optimize
+67|1666163|수호천사|지아|227595|353752|Voice Of Heaven|https://cdnimg.melon.co.kr/cm/album/images/003/53/752/353752_500.jpg/melon/resize/48/quality/80/optimize
+68|1727369|다쳐도 좋아|휘성 (Realslow)|10577|357587|Eternal Essence Of Music|https://cdnimg.melon.co.kr/cm/album/images/003/57/587/357587_500.jpg/melon/resize/48/quality/80/optimize
+69|1648649|일년을 하루같이|바비 킴|6027|352381|쩐의 전쟁 OST 1.5집|https://cdnimg.melon.co.kr/cm/album/images/003/52/381/352381_500.jpg/melon/resize/48/quality/80/optimize
+70|1622092|가슴아 그만해|엠씨더맥스 (M.C the MAX)|161636|348880|Returns|https://cdnimg.melon.co.kr/cm/album/images/003/48/880/348880_500.jpg/melon/resize/48/quality/80/optimize
+71|1739532|초심으로|정철 (최정철)~조pd (ZoPD)|12872~2071|358641|The Return Of The Prodigal Son - 돌아온 탕아|https://cdnimg.melon.co.kr/cm/album/images/003/58/641/358641_500.jpg/melon/resize/48/quality/80/optimize
+72|1727554|부디..|V.O.S|108794|357598|꽃이 웃는다|https://cdnimg.melon.co.kr/cm/album/images/003/57/598/357598_500.jpg/melon/resize/48/quality/80/optimize
+73|1737973|통화 연결음|써니힐|229494|358505|Love Letter|https://cdnimg.melon.co.kr/cm/album/images/003/58/505/358505_500.jpg/melon/resize/48/quality/80/optimize
+74|1717113|못난이|홍경민|891|356941|Music For My Life, Life For My Music|https://cdnimg.melon.co.kr/cm/album/images/003/56/941/356941_500.jpg/melon/resize/48/quality/80/optimize
+75|1694882|사랑이 뭐길래|춘자 (春子)|161092|355636|춘자|https://cdnimg.melon.co.kr/cm/album/images/003/55/636/355636_500.jpg/melon/resize/48/quality/80/optimize
+76|1736851|사랑, 버리고 버려도|영애 (Young愛)|229443|358417|Young愛(애)|https://cdnimg.melon.co.kr/cm/album/images/003/58/417/358417_500.jpg/melon/resize/48/quality/80/optimize
+77|1737721|My World ; 巨人(거인)|유승준|1008|358488|Rebirth of YSJ|https://cdnimg.melon.co.kr/cm/album/images/003/58/488/358488_500.jpg/melon/resize/48/quality/80/optimize
+78|1741232|사랑해서 사랑해서|박완규|1037|358833|Love song|https://cdnimg.melon.co.kr/cm/album/images/003/58/833/358833_500.jpg/melon/resize/48/quality/80/optimize
+79|1659318|행복|SUPER JUNIOR (슈퍼주니어)|175404|353173|2007 Summer SMTOWN|https://cdnimg.melon.co.kr/cm/album/images/003/53/173/353173_500.jpg/melon/resize/48/quality/80/optimize
+80|1741300|그 사람의 옆자리|Michelle Purple|229832|358839|Dear. Love|https://cdnimg.melon.co.kr/cm/album/images/003/58/839/358839_500.jpg/melon/resize/48/quality/80/optimize
+81|1738106|Gimme More (Main)|Britney Spears|8046|358522|Gimme More|https://cdnimg.melon.co.kr/cm/album/images/003/58/522/358522_500.jpg/melon/resize/48/quality/80/optimize
+82|1698600|아무렇지 않은 척|BIGBANG|198094|355853|Always|https://cdnimg.melon.co.kr/cm/album/images/003/55/853/355853_500.jpg/melon/resize/48/quality/80/optimize
+83|1721669|샤랄라 (Feat. 나비)|허니 패밀리|100073|357183|허니패밀리4집 - 네번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/003/57/183/357183_500.jpg/melon/resize/48/quality/80/optimize
+84|1673133|...사랑했잖아... Part II|린|8530|354289|The Pride Of The Morning (Special Edition)|https://cdnimg.melon.co.kr/cm/album/images/003/54/289/354289_500.jpg/melon/resize/48/quality/80/optimize
+85|1659831|사랑해 ('우리 결혼했어요' 삽입곡)|플라이 투 더 스카이|100183|353225|No Limitations|https://cdnimg.melon.co.kr/cm/album/images/003/53/225/353225_500.jpg/melon/resize/48/quality/80/optimize
+86|1622952|Because Of You|Ne-Yo|181769|350011|Because Of You|https://cdnimg.melon.co.kr/cm/album/images/003/50/011/350011_500.jpg/melon/resize/48/quality/80/optimize
+87|1734483|그것이 젊음|노브레인|100829|358231|그것이 젊음|https://cdnimg.melon.co.kr/cm/album/images/003/58/231/358231_500.jpg/melon/resize/48/quality/80/optimize
+88|-1|세월이 가면|유라|229484|358493|세월이 가면|https://cdnimg.melon.co.kr/cm/album/images/003/58/493/358493_500.jpg/melon/resize/48/quality/80/optimize
+89|1727870|주정|드렁큰 타이거|100027|357620|Sky Is The Limit|https://cdnimg.melon.co.kr/cm/album/images/003/57/620/357620_500.jpg/melon/resize/48/quality/80/optimize
+90|1650189|이 노래|브라운 아이즈|100742|352513|The Very Best Of Browneyes|https://cdnimg.melon.co.kr/cm/album/images/003/52/513/352513_500.jpg/melon/resize/48/quality/80/optimize
+91|1698599|없는 번호|BIGBANG|198094|355853|Always|https://cdnimg.melon.co.kr/cm/album/images/003/55/853/355853_500.jpg/melon/resize/48/quality/80/optimize
+92|1569650|이럴거면|아이비|171127|344636|A Sweet Moment|https://cdnimg.melon.co.kr/cm/album/images/003/44/636/344636_500.jpg/melon/resize/48/quality/80/optimize
+93|1698283|My Love Story|걸 프렌즈|193606|355814|Addict 2 Times|https://cdnimg.melon.co.kr/cm/album/images/003/55/814/355814_500.jpg/melon/resize/48/quality/80/optimize
+94|1698175|위로|김사랑|952|355808|U - Turn|https://cdnimg.melon.co.kr/cm/album/images/003/55/808/355808_500.jpg/melon/resize/48/quality/80/optimize
+95|1631371|사랑아|The One (더원)|160816|350813|내 남자의 여자 OST|https://cdnimg.melon.co.kr/cm/album/images/003/50/813/350813_500.jpg/melon/resize/48/quality/80/optimize
+96|1731717|행복하라고 (Sorrow Ver. Duet 타이푼_우재)|태사비애|229242|357952|태사비애가 II|https://cdnimg.melon.co.kr/cm/album/images/003/57/952/357952_500.jpg/melon/resize/48/quality/80/optimize
+97|1741646|Do It Well (Album Ver.)|Jennifer Lopez|2845|358864|Do It Well|https://cdnimg.melon.co.kr/cm/album/images/003/58/864/358864_500.jpg/melon/resize/48/quality/80/optimize
+98|1742134|천국 (Feat. MC 몽)|빅마마|105803|358911|Blossom|https://cdnimg.melon.co.kr/cm/album/images/003/58/911/358911_500.jpg/melon/resize/48/quality/80/optimize
+99|-1|어떻게 사람이 그래 (Feat. Flower 고유진)|노블레스|160738|357465|Rina Scenza|https://cdnimg.melon.co.kr/cm/album/images/003/57/465/357465_500.jpg/melon/resize/48/quality/80/optimize
+100|1727613|사나이 (Original Ver.)|데이브레이크 (DAYBREAK)|229114|357602|Urban Life Style|https://cdnimg.melon.co.kr/cm/album/images/003/57/602/357602_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2258764|Hello (Feat. 다라)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+52|2320748|사랑이라서|임재범|4838|690851|사랑이라서|https://cdnimg.melon.co.kr/cm/album/images/006/90/851/690851_500.jpg/melon/resize/48/quality/80/optimize
+53|2218824|Pretty Boy|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+54|2226049|바래|FTISLAND (FT아일랜드)|226490|605252|Cross & Change|https://cdnimg.melon.co.kr/cm/album/images/006/05/252/605252_500.jpg/melon/resize/48/quality/80/optimize
+55|2319848|Lie|FTISLAND (FT아일랜드)|226490|690051|One Date|https://cdnimg.melon.co.kr/cm/album/images/006/90/051/690051_500.jpg/melon/resize/48/quality/80/optimize
+56|2245593|연애특강 (Feat. 한예슬)|마이티 마우스|239366|625656|Love Class|https://cdnimg.melon.co.kr/cm/album/images/006/25/656/625656_500.jpg/melon/resize/48/quality/80/optimize
+57|2315962|Chocolate Love (Electronic Pop Ver.)|f(x)|428501|686453|Chocolate Love|https://cdnimg.melon.co.kr/cm/album/images/006/86/453/686453_500.jpg/melon/resize/48/quality/80/optimize
+58|2311048|기억이 안나|별|27033|681751|2009 No.1 Diva's Love (기억이 안나)|https://cdnimg.melon.co.kr/cm/album/images/006/81/751/681751_500.jpg/melon/resize/48/quality/80/optimize
+59|2322558|너 정말이니|럼블피쉬|108951|692554|One Sweet Day|https://cdnimg.melon.co.kr/cm/album/images/006/92/554/692554_500.jpg/melon/resize/48/quality/80/optimize
+60|2312178|나는... (Feat. Ivy)|MC몽|11538|682858|Humanimal (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/006/82/858/682858_500.jpg/melon/resize/48/quality/80/optimize
+61|2258762|Breathe|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+62|2276168|내 사랑 내 곁에|럼블피쉬|108951|650253|내 사랑 내 곁에|https://cdnimg.melon.co.kr/cm/album/images/006/50/253/650253_500.jpg/melon/resize/48/quality/80/optimize
+63|2312266|19금 내 몸은 너를 지웠다 (Feat. Enzo.B)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+64|2266685|초콜릿|케이윌~마리오|175139~243278|642787|Color Chocolate|https://cdnimg.melon.co.kr/cm/album/images/006/42/787/642787_500.jpg/melon/resize/48/quality/80/optimize
+66|2322749|내 이름 부르지마|이수영|995|692751|9th Dazzle|https://cdnimg.melon.co.kr/cm/album/images/006/92/751/692751_500.jpg/melon/resize/48/quality/80/optimize
+67|2267559|피아니시모 (Pianissimo)|체리 필터|101491|642953|Rocksteric|https://cdnimg.melon.co.kr/cm/album/images/006/42/953/642953_500.jpg/melon/resize/48/quality/80/optimize
+68|2276693|I Don't Care (Reggae Mix Ver.)|2NE1|406712|650559|I Don't Care (Reggae Mix Ver.)|https://cdnimg.melon.co.kr/cm/album/images/006/50/559/650559_500.jpg/melon/resize/48/quality/80/optimize
+69|2315806|사랑..그 몹쓸병|휘성 (Realslow)|10577|686358|Vocolate|https://cdnimg.melon.co.kr/cm/album/images/006/86/358/686358_500.jpg/melon/resize/48/quality/80/optimize
+70|-1|FREE 두근두근 Tomorrow|포투모로우|436660|689258|두근두근 Tomorrow|https://cdnimg.melon.co.kr/cm/album/images/006/89/258/689258_500.jpg/melon/resize/48/quality/80/optimize
+71|2320849|Oh Yeah|엠블랙|436980|690952|Just Blaq|https://cdnimg.melon.co.kr/cm/album/images/006/90/952/690952_500.jpg/melon/resize/48/quality/80/optimize
+72|2315669|사랑인데|나오미|230497|686253|Soulchild|https://cdnimg.melon.co.kr/cm/album/images/006/86/253/686253_500.jpg/melon/resize/48/quality/80/optimize
+73|2269963|안 줄래|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+74|2241848|울고 싶어 우는 사람이 있겠어 (Cry Mix)|에이트|228841|623151|울고 싶어 우는 사람이 있겠어|https://cdnimg.melon.co.kr/cm/album/images/006/23/151/623151_500.jpg/melon/resize/48/quality/80/optimize
+75|2185577|외톨이|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+76|2315765|365일|알리 (ALi)|312266|686354|After The Love Has Gone|https://cdnimg.melon.co.kr/cm/album/images/006/86/354/686354_500.jpg/melon/resize/48/quality/80/optimize
+77|2298659|N-Time (Feat. 티아라)|황정음|8265|670852|N-Time|https://cdnimg.melon.co.kr/cm/album/images/006/70/852/670852_500.jpg/melon/resize/48/quality/80/optimize
+78|2219848|Candy Man|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+79|-1|사랑할 수도 미워할 수도|애즈원|100093|670057|드라뮤지끄 Vol.1 (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/70/057/670057_500.jpg/melon/resize/48/quality/80/optimize
+80|2231895|Indian Boy (Feat. 장근이, B.I)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+81|2312257|19금 일터 (Feat. Bizzy)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+82|2308383|말할걸 그랬지|박지헌|231826|679154|말할걸 그랬지 (유영석 20주년 기념앨범 Part. 3)|https://cdnimg.melon.co.kr/cm/album/images/006/79/154/679154_500.jpg/melon/resize/48/quality/80/optimize
+83|2315808|눈물 쏟고 또 쏟고|휘성 (Realslow)|10577|686358|Vocolate|https://cdnimg.melon.co.kr/cm/album/images/006/86/358/686358_500.jpg/melon/resize/48/quality/80/optimize
+84|2203097|소원을 말해봐 (Genie)|소녀시대 (GIRLS' GENERATION)|228069|590853|'소원을 말해봐 (Genie)' The Second Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/90/853/590853_500.jpg/melon/resize/48/quality/80/optimize
+85|2322588|헤어질 거 같애 (Feat. MJ Of Sunnyside, 신혜)|박지헌|231826|692559|헤어질 거 같애|https://cdnimg.melon.co.kr/cm/album/images/006/92/559/692559_500.jpg/melon/resize/48/quality/80/optimize
+86|2312262|Canvas (Feat. Tiger JK, Dynamic Duo, Bizzy)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+87|2312263|Run (Feat. YB)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+88|2308293|슬프지 않아요 (Feat. 소윤)|PK 헤만|211782|679058|Taste Of Love|https://cdnimg.melon.co.kr/cm/album/images/006/79/058/679058_500.jpg/melon/resize/48/quality/80/optimize
+89|2317349|위풍당당 (Rap. 상추)|마야|32339|687652|위풍당당|https://cdnimg.melon.co.kr/cm/album/images/006/87/652/687652_500.jpg/melon/resize/48/quality/80/optimize
+90|2321563|여전히|이홍기 (FT아일랜드)|42554|691654|미남이시네요 OST|https://cdnimg.melon.co.kr/cm/album/images/006/91/654/691654_500.jpg/melon/resize/48/quality/80/optimize
+91|2312256|부서진 동네 (Feat. Lucid Fall)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+92|2231948|아몰레드 (Amoled)|손담비~애프터스쿨|226582~322666|614451|아몰레드|https://cdnimg.melon.co.kr/cm/album/images/006/14/451/614451_500.jpg/melon/resize/48/quality/80/optimize
+93|2197448|Hot Issue|4minute|417985|586251|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/005/86/251/586251_500.jpg/melon/resize/48/quality/80/optimize
+94|2218823|Let's Go Party|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+95|2285551|사랑한다면서|오종혁|5599|659352|상심: Heartbreak|https://cdnimg.melon.co.kr/cm/album/images/006/59/352/659352_500.jpg/melon/resize/48/quality/80/optimize
+96|2307407|Girl|유리|428760|678157|Chocolate #2 - Lovely Taste|https://cdnimg.melon.co.kr/cm/album/images/006/78/157/678157_500.jpg/melon/resize/48/quality/80/optimize
+97|2315822|Time After Time|박혜경|1790|686361|Time After Time|https://cdnimg.melon.co.kr/cm/album/images/006/86/361/686361_500.jpg/melon/resize/48/quality/80/optimize
+98|2200798|결혼해 줄래 (Feat. BIZNIZ)|이승기|58793|589178|결혼해줄래|https://cdnimg.melon.co.kr/cm/album/images/005/89/178/589178_500.jpg/melon/resize/48/quality/80/optimize
+99|2285181|이 노래를 들으면 (Feat. 수호)|태사비애|229242|658957|이 노래를 들으면|https://cdnimg.melon.co.kr/cm/album/images/006/58/957/658957_500.jpg/melon/resize/48/quality/80/optimize
+100|2312261|19금 운명 (Feat. Malo)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize

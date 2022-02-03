@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|1563237|미인 (美人)|이기찬|6225|343998|Para Ti|https://cdnimg.melon.co.kr/cm/album/images/003/43/998/343998_500.jpg/melon/resize/48/quality/80/optimize
+2|1556547|Fan|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+3|1558954|미워요|씨야|181679|343446|All Star|https://cdnimg.melon.co.kr/cm/album/images/003/43/446/343446_500.jpg/melon/resize/48/quality/80/optimize
+4|1563629|남자야|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+5|1568562|같은 베개...|테이|51893|344501|애인|https://cdnimg.melon.co.kr/cm/album/images/003/44/501/344501_500.jpg/melon/resize/48/quality/80/optimize
+6|1459456|흰눈|이루|173424|328069|이루 LEVEL II|https://cdnimg.melon.co.kr/cm/album/images/003/28/069/328069_500.jpg/melon/resize/48/quality/80/optimize
+7|1538203|안녕|KCM|45995|338648|안녕 / 사랑이 올까봐|https://cdnimg.melon.co.kr/cm/album/images/003/38/648/338648_500.jpg/melon/resize/48/quality/80/optimize
+8|1569649|유혹의 소나타|아이비|171127|344636|A Sweet Moment|https://cdnimg.melon.co.kr/cm/album/images/003/44/636/344636_500.jpg/melon/resize/48/quality/80/optimize
+9|1560045|추억은 사랑을 닮아|박효신|1191|343653|The Breeze Of Sea|https://cdnimg.melon.co.kr/cm/album/images/003/43/653/343653_500.jpg/melon/resize/48/quality/80/optimize
+10|1521180|잔소리|더 넛츠 (The NuTs)|108988|335460|Whispers Of Love|https://cdnimg.melon.co.kr/cm/album/images/003/35/460/335460_500.jpg/melon/resize/48/quality/80/optimize
+11|1566277|Irony (아이러니)|원더걸스|217764|344229|The wonder begins|https://cdnimg.melon.co.kr/cm/album/images/003/44/229/344229_500.jpg/melon/resize/48/quality/80/optimize
+12|1522421|사랑...후에|신혜성~린|1741~8530|335571|동화 (冬話)|https://cdnimg.melon.co.kr/cm/album/images/003/35/571/335571_500.jpg/melon/resize/48/quality/80/optimize
+13|1564795|하루|포지션|100177|344101|애가 (愛歌)|https://cdnimg.melon.co.kr/cm/album/images/003/44/101/344101_500.jpg/melon/resize/48/quality/80/optimize
+14|1552384|새 살|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+15|1555676|환상|이재훈 (쿨)|1574|342815|First Album|https://cdnimg.melon.co.kr/cm/album/images/003/42/815/342815_500.jpg/melon/resize/48/quality/80/optimize
+16|1550828|기다릴게...|타이푼|186309|341940|기다릴게...|https://cdnimg.melon.co.kr/cm/album/images/003/41/940/341940_500.jpg/melon/resize/48/quality/80/optimize
+17|1556553|Love Love Love (Feat. Yoong Jin Of Casker)|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+18|1568291|A For You|BGH4|197310|344446|A For You|https://cdnimg.melon.co.kr/cm/album/images/003/44/446/344446_500.jpg/melon/resize/48/quality/80/optimize
+19|1533404|Dirty Cash|BIGBANG|198094|337138|BigBang Vol.1|https://cdnimg.melon.co.kr/cm/album/images/003/37/138/337138_500.jpg/melon/resize/48/quality/80/optimize
+20|1540132|볼때기 사랑|엠씨더맥스 (M.C the MAX)|161636|339545|The Perfect Ballad (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/39/545/339545_500.jpg/melon/resize/48/quality/80/optimize
+21|1539174|Evergreen (Feat. 이지혜)|PK 헤만|211782|338846|Evergreen|https://cdnimg.melon.co.kr/cm/album/images/003/38/846/338846_500.jpg/melon/resize/48/quality/80/optimize
+22|1568640|바보처럼|버블 시스터즈|105696|344518|Dramatic Episode|https://cdnimg.melon.co.kr/cm/album/images/003/44/518/344518_500.jpg/melon/resize/48/quality/80/optimize
+23|-1|&Design (CF - KTF 도시락 '문근영'편)|문근영|56004|337556|&Design|https://cdnimg.melon.co.kr/cm/album/images/003/37/556/337556_500.jpg/melon/resize/48/quality/80/optimize
+24|1555484|예쁘잖아|신화|100078|342795|Winter Story 2006~2007|https://cdnimg.melon.co.kr/cm/album/images/003/42/795/342795_500.jpg/melon/resize/48/quality/80/optimize
+25|1557860|Hey Boy|서지영|1819|343221|Different This Time|https://cdnimg.melon.co.kr/cm/album/images/003/43/221/343221_500.jpg/melon/resize/48/quality/80/optimize
+26|1521142|가지마|브라이언|1929|335456|The Brian|https://cdnimg.melon.co.kr/cm/album/images/003/35/456/335456_500.jpg/melon/resize/48/quality/80/optimize
+27|1551689|날 사랑하지 마요 (Feat. J)|H-유진|198032|342096|날 사랑하지 마요|https://cdnimg.melon.co.kr/cm/album/images/003/42/096/342096_500.jpg/melon/resize/48/quality/80/optimize
+28|1497527|바람만바람만|김종국~SG 워너비|1692~108363|332407|S.101|https://cdnimg.melon.co.kr/cm/album/images/003/32/407/332407_500.jpg/melon/resize/48/quality/80/optimize
+29|1558953|가시리|SG 워너비~KCM|108363~45995|343446|All Star|https://cdnimg.melon.co.kr/cm/album/images/003/43/446/343446_500.jpg/melon/resize/48/quality/80/optimize
+30|1537321|안 행복해|장나라|10575|338468|Lady Like|https://cdnimg.melon.co.kr/cm/album/images/003/38/468/338468_500.jpg/melon/resize/48/quality/80/optimize
+31|1500204|사랑가|SG 워너비|108363|332658|The Precious History|https://cdnimg.melon.co.kr/cm/album/images/003/32/658/332658_500.jpg/melon/resize/48/quality/80/optimize
+32|1488904|나를 외치다|마야|32339|331162|Road To Myself|https://cdnimg.melon.co.kr/cm/album/images/003/31/162/331162_500.jpg/melon/resize/48/quality/80/optimize
+33|1500206|Ordinary People|SG 워너비|108363|332658|The Precious History|https://cdnimg.melon.co.kr/cm/album/images/003/32/658/332658_500.jpg/melon/resize/48/quality/80/optimize
+34|1525533|Maria|김아중|204828|336050|미녀는 괴로워 OST|https://cdnimg.melon.co.kr/cm/album/images/003/36/050/336050_500.jpg/melon/resize/48/quality/80/optimize
+35|1534968|가거라 사랑아|서문탁|2076|337448|Leap Of Truth|https://cdnimg.melon.co.kr/cm/album/images/003/37/448/337448_500.jpg/melon/resize/48/quality/80/optimize
+36|1562344|동화 (童話)|김형중|5247|343929|동화 (童話)|https://cdnimg.melon.co.kr/cm/album/images/003/43/929/343929_500.jpg/melon/resize/48/quality/80/optimize
+37|1529140|일년을 겨울에 살아|브라이언|1929|335456|The Brian|https://cdnimg.melon.co.kr/cm/album/images/003/35/456/335456_500.jpg/melon/resize/48/quality/80/optimize
+38|1552385|하늘아 제발|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+39|1524086|너에게 쓰는 편지 Part 2 (Feat. MayBee)|MC몽|11538|335843|The Way I Am (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/35/843/335843_500.jpg/melon/resize/48/quality/80/optimize
+40|1459449|까만안경 (Feat. Day Light)|이루~Daylight|173424~27784|328069|이루 LEVEL II|https://cdnimg.melon.co.kr/cm/album/images/003/28/069/328069_500.jpg/melon/resize/48/quality/80/optimize
+41|1484802|그녀가 울고있네요|가비엔제이|174997|330574|The Very Surprise|https://cdnimg.melon.co.kr/cm/album/images/003/30/574/330574_500.jpg/melon/resize/48/quality/80/optimize
+42|1558449|습관 (Acoustic Ver.)|유니|37573|343374|유니 3집 U;Nee|https://cdnimg.melon.co.kr/cm/album/images/003/43/374/343374_500.jpg/melon/resize/48/quality/80/optimize
+43|1538204|사랑이 올까봐 (Feat. 화요비)|KCM|45995|338648|안녕 / 사랑이 올까봐|https://cdnimg.melon.co.kr/cm/album/images/003/38/648/338648_500.jpg/melon/resize/48/quality/80/optimize
+44|1535964|Any Star (Feat. 이준기)(CF - 애니콜 애니스타 '이효리, '이준기'편)|이효리|1713|337844|Any Star (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/37/844/337844_500.jpg/melon/resize/48/quality/80/optimize
+45|1569356|그깟 사랑|리즈 (Leeds)|26762|344615|The Land Of Dream|https://cdnimg.melon.co.kr/cm/album/images/003/44/615/344615_500.jpg/melon/resize/48/quality/80/optimize
+46|1467722|거리에서|성시경|3305|328396|The Ballads|https://cdnimg.melon.co.kr/cm/album/images/003/28/396/328396_500.jpg/melon/resize/48/quality/80/optimize
+47|1570684|이게 나예요|SAT|218421|344902|Another Day|https://cdnimg.melon.co.kr/cm/album/images/003/44/902/344902_500.jpg/melon/resize/48/quality/80/optimize
+48|1502237|이게 나라는 남자야|프리스타일~혜미|100144~58318|332861|Rainbow Duet Vol.3|https://cdnimg.melon.co.kr/cm/album/images/003/32/861/332861_500.jpg/melon/resize/48/quality/80/optimize
+49|1564792|왠지|포지션|100177|344101|애가 (愛歌)|https://cdnimg.melon.co.kr/cm/album/images/003/44/101/344101_500.jpg/melon/resize/48/quality/80/optimize
+50|1549870|눈물이 나요|이수영|995|341752|동화 (冬話) Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/41/752/341752_500.jpg/melon/resize/48/quality/80/optimize

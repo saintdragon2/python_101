@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|2312253|헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+2|-1|눈물아 안녕|아이비|171127|697852|I Be..|https://cdnimg.melon.co.kr/cm/album/images/006/97/852/697852_500.jpg/melon/resize/48/quality/80/optimize
+3|2320988|Ring Ding Dong|SHINee (샤이니)|247639|691052|2009, Year Of Us|https://cdnimg.melon.co.kr/cm/album/images/006/91/052/691052_500.jpg/melon/resize/48/quality/80/optimize
+4|2315961|Chocolate Love (Retro Pop Ver.)|소녀시대 (GIRLS' GENERATION)|228069|686452|Chocolate Love|https://cdnimg.melon.co.kr/cm/album/images/006/86/452/686452_500.jpg/melon/resize/48/quality/80/optimize
+5|2319548|잊지 말아요|백지영|1118|689751|아이리스 OST (Part 1)|https://cdnimg.melon.co.kr/cm/album/images/006/89/751/689751_500.jpg/melon/resize/48/quality/80/optimize
+6|2322981|Where U At|태양|247621|692957|Where U At|https://cdnimg.melon.co.kr/cm/album/images/006/92/957/692957_500.jpg/melon/resize/48/quality/80/optimize
+7|2289852|TTL (Time To Love)|티아라~초신성|412000~229544|663552|TTL (Time To Love)|https://cdnimg.melon.co.kr/cm/album/images/006/63/552/663552_500.jpg/melon/resize/48/quality/80/optimize
+8|2336218|부른다|서인국|436700|705159|부른다|https://cdnimg.melon.co.kr/cm/album/images/007/05/159/705159_500.jpg/melon/resize/48/quality/80/optimize
+9|2338186|YOU AND I|박봄 (Park Bom)|439341|706753|YOU AND I|https://cdnimg.melon.co.kr/cm/album/images/007/06/753/706753_500.jpg/melon/resize/48/quality/80/optimize
+10|2276194|사랑비|김태우|182430|650256|T-Virus|https://cdnimg.melon.co.kr/cm/album/images/006/50/256/650256_500.jpg/melon/resize/48/quality/80/optimize
+11|2331974|못된 여자 II (With 서인영)|원투|106928|701153|못된 여자 II|https://cdnimg.melon.co.kr/cm/album/images/007/01/153/701153_500.jpg/melon/resize/48/quality/80/optimize
+12|2289924|사랑한 후에|박효신|1191|663561|Gift (Part.1)|https://cdnimg.melon.co.kr/cm/album/images/006/63/561/663561_500.jpg/melon/resize/48/quality/80/optimize
+13|2334208|이별은 사랑 뒤를 따라와|거미|30358|703254|텔레시네마 프로젝트 Vol.3 - 이별은 사랑 뒤를 따라와|https://cdnimg.melon.co.kr/cm/album/images/007/03/254/703254_500.jpg/melon/resize/48/quality/80/optimize
+14|2328191|Love Like This (네게로)|SS501|170541|697854|SS501 / Rebirth|https://cdnimg.melon.co.kr/cm/album/images/006/97/854/697854_500.jpg/melon/resize/48/quality/80/optimize
+15|2315807|주르륵|휘성 (Realslow)|10577|686358|Vocolate|https://cdnimg.melon.co.kr/cm/album/images/006/86/358/686358_500.jpg/melon/resize/48/quality/80/optimize
+16|2330961|심장을 놓쳐서|환희|1928|700353|H Soul|https://cdnimg.melon.co.kr/cm/album/images/007/00/353/700353_500.jpg/melon/resize/48/quality/80/optimize
+17|2293482|우리 헤어지자|이승기|58793|666758|Shadow|https://cdnimg.melon.co.kr/cm/album/images/006/66/758/666758_500.jpg/melon/resize/48/quality/80/optimize
+18|2317348|TTL Listen 2|티아라~초신성|412000~229544|687651|TTL Listen 2|https://cdnimg.melon.co.kr/cm/album/images/006/87/651/687651_500.jpg/melon/resize/48/quality/80/optimize
+19|2314377|죽일 놈 (Guilty)|다이나믹 듀오|108358|684955|Band Of Dynamic Brothers|https://cdnimg.melon.co.kr/cm/album/images/006/84/955/684955_500.jpg/melon/resize/48/quality/80/optimize
+20|2269959|Muzik|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+21|2271648|라차타 (LA chA TA)|f(x)|428501|646251|라차타|https://cdnimg.melon.co.kr/cm/album/images/006/46/251/646251_500.jpg/melon/resize/48/quality/80/optimize
+22|2258761|Heartbreaker|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+23|2312177|호러쇼 (Feat. 강호동, Whale)|MC몽|11538|682858|Humanimal (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/006/82/858/682858_500.jpg/melon/resize/48/quality/80/optimize
+24|2301640|핼쑥해졌대|가비엔제이|174997|673361|Heartbreak Hotel|https://cdnimg.melon.co.kr/cm/album/images/006/73/361/673361_500.jpg/melon/resize/48/quality/80/optimize
+25|2322558|너 정말이니|럼블피쉬|108951|692554|One Sweet Day|https://cdnimg.melon.co.kr/cm/album/images/006/92/554/692554_500.jpg/melon/resize/48/quality/80/optimize
+26|2312255|변해가네 (Feat. 정인)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+27|2333922|Good Bye|엠투엠 (M To M)|108581|702955|Good Bye|https://cdnimg.melon.co.kr/cm/album/images/007/02/955/702955_500.jpg/melon/resize/48/quality/80/optimize
+28|2320849|Oh Yeah|엠블랙|436980|690952|Just Blaq|https://cdnimg.melon.co.kr/cm/album/images/006/90/952/690952_500.jpg/melon/resize/48/quality/80/optimize
+29|2281050|30분전 (Feat. 임정희)|이현|429480|654552|30분전|https://cdnimg.melon.co.kr/cm/album/images/006/54/552/654552_500.jpg/melon/resize/48/quality/80/optimize
+30|2322749|내 이름 부르지마|이수영|995|692751|9th Dazzle|https://cdnimg.melon.co.kr/cm/album/images/006/92/751/692751_500.jpg/melon/resize/48/quality/80/optimize
+31|2330968|웃어 (Feat. 인순이)|마이티 마우스|239366|700354|Smile|https://cdnimg.melon.co.kr/cm/album/images/007/00/354/700354_500.jpg/melon/resize/48/quality/80/optimize
+32|2280185|Kiss (Feat. CL)|산다라박|165537|653653|Kiss|https://cdnimg.melon.co.kr/cm/album/images/006/53/653/653653_500.jpg/melon/resize/48/quality/80/optimize
+33|-1|보란듯이|아이비|171127|697852|I Be..|https://cdnimg.melon.co.kr/cm/album/images/006/97/852/697852_500.jpg/melon/resize/48/quality/80/optimize
+34|2335458|여자는 나쁜남자를 좋아한다|디셈버|439021|704452|Dear My Lover|https://cdnimg.melon.co.kr/cm/album/images/007/04/452/704452_500.jpg/melon/resize/48/quality/80/optimize
+35|2312254|Carousel (Feat. 이적)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+36|2238379|미스터|카라|222128|616053|Revolution|https://cdnimg.melon.co.kr/cm/album/images/006/16/053/616053_500.jpg/melon/resize/48/quality/80/optimize
+37|2322588|헤어질 거 같애 (Feat. MJ Of Sunnyside, 신혜)|박지헌|231826|692559|헤어질 거 같애|https://cdnimg.melon.co.kr/cm/album/images/006/92/559/692559_500.jpg/melon/resize/48/quality/80/optimize
+38|2334774|그 놈 목소리|씨야|181679|703853|Rebloom|https://cdnimg.melon.co.kr/cm/album/images/007/03/853/703853_500.jpg/melon/resize/48/quality/80/optimize
+39|2229259|Abracadabra|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+40|2320748|사랑이라서|임재범|4838|690851|사랑이라서|https://cdnimg.melon.co.kr/cm/album/images/006/90/851/690851_500.jpg/melon/resize/48/quality/80/optimize
+41|2253748|내 귀에 캔디 (Feat. 택연 Of 2PM)|백지영|1118|628465|Ego|https://cdnimg.melon.co.kr/cm/album/images/006/28/465/628465_500.jpg/melon/resize/48/quality/80/optimize
+42|2299311|사랑인걸요|태연 (TAEYEON)~써니 (SUNNY)|236797~257449|671260|맨땅에 헤딩 OST|https://cdnimg.melon.co.kr/cm/album/images/006/71/260/671260_500.jpg/melon/resize/48/quality/80/optimize
+43|2255158|생각이나|부활|100594|632858|25th Anniversary: Retrospect|https://cdnimg.melon.co.kr/cm/album/images/006/32/858/632858_500.jpg/melon/resize/48/quality/80/optimize
+44|2320881|Bad Girl|비스트|436981|690954|Beast Is The B2ST|https://cdnimg.melon.co.kr/cm/album/images/006/90/954/690954_500.jpg/melon/resize/48/quality/80/optimize
+45|2304171|가인 (Feat. Nemo Of 미스에스)|배치기|101886|675364|367일|https://cdnimg.melon.co.kr/cm/album/images/006/75/364/675364_500.jpg/melon/resize/48/quality/80/optimize
+46|2291966|따라해 (Wannabe) (Feat. Mellow)|에픽하이 (EPIK HIGH)|108356|665451|[e]|https://cdnimg.melon.co.kr/cm/album/images/006/65/451/665451_500.jpg/melon/resize/48/quality/80/optimize
+47|2339048|Sign|브라운아이드걸스|181694|707651|Sound-G Sign|https://cdnimg.melon.co.kr/cm/album/images/007/07/651/707651_500.jpg/melon/resize/48/quality/80/optimize
+48|2312252|우리 지금 만나 (Feat. 장기하와 얼굴들)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+49|2266940|사랑이 뭐길래|미스에스|275266|642809|Miss $ S Class|https://cdnimg.melon.co.kr/cm/album/images/006/42/809/642809_500.jpg/melon/resize/48/quality/80/optimize
+50|2218822|In The Club|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize

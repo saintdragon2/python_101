@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2335491|실화|린|8530|704455|6½ New Celebration|https://cdnimg.melon.co.kr/cm/album/images/007/04/455/704455_500.jpg/melon/resize/48/quality/80/optimize
+52|2319000|I Want You Back|시크릿|435121|689256|I Want You Back|https://cdnimg.melon.co.kr/cm/album/images/006/89/256/689256_500.jpg/melon/resize/48/quality/80/optimize
+53|2278748|사랑 참 어렵다|이승철|1010|652251|사랑 참 어렵다 (이승철 10th 리패키지)|https://cdnimg.melon.co.kr/cm/album/images/006/52/251/652251_500.jpg/melon/resize/48/quality/80/optimize
+54|2301753|그 남자 그 여자의 사정|유이 (애프터스쿨)~전진~숙희|433760~1740~341370|673453|인사(人事): 연·애·별(緣·愛·別)|https://cdnimg.melon.co.kr/cm/album/images/006/73/453/673453_500.jpg/melon/resize/48/quality/80/optimize
+55|-1|Touch Me|아이비|171127|697852|I Be..|https://cdnimg.melon.co.kr/cm/album/images/006/97/852/697852_500.jpg/melon/resize/48/quality/80/optimize
+56|2280287|심장병|아웃사이더~MC 스나이퍼~호란|181785~7560~221838|653756|환타스틱 프로젝트 Vol.1|https://cdnimg.melon.co.kr/cm/album/images/006/53/756/653756_500.jpg/melon/resize/48/quality/80/optimize
+57|2336217|Young Love|서인국|436700|705159|부른다|https://cdnimg.melon.co.kr/cm/album/images/007/05/159/705159_500.jpg/melon/resize/48/quality/80/optimize
+58|2319848|Lie|FTISLAND (FT아일랜드)|226490|690051|One Date|https://cdnimg.melon.co.kr/cm/album/images/006/90/051/690051_500.jpg/melon/resize/48/quality/80/optimize
+59|2293481|면사포|이승기|58793|666758|Shadow|https://cdnimg.melon.co.kr/cm/album/images/006/66/758/666758_500.jpg/melon/resize/48/quality/80/optimize
+60|2253769|눈물도 아까워 (Feat. 현아 From 4Minute)|나비|242868|631953|눈물도 아까워|https://cdnimg.melon.co.kr/cm/album/images/006/31/953/631953_500.jpg/melon/resize/48/quality/80/optimize
+61|2334482|러브레터 (FT.Triple)|FTISLAND (FT아일랜드)|226490|703553|Double Date|https://cdnimg.melon.co.kr/cm/album/images/007/03/553/703553_500.jpg/melon/resize/48/quality/80/optimize
+62|2267869|Vari2ty|쥬얼리|101487|634254|Sophisticated|https://cdnimg.melon.co.kr/cm/album/images/006/34/254/634254_500.jpg/melon/resize/48/quality/80/optimize
+63|2212365|I Don't Care|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+64|2330271|Love Of Iris|신승훈|25|699853|아이리스 OST (Part 2)|https://cdnimg.melon.co.kr/cm/album/images/006/99/853/699853_500.jpg/melon/resize/48/quality/80/optimize
+65|2234748|거짓말 (Part.1)|티아라|412000|617051|거짓말|https://cdnimg.melon.co.kr/cm/album/images/006/17/051/617051_500.jpg/melon/resize/48/quality/80/optimize
+66|2330948|New Celebration (Feat. 도끼)|린|8530|700351|New Celebration|https://cdnimg.melon.co.kr/cm/album/images/007/00/351/700351_500.jpg/melon/resize/48/quality/80/optimize
+67|2258760|소년이여|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+68|2321563|여전히|이홍기 (FT아일랜드)|42554|691654|미남이시네요 OST|https://cdnimg.melon.co.kr/cm/album/images/006/91/654/691654_500.jpg/melon/resize/48/quality/80/optimize
+69|2312178|나는... (Feat. Ivy)|MC몽|11538|682858|Humanimal (Repackage)|https://cdnimg.melon.co.kr/cm/album/images/006/82/858/682858_500.jpg/melon/resize/48/quality/80/optimize
+70|2315962|Chocolate Love (Electronic Pop Ver.)|f(x)|428501|686453|Chocolate Love|https://cdnimg.melon.co.kr/cm/album/images/006/86/453/686453_500.jpg/melon/resize/48/quality/80/optimize
+71|2293512|속았다 (Narration Of 이요원)|태군|323676|666763|The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/006/66/763/666763_500.jpg/melon/resize/48/quality/80/optimize
+72|2318962|강력한 그녀|런|873756|689252|Face-Off|https://cdnimg.melon.co.kr/cm/album/images/006/89/252/689252_500.jpg/melon/resize/48/quality/80/optimize
+74|2334058|그리움이 내린 나무|서영은|3033|703154|Rainbow|https://cdnimg.melon.co.kr/cm/album/images/007/03/154/703154_500.jpg/melon/resize/48/quality/80/optimize
+75|2336219|아름다운 이별|서인국|436700|705159|부른다|https://cdnimg.melon.co.kr/cm/album/images/007/05/159/705159_500.jpg/melon/resize/48/quality/80/optimize
+76|2259948|Hot Stuff|다비치|236815|636651|아가씨를 부탁해 OST|https://cdnimg.melon.co.kr/cm/album/images/006/36/651/636651_500.jpg/melon/resize/48/quality/80/optimize
+77|2314862|Yes I'm In Love (Feat. 2PM 택연)|바다 (BADA)|1605|685452|Yes I'm In Love|https://cdnimg.melon.co.kr/cm/album/images/006/85/452/685452_500.jpg/melon/resize/48/quality/80/optimize
+78|2269961|What A Girl Wants|4minute|417985|644652|For Muzik|https://cdnimg.melon.co.kr/cm/album/images/006/44/652/644652_500.jpg/melon/resize/48/quality/80/optimize
+79|2314380|불꽃놀이 (Fireworks)|다이나믹 듀오|108358|684955|Band Of Dynamic Brothers|https://cdnimg.melon.co.kr/cm/album/images/006/84/955/684955_500.jpg/melon/resize/48/quality/80/optimize
+80|2295270|너라면 좋겠어|윤도현|923|668353|Harmony (Present For 날아라 펭귄)|https://cdnimg.melon.co.kr/cm/album/images/006/68/353/668353_500.jpg/melon/resize/48/quality/80/optimize
+81|2329649|Missing You|숙희|341370|699252|Missing You|https://cdnimg.melon.co.kr/cm/album/images/006/99/252/699252_500.jpg/melon/resize/48/quality/80/optimize
+82|2235965|Wanna|카라|222128|616053|Revolution|https://cdnimg.melon.co.kr/cm/album/images/006/16/053/616053_500.jpg/melon/resize/48/quality/80/optimize
+83|2283354|독설|테이|51893|657153|The Shine 2009|https://cdnimg.melon.co.kr/cm/album/images/006/57/153/657153_500.jpg/melon/resize/48/quality/80/optimize
+84|2301752|미안해|다이나믹 듀오|108358|673452|Triple Dynamite (0CD VS Gaeko)|https://cdnimg.melon.co.kr/cm/album/images/006/73/452/673452_500.jpg/melon/resize/48/quality/80/optimize
+85|2312266|19금 내 몸은 너를 지웠다 (Feat. Enzo.B)|리쌍|103289|682952|Hexagonal|https://cdnimg.melon.co.kr/cm/album/images/006/82/952/682952_500.jpg/melon/resize/48/quality/80/optimize
+86|2218824|Pretty Boy|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+87|2258764|Hello (Feat. 다라)|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+88|2332015|Papers|Usher|4463|701157|Papers|https://cdnimg.melon.co.kr/cm/album/images/007/01/157/701157_500.jpg/melon/resize/48/quality/80/optimize
+89|2297547|사랑한단 말을 못해서|케이윌|175139|669961|쏘울 스페셜 OST|https://cdnimg.melon.co.kr/cm/album/images/006/69/961/669961_500.jpg/melon/resize/48/quality/80/optimize
+90|2291014|Honesty|Beyonce|3535|664561|I Am... Sasha Fierce (Platinum Edition)|https://cdnimg.melon.co.kr/cm/album/images/006/64/561/664561_500.jpg/melon/resize/48/quality/80/optimize
+91|-1|FREE 두근두근 Tomorrow|포투모로우|436660|689258|두근두근 Tomorrow|https://cdnimg.melon.co.kr/cm/album/images/006/89/258/689258_500.jpg/melon/resize/48/quality/80/optimize
+92|2340816|달려와 (With Bigtone) (Rally Ver.2)|서인국|436700|709259|달려와|https://cdnimg.melon.co.kr/cm/album/images/007/09/259/709259_500.jpg/melon/resize/48/quality/80/optimize
+93|2311048|기억이 안나|별|27033|681751|2009 No.1 Diva's Love (기억이 안나)|https://cdnimg.melon.co.kr/cm/album/images/006/81/751/681751_500.jpg/melon/resize/48/quality/80/optimize
+94|2226049|바래|FTISLAND (FT아일랜드)|226490|605252|Cross & Change|https://cdnimg.melon.co.kr/cm/album/images/006/05/252/605252_500.jpg/melon/resize/48/quality/80/optimize
+95|2258762|Breathe|G-DRAGON|6984|635352|Heartbreaker|https://cdnimg.melon.co.kr/cm/album/images/006/35/352/635352_500.jpg/melon/resize/48/quality/80/optimize
+96|2315806|사랑..그 몹쓸병|휘성 (Realslow)|10577|686358|Vocolate|https://cdnimg.melon.co.kr/cm/album/images/006/86/358/686358_500.jpg/melon/resize/48/quality/80/optimize
+97|2315765|365일|알리 (ALi)|312266|686354|After The Love Has Gone|https://cdnimg.melon.co.kr/cm/album/images/006/86/354/686354_500.jpg/melon/resize/48/quality/80/optimize
+98|2325889|해바라기|김종욱|4388|695754|해바라기|https://cdnimg.melon.co.kr/cm/album/images/006/95/754/695754_500.jpg/melon/resize/48/quality/80/optimize
+99|2329053|말해줘요|KCM|45995|698851|보석비빔밥 OST Part. 1|https://cdnimg.melon.co.kr/cm/album/images/006/98/851/698851_500.jpg/melon/resize/48/quality/80/optimize
+100|2339053|체념 2009|이영현|10210|707652|Take It|https://cdnimg.melon.co.kr/cm/album/images/007/07/652/707652_500.jpg/melon/resize/48/quality/80/optimize

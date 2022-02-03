@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|4433490|썸 (Feat. 릴보이 Of 긱스)|소유 (SOYOU)~정기고|490981~304967|2230890|썸|https://cdnimg.melon.co.kr/cm/album/images/022/30/890/2230890_500.jpg/melon/resize/48/quality/80/optimize
+2|4478187|Come Back Home|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+3|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+4|4471542|Mr.Mr.|소녀시대 (GIRLS' GENERATION)|228069|2235426|The 4th Mini Album 'Mr.Mr.'|https://cdnimg.melon.co.kr/cm/album/images/022/35/426/2235426_500.jpg/melon/resize/48/quality/80/optimize
+5|4512170|흔한 노래|임창정|1142|2241157|흔한 노래... 흔한 멜로디...|https://cdnimg.melon.co.kr/cm/album/images/022/41/157/2241157_500.jpg/melon/resize/48/quality/80/optimize
+6|4454382|보름달 (Feat. Lena)|선미|22938|2233456|Full Moon|https://cdnimg.melon.co.kr/cm/album/images/022/33/456/2233456_500.jpg/melon/resize/48/quality/80/optimize
+7|4478188|너 아님 안돼|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+8|4446485|너의 모든 순간|성시경|3305|2232505|별에서 온 그대 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/48/quality/80/optimize
+9|4462368|Can't Stop|CNBLUE (씨엔블루)|450801|2234269|Can't Stop|https://cdnimg.melon.co.kr/cm/album/images/022/34/269/2234269_500.jpg/melon/resize/48/quality/80/optimize
+10|4516940|오늘 뭐해|4minute|417985|2241591|4MINUTE WORLD|https://cdnimg.melon.co.kr/cm/album/images/022/41/591/2241591_500.jpg/melon/resize/48/quality/80/optimize
+11|4527879|감아 (Feat. Crush)|로꼬|688432|2242936|감아|https://cdnimg.melon.co.kr/cm/album/images/022/42/936/2242936_500.jpg/melon/resize/48/quality/80/optimize
+12|4493462|보고 싶어...운다|린|8530|2238706|Le Grand Bleu|https://cdnimg.melon.co.kr/cm/album/images/022/38/706/2238706_500.jpg/melon/resize/48/quality/80/optimize
+13|4503810|까탈레나 (Catallena)|오렌지 캬라멜|477632|2240082|The Third Single Catallena|https://cdnimg.melon.co.kr/cm/album/images/022/40/082/2240082_500.jpg/melon/resize/48/quality/80/optimize
+14|4383773|Something|걸스데이|482762|2224342|걸스데이 미니앨범 3집|https://cdnimg.melon.co.kr/cm/album/images/022/24/342/2224342_500.jpg/melon/resize/48/quality/80/optimize
+15|4478189|살아 봤으면 해|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+16|4412196|안녕|효린|573812|2228106|별에서 온 그대 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/28/106/2228106_500.jpg/melon/resize/48/quality/80/optimize
+17|4400561|짧은 치마 (Miniskirt)|AOA|686920|2226803|짧은 치마|https://cdnimg.melon.co.kr/cm/album/images/022/26/803/2226803_500.jpg/melon/resize/48/quality/80/optimize
+18|4369827|금요일에 만나요 (Feat. 장이정 Of HISTORY)|아이유|261143|2222587|Modern Times - Epilogue|https://cdnimg.melon.co.kr/cm/album/images/022/22/587/2222587_500.jpg/melon/resize/48/quality/80/optimize
+19|4381724|그대가 분다|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+20|4433528|오늘 같은 눈물이|허각|28801|2230896|별에서 온 그대 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/022/30/896/2230896_500.jpg/melon/resize/48/quality/80/optimize
+21|4383349|노래가 늘었어|에일리(Ailee)|629831|2224293|노래가 늘었어|https://cdnimg.melon.co.kr/cm/album/images/022/24/293/2224293_500.jpg/melon/resize/48/quality/80/optimize
+22|4484403|씨스루|권진아|760046|2237318|K팝 스타 시즌3 TOP10 Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/37/318/2237318_500.jpg/melon/resize/48/quality/80/optimize
+23|4478186|Crush|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+24|4342899|Let It Go|Idina Menzel|232538|2219067|Frozen (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm/album/images/022/19/067/2219067_500.jpg/melon/resize/48/quality/80/optimize
+25|4504110|널 사랑한다, 지운다, 또 운다|신용재 (2F)|510537|2240136|쓰리 데이즈 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/40/136/2240136_500.jpg/melon/resize/48/quality/80/optimize
+26|4478191|멘붕 (CL Solo)|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+27|4443748|썸남썸녀 (Feat. 휘성)|케이윌~마마무 (Mamamoo)|175139~750053|2232117|썸남썸녀|https://cdnimg.melon.co.kr/cm/album/images/022/32/117/2232117_500.jpg/melon/resize/48/quality/80/optimize
+28|4490672|그대라구요|정은지|644871|2238278|쓰리 데이즈 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/022/38/278/2238278_500.jpg/melon/resize/48/quality/80/optimize
+29|4478169|지구가 태양을 네 번|넬 (NELL)|101094|2236444|Newton's Apple|https://cdnimg.melon.co.kr/cm/album/images/022/36/444/2236444_500.jpg/melon/resize/48/quality/80/optimize
+30|4418185|19금 Fxxk U (Feat. 범키)|가인|428821|2228802|Truth Or Dare|https://cdnimg.melon.co.kr/cm/album/images/022/28/802/2228802_500.jpg/melon/resize/48/quality/80/optimize
+31|4375626|My Destiny|린|8530|2223343|별에서 온 그대 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/23/343/2223343_500.jpg/melon/resize/48/quality/80/optimize
+32|4462141|너의 집 앞|김수현|8433|2234241|별에서 온 그대 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/022/34/241/2234241_500.jpg/melon/resize/48/quality/80/optimize
+33|4389943|"Let It Go (From ""Frozen""/Soundtrack Version)"|Idina Menzel|232538|2225293|Frozen (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm2/album/images/022/25/293/2225293_20200528094453_500.jpg/melon/resize/48/quality/80/optimize
+34|4412480|답이 없었어|홍대광|699623|2228144|THE SILVER LINING|https://cdnimg.melon.co.kr/cm/album/images/022/28/144/2228144_500.jpg/melon/resize/48/quality/80/optimize
+35|4441132|숨소리 (Breath) (Sung By 태연 (소녀시대) & 종현 (샤이니))|S.M. THE BALLAD|755956|2231807|S.M. The Ballad Vol.2 'Breath' 숨소리|https://cdnimg.melon.co.kr/cm/album/images/022/31/807/2231807_500.jpg/melon/resize/48/quality/80/optimize
+36|3174148|가슴 시린 이야기 (Feat. 용준형 Of Beast)|휘성 (Realslow)|10577|1199451|가슴 시린 이야기|https://cdnimg.melon.co.kr/cm/album/images/011/99/451/1199451_500.jpg/melon/resize/48/quality/80/optimize
+37|4252728|처음엔 사랑이란게|버스커 버스커|569233|2202410|버스커 버스커 2집|https://cdnimg.melon.co.kr/cm/album/images/022/02/410/2202410_500.jpg/melon/resize/48/quality/80/optimize
+38|4438401|So Wonderful|레이디스 코드|718807|2231517|So Wonderful|https://cdnimg.melon.co.kr/cm/album/images/022/31/517/2231517_500.jpg/melon/resize/48/quality/80/optimize
+39|4491123|Delicious|투하트 (우현, 키)|760193|2238344|1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/022/38/344/2238344_500.jpg/melon/resize/48/quality/80/optimize
+40|4397969|19금 조금 이따 샤워해 (Feat. Crush)|개리|1732|2226474|MR.GAE|https://cdnimg.melon.co.kr/cm/album/images/022/26/474/2226474_500.jpg/melon/resize/48/quality/80/optimize
+41|4478190|착한 여자|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+42|4382254|La Song|비|17671|2224109|Rain Effect|https://cdnimg.melon.co.kr/cm/album/images/022/24/109/2224109_500.jpg/melon/resize/48/quality/80/optimize
+43|4478192|Happy|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+44|4237755|착해 빠졌어 (Stupid In Love)|소유 (SOYOU)~매드클라운|490981~219621|2200521|착해 빠졌어 (Stupid In Love)|https://cdnimg.melon.co.kr/cm/album/images/022/00/521/2200521_500.jpg/melon/resize/48/quality/80/optimize
+45|4393161|Lonely (없구나)|B1A4|535440|2225831|Who Am I|https://cdnimg.melon.co.kr/cm/album/images/022/25/831/2225831_500.jpg/melon/resize/48/quality/80/optimize
+46|4526104|나 때문에|알리 (ALi)|312266|2242744|나 때문에|https://cdnimg.melon.co.kr/cm/album/images/022/42/744/2242744_500.jpg/melon/resize/48/quality/80/optimize
+47|4536191|A Tempo|가인|428821|2243979|A Tempo|https://cdnimg.melon.co.kr/cm/album/images/022/43/979/2243979_500.jpg/melon/resize/48/quality/80/optimize
+48|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+49|3893169|홀로 (Feat. 김나영)|정키|570731|2148411|Break Up|https://cdnimg.melon.co.kr/cm/album/images/021/48/411/2148411_500.jpg/melon/resize/48/quality/80/optimize
+50|4455531|해운대 (Feat. 강민경 Of 다비치)|바이브|160080|2233573|ritardando|https://cdnimg.melon.co.kr/cm/album/images/022/33/573/2233573_500.jpg/melon/resize/48/quality/80/optimize

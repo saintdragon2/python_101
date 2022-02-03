@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2093361|사고쳤어요|다비치|236815|508460|Davichi In Wonderland|https://cdnimg.melon.co.kr/cm/album/images/005/08/460/508460_500.jpg/melon/resize/48/quality/80/optimize
+52|1961451|바람피지마 (Feat. 남규리 Of 씨야)|미스에스|275266|414853|Miss $ Diary|https://cdnimg.melon.co.kr/cm/album/images/004/14/853/414853_500.jpg/melon/resize/48/quality/80/optimize
+53|2026971|Call Me|태군|323676|471755|1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/004/71/755/471755_500.jpg/melon/resize/48/quality/80/optimize
+54|2092511|그녀석의 여자|24/7|402527|507968|24 Hours A Day, 7 Days A Week|https://cdnimg.melon.co.kr/cm/album/images/005/07/968/507968_500.jpg/melon/resize/48/quality/80/optimize
+55|2039544|데이트|쥬얼리S|330772|480352|Sweet Song (Single)|https://cdnimg.melon.co.kr/cm/album/images/004/80/352/480352_500.jpg/melon/resize/48/quality/80/optimize
+56|1953349|Dangerous|은지원|1682|407151|G Code|https://cdnimg.melon.co.kr/cm/album/images/004/07/151/407151_500.jpg/melon/resize/48/quality/80/optimize
+57|1941619|어제보다 오늘 더|김종국|1692|399175|Here I Am|https://cdnimg.melon.co.kr/cm/album/images/003/99/175/399175_500.jpg/melon/resize/48/quality/80/optimize
+58|2043348|그런 사람 또 없습니다|이승철|1010|486251|슬픔보다 더 슬픈이야기 OST 2nd|https://cdnimg.melon.co.kr/cm/album/images/004/86/251/486251_500.jpg/melon/resize/48/quality/80/optimize
+59|-1|Insomnia|Craig David|4804|501651|Greatest Hits|https://cdnimg.melon.co.kr/cm/album/images/005/01/651/501651_500.jpg/melon/resize/48/quality/80/optimize
+60|1913502|천국|BIGBANG|198094|392870|Stand Up (2008 빅뱅 3rd Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/92/870/392870_500.jpg/melon/resize/48/quality/80/optimize
+61|2097619|행복병 (Feat. Shorry J (MM))|김종국|1692|511859|행복병|https://cdnimg.melon.co.kr/cm/album/images/005/11/859/511859_500.jpg/melon/resize/48/quality/80/optimize
+62|2017353|별빛눈물|김유경|207996|463151|꽃보다 남자 OST|https://cdnimg.melon.co.kr/cm/album/images/004/63/151/463151_500.jpg/melon/resize/48/quality/80/optimize
+63|2068279|시월애 (제이 With 규완)|룸메이트|242927|504858|시월애|https://cdnimg.melon.co.kr/cm/album/images/005/04/858/504858_500.jpg/melon/resize/48/quality/80/optimize
+64|1939100|Rainism (Clean Ver.)|비|17671|398518|Rainism|https://cdnimg.melon.co.kr/cm/album/images/003/98/518/398518_500.jpg/melon/resize/48/quality/80/optimize
+65|2056836|Sorry (With 헤리티지)|이진성 (먼데이 키즈)|237650|497858|Letter|https://cdnimg.melon.co.kr/cm/album/images/004/97/858/497858_500.jpg/melon/resize/48/quality/80/optimize
+66|2070076|미련한 사랑 (Drama Ver.) (Ending Title)|최현준 (V.O.S)~지|225993~52905|506158|카인과 아벨 OST|https://cdnimg.melon.co.kr/cm/album/images/005/06/158/506158_500.jpg/melon/resize/48/quality/80/optimize
+67|2063744|짜라자짜 (Feat. 다비치)|주현미~서현 (SEOHYUN)|1173~401220|501959|짜라자짜|https://cdnimg.melon.co.kr/cm/album/images/005/01/959/501959_500.jpg/melon/resize/48/quality/80/optimize
+68|984646|애인 있어요|이은미|1055|309042|Ma Non Tanto|https://cdnimg.melon.co.kr/cm/album/images/003/09/042/309042_500.jpg/melon/resize/48/quality/80/optimize
+69|2092391|19금 사고치고 싶어 (Feat. 손담비, 이하늘) (90's Mix Ver.)|이불|873756|507955|Fire In My Heart|https://cdnimg.melon.co.kr/cm/album/images/005/07/955/507955_500.jpg/melon/resize/48/quality/80/optimize
+70|1935599|Love Story|비|17671|398518|Rainism|https://cdnimg.melon.co.kr/cm/album/images/003/98/518/398518_500.jpg/melon/resize/48/quality/80/optimize
+71|1958834|이런 여자|이수영|995|412159|Once|https://cdnimg.melon.co.kr/cm/album/images/004/12/159/412159_500.jpg/melon/resize/48/quality/80/optimize
+72|2015662|힘 내! (Way To Go)|소녀시대 (GIRLS' GENERATION)|228069|458355|The First Mini Album 'Gee'|https://cdnimg.melon.co.kr/cm/album/images/004/58/355/458355_500.jpg/melon/resize/48/quality/80/optimize
+73|2063578|사랑 100%|이지혜~장석현|1820~3878|501854|사랑 100%|https://cdnimg.melon.co.kr/cm/album/images/005/01/854/501854_500.jpg/melon/resize/48/quality/80/optimize
+74|-1|사랑쟁이 (Feat. 김은정 Of Jewelry)|김경록 (V.O.S)|57528|510057|사랑쟁이|https://cdnimg.melon.co.kr/cm/album/images/005/10/057/510057_500.jpg/melon/resize/48/quality/80/optimize
+75|2006848|슬픔보다 더 슬픈 이야기|김범수|6502|453851|슬픔보다 더 슬픈 이야기 OST (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/53/851/453851_500.jpg/melon/resize/48/quality/80/optimize
+76|1928051|내사람|환희|1928|397893|베토벤 바이러스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/97/893/397893_500.jpg/melon/resize/48/quality/80/optimize
+77|2063908|내 눈을 보아도|빅마마|105803|502056|2009 Whispers Of Love|https://cdnimg.melon.co.kr/cm/album/images/005/02/056/502056_500.jpg/melon/resize/48/quality/80/optimize
+78|1914864|사랑이 그렇게 쉬워 (Feat. 태인)|나몰라패밀리 (Namolla Family)|194009|393053|사랑이 그렇게 쉬워|https://cdnimg.melon.co.kr/cm/album/images/003/93/053/393053_500.jpg/melon/resize/48/quality/80/optimize
+79|1963424|듣고 있나요|이승철|1010|416357|에덴의 동쪽 2 OST|https://cdnimg.melon.co.kr/cm/album/images/004/16/357/416357_500.jpg/melon/resize/48/quality/80/optimize
+80|2025149|몰라 ing (Feat. 조권 & 정진운 From 2AM)|메이다니 (MAYDONI)|322766|470352|7 Teen (Single)|https://cdnimg.melon.co.kr/cm/album/images/004/70/352/470352_500.jpg/melon/resize/48/quality/80/optimize
+81|2091426|사랑은 유리같은 것 (Narr. 파스텔블루)|MC 한새~원준희|3519~5547|507256|사랑은 유리 같은 것|https://cdnimg.melon.co.kr/cm/album/images/005/07/256/507256_500.jpg/melon/resize/48/quality/80/optimize
+82|2066073|늦잠꾸러기 (Feat. Luiee)|김동욱|174685|503154|감성적 포유류|https://cdnimg.melon.co.kr/cm/album/images/005/03/154/503154_500.jpg/melon/resize/48/quality/80/optimize
+83|2057148|갈때까지 가보자 (Feat. 은지원) (1박 2일 삽입곡)|이수근|23432|498051|갈때까지 가보자|https://cdnimg.melon.co.kr/cm/album/images/004/98/051/498051_500.jpg/melon/resize/48/quality/80/optimize
+84|1975152|아마도 그건|홍민정|445480|427151|과속 스캔들 OST (무비클로저)|https://cdnimg.melon.co.kr/cm/album/images/004/27/151/427151_500.jpg/melon/resize/48/quality/80/optimize
+85|2095575|이별통보 (Feat. 서진영)|노블레스|160738|510356|Sadness|https://cdnimg.melon.co.kr/cm/album/images/005/10/356/510356_500.jpg/melon/resize/48/quality/80/optimize
+86|1927248|어쩌다|브라운아이드걸스|181694|397434|My style|https://cdnimg.melon.co.kr/cm/album/images/003/97/434/397434_500.jpg/melon/resize/48/quality/80/optimize
+87|2070413|니가 그리운 날엔|박상민|956|506458|니가 그리운 날엔|https://cdnimg.melon.co.kr/cm/album/images/005/06/458/506458_500.jpg/melon/resize/48/quality/80/optimize
+88|2025048|인생은 즐거워|제시 (Jessi)|176393|470251|The Rebirth|https://cdnimg.melon.co.kr/cm/album/images/004/70/251/470251_500.jpg/melon/resize/48/quality/80/optimize
+89|1941712|Eat You Up|보아 (BoA)|2165|399181|Eat You Up|https://cdnimg.melon.co.kr/cm/album/images/003/99/181/399181_500.jpg/melon/resize/48/quality/80/optimize
+90|2094148|세상 참 맛있다 (Feat. 타이거JK)|컬투|107719|509151|Season 2 '봄'|https://cdnimg.melon.co.kr/cm/album/images/005/09/151/509151_500.jpg/melon/resize/48/quality/80/optimize
+91|2093363|사랑이 우습니|다비치|236815|508460|Davichi In Wonderland|https://cdnimg.melon.co.kr/cm/album/images/005/08/460/508460_500.jpg/melon/resize/48/quality/80/optimize
+92|2070112|Sweet Dream|제이|1203|506161|Sweet Dream|https://cdnimg.melon.co.kr/cm/album/images/005/06/161/506161_500.jpg/melon/resize/48/quality/80/optimize
+93|2049249|우리 사랑해요 (Feat. Supreme Team) ('우리 결혼 했어요' 삽입곡)|박화요비|2017|490951|This Is Love|https://cdnimg.melon.co.kr/cm/album/images/004/90/951/490951_500.jpg/melon/resize/48/quality/80/optimize
+94|2066648|19금 입술이 정말|김소리|1823|503551|Lip|https://cdnimg.melon.co.kr/cm/album/images/005/03/551/503551_500.jpg/melon/resize/48/quality/80/optimize
+95|2097848|한사람을 위한 마음|럼블피쉬|108951|512051|한사람을 위한 마음|https://cdnimg.melon.co.kr/cm/album/images/005/12/051/512051_500.jpg/melon/resize/48/quality/80/optimize
+96|2017354|조금은|서진영|9453|463151|꽃보다 남자 OST|https://cdnimg.melon.co.kr/cm/album/images/004/63/151/463151_500.jpg/melon/resize/48/quality/80/optimize
+97|2056838|1 Step|이진성 (먼데이 키즈)|237650|497858|Letter|https://cdnimg.melon.co.kr/cm/album/images/004/97/858/497858_500.jpg/melon/resize/48/quality/80/optimize
+98|2092074|사랑아... (String Ver.)|이선희|966|507655|사랑아...|https://cdnimg.melon.co.kr/cm/album/images/005/07/655/507655_500.jpg/melon/resize/48/quality/80/optimize
+99|2020948|사랑 안할래 (Feat. 태사비애)|비너스|320167|466451|사랑 안할래 (1st Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/004/66/451/466451_500.jpg/melon/resize/48/quality/80/optimize
+100|2056935|Yes ! (Feat. 에릭) (Real G Ver.)|점퍼|400442|497867|Yes !|https://cdnimg.melon.co.kr/cm/album/images/004/97/867/497867_500.jpg/melon/resize/48/quality/80/optimize

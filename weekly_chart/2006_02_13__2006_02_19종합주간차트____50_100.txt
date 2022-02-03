@@ -1,0 +1,50 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+52|1047726|Show Me Your Love|동방신기 (TVXQ!)~SUPER JUNIOR (슈퍼주니어)|108316~175404|311502|Show Me Your Love (동방신기 & Super Junior 05)|https://cdnimg.melon.co.kr/cm/album/images/003/11/502/311502_500.jpg/melon/resize/48/quality/80/optimize
+53|985785|Anyclub (Feat.Teddy) ( CF - Anycall Anyclub 이효리, 에릭, 권상우편 )|이효리|1713|309099|Anyclub (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/09/099/309099_500.jpg/melon/resize/48/quality/80/optimize
+54|905857|세글자 (드라마 '루루공주' 김정은 메인 테마)|엠투엠 (M To M)|108581|307288|M to M|https://cdnimg.melon.co.kr/cm/album/images/003/07/288/307288_500.jpg/melon/resize/48/quality/80/optimize
+55|1111240|세번째 사랑 (Video Ver.)|채연|41894|314045|세번째 사랑 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/14/045/314045_500.jpg/melon/resize/48/quality/80/optimize
+56|1069019|첨부터|연우|44498|311790|마이 걸 OST|https://cdnimg.melon.co.kr/cm/album/images/003/11/790/311790_500.jpg/melon/resize/48/quality/80/optimize
+57|1104782|나란 사람|태완 (Taewan)|181295|313417|A Love Confession|https://cdnimg.melon.co.kr/cm/album/images/003/13/417/313417_500.jpg/melon/resize/48/quality/80/optimize
+58|1030704|Fighter|SS501|170541|311151|SS501 (Single) 2집|https://cdnimg.melon.co.kr/cm/album/images/003/11/151/311151_500.jpg/melon/resize/48/quality/80/optimize
+59|976106|몸살|서지영|1819|308516|Listen To My Heart|https://cdnimg.melon.co.kr/cm/album/images/003/08/516/308516_500.jpg/melon/resize/48/quality/80/optimize
+60|1104861|Missing You|델리스파이스|100099|313423|Bombom|https://cdnimg.melon.co.kr/cm/album/images/003/13/423/313423_500.jpg/melon/resize/48/quality/80/optimize
+61|1114174|한숨만|바이브|160080|314287|Re - Feel|https://cdnimg.melon.co.kr/cm/album/images/003/14/287/314287_500.jpg/melon/resize/48/quality/80/optimize
+62|979391|잘 부탁드립니다 (CF - 한국야쿠르트 산타페 EX편)|익스|174838|308718|2005 MBC 대학가요제|https://cdnimg.melon.co.kr/cm/album/images/003/08/718/308718_500.jpg/melon/resize/48/quality/80/optimize
+63|1108725|Straight Up|이효리|1713|313836|Dark Angel|https://cdnimg.melon.co.kr/cm/album/images/003/13/836/313836_500.jpg/melon/resize/48/quality/80/optimize
+64|1107022|한걸음|모세|165535|313772|한걸음|https://cdnimg.melon.co.kr/cm/album/images/003/13/772/313772_500.jpg/melon/resize/48/quality/80/optimize
+65|898497|내 눈물이 하는 말|견우 (Kyunwoo)|172281|306527|City Of Angel|https://cdnimg.melon.co.kr/cm/album/images/003/06/527/306527_500.jpg/melon/resize/48/quality/80/optimize
+66|1099832|내가 사랑한 12가지 버릇|KCM|45995|313356|Love Affair|https://cdnimg.melon.co.kr/cm/album/images/003/13/356/313356_500.jpg/melon/resize/48/quality/80/optimize
+67|848567|인연|이선희|966|303264|사춘기 (四春期)|https://cdnimg.melon.co.kr/cm/album/images/003/03/264/303264_500.jpg/melon/resize/48/quality/80/optimize
+68|1099825|마지막 은영이에게|KCM|45995|313356|Love Affair|https://cdnimg.melon.co.kr/cm/album/images/003/13/356/313356_500.jpg/melon/resize/48/quality/80/optimize
+69|976103|Stay in Me|서지영|1819|308516|Listen To My Heart|https://cdnimg.melon.co.kr/cm/album/images/003/08/516/308516_500.jpg/melon/resize/48/quality/80/optimize
+70|1100105|남자|오션 (5TION)|101223|313381|Deal In Coal|https://cdnimg.melon.co.kr/cm/album/images/003/13/381/313381_500.jpg/melon/resize/48/quality/80/optimize
+71|1093693|당신은... 나는 바보입니다 (Acoustic ver)|심태윤 (Stay)|180700|312880|궁 OST|https://cdnimg.melon.co.kr/cm/album/images/003/12/880/312880_500.jpg/melon/resize/48/quality/80/optimize
+72|1047240|너말고 니언니 (Feat. 유리)|이지라이프|178364|311457|This Is Not!|https://cdnimg.melon.co.kr/cm/album/images/003/11/457/311457_500.jpg/melon/resize/48/quality/80/optimize
+73|1110395|기적|후|45230|313957|Tales of Love|https://cdnimg.melon.co.kr/cm/album/images/003/13/957/313957_500.jpg/melon/resize/48/quality/80/optimize
+74|1108729|Closer|이효리|1713|313836|Dark Angel|https://cdnimg.melon.co.kr/cm/album/images/003/13/836/313836_500.jpg/melon/resize/48/quality/80/optimize
+75|1110359|Heaven|이기찬|6225|313955|안녕하세요 하느님 OST|https://cdnimg.melon.co.kr/cm/album/images/003/13/955/313955_500.jpg/melon/resize/48/quality/80/optimize
+76|1093695|두 가지 말 (Duet. 더 원)|정재욱|7839|312880|궁 OST|https://cdnimg.melon.co.kr/cm/album/images/003/12/880/312880_500.jpg/melon/resize/48/quality/80/optimize
+77|1108728|겨울 시선|이효리|1713|313836|Dark Angel|https://cdnimg.melon.co.kr/cm/album/images/003/13/836/313836_500.jpg/melon/resize/48/quality/80/optimize
+78|1108731|Shall We Dance?|이효리|1713|313836|Dark Angel|https://cdnimg.melon.co.kr/cm/album/images/003/13/836/313836_500.jpg/melon/resize/48/quality/80/optimize
+79|1109846|사랑을 믿어요|엠씨더맥스 (M.C the MAX)|161636|313918|인연 ♡ Valentine Day ♡ 연인|https://cdnimg.melon.co.kr/cm/album/images/003/13/918/313918_500.jpg/melon/resize/48/quality/80/optimize
+80|677886|Hotline (SKT 멜론 CF '댄스배틀'편)|Ciara|55278|48114|Goodies|https://cdnimg.melon.co.kr/cm/album/images/000/48/114/48114_500.jpg/melon/resize/48/quality/80/optimize
+81|1111527|OUTGROW ~Ready Butterfly~|보아 (BoA)|2165|314069|OUTGROW|https://cdnimg.melon.co.kr/cm/album/images/003/14/069/314069_500.jpg/melon/resize/48/quality/80/optimize
+82|1108732|노예|이효리|1713|313836|Dark Angel|https://cdnimg.melon.co.kr/cm/album/images/003/13/836/313836_500.jpg/melon/resize/48/quality/80/optimize
+83|916291|One|동방신기 (TVXQ!)|108316|307424|Rising Sun|https://cdnimg.melon.co.kr/cm/album/images/003/07/424/307424_500.jpg/melon/resize/48/quality/80/optimize
+84|1114170|여인의 향기|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+85|1094069|My Love|옥주현|1714|312911|그 여자 OST|https://cdnimg.melon.co.kr/cm/album/images/003/12/911/312911_500.jpg/melon/resize/48/quality/80/optimize
+86|1033127|널 사랑해|전초아|37649|311276|Remade 0506|https://cdnimg.melon.co.kr/cm/album/images/003/11/276/311276_500.jpg/melon/resize/48/quality/80/optimize
+87|1107021|무지개|모세|165535|313772|한걸음|https://cdnimg.melon.co.kr/cm/album/images/003/13/772/313772_500.jpg/melon/resize/48/quality/80/optimize
+88|1108734|2 Faces|이효리|1713|313836|Dark Angel|https://cdnimg.melon.co.kr/cm/album/images/003/13/836/313836_500.jpg/melon/resize/48/quality/80/optimize
+89|1094776|가슴이 소리쳐서|김형중|5247|312959|The Dream of Heaven|https://cdnimg.melon.co.kr/cm/album/images/003/12/959/312959_500.jpg/melon/resize/48/quality/80/optimize
+90|1099737|어떡하죠|신승훈|25|313346|천국의 나무 OST|https://cdnimg.melon.co.kr/cm/album/images/003/13/346/313346_500.jpg/melon/resize/48/quality/80/optimize
+91|1093696|난 널 사랑해 너만 사랑해 2|심태윤 (Stay)|180700|312880|궁 OST|https://cdnimg.melon.co.kr/cm/album/images/003/12/880/312880_500.jpg/melon/resize/48/quality/80/optimize
+92|1108735|마지막 인사|이효리|1713|313836|Dark Angel|https://cdnimg.melon.co.kr/cm/album/images/003/13/836/313836_500.jpg/melon/resize/48/quality/80/optimize
+93|1032605|Miracle|SUPER JUNIOR (슈퍼주니어)|175404|310133|Super Junior05|https://cdnimg.melon.co.kr/cm/album/images/003/10/133/310133_500.jpg/melon/resize/48/quality/80/optimize
+94|1108730|훔쳐보기|이효리|1713|313836|Dark Angel|https://cdnimg.melon.co.kr/cm/album/images/003/13/836/313836_500.jpg/melon/resize/48/quality/80/optimize
+95|986817|2♡|god|100007|309206|하늘속으로|https://cdnimg.melon.co.kr/cm/album/images/003/09/206/309206_500.jpg/melon/resize/48/quality/80/optimize
+96|992526|이 죽일 놈의 사랑|이수영|995|309716|이 죽일놈의 사랑 OST|https://cdnimg.melon.co.kr/cm/album/images/003/09/716/309716_500.jpg/melon/resize/48/quality/80/optimize
+97|1069029|Happy Happy|송보람|179927|311790|마이 걸 OST|https://cdnimg.melon.co.kr/cm/album/images/003/11/790/311790_500.jpg/melon/resize/48/quality/80/optimize
+98|1099316|이별은|U|181222|313309|이별은..|https://cdnimg.melon.co.kr/cm/album/images/003/13/309/313309_500.jpg/melon/resize/48/quality/80/optimize
+99|1069026|사랑은 힘든가봐|지수|179925|311790|마이 걸 OST|https://cdnimg.melon.co.kr/cm/album/images/003/11/790/311790_500.jpg/melon/resize/48/quality/80/optimize
+100|1069021|서른번쯤|쿄|167816|311790|마이 걸 OST|https://cdnimg.melon.co.kr/cm/album/images/003/11/790/311790_500.jpg/melon/resize/48/quality/80/optimize

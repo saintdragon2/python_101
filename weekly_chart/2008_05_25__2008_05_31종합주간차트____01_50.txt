@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|1874397|So Hot|원더걸스|217764|381932|So Hot|https://cdnimg.melon.co.kr/cm/album/images/003/81/932/381932_500.jpg/melon/resize/48/quality/80/optimize
+2|1851229|서커스 (Feat. 임유경 - 달래 음악단 , ＄howgun)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+3|1850242|One (Feat. 지선)|에픽하이 (EPIK HIGH)|108356|376100|Pieces, Part One|https://cdnimg.melon.co.kr/cm/album/images/003/76/100/376100_500.jpg/melon/resize/48/quality/80/optimize
+4|1861639|화분 (알렉스 Ver.) (우리결혼했어요 삽입곡)|알렉스|51146|378543|화분|https://cdnimg.melon.co.kr/cm/album/images/003/78/543/378543_500.jpg/melon/resize/48/quality/80/optimize
+5|1854856|라라라|SG 워너비|108363|376502|My Friend|https://cdnimg.melon.co.kr/cm/album/images/003/76/502/376502_500.jpg/melon/resize/48/quality/80/optimize
+6|1850253|우산 (Feat. 윤하)|에픽하이 (EPIK HIGH)|108356|376100|Pieces, Part One|https://cdnimg.melon.co.kr/cm/album/images/003/76/100/376100_500.jpg/melon/resize/48/quality/80/optimize
+7|1857967|모두 다 쉿!|쥬얼리|101487|377200|Kitchi Island 2|https://cdnimg.melon.co.kr/cm/album/images/003/77/200/377200_500.jpg/melon/resize/48/quality/80/optimize
+8|1841034|가슴으로 외쳐 (Rap Feat. Rhymer)|먼데이 키즈 (Monday Kiz)|175155|374973|Inside Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/973/374973_500.jpg/melon/resize/48/quality/80/optimize
+9|1836107|추억속의 그대|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+10|1841036|발자국|먼데이 키즈 (Monday Kiz)|175155|374973|Inside Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/973/374973_500.jpg/melon/resize/48/quality/80/optimize
+11|1867568|Beautiful Life|V.O.S|108794|379407|Wonderful Things|https://cdnimg.melon.co.kr/cm/album/images/003/79/407/379407_500.jpg/melon/resize/48/quality/80/optimize
+12|1815605|그대만이 (MBC '우리 결혼했어요' 알렉스&신애 테마곡)|김종욱|4388|370357|For A Long Time..|https://cdnimg.melon.co.kr/cm/album/images/003/70/357/370357_500.jpg/melon/resize/48/quality/80/optimize
+13|1874996|나만 바라봐|태양|247621|382070|Hot|https://cdnimg.melon.co.kr/cm/album/images/003/82/070/382070_500.jpg/melon/resize/48/quality/80/optimize
+14|1871159|Too Much (With 서인영) (우리결혼했어요 화제곡)|크라운제이 (CROWN J)|182206|380143|Too Much (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/80/143/380143_500.jpg/melon/resize/48/quality/80/optimize
+15|1797709|아이처럼|김동률|925|366933|Monologue|https://cdnimg.melon.co.kr/cm/album/images/003/66/933/366933_500.jpg/melon/resize/48/quality/80/optimize
+16|1833966|기억을 걷는 시간|넬 (NELL)|101094|374383|Separation Anxiety|https://cdnimg.melon.co.kr/cm/album/images/003/74/383/374383_500.jpg/melon/resize/48/quality/80/optimize
+17|1826467|미안해요 (Feat. T.O.P)|거미|30358|372909|Comfort|https://cdnimg.melon.co.kr/cm/album/images/003/72/909/372909_500.jpg/melon/resize/48/quality/80/optimize
+18|1851232|죽도록 사랑해 (Feat. 박정현)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+19|1871543|그대만 보며|이정|39256|381172|그대만 보며 (KBS 일일시트콤 '못말리는 결혼' 삽입곡)|https://cdnimg.melon.co.kr/cm/album/images/003/81/172/381172_500.jpg/melon/resize/48/quality/80/optimize
+20|1868095|Lie|가비엔제이|174997|379436|The Beginning|https://cdnimg.melon.co.kr/cm/album/images/003/79/436/379436_500.jpg/melon/resize/48/quality/80/optimize
+21|1816224|사랑해 (Feat. 윤은혜)|마이티 마우스|239366|370758|사랑해 (Feat. 윤은혜) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/70/758/370758_500.jpg/melon/resize/48/quality/80/optimize
+22|1836102|다 줄꺼야|이승기|58793|374552|남자가 여자를 사랑할 때 Vol.2|https://cdnimg.melon.co.kr/cm/album/images/003/74/552/374552_500.jpg/melon/resize/48/quality/80/optimize
+23|1798752|슬픈 다짐|다비치|236815|367137|AMARANTH|https://cdnimg.melon.co.kr/cm/album/images/003/67/137/367137_500.jpg/melon/resize/48/quality/80/optimize
+24|1807098|One More Time|쥬얼리|101487|368317|5집 Kitchi Island|https://cdnimg.melon.co.kr/cm/album/images/003/68/317/368317_500.jpg/melon/resize/48/quality/80/optimize
+25|1875215|누난 너무 예뻐 (Replay)|SHINee (샤이니)|247639|382083|누난 너무 예뻐 (Replay)|https://cdnimg.melon.co.kr/cm/album/images/003/82/083/382083_500.jpg/melon/resize/48/quality/80/optimize
+26|1846941|바보에게... 바보가|박명수|4263|375797|바보에게... 바보가 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/75/797/375797_500.jpg/melon/resize/48/quality/80/optimize
+27|1849804|취중진담 (Feat. AND)|플라이 투 더 스카이|100183|376069|Recollection|https://cdnimg.melon.co.kr/cm/album/images/003/76/069/376069_500.jpg/melon/resize/48/quality/80/optimize
+28|1869828|Only You|KCM|45995|380091|로뎀나무 Vol.1|https://cdnimg.melon.co.kr/cm/album/images/003/80/091/380091_500.jpg/melon/resize/48/quality/80/optimize
+29|1825248|너만 볼래 (Feat. 태인)|나몰라패밀리 (Namolla Family)|194009|372860|너만 볼래|https://cdnimg.melon.co.kr/cm/album/images/003/72/860/372860_500.jpg/melon/resize/48/quality/80/optimize
+30|1857969|못된 여자 (Feat. 서인영)|원투|106928|377201|2008 One Two (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/77/201/377201_500.jpg/melon/resize/48/quality/80/optimize
+31|1788174|Love|브라운아이드걸스|181694|362984|With L.O.V.E Brown Eyed Girls|https://cdnimg.melon.co.kr/cm/album/images/003/62/984/362984_500.jpg/melon/resize/48/quality/80/optimize
+32|1867868|Ready To L.O.V.E|제아~미료|230519~6272|379422|The Love Part.2|https://cdnimg.melon.co.kr/cm/album/images/003/79/422/379422_500.jpg/melon/resize/48/quality/80/optimize
+33|1862870|햅틱모션 (Haptic Motion)|소녀시대 (GIRLS' GENERATION)|228069|378644|햅틱모션 (Haptic Motion)|https://cdnimg.melon.co.kr/cm/album/images/003/78/644/378644_500.jpg/melon/resize/48/quality/80/optimize
+34|1798749|미워도 사랑하니까|다비치|236815|367137|AMARANTH|https://cdnimg.melon.co.kr/cm/album/images/003/67/137/367137_500.jpg/melon/resize/48/quality/80/optimize
+35|1857971|Bad Boy|손담비|226582|377202|Mini Album Vol. 1|https://cdnimg.melon.co.kr/cm/album/images/003/77/202/377202_500.jpg/melon/resize/48/quality/80/optimize
+36|1798588|만약에|태연 (TAEYEON)|236797|366925|쾌도 홍길동 OST|https://cdnimg.melon.co.kr/cm/album/images/003/66/925/366925_500.jpg/melon/resize/48/quality/80/optimize
+37|1858074|I Love You (Feat. 신디)|란 (RAN)|236880|377216|I Love You|https://cdnimg.melon.co.kr/cm/album/images/003/77/216/377216_500.jpg/melon/resize/48/quality/80/optimize
+38|1853410|눈부신 날|럼블피쉬|108951|376374|눈부신 날 (Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/76/374/376374_500.jpg/melon/resize/48/quality/80/optimize
+39|1829494|Baby Baby|소녀시대 (GIRLS' GENERATION)|228069|373315|Baby Baby (소녀시대 Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/73/315/373315_500.jpg/melon/resize/48/quality/80/optimize
+40|1861779|비밀 (Narr. 소녀시대 티파니)|김동완|1743|378564|The Secret|https://cdnimg.melon.co.kr/cm/album/images/003/78/564/378564_500.jpg/melon/resize/48/quality/80/optimize
+41|1854815|사랑하는 일 (랩소디 인 뮤직폰 CF)|성시경|3305|376498|랩소디 Part 1|https://cdnimg.melon.co.kr/cm/album/images/003/76/498/376498_500.jpg/melon/resize/48/quality/80/optimize
+42|1866732|Kiss Me|애즈원|100093|379360|Double Star|https://cdnimg.melon.co.kr/cm/album/images/003/79/360/379360_500.jpg/melon/resize/48/quality/80/optimize
+43|1765767|마지막 인사|BIGBANG|198094|360994|Hot Issue|https://cdnimg.melon.co.kr/cm/album/images/003/60/994/360994_500.jpg/melon/resize/48/quality/80/optimize
+44|1847552|비밀은 어디에 있나요|양파~미호|3854~428810|375858|비밀|https://cdnimg.melon.co.kr/cm/album/images/003/75/858/375858_500.jpg/melon/resize/48/quality/80/optimize
+45|1832985|바보|씨야|181679|373815|바보 (All Star 2집 Vol.4)|https://cdnimg.melon.co.kr/cm/album/images/003/73/815/373815_500.jpg/melon/resize/48/quality/80/optimize
+46|1827472|처음처럼|SG 워너비|108363|373090|처음처럼 (All Star 2집 Vol.3)|https://cdnimg.melon.co.kr/cm/album/images/003/73/090/373090_500.jpg/melon/resize/48/quality/80/optimize
+47|1828869|남자는 모른다|박화요비|2017|373265|Sunshine|https://cdnimg.melon.co.kr/cm/album/images/003/73/265/373265_500.jpg/melon/resize/48/quality/80/optimize
+48|1849781|삐에로|이수 (엠씨더맥스)|214784|376067|I AM...|https://cdnimg.melon.co.kr/cm/album/images/003/76/067/376067_500.jpg/melon/resize/48/quality/80/optimize
+49|1793650|후회는 없어 (Feat. 베이지)|노블레스|160738|365151|Last Romanticist|https://cdnimg.melon.co.kr/cm/album/images/003/65/151/365151_500.jpg/melon/resize/48/quality/80/optimize
+50|1756969|Kissing You|소녀시대 (GIRLS' GENERATION)|228069|360075|소녀시대|https://cdnimg.melon.co.kr/cm/album/images/003/60/075/360075_500.jpg/melon/resize/48/quality/80/optimize

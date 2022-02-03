@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|8276708|19금 마에스트로 (Maestro)|창모 (CHANGMO)|774900|2698920|돈 벌 시간 2|https://cdnimg.melon.co.kr/cm/album/images/026/98/920/2698920_500.jpg/melon/resize/48/quality/80/optimize
+52|30105621|나비잠 (Sweet Dream)|김희철~민경훈|439782~46187|10016734|나비잠 (Sweet Dream) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/100/16/734/10016734_500.jpg/melon/resize/48/quality/80/optimize
+53|30113165|BERMUDA TRIANGLE (Feat. Crush, DEAN)|지코 (ZICO)|602056|10017807|BERMUDA TRIANGLE|https://cdnimg.melon.co.kr/cm/album/images/100/17/807/10017807_500.jpg/melon/resize/48/quality/80/optimize
+54|30105590|꽃길 (Prod. By ZICO)|김세정|968261|10016726|Jelly box 꽃길 (Prod. By 지코(ZICO)) 세정|https://cdnimg.melon.co.kr/cm/album/images/100/16/726/10016726_500.jpg/melon/resize/48/quality/80/optimize
+55|30072072|11:11|태연 (TAEYEON)|236797|10011815|11:11|https://cdnimg.melon.co.kr/cm/album/images/100/11/815/10011815_500.jpg/melon/resize/48/quality/80/optimize
+56|8109412|D (half moon) (Feat. 개코)|DEAN|880630|2674623|130 Mood : TRBL|https://cdnimg.melon.co.kr/cm/album/images/026/74/623/2674623_500.jpg/melon/resize/48/quality/80/optimize
+57|30011624|숨|박효신|1191|10001952|I am A Dreamer|https://cdnimg.melon.co.kr/cm/album/images/100/01/952/10001952_500.jpg/melon/resize/48/quality/80/optimize
+58|30208070|소나기|아이오아이 (I.O.I)|960251|10032040|소나기|https://cdnimg.melon.co.kr/cm/album/images/100/32/040/10032040_500.jpg/melon/resize/48/quality/80/optimize
+59|30254786|반창고|MC몽~허각|11538~28801|10039207|반창고|https://cdnimg.melon.co.kr/cm/album/images/100/39/207/10039207_500.jpg/melon/resize/48/quality/80/optimize
+60|30213419|Round and round (Feat. 한수지)|헤이즈 (Heize)|751611|10032856|도깨비 OST Part.14|https://cdnimg.melon.co.kr/cm/album/images/100/32/856/10032856_500.jpg/melon/resize/48/quality/80/optimize
+61|30202716|최고의 선물 (Prod. by PSY)|비|17671|10031170|최고의 선물|https://cdnimg.melon.co.kr/cm/album/images/100/31/170/10031170_500.jpg/melon/resize/48/quality/80/optimize
+62|8203900|너였다면|정승환|792091|2687963|또 오해영 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/87/963/2687963_500.jpg/melon/resize/48/quality/80/optimize
+63|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+64|7931286|Love Yourself|Justin Bieber|420621|2337419|Purpose (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/023/37/419/2337419_500.jpg/melon/resize/48/quality/80/optimize
+65|30272285|언젠가 (SOMEDAY)|비투비|647971|10041603|Feel'eM|https://cdnimg.melon.co.kr/cm/album/images/100/41/603/10041603_500.jpg/melon/resize/48/quality/80/optimize
+66|30263758|내가 너가|San E|402526|10040448|내가 너가|https://cdnimg.melon.co.kr/cm/album/images/100/40/448/10040448_500.jpg/melon/resize/48/quality/80/optimize
+67|30143605|Hush|Lasse Lindh|33545|10022189|도깨비 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/100/22/189/10022189_500.jpg/melon/resize/48/quality/80/optimize
+68|30269298|Let Me Love You|정기고~찬열 (CHANYEOL)|304967~672857|10041175|Let Me Love You|https://cdnimg.melon.co.kr/cm/album/images/100/41/175/10041175_500.jpg/melon/resize/48/quality/80/optimize
+69|30244934|A Supplementary Story : You Never Walk Alone|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+70|30179088|쏘아|하하 X MINO|1285543|10027428|무한도전 위대한 유산|https://cdnimg.melon.co.kr/cm/album/images/100/27/428/10027428_500.jpg/melon/resize/48/quality/80/optimize
+71|8304594|휘파람|BLACKPINK|995169|2703168|SQUARE ONE|https://cdnimg.melon.co.kr/cm/album/images/027/03/168/2703168_500.jpg/melon/resize/48/quality/80/optimize
+72|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+73|30244933|Outro : Wings|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+74|9613173|목요일 밤 (Feat. 빈지노)|어반자카파|420527|2705941|목요일 밤|https://cdnimg.melon.co.kr/cm/album/images/027/05/941/2705941_500.jpg/melon/resize/48/quality/80/optimize
+75|30147447|GIRLFRIEND|BIGBANG|198094|10022709|MADE|https://cdnimg.melon.co.kr/cm/album/images/100/22/709/10022709_500.jpg/melon/resize/48/quality/80/optimize
+76|9646572|끝|권진아|760046|2711116|웃긴 밤|https://cdnimg.melon.co.kr/cm/album/images/027/11/116/2711116_500.jpg/melon/resize/48/quality/80/optimize
+77|8217164|Monster|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize
+78|30225056|혼자, 한잔|허각|28801|10034721|戀書 (연서)|https://cdnimg.melon.co.kr/cm/album/images/100/34/721/10034721_500.jpg/melon/resize/48/quality/80/optimize
+79|30203331|LOVE|마마무 (Mamamoo)|750053|10031261|도깨비 OST Part.13|https://cdnimg.melon.co.kr/cm/album/images/100/31/261/10031261_500.jpg/melon/resize/48/quality/80/optimize
+80|8261338|Day Day (Feat. 박재범) (Prod. by GRAY)|BewhY (비와이)|739740|2696637|쇼미더머니 5 Episode 4|https://cdnimg.melon.co.kr/cm/album/images/026/96/637/2696637_500.jpg/melon/resize/48/quality/80/optimize
+81|30254891|안녕 못해 (I'm Not Okay)|첸 (CHEN)|715176|10039222|안녕 못해 - 미씽나인 OST|https://cdnimg.melon.co.kr/cm/album/images/100/39/222/10039222_500.jpg/melon/resize/48/quality/80/optimize
+82|30157820|For Life|EXO|724619|10024125|For Life - 겨울 스페셜 앨범, 2016|https://cdnimg.melon.co.kr/cm/album/images/100/24/125/10024125_500.jpg/melon/resize/48/quality/80/optimize
+83|30244926|Lost|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+84|30260896|네게|양다일|695994|10040033|네게|https://cdnimg.melon.co.kr/cm/album/images/100/40/033/10040033_500.jpg/melon/resize/48/quality/80/optimize
+85|30179092|만세|양세형 X BewhY|1285547|10027428|무한도전 위대한 유산|https://cdnimg.melon.co.kr/cm/album/images/100/27/428/10027428_500.jpg/melon/resize/48/quality/80/optimize
+86|30215674|Think About' Chu (Prod. By 박근태)|샘김 (Sam Kim)~로꼬|757273~688432|10033170|Boys and Girls Music Vol.1|https://cdnimg.melon.co.kr/cm/album/images/100/33/170/10033170_500.jpg/melon/resize/48/quality/80/optimize
+87|8167307|불타오르네 (FIRE)|방탄소년단|672375|2680573|화양연화 Young Forever|https://cdnimg.melon.co.kr/cm/album/images/026/80/573/2680573_500.jpg/melon/resize/48/quality/80/optimize
+88|30038185|어떻게 지내|Crush|674710|10006417|wonderlust|https://cdnimg.melon.co.kr/cm/album/images/100/06/417/10006417_500.jpg/melon/resize/48/quality/80/optimize
+89|30227060|영화관|Zion.T|537920|10035027|OO|https://cdnimg.melon.co.kr/cm/album/images/100/35/027/10035027_500.jpg/melon/resize/48/quality/80/optimize
+90|30260915|눈물 (Tears)|먼데이 키즈 (Monday Kiz)~김나영|175155~735094|10040040|먼데이키즈 X 김나영 디지털싱글 '눈물 (Tears)'|https://cdnimg.melon.co.kr/cm/album/images/100/40/040/10040040_500.jpg/melon/resize/48/quality/80/optimize
+91|9606657|Lotto|EXO|724619|2704940|LOTTO - The 3rd Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/027/04/940/2704940_500.jpg/melon/resize/48/quality/80/optimize
+92|30244930|둘! 셋! (그래도 좋은 날이 더 많기를)|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+93|8271355|And July (Feat. DEAN, DJ Friz)|헤이즈 (Heize)|751611|2688360|And July|https://cdnimg.melon.co.kr/cm/album/images/026/88/360/2688360_500.jpg/melon/resize/48/quality/80/optimize
+94|30244927|BTS Cypher 4|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+95|30244928|Am I Wrong|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+96|8308231|puzzle|C JAMM~BewhY (비와이)|729560~739740|2703714|puzzle|https://cdnimg.melon.co.kr/cm/album/images/027/03/714/2703714_500.jpg/melon/resize/48/quality/80/optimize
+97|30244929|21세기 소녀|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+98|30102883|"City Of Stars (From ""La La Land"" Soundtrack)"|Ryan Gosling~Emma Stone|1203651~1230552|10016438|라라 랜드 OST|https://cdnimg.melon.co.kr/cm/album/images/100/16/438/10016438_500.jpg/melon/resize/48/quality/80/optimize
+99|30266065|너만 생각나|바닐라 어쿠스틱|305169|10040799|너만 생각나|https://cdnimg.melon.co.kr/cm/album/images/100/40/799/10040799_500.jpg/melon/resize/48/quality/80/optimize
+100|8217163|Lucky One|EXO|724619|2689855|EX'ACT - The 3rd Album|https://cdnimg.melon.co.kr/cm/album/images/026/89/855/2689855_500.jpg/melon/resize/48/quality/80/optimize

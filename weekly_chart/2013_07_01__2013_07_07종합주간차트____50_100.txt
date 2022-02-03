@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4144135|I'm Sorry|비스트|436981|2189104|I'm Sorry|https://cdnimg.melon.co.kr/cm/album/images/021/89/104/2189104_500.jpg/melon/resize/48/quality/80/optimize
+52|4149163|Coffee Shop|B.A.P|623451|2189712|Coffee Shop|https://cdnimg.melon.co.kr/cm/album/images/021/89/712/2189712_500.jpg/melon/resize/48/quality/80/optimize
+53|4054983|기대해|걸스데이|482762|2177822|기대|https://cdnimg.melon.co.kr/cm/album/images/021/77/822/2177822_500.jpg/melon/resize/48/quality/80/optimize
+54|4085875|GENTLEMAN|싸이 (PSY)|3865|2181431|GENTLEMAN|https://cdnimg.melon.co.kr/cm/album/images/021/81/431/2181431_500.jpg/melon/resize/48/quality/80/optimize
+55|4160198|두눈에. 두볼에. 가슴에 (In My Eyes)|김연지|428803|2190965|너의 목소리가 들려 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/90/965/2190965_500.jpg/melon/resize/48/quality/80/optimize
+56|4142912|사랑하고 싶은 날|이승철|1010|2188937|MY LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/88/937/2188937_500.jpg/melon/resize/48/quality/80/optimize
+57|4072715|녹는 중 (Feat. 버벌진트)|다비치|236815|2179893|녹는 중|https://cdnimg.melon.co.kr/cm/album/images/021/79/893/2179893_500.jpg/melon/resize/48/quality/80/optimize
+58|4082435|오늘 밤 (Feat. 배치기)|린|8530|2181061|8th #1 유리 심장|https://cdnimg.melon.co.kr/cm/album/images/021/81/061/2181061_500.jpg/melon/resize/48/quality/80/optimize
+59|4160254|가끔씩 오래 보자 (Shin Dong Yeop)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+60|4160251|아침사랑 (Good Morning Love)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+61|4105654|이게 무슨 일이야|B1A4|535440|2184027|이게 무슨 일이야|https://cdnimg.melon.co.kr/cm/album/images/021/84/027/2184027_500.jpg/melon/resize/48/quality/80/optimize
+62|3843565|Boogie On & On|빈지노 (Beenzino)|532029|2134788|2 4 : 2 6|https://cdnimg.melon.co.kr/cm/album/images/021/34/788/2134788_500.jpg/melon/resize/48/quality/80/optimize
+63|4161678|그대라는 한 사람|Jessica (제시카)|428829|2191160|연애조작단 : 시라노 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/021/91/160/2191160_500.jpg/melon/resize/48/quality/80/optimize
+64|4115610|이 나이 먹도록|바이브|160080|2183355|Organic Sound|https://cdnimg.melon.co.kr/cm/album/images/021/83/355/2183355_500.jpg/melon/resize/48/quality/80/optimize
+65|4123220|Number 1|투개월|569215|2186398|Number 1|https://cdnimg.melon.co.kr/cm/album/images/021/86/398/2186398_500.jpg/melon/resize/48/quality/80/optimize
+66|4160252|비극 Part.2 (Tragedy Part.2)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+67|4047160|거북이|다비치|236815|2176844|Mystic Ballad Part.1|https://cdnimg.melon.co.kr/cm/album/images/021/76/844/2176844_500.jpg/melon/resize/48/quality/80/optimize
+68|4127571|SUNSHINE|레인보우|440320|2187009|Rainbow Syndrome Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/87/009/2187009_500.jpg/melon/resize/48/quality/80/optimize
+69|4153568|Call My Name|소울스타 (SOULSTAR)|170042|2190247|Call My Name|https://cdnimg.melon.co.kr/cm/album/images/021/90/247/2190247_500.jpg/melon/resize/48/quality/80/optimize
+70|4070694|19금 The Bad Touch (Gordon & Doyle Edit)|DJ Gollum~Empyre One|353536~720484|2179667|The Bad Touch|https://cdnimg.melon.co.kr/cm/album/images/021/79/667/2179667_500.jpg/melon/resize/48/quality/80/optimize
+71|4105693|나를 잊지말아요|수지 (SUZY)|514741|2184034|구가의 서 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/021/84/034/2184034_500.jpg/melon/resize/48/quality/80/optimize
+72|4095862|미스코리아|이효리|1713|2182643|MONOCHROME|https://cdnimg.melon.co.kr/cm/album/images/021/82/643/2182643_500.jpg/melon/resize/48/quality/80/optimize
+73|3947371|? (물음표) (Feat. 최자 Of 다이나믹듀오, Zion.T)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+74|4089360|Bounce|조용필|19|2181825|Bounce|https://cdnimg.melon.co.kr/cm/album/images/021/81/825/2181825_500.jpg/melon/resize/48/quality/80/optimize
+75|4160253|범죄야 범죄 (Crime Scene) (Feat. 정재일)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+76|3864961|가수가 된 이유|신용재 (2F)|510537|2138690|24|https://cdnimg.melon.co.kr/cm/album/images/021/38/690/2138690_500.jpg/melon/resize/48/quality/80/optimize
+77|4135141|Trap (Feat. 규현&태민)|헨리 (HENRY)|710006|2188038|The 1st Mini Album 'Trap'|https://cdnimg.melon.co.kr/cm/album/images/021/88/038/2188038_500.jpg/melon/resize/48/quality/80/optimize
+78|4076051|Love Blossom (러브블러썸)|케이윌|175139|2180379|The 3rd Album Part.2 'Love Blossom (러브블러썸)'|https://cdnimg.melon.co.kr/cm/album/images/021/80/379/2180379_500.jpg/melon/resize/48/quality/80/optimize
+79|4132143|컬러링|김예림 (Lim Kim)|643851|2187662|A Voice|https://cdnimg.melon.co.kr/cm/album/images/021/87/662/2187662_500.jpg/melon/resize/48/quality/80/optimize
+80|4159066|초록비 (Green Rain)|SHINee (샤이니)|247639|2190810|여왕의 교실 OST '초록비'|https://cdnimg.melon.co.kr/cm/album/images/021/90/810/2190810_500.jpg/melon/resize/48/quality/80/optimize
+81|4145756|괜찮아 떠나|스윗소로우 (SWEET SORROW)|175203|2189301|4th #1 '괜찮아 떠나'|https://cdnimg.melon.co.kr/cm/album/images/021/89/301/2189301_500.jpg/melon/resize/48/quality/80/optimize
+82|4103251|우리가 헤어진 진짜 이유|윤하 (YOUNHA)|203912|2183671|Just Listen|https://cdnimg.melon.co.kr/cm/album/images/021/83/671/2183671_500.jpg/melon/resize/48/quality/80/optimize
+83|4124144|마지막 그 한마디|이승기|58793|2186562|마지막 그 한마디|https://cdnimg.melon.co.kr/cm/album/images/021/86/562/2186562_500.jpg/melon/resize/48/quality/80/optimize
+84|3948908|씨스루 (Feat. Zion.T, 개코 Of 다이나믹듀오)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+85|4164425|핫 앤 콜드 (Hot & Cold)|쥬얼리|101487|2191606|Hot & Cold|https://cdnimg.melon.co.kr/cm/album/images/021/91/606/2191606_500.jpg/melon/resize/48/quality/80/optimize
+86|4160244|Skit #1|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+87|4137011|Ocean Of Light|넬 (NELL)|101094|2188236|Escaping Gravity|https://cdnimg.melon.co.kr/cm/album/images/021/88/236/2188236_500.jpg/melon/resize/48/quality/80/optimize
+88|4099386|유리 심장 (Feat. 용준형 Of 비스트)|린|8530|2181061|8th #1 유리 심장|https://cdnimg.melon.co.kr/cm/album/images/021/81/061/2181061_500.jpg/melon/resize/48/quality/80/optimize
+89|4074419|어때 (Feat. 하림)|긱스 (Geeks)|525805|2180147|어때|https://cdnimg.melon.co.kr/cm/album/images/021/80/147/2180147_500.jpg/melon/resize/48/quality/80/optimize
+90|4148981|거름|울랄라세션|569214|2189689|Memory|https://cdnimg.melon.co.kr/cm/album/images/021/89/689/2189689_500.jpg/melon/resize/48/quality/80/optimize
+91|4125626|나쁜 기집애|CL|441844|2186738|나쁜 기집애|https://cdnimg.melon.co.kr/cm/album/images/021/86/738/2186738_500.jpg/melon/resize/48/quality/80/optimize
+92|4020215|눈물 (Feat. 유진 Of 더 씨야)|리쌍|103289|2173499|이단옆차기 프로젝트 Vol.02|https://cdnimg.melon.co.kr/cm/album/images/021/73/499/2173499_500.jpg/melon/resize/48/quality/80/optimize
+93|4159074|완전 사랑해요|조정석|253606|2190813|최고다 이순신 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/021/90/813/2190813_500.jpg/melon/resize/48/quality/80/optimize
+94|4159698|날 울리지마|몬스타 칼라바|727190|2190899|몬스타 OST Part 5|https://cdnimg.melon.co.kr/cm/album/images/021/90/899/2190899_500.jpg/melon/resize/48/quality/80/optimize
+95|4129422|늑대와 미녀 (Wolf)|EXO|724619|2187253|The 1st Album XOXO (KISS＆HUG)|https://cdnimg.melon.co.kr/cm/album/images/021/87/253/2187253_500.jpg/melon/resize/48/quality/80/optimize
+96|4082812|좋아 (JOAH)|박재범|443420|2181104|JOAH|https://cdnimg.melon.co.kr/cm/album/images/021/81/104/2181104_500.jpg/melon/resize/48/quality/80/optimize
+97|4136951|진통제|티아라~더 씨야~F-ve Dolls~스피드|412000~710965~520160~714785|2188231|Tears Of Mind|https://cdnimg.melon.co.kr/cm/album/images/021/88/231/2188231_500.jpg/melon/resize/48/quality/80/optimize
+98|3946867|Officially Missing You, Too|긱스 (Geeks)~소유 (SOYOU)|525805~490981|2165024|re;code Episode I|https://cdnimg.melon.co.kr/cm/album/images/021/65/024/2165024_500.jpg/melon/resize/48/quality/80/optimize
+99|4163628|Baby I'm Sorry|마이네임|576851|2191476|MYNAME 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/021/91/476/2191476_500.jpg/melon/resize/48/quality/80/optimize
+100|4053240|Crescendo (크레셴도)|AKMU (악뮤)|712452|2177639|SBS K팝 스타 시즌2 TOP 6|https://cdnimg.melon.co.kr/cm/album/images/021/77/639/2177639_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4544242|그 중에 그대를 만나|이선희|966|2244913|15집 'SERENDIPITY' 30주년 기념앨범|https://cdnimg.melon.co.kr/cm/album/images/022/44/913/2244913_500.jpg/melon/resize/48/quality/80/optimize
+52|4583481|Give Love|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+53|4585736|Bad (Feat. Vassy) (Radio Edit)|David Guetta~Showtek|182123~243157|2249404|Bad (Feat. Vassy) (Radio Edit)|https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/48/quality/80/optimize
+54|4729597|Stand Up|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+55|4503810|까탈레나 (Catallena)|오렌지 캬라멜|477632|2240082|The Third Single Catallena|https://cdnimg.melon.co.kr/cm/album/images/022/40/082/2240082_500.jpg/melon/resize/48/quality/80/optimize
+56|4667457|사랑 그 한마디|태연 (TAEYEON)|236797|2258762|너희들은 포위됐다 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/58/762/2258762_500.jpg/melon/resize/48/quality/80/optimize
+57|4736613|밤이 아까워서 (Clean Ver.)|유승우|699637|2266186|유승우|https://cdnimg.melon.co.kr/cm/album/images/022/66/186/2266186_500.jpg/melon/resize/48/quality/80/optimize
+58|4646572|사랑이 지나가면|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+59|4706588|반도의흔한랩퍼 (Feat. San E, 스윙스)|버벌진트|6985|2262956|반도의흔한랩퍼|https://cdnimg.melon.co.kr/cm/album/images/022/62/956/2262956_500.jpg/melon/resize/48/quality/80/optimize
+60|4639335|Night And Day|휘성 (Realslow)|10577|2255565|The Best Man|https://cdnimg.melon.co.kr/cm/album/images/022/55/565/2255565_500.jpg/melon/resize/48/quality/80/optimize
+61|4692825|팔베개|다비치|236815|2261505|6,7|https://cdnimg.melon.co.kr/cm/album/images/022/61/505/2261505_500.jpg/melon/resize/48/quality/80/optimize
+62|4594680|요즘 바쁜가봐|2BIC(투빅)|643551|2250420|Soul Mate (소울메이트)|https://cdnimg.melon.co.kr/cm/album/images/022/50/420/2250420_500.jpg/melon/resize/48/quality/80/optimize
+63|4690053|바라만 보네요|손승연~The One (더원)|661773~160816|2261230|바라만 보네요|https://cdnimg.melon.co.kr/cm/album/images/022/61/230/2261230_500.jpg/melon/resize/48/quality/80/optimize
+64|4579474|견딜만해 (Feat. 효린 Of 씨스타)|매드클라운|219621|2248665|표독|https://cdnimg.melon.co.kr/cm/album/images/022/48/665/2248665_500.jpg/melon/resize/48/quality/80/optimize
+65|4729595|Smile|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+66|4478187|Come Back Home|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+67|4671153|Stay With Me (Feat. G-Dragon Of Bigbang)|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+68|4671152|새벽한시 (1AM)|태양|247621|2259140|RISE|https://cdnimg.melon.co.kr/cm/album/images/022/59/140/2259140_500.jpg/melon/resize/48/quality/80/optimize
+69|4512170|흔한 노래|임창정|1142|2241157|흔한 노래... 흔한 멜로디...|https://cdnimg.melon.co.kr/cm/album/images/022/41/157/2241157_500.jpg/melon/resize/48/quality/80/optimize
+70|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+71|4478191|멘붕 (CL Solo)|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+72|4729599|난 좋아|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+73|4532820|뜨래요 (Feat. 앙리 Of 3B)|배치기|101886|2243562|뜨래요|https://cdnimg.melon.co.kr/cm/album/images/022/43/562/2243562_500.jpg/melon/resize/48/quality/80/optimize
+74|4535038|그런 남자|Bro|764630|2243859|그런 남자|https://cdnimg.melon.co.kr/cm/album/images/022/43/859/2243859_500.jpg/melon/resize/48/quality/80/optimize
+75|4697864|A|GOT7 (갓세븐)|751059|2262060|GOT♡|https://cdnimg.melon.co.kr/cm/album/images/022/62/060/2262060_500.jpg/melon/resize/48/quality/80/optimize
+76|3808189|Call You Mine (Feat. Geologic Of The Blue Scholars)|Jeff Bernat|673152|2124668|The Gentleman Approach|https://cdnimg.melon.co.kr/cm/album/images/021/24/668/2124668_500.jpg/melon/resize/48/quality/80/optimize
+77|4709050|가끔 내가|김나영|735094|2263221|가끔 내가|https://cdnimg.melon.co.kr/cm/album/images/022/63/221/2263221_500.jpg/melon/resize/48/quality/80/optimize
+78|4650421|이젠 너 없이도 (Feat. 윤미래, 타이거 JK, Bizzy)|유나킴|770522|2256907|Love Me Love|https://cdnimg.melon.co.kr/cm/album/images/022/56/907/2256907_500.jpg/melon/resize/48/quality/80/optimize
+79|4446485|너의 모든 순간|성시경|3305|2232505|별에서 온 그대 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/48/quality/80/optimize
+80|4730549|유후|박지윤|1121|2265481|Yoo Hoo|https://cdnimg.melon.co.kr/cm/album/images/022/65/481/2265481_500.jpg/melon/resize/48/quality/80/optimize
+81|4656602|여전히 뜨겁게|백지영|1118|2257574|여전히 뜨겁게|https://cdnimg.melon.co.kr/cm/album/images/022/57/574/2257574_500.jpg/melon/resize/48/quality/80/optimize
+82|4703371|뒤로걷기|2BIC(투빅)|643551|2262622|2nd Mini Repackage Album '뒤로걷기'|https://cdnimg.melon.co.kr/cm/album/images/022/62/622/2262622_500.jpg/melon/resize/48/quality/80/optimize
+83|4478188|너 아님 안돼|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+84|4729600|신사의 품격 (G'swag)|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+85|4711062|ICE BABY|타이니지|671571|2263472|타이니지 4TH SINGLE 'ICE BABY'|https://cdnimg.melon.co.kr/cm/album/images/022/63/472/2263472_500.jpg/melon/resize/48/quality/80/optimize
+86|4572941|가끔|Crush|674710|2247858|가끔|https://cdnimg.melon.co.kr/cm/album/images/022/47/858/2247858_500.jpg/melon/resize/48/quality/80/optimize
+87|4649655|니목소리|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+88|4722465|Love Satellite|클래지콰이|107725|2264634|Love Satellite|https://cdnimg.melon.co.kr/cm/album/images/022/64/634/2264634_500.jpg/melon/resize/48/quality/80/optimize
+89|4383773|Something|걸스데이|482762|2224342|걸스데이 미니앨범 3집|https://cdnimg.melon.co.kr/cm/album/images/022/24/342/2224342_500.jpg/melon/resize/48/quality/80/optimize
+90|4649342|Last Romeo|인피니트|476181|2256759|Season 2|https://cdnimg.melon.co.kr/cm/album/images/022/56/759/2256759_500.jpg/melon/resize/48/quality/80/optimize
+91|4478189|살아 봤으면 해|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+92|4737281|캐논의 아침|백아연|646173|2266265|운명처럼 널 사랑해 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/66/265/2266265_500.jpg/melon/resize/48/quality/80/optimize
+93|4713839|Fly Away|라디 (Ra. D)|8876|2263757|Fly Away|https://cdnimg.melon.co.kr/cm/album/images/022/63/757/2263757_500.jpg/melon/resize/48/quality/80/optimize
+94|4729577|5+4+1+5=15|god|100007|2263804|Chapter 8|https://cdnimg.melon.co.kr/cm/album/images/022/63/804/2263804_500.jpg/melon/resize/48/quality/80/optimize
+95|4734684|19금 역주행 (Feat. Dok2, 천재노창)|스윙스|236970|2265965|역주행|https://cdnimg.melon.co.kr/cm/album/images/022/65/965/2265965_500.jpg/melon/resize/48/quality/80/optimize
+96|4643439|봄 타나봐 (BOMTANABA)|서인국|436700|2256070|봄 타나봐 (BOMTANABA)|https://cdnimg.melon.co.kr/cm/album/images/022/56/070/2256070_500.jpg/melon/resize/48/quality/80/optimize
+97|4381724|그대가 분다|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+98|3893169|홀로 (Feat. 김나영)|정키|570731|2148411|Break Up|https://cdnimg.melon.co.kr/cm/album/images/021/48/411/2148411_500.jpg/melon/resize/48/quality/80/optimize
+99|4711028|하나 더 (One More)|피에스타|686679|2263461|하나 더 (One More)|https://cdnimg.melon.co.kr/cm/album/images/022/63/461/2263461_500.jpg/melon/resize/48/quality/80/optimize
+100|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize

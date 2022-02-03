@@ -1,0 +1,48 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|10435|거짓말|god|100007|717|Chapter 3|https://cdnimg.melon.co.kr/cm/album/images/000/00/717/717_500.jpg/melon/resize/48/quality/80/optimize
+2|10124|Passion|코요태|100022|709|Passion|https://cdnimg.melon.co.kr/cm/album/images/000/00/709/709_500.jpg/melon/resize/48/quality/80/optimize
+3|10291|날 닮은 너|임창정|1142|666|www.Love.7th|https://cdnimg.melon.co.kr/cm/album/images/000/00/666/666_500.jpg/melon/resize/48/quality/80/optimize
+4|489863|찾길 바래|유승준|1008|3394|You Seung Jun Best & J Duet Collection|https://cdnimg.melon.co.kr/cm/album/images/000/03/394/3394_500.jpg/melon/resize/48/quality/80/optimize
+5|27600|기도|정일영|4107|418|가을동화 OST|https://cdnimg.melon.co.kr/cm/album/images/000/00/418/418_500.jpg/melon/resize/48/quality/80/optimize
+6|75279|You Mean Everything To Me|박정현|1099|479|Naturally|https://cdnimg.melon.co.kr/cm/album/images/000/00/479/479_500.jpg/melon/resize/48/quality/80/optimize
+7|46195|Escape|엄정화|1100|4317|Queen Of Charisma|https://cdnimg.melon.co.kr/cm/album/images/000/04/317/4317_500.jpg/melon/resize/48/quality/80/optimize
+8|46163|그대 내게 묻는다면|유리상자|100130|4362|Home|https://cdnimg.melon.co.kr/cm/album/images/000/04/362/4362_500.jpg/melon/resize/48/quality/80/optimize
+9|106215|다짐|조성모|969|4801|Let Me Love|https://cdnimg.melon.co.kr/cm/album/images/000/04/801/4801_500.jpg/melon/resize/48/quality/80/optimize
+10|3680|너를 위해|임재범|4838|51|Story Of Two Years|https://cdnimg.melon.co.kr/cm/album/images/000/00/051/51_500.jpg/melon/resize/48/quality/80/optimize
+11|2270751|Love|조장혁|5973|645451|Love|https://cdnimg.melon.co.kr/cm/album/images/006/45/451/645451_500.jpg/melon/resize/48/quality/80/optimize
+12|27654|Now|핑클 (Fin.K.L)|100065|417|Now|https://cdnimg.melon.co.kr/cm/album/images/000/00/417/417_500.jpg/melon/resize/48/quality/80/optimize
+13|10262|Up & Down|디바|100028|665|Naughty|https://cdnimg.melon.co.kr/cm/album/images/000/00/665/665_500.jpg/melon/resize/48/quality/80/optimize
+14|27636|달빛의 노래|박지윤|1121|309|성인식|https://cdnimg.melon.co.kr/cm/album/images/000/00/309/309_500.jpg/melon/resize/48/quality/80/optimize
+15|90060|Oh, My Julia|컨츄리 꼬꼬|100055|4958|Winter Traveling|https://cdnimg.melon.co.kr/cm/album/images/000/04/958/4958_500.jpg/melon/resize/48/quality/80/optimize
+16|39288|짝사랑|긱스|100332|490|Gigs 02|https://cdnimg.melon.co.kr/cm/album/images/000/00/490/490_500.jpg/melon/resize/48/quality/80/optimize
+17|87694|널 보내며|홍경민|891|5189|홍경민 3|https://cdnimg.melon.co.kr/cm/album/images/000/05/189/5189_500.jpg/melon/resize/48/quality/80/optimize
+18|1576735|다 줄거야 (Acoustic Ver.)|조규만|1833|345496|I Will Give You All|https://cdnimg.melon.co.kr/cm/album/images/003/45/496/345496_500.jpg/melon/resize/48/quality/80/optimize
+19|9956|왠지 느낌이 좋아|여행스케치|100712|659|Love Story|https://cdnimg.melon.co.kr/cm/album/images/000/00/659/659_500.jpg/melon/resize/48/quality/80/optimize
+21|27561|사슬|서문탁|2076|224|서문탁 Ⅱ|https://cdnimg.melon.co.kr/cm/album/images/000/00/224/224_500.jpg/melon/resize/48/quality/80/optimize
+22|88416|그래도 될까?|샵|100127|5354|The Four Letter Word Love|https://cdnimg.melon.co.kr/cm/album/images/000/05/354/5354_500.jpg/melon/resize/48/quality/80/optimize
+23|89325|Bad|Y2K|100021|481|Try Again|https://cdnimg.melon.co.kr/cm/album/images/000/00/481/481_500.jpg/melon/resize/48/quality/80/optimize
+24|27833|Lie (Radio Ver.)|박화요비|2017|111|My All|https://cdnimg.melon.co.kr/cm/album/images/000/00/111/111_500.jpg/melon/resize/48/quality/80/optimize
+26|84375|꿈꾸는 소녀|YB|100168|4369|윤도현 2|https://cdnimg.melon.co.kr/cm/album/images/000/04/369/4369_500.jpg/melon/resize/48/quality/80/optimize
+28|38504|거짓말처럼|김현정|1177|3009|The Third Eye|https://cdnimg.melon.co.kr/cm/album/images/000/03/009/3009_500.jpg/melon/resize/48/quality/80/optimize
+29|-1|흐린 가을 하늘에 편지를 써|엄태환|1892|889|다시 꽃씨되어(김광석 Anthology)|https://cdnimg.melon.co.kr/cm/album/images/000/00/889/889_500.jpg/melon/resize/48/quality/80/optimize
+30|3822|831 8|제이|1203|104|In Love|https://cdnimg.melon.co.kr/cm/album/images/000/00/104/104_500.jpg/melon/resize/48/quality/80/optimize
+31|27849|Sara|보아 (BoA)|2165|457|ID; Peace B|https://cdnimg.melon.co.kr/cm/album/images/000/00/457/457_500.jpg/melon/resize/48/quality/80/optimize
+32|9271|뱀|자우림|100094|887|Jaurim, The Wonder Land|https://cdnimg.melon.co.kr/cm/album/images/000/00/887/887_500.jpg/melon/resize/48/quality/80/optimize
+33|9040|제발|이소라|983|844|꽃|https://cdnimg.melon.co.kr/cm2/album/images/000/00/844/844_20201118181309_500.jpg/melon/resize/48/quality/80/optimize
+34|3692|Delete...|김경호|895|52|Kim Kyungho-5th|https://cdnimg.melon.co.kr/cm/album/images/000/00/052/52_500.jpg/melon/resize/48/quality/80/optimize
+35|75266|그래! 그렇게! (We Can Do It)|H.O.T.|100008|458|Outside Castle|https://cdnimg.melon.co.kr/cm/album/images/000/00/458/458_500.jpg/melon/resize/48/quality/80/optimize
+36|83220|내안의 그대|엄정화|1100|4314|005.1999.06|https://cdnimg.melon.co.kr/cm/album/images/000/04/314/4314_500.jpg/melon/resize/48/quality/80/optimize
+37|445159|그대가 그대를|이승환|26|30708|His Ballad Ⅱ|https://cdnimg.melon.co.kr/cm/album/images/000/30/708/30708_500.jpg/melon/resize/48/quality/80/optimize
+38|88776|욕망이란 이름...|박완규|1037|3858|엽기발랄(獵奇潑剌)|https://cdnimg.melon.co.kr/cm/album/images/000/03/858/3858_500.jpg/melon/resize/48/quality/80/optimize
+39|37100|힘을 내요, 미스터 김|롤러 코스터|100195|3449|일상다반사(日常茶飯事)|https://cdnimg.melon.co.kr/cm/album/images/000/03/449/3449_500.jpg/melon/resize/48/quality/80/optimize
+40|85108|바보|박효신|1191|3982|해줄수 없는일|https://cdnimg.melon.co.kr/cm/album/images/000/03/982/3982_500.jpg/melon/resize/48/quality/80/optimize
+41|-1|벌|박미경|932|888|Parkmikyung 5|https://cdnimg.melon.co.kr/cm/album/images/000/00/888/888_500.jpg/melon/resize/48/quality/80/optimize
+42|1002851|그대니까요 (Duet With 차은주)|김현철|1424|310185|김현철 Best + 총각파티|https://cdnimg.melon.co.kr/cm/album/images/003/10/185/310185_500.jpg/melon/resize/48/quality/80/optimize
+43|610559|Marry Me|이현우|1176|40277|Viru..s|https://cdnimg.melon.co.kr/cm/album/images/000/40/277/40277_500.jpg/melon/resize/48/quality/80/optimize
+44|89820|나침반|CB Mass|100252|198|Massmediah|https://cdnimg.melon.co.kr/cm/album/images/000/00/198/198_500.jpg/melon/resize/48/quality/80/optimize
+45|33146|머피의 법칙|DJ DOC|100005|3260|D'J DOC|https://cdnimg.melon.co.kr/cm/album/images/000/03/260/3260_500.jpg/melon/resize/48/quality/80/optimize
+46|86980|가잖아|신승훈|25|4161|Desire To Fly High|https://cdnimg.melon.co.kr/cm/album/images/000/04/161/4161_500.jpg/melon/resize/48/quality/80/optimize
+47|86984|이별 그후|신승훈|25|4161|Desire To Fly High|https://cdnimg.melon.co.kr/cm/album/images/000/04/161/4161_500.jpg/melon/resize/48/quality/80/optimize
+48|88794|울트라맨이야|서태지|1868|4049|울트라맨이야|https://cdnimg.melon.co.kr/cm/album/images/000/04/049/4049_500.jpg/melon/resize/48/quality/80/optimize
+49|27596|희망|김동률|925|310|희망 (希望)|https://cdnimg.melon.co.kr/cm/album/images/000/00/310/310_500.jpg/melon/resize/48/quality/80/optimize
+50|34093|오랜 방황의 끝|김태영|5964|3128|오랜 방황의 끝|https://cdnimg.melon.co.kr/cm/album/images/000/03/128/3128_500.jpg/melon/resize/48/quality/80/optimize

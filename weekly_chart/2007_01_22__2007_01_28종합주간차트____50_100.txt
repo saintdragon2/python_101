@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1540948|If I Could|정철 (최정철)|12872|339866|If I Could|https://cdnimg.melon.co.kr/cm/album/images/003/39/866/339866_500.jpg/melon/resize/48/quality/80/optimize
+52|1497480|바람아 멈추어 다오|러브홀릭|106718|332405|Re Wind|https://cdnimg.melon.co.kr/cm/album/images/003/32/405/332405_500.jpg/melon/resize/48/quality/80/optimize
+53|1554679|19금 Shee|베이비복스 2기|216382|342740|오(五).가(歌).무(舞).세(世).경(炅)|https://cdnimg.melon.co.kr/cm/album/images/003/42/740/342740_500.jpg/melon/resize/48/quality/80/optimize
+54|1556408|Lady Galaxy|보아 (BoA)|2165|342953|Made In Twenty (20)|https://cdnimg.melon.co.kr/cm/album/images/003/42/953/342953_500.jpg/melon/resize/48/quality/80/optimize
+55|1527992|겨울이야기 (With 박정은 포맨)|윤민수(바이브)|151315|336443|윤민수(Vibe)의 겨울이야기|https://cdnimg.melon.co.kr/cm/album/images/003/36/443/336443_500.jpg/melon/resize/48/quality/80/optimize
+56|1558449|습관 (Acoustic Ver.)|유니|37573|343374|유니 3집 U;Nee|https://cdnimg.melon.co.kr/cm/album/images/003/43/374/343374_500.jpg/melon/resize/48/quality/80/optimize
+57|1513768|한마디|테이크 (TAKE)|105789|334248|Take It All|https://cdnimg.melon.co.kr/cm/album/images/003/34/248/334248_500.jpg/melon/resize/48/quality/80/optimize
+58|1472307|사랑은|더 네임|25353|328782|Second Chance To Fly|https://cdnimg.melon.co.kr/cm/album/images/003/28/782/328782_500.jpg/melon/resize/48/quality/80/optimize
+59|1513154|울지마요 (Don't Cry)|박상민|956|334068|울지마요 (Don't cry)|https://cdnimg.melon.co.kr/cm/album/images/003/34/068/334068_500.jpg/melon/resize/48/quality/80/optimize
+60|1555830|두 사람 (Feat. 하울)|이정민|51334|342831|Pure White|https://cdnimg.melon.co.kr/cm/album/images/003/42/831/342831_500.jpg/melon/resize/48/quality/80/optimize
+61|1552352|최강로맨스|현영~이동욱|181704~12387|342338|최강로맨스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/42/338/342338_500.jpg/melon/resize/48/quality/80/optimize
+62|1557860|Hey Boy|서지영|1819|343221|Different This Time|https://cdnimg.melon.co.kr/cm/album/images/003/43/221/343221_500.jpg/melon/resize/48/quality/80/optimize
+63|1557076|그때가 좋았어... (Duet With 김아선)|홍경민|891|343156|그때가 좋았어|https://cdnimg.melon.co.kr/cm/album/images/003/43/156/343156_500.jpg/melon/resize/48/quality/80/optimize
+64|1525532|별|유미|9956|336050|미녀는 괴로워 OST|https://cdnimg.melon.co.kr/cm/album/images/003/36/050/336050_500.jpg/melon/resize/48/quality/80/optimize
+65|1492525|반대편에 서서|가비엔제이|174997|330574|The Very Surprise|https://cdnimg.melon.co.kr/cm/album/images/003/30/574/330574_500.jpg/melon/resize/48/quality/80/optimize
+66|1553466|나란 사람|노아(knoah)|8466|342546|The Soul Singer|https://cdnimg.melon.co.kr/cm/album/images/003/42/546/342546_500.jpg/melon/resize/48/quality/80/optimize
+67|1555273|기적 같은 사랑|이경화|10968|342776|달자의 봄 OST|https://cdnimg.melon.co.kr/cm/album/images/003/42/776/342776_500.jpg/melon/resize/48/quality/80/optimize
+68|1552386|나비의 꿈|먼데이 키즈 (Monday Kiz)|175155|342340|El Condor Pasa|https://cdnimg.melon.co.kr/cm/album/images/003/42/340/342340_500.jpg/melon/resize/48/quality/80/optimize
+69|1525486|사랑... 눈물겹다|조성모|969|336045|눈의 여왕 (Love Theme)|https://cdnimg.melon.co.kr/cm/album/images/003/36/045/336045_500.jpg/melon/resize/48/quality/80/optimize
+70|1466255|죄|루그|204626|328289|The First Album|https://cdnimg.melon.co.kr/cm/album/images/003/28/289/328289_500.jpg/melon/resize/48/quality/80/optimize
+71|1556553|Love Love Love (Feat. Yoong Jin Of Casker)|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+72|1494387|사랑이 오지 않아요|전진|1740|331967|사랑이 오지 않아요|https://cdnimg.melon.co.kr/cm/album/images/003/31/967/331967_500.jpg/melon/resize/48/quality/80/optimize
+73|1548909|안녕 고래 (Bye-Bye Whale)|크라잉넛 (CRYING NUT)|100766|341471|안녕 고래 (Bye-Bye Whale)|https://cdnimg.melon.co.kr/cm/album/images/003/41/471/341471_500.jpg/melon/resize/48/quality/80/optimize
+74|1548856|꽃피는 봄이 오면|고니|513803|341467|꽃피는 봄이 오면 OST|https://cdnimg.melon.co.kr/cm/album/images/003/41/467/341467_500.jpg/melon/resize/48/quality/80/optimize
+75|1456716|하얀새|이승철|1010|327841|Reflection Of Sound|https://cdnimg.melon.co.kr/cm/album/images/003/27/841/327841_500.jpg/melon/resize/48/quality/80/optimize
+76|1416893|원하고 원망하죠|이승기|58793|326571|남자가 여자를 사랑할 때|https://cdnimg.melon.co.kr/cm/album/images/003/26/571/326571_500.jpg/melon/resize/48/quality/80/optimize
+77|1484933|자물쇠|이정|39256|330585|연인 OST|https://cdnimg.melon.co.kr/cm/album/images/003/30/585/330585_500.jpg/melon/resize/48/quality/80/optimize
+78|1476571|나쁜 사람|백지영|1118|329169|황진이 OST|https://cdnimg.melon.co.kr/cm/album/images/003/29/169/329169_500.jpg/melon/resize/48/quality/80/optimize
+79|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+80|1525531|Beautiful Girl|김아중|204828|336050|미녀는 괴로워 OST|https://cdnimg.melon.co.kr/cm/album/images/003/36/050/336050_500.jpg/melon/resize/48/quality/80/optimize
+81|1556533|알고 보니 (Feat. 진보)|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+82|1556532|白夜 (백야)|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+83|1529140|일년을 겨울에 살아|브라이언|1929|335456|The Brian|https://cdnimg.melon.co.kr/cm/album/images/003/35/456/335456_500.jpg/melon/resize/48/quality/80/optimize
+84|1507742|Forever With You|BIGBANG|198094|333501|BigBang 3 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/33/501/333501_500.jpg/melon/resize/48/quality/80/optimize
+85|1120765|So Sick|Ne-Yo|181769|314762|In My Own Words|https://cdnimg.melon.co.kr/cm/album/images/003/14/762/314762_500.jpg/melon/resize/48/quality/80/optimize
+86|1551120|The Rest Of My Life|Brian McKnight|2108|342041|Ten|https://cdnimg.melon.co.kr/cm/album/images/003/42/041/342041_500.jpg/melon/resize/48/quality/80/optimize
+87|1555852|District 13|로켓 다이어리|174694|342838|District 13|https://cdnimg.melon.co.kr/cm/album/images/003/42/838/342838_500.jpg/melon/resize/48/quality/80/optimize
+88|1535136|Be My 1004 (Feat. 나르샤)|iM & 유리 & 나르샤|210691|337462|Be My 1004|https://cdnimg.melon.co.kr/cm/album/images/003/37/462/337462_500.jpg/melon/resize/48/quality/80/optimize
+89|1454809|너에게 쓰는 편지 Part 2 (Feat. LISA)|MC몽|11538|327607|The Way I Am|https://cdnimg.melon.co.kr/cm/album/images/003/27/607/327607_500.jpg/melon/resize/48/quality/80/optimize
+90|-1|Beautiful Girl|김아중|204828|328785|미녀는 괴로워 OST|https://cdnimg.melon.co.kr/cm/album/images/003/28/785/328785_500.jpg/melon/resize/48/quality/80/optimize
+91|1509828|Audition (Time2Rock)|윤하 (YOUNHA)|203912|333687|Audition|https://cdnimg.melon.co.kr/cm/album/images/003/33/687/333687_500.jpg/melon/resize/48/quality/80/optimize
+92|708754|Because Of You|Kelly Clarkson|36329|50321|Breakaway|https://cdnimg.melon.co.kr/cm/album/images/000/50/321/50321_500.jpg/melon/resize/48/quality/80/optimize
+93|1287391|SexyBack|Justin Timberlake|2646|321841|SexyBack|https://cdnimg.melon.co.kr/cm/album/images/003/21/841/321841_500.jpg/melon/resize/48/quality/80/optimize
+94|1556534|실어증 (Feat. 팔로알토)|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+95|1493039|Four Chance|SS501|170541|331727|SS501 S.T 01 NOW|https://cdnimg.melon.co.kr/cm/album/images/003/31/727/331727_500.jpg/melon/resize/48/quality/80/optimize
+96|623902|눈의 꽃|박효신|1191|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+97|1556531|The End Times (Opening)|에픽하이 (EPIK HIGH)|108356|342967|Remapping The Human Soul|https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/48/quality/80/optimize
+98|1114180|술이야|바이브|160080|314287|Re - Feel|https://cdnimg.melon.co.kr/cm/album/images/003/14/287/314287_500.jpg/melon/resize/48/quality/80/optimize
+99|1484166|잘할게|SE7EN|33513|330464|Se7olution|https://cdnimg.melon.co.kr/cm/album/images/003/30/464/330464_500.jpg/melon/resize/48/quality/80/optimize
+100|1466870|울지마|버즈|160091|328340|‘떠나’ 그리고 ‘울지마’|https://cdnimg.melon.co.kr/cm/album/images/003/28/340/328340_500.jpg/melon/resize/48/quality/80/optimize

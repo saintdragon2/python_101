@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4203057|A Real Lady (Feat. Beenzino, Gray & Zion.T)|스윙스|236970|2196498|A Real Lady|https://cdnimg.melon.co.kr/cm/album/images/021/96/498/2196498_500.jpg/melon/resize/48/quality/80/optimize
+52|4232210|미치GO (GO)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+53|447642|내 삶의 반|한경일|8314|28241|Travel ∞ Directions (Bonus Track)|https://cdnimg.melon.co.kr/cm/album/images/000/28/241/28241_500.jpg/melon/resize/48/quality/80/optimize
+54|4226208|늴리리야 (Niliria) (Feat. Missy Elliott) (Missy Elliott Ver.)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+55|4235727|떠나버려|에일리(Ailee)~마부스 (Maboos)~차쿤~필독 (feeldog)|629831~418361~602180~685069|2200283|듀스 20주년 헌정앨범 Part.2|https://cdnimg.melon.co.kr/cm/album/images/022/00/283/2200283_500.jpg/melon/resize/48/quality/80/optimize
+56|4165390|Falling In Love|2NE1|406712|2191762|Falling In Love|https://cdnimg.melon.co.kr/cm/album/images/021/91/762/2191762_500.jpg/melon/resize/48/quality/80/optimize
+57|4152253|여자 대통령|걸스데이|482762|2190068|여자 대통령|https://cdnimg.melon.co.kr/cm/album/images/021/90/068/2190068_500.jpg/melon/resize/48/quality/80/optimize
+58|4221233|니 입술 그 맛 (Feat. EB)|디셈버|439021|2198617|조영수 All Star - 디셈버|https://cdnimg.melon.co.kr/cm/album/images/021/98/617/2198617_500.jpg/melon/resize/48/quality/80/optimize
+59|4209541|기억속의 먼 그대에게|송희진|727562|2197271|슈퍼스타K5 - 송희진|https://cdnimg.melon.co.kr/cm/album/images/021/97/271/2197271_500.jpg/melon/resize/48/quality/80/optimize
+60|4175139|비가 온다|강승윤|28263|2192973|비가 온다|https://cdnimg.melon.co.kr/cm/album/images/021/92/973/2192973_500.jpg/melon/resize/48/quality/80/optimize
+61|4070694|19금 The Bad Touch (Gordon & Doyle Edit)|DJ Gollum~Empyre One|353536~720484|2179667|The Bad Touch|https://cdnimg.melon.co.kr/cm/album/images/021/79/667/2179667_500.jpg/melon/resize/48/quality/80/optimize
+62|4144408|All Right|김예림 (Lim Kim)|643851|2187662|A Voice|https://cdnimg.melon.co.kr/cm/album/images/021/87/662/2187662_500.jpg/melon/resize/48/quality/80/optimize
+63|4232215|너무 좋아 (I Love It) (Feat. Zion.T & Boys Noize)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+64|4138607|넌 너무 야해 (Feat. 긱스) (The Way You Make Me Melt)|씨스타|473181|2188413|Give It To Me|https://cdnimg.melon.co.kr/cm/album/images/021/88/413/2188413_500.jpg/melon/resize/48/quality/80/optimize
+65|4150987|비범벅 (Feat. 범키)|버벌진트|6985|2189912|비범벅|https://cdnimg.melon.co.kr/cm/album/images/021/89/912/2189912_500.jpg/melon/resize/48/quality/80/optimize
+66|3947371|? (물음표) (Feat. 최자 Of 다이나믹듀오, Zion.T)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+67|4160250|날개뼈 (Hot Wings) (Feat. 효린 Of Sistar)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+68|3843565|Boogie On & On|빈지노 (Beenzino)|532029|2134788|2 4 : 2 6|https://cdnimg.melon.co.kr/cm/album/images/021/34/788/2134788_500.jpg/melon/resize/48/quality/80/optimize
+69|4226135|좋아보여|하동균|43806|2199186|굿닥터 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/99/186/2199186_500.jpg/melon/resize/48/quality/80/optimize
+70|4206159|너와 나|홍대광|699623|2196928|주군의 태양 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/96/928/2196928_500.jpg/melon/resize/48/quality/80/optimize
+71|4236596|사랑해|JAMIE (제이미)|646172|2200372|불의 여신 정이 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/00/372/2200372_500.jpg/melon/resize/48/quality/80/optimize
+72|4108714|청혼하는 거예요|포맨 (4MEN)|100176|2184411|The 5th Album Vol.2 'Thank You'|https://cdnimg.melon.co.kr/cm/album/images/021/84/411/2184411_500.jpg/melon/resize/48/quality/80/optimize
+73|3948908|씨스루 (Feat. Zion.T, 개코 Of 다이나믹듀오)|프라이머리|35682|2161126|Primary And The Messengers LP|https://cdnimg.melon.co.kr/cm/album/images/021/61/126/2161126_500.jpg/melon/resize/48/quality/80/optimize
+74|4153450|슬피 우는 새 (Feat. 이수영)|아웃사이더|181785|2190225|슬피 우는 새|https://cdnimg.melon.co.kr/cm/album/images/021/90/225/2190225_500.jpg/melon/resize/48/quality/80/optimize
+75|4132144|너 하나야|포맨 (4MEN)|100176|2187663|구가의 서 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/021/87/663/2187663_500.jpg/melon/resize/48/quality/80/optimize
+76|4232201|세상을 흔들어 (Shake The World)|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+77|4175021|Destiny|인피니트|476181|2192958|Destiny|https://cdnimg.melon.co.kr/cm/album/images/021/92/958/2192958_500.jpg/melon/resize/48/quality/80/optimize
+78|4212792|둘 중에 하나 (Runaway)|카라|222128|2197686|둘 중에 하나 (Runaway)|https://cdnimg.melon.co.kr/cm/album/images/021/97/686/2197686_500.jpg/melon/resize/48/quality/80/optimize
+79|3864961|가수가 된 이유|신용재 (2F)|510537|2138690|24|https://cdnimg.melon.co.kr/cm/album/images/021/38/690/2138690_500.jpg/melon/resize/48/quality/80/optimize
+80|3946867|Officially Missing You, Too|긱스 (Geeks)~소유 (SOYOU)|525805~490981|2165024|re;code Episode I|https://cdnimg.melon.co.kr/cm/album/images/021/65/024/2165024_500.jpg/melon/resize/48/quality/80/optimize
+81|4232213|Runaway|G-DRAGON|6984|2199192|쿠데타 (COUP D'ETAT)|https://cdnimg.melon.co.kr/cm/album/images/021/99/192/2199192_500.jpg/melon/resize/48/quality/80/optimize
+82|4192782|바람의 유령|제국의아이들 (ZE:A)|449941|2195251|Illusion|https://cdnimg.melon.co.kr/cm/album/images/021/95/251/2195251_500.jpg/melon/resize/48/quality/80/optimize
+83|4160243|쌔끈해 (Three Dopeboyz) (Feat. Zion.T)|다이나믹 듀오|108358|2190970|Luckynumbers|https://cdnimg.melon.co.kr/cm/album/images/021/90/970/2190970_500.jpg/melon/resize/48/quality/80/optimize
+84|4190076|말해줘요|걸스데이|482762|2194903|Girl's Day Party #6|https://cdnimg.melon.co.kr/cm/album/images/021/94/903/2194903_500.jpg/melon/resize/48/quality/80/optimize
+85|4229622|가슴을 쳐봐도|김보경 (NEON)|60829|2199624|투윅스 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/021/99/624/2199624_500.jpg/melon/resize/48/quality/80/optimize
+86|4230039|Mystery|정동하|181188|2199654|주군의 태양 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/021/99/654/2199654_500.jpg/melon/resize/48/quality/80/optimize
+87|4138608|바빠 (Bad Boy)|씨스타|473181|2188413|Give It To Me|https://cdnimg.melon.co.kr/cm/album/images/021/88/413/2188413_500.jpg/melon/resize/48/quality/80/optimize
+88|4168680|미친게 아니라구요 (Feat. MC 스나이퍼)|손승연|661773|2192171|미친게 아니라구요|https://cdnimg.melon.co.kr/cm/album/images/021/92/171/2192171_500.jpg/melon/resize/48/quality/80/optimize
+89|4099280|이름이 뭐예요?|4minute|417985|2183128|Name Is 4minute|https://cdnimg.melon.co.kr/cm/album/images/021/83/128/2183128_500.jpg/melon/resize/48/quality/80/optimize
+90|4233962|건널목에서|포스트맨(Postmen)|495401|2200076|건널목에서|https://cdnimg.melon.co.kr/cm/album/images/022/00/076/2200076_500.jpg/melon/resize/48/quality/80/optimize
+91|4143937|왜 이제야 왔니|정엽|265067|2189083|너의 목소리가 들려 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/021/89/083/2189083_500.jpg/melon/resize/48/quality/80/optimize
+92|4235348|스릴러|비투비|647971|2200239|스릴러|https://cdnimg.melon.co.kr/cm/album/images/022/00/239/2200239_500.jpg/melon/resize/48/quality/80/optimize
+93|4209694|GG Be (지지베) (Feat. 제니 of BLACKPINK)|승리|403841|2197293|LET'S TALK ABOUT LOVE|https://cdnimg.melon.co.kr/cm/album/images/021/97/293/2197293_500.jpg/melon/resize/48/quality/80/optimize
+94|4168688|Fly|긱스 (Geeks)|525805|2192175|Fly|https://cdnimg.melon.co.kr/cm/album/images/021/92/175/2192175_500.jpg/melon/resize/48/quality/80/optimize
+95|4243726|홍대거리에서 (그 남자..) (Feat. 안영민)|더 포지션|100177|2201227|홍대거리에서|https://cdnimg.melon.co.kr/cm/album/images/022/01/227/2201227_500.jpg/melon/resize/48/quality/80/optimize
+96|4167370|레시피|브라운아이드걸스|181694|2192010|레시피|https://cdnimg.melon.co.kr/cm/album/images/021/92/010/2192010_500.jpg/melon/resize/48/quality/80/optimize
+97|4153481|Love Love Love|로이킴|699632|2190230|Love Love Love|https://cdnimg.melon.co.kr/cm/album/images/021/90/230/2190230_500.jpg/melon/resize/48/quality/80/optimize
+98|4237788|Little Boy|JC지은~마이노스 (MINOS)|224607~237552|2200526|Little Boy|https://cdnimg.melon.co.kr/cm/album/images/022/00/526/2200526_500.jpg/melon/resize/48/quality/80/optimize
+99|4205615|맘도둑|강승윤|28263|2196859|맘도둑|https://cdnimg.melon.co.kr/cm/album/images/021/96/859/2196859_500.jpg/melon/resize/48/quality/80/optimize
+100|4100521|Wash Away (Feat. 에일리)|긱스 (Geeks)|525805|2183300|Backpack|https://cdnimg.melon.co.kr/cm/album/images/021/83/300/2183300_500.jpg/melon/resize/48/quality/80/optimize

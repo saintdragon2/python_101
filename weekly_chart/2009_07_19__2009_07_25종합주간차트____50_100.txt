@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|2229259|Abracadabra|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+52|2100540|쏘리 쏘리 (Sorry, Sorry)|SUPER JUNIOR (슈퍼주니어)|175404|514152|The 3rd Album '쏘리 쏘리 (SORRY, SORRY)'|https://cdnimg.melon.co.kr/cm/album/images/005/14/152/514152_500.jpg/melon/resize/48/quality/80/optimize
+53|2231895|Indian Boy (Feat. 장근이, B.I)|MC몽|11538|614355|Humanimal|https://cdnimg.melon.co.kr/cm/album/images/006/14/355/614355_500.jpg/melon/resize/48/quality/80/optimize
+54|2134448|Simple Love (Feat. 나비)|MC몽|11538|541551|BlueBrand Part 1|https://cdnimg.melon.co.kr/cm/album/images/005/41/551/541551_500.jpg/melon/resize/48/quality/80/optimize
+55|2218822|In The Club|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+56|2122195|터질 것 같아|지아|227595|531754|Orchestra|https://cdnimg.melon.co.kr/cm/album/images/005/31/754/531754_500.jpg/melon/resize/48/quality/80/optimize
+57|2112982|토요일밤에|손담비|226582|524357|Type B|https://cdnimg.melon.co.kr/cm/album/images/005/24/357/524357_500.jpg/melon/resize/48/quality/80/optimize
+58|2213520|결국 너야|왁스|2267|598561|Always You|https://cdnimg.melon.co.kr/cm/album/images/005/98/561/598561_500.jpg/melon/resize/48/quality/80/optimize
+59|2218823|Let's Go Party|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+60|2216948|사랑해요 (그대 Song)|윤상현|411121|601351|사랑해요 (그대 Song)|https://cdnimg.melon.co.kr/cm/album/images/006/01/351/601351_500.jpg/melon/resize/48/quality/80/optimize
+61|2197072|사랑은 벌이다|케이윌|175139|585953|찬란한 유산 OST Part 2|https://cdnimg.melon.co.kr/cm/album/images/005/85/953/585953_500.jpg/melon/resize/48/quality/80/optimize
+62|2210448|령혼|양파|3854|596551|혼 OST|https://cdnimg.melon.co.kr/cm/album/images/005/96/551/596551_500.jpg/melon/resize/48/quality/80/optimize
+63|2231948|아몰레드 (Amoled)|손담비~애프터스쿨|226582~322666|614451|아몰레드|https://cdnimg.melon.co.kr/cm/album/images/006/14/451/614451_500.jpg/melon/resize/48/quality/80/optimize
+64|2206771|사랑시리즈 (Feat. 혜민 Of 가비엔제이(Gavy NJ)|H-유진|198032|593964|사랑시리즈|https://cdnimg.melon.co.kr/cm/album/images/005/93/964/593964_500.jpg/melon/resize/48/quality/80/optimize
+65|2192149|Oh|언터쳐블|190493|581951|Untouchable Mini Album 1st|https://cdnimg.melon.co.kr/cm/album/images/005/81/951/581951_500.jpg/melon/resize/48/quality/80/optimize
+66|2218825|Stay Together|2NE1|406712|598055|2NE1 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/98/055/598055_500.jpg/melon/resize/48/quality/80/optimize
+67|2185578|피에로의 눈물 (Feat. 무웅 Of 배치기)|아웃사이더|181785|576054|Maestro|https://cdnimg.melon.co.kr/cm/album/images/005/76/054/576054_500.jpg/melon/resize/48/quality/80/optimize
+68|2214143|바보라서... (고질병)|고유진 (플라워)|4172|598962|바보라서...|https://cdnimg.melon.co.kr/cm/album/images/005/98/962/598962_500.jpg/melon/resize/48/quality/80/optimize
+69|2109706|친구의 고백|2AM|253866|521558|Time For Confession|https://cdnimg.melon.co.kr/cm/album/images/005/21/558/521558_500.jpg/melon/resize/48/quality/80/optimize
+70|2225573|월화수목 금토일 (Feat. 아이유 IU)|수호|184926|608554|DayZ|https://cdnimg.melon.co.kr/cm/album/images/006/08/554/608554_500.jpg/melon/resize/48/quality/80/optimize
+71|2225663|Gloria (Feat. 고은)|PK 헤만|211782|608560|Club PK헤만|https://cdnimg.melon.co.kr/cm/album/images/006/08/560/608560_500.jpg/melon/resize/48/quality/80/optimize
+72|2229176|소식 (So Sick)|엠씨더맥스 (M.C the MAX)|161636|611854|In The Season - 2009 Summer|https://cdnimg.melon.co.kr/cm/album/images/006/11/854/611854_500.jpg/melon/resize/48/quality/80/optimize
+73|2012282|Gee|소녀시대 (GIRLS' GENERATION)|228069|458355|The First Mini Album 'Gee'|https://cdnimg.melon.co.kr/cm/album/images/004/58/355/458355_500.jpg/melon/resize/48/quality/80/optimize
+74|2093360|8282|다비치|236815|508460|Davichi In Wonderland|https://cdnimg.melon.co.kr/cm/album/images/005/08/460/508460_500.jpg/melon/resize/48/quality/80/optimize
+75|2229258|Glam Girl|브라운아이드걸스|181694|603751|Sound G.|https://cdnimg.melon.co.kr/cm/album/images/006/03/751/603751_500.jpg/melon/resize/48/quality/80/optimize
+76|2210161|Monster (Korean Ver.)|드렁큰 타이거|100027|596251|Feel gHood Muzik : The 8th Wonder|https://cdnimg.melon.co.kr/cm/album/images/005/96/251/596251_500.jpg/melon/resize/48/quality/80/optimize
+77|2221558|19금 I'm Good|크라운제이 (CROWN J)|182206|605152|I'm Good|https://cdnimg.melon.co.kr/cm/album/images/006/05/152/605152_500.jpg/melon/resize/48/quality/80/optimize
+78|2207370|Etude|소녀시대 (GIRLS' GENERATION)|228069|590853|'소원을 말해봐 (Genie)' The Second Mini Album|https://cdnimg.melon.co.kr/cm/album/images/005/90/853/590853_500.jpg/melon/resize/48/quality/80/optimize
+79|2225633|가슴에 못 박혀|소찬휘|3897|608558|가슴에 못 박혀|https://cdnimg.melon.co.kr/cm/album/images/006/08/558/608558_500.jpg/melon/resize/48/quality/80/optimize
+80|2178622|Dream Girl|애프터스쿨|322666|570657|대 동경소녀 (Dream Girl)|https://cdnimg.melon.co.kr/cm/album/images/005/70/657/570657_500.jpg/melon/resize/48/quality/80/optimize
+81|2194548|눈물이 주룩주룩|박정현|1099|583851|10 Ways To Say I Love You Repackaged Edtion|https://cdnimg.melon.co.kr/cm/album/images/005/83/851/583851_500.jpg/melon/resize/48/quality/80/optimize
+82|2213634|낚였어 (Feat. 공보경)|나몰라패밀리 (Namolla Family)|194009|598571|낚였어|https://cdnimg.melon.co.kr/cm/album/images/005/98/571/598571_500.jpg/melon/resize/48/quality/80/optimize
+83|2227248|여름아부탁해|비욘드|169635|609951|여름아부탁해|https://cdnimg.melon.co.kr/cm/album/images/006/09/951/609951_500.jpg/melon/resize/48/quality/80/optimize
+84|2176940|사랑이 죄인가요|백지영|1118|569162|자명고 OST|https://cdnimg.melon.co.kr/cm/album/images/005/69/162/569162_500.jpg/melon/resize/48/quality/80/optimize
+85|2218552|고등어|노라조|172193|602552|여름싱글|https://cdnimg.melon.co.kr/cm/album/images/006/02/552/602552_500.jpg/melon/resize/48/quality/80/optimize
+86|2186418|이뻐요|윤건~이효리|14801~1713|576754|이뻐요|https://cdnimg.melon.co.kr/cm/album/images/005/76/754/576754_500.jpg/melon/resize/48/quality/80/optimize
+87|2109949|마음으로 하는 말 (Feat. Hanyi)|프리스타일|100144|521851|Dry&Wet|https://cdnimg.melon.co.kr/cm/album/images/005/21/851/521851_500.jpg/melon/resize/48/quality/80/optimize
+88|2210968|Love Sick (러브 시크) (Feat. 바비킴)|길미|14490|596952|The 1st Purpledream Sound|https://cdnimg.melon.co.kr/cm/album/images/005/96/952/596952_500.jpg/melon/resize/48/quality/80/optimize
+89|2219357|아침 점심 저녁|수호|184926|603154|하루를...|https://cdnimg.melon.co.kr/cm/album/images/006/03/154/603154_500.jpg/melon/resize/48/quality/80/optimize
+90|2211479|7년간의 사랑|규현 (KYUHYUN)|205880|597352|7년간의 사랑 (유영석 20주년 기념앨범 Part.1)|https://cdnimg.melon.co.kr/cm/album/images/005/97/352/597352_500.jpg/melon/resize/48/quality/80/optimize
+91|2183950|What You Do (Feat. Ne-Yo)|Chrisette Michele|227390|574851|Epiphany|https://cdnimg.melon.co.kr/cm/album/images/005/74/851/574851_500.jpg/melon/resize/48/quality/80/optimize
+92|2214148|이별복습|옥주현~THERAY|1714~192712|599051|SS Life 2nd|https://cdnimg.melon.co.kr/cm/album/images/005/99/051/599051_500.jpg/melon/resize/48/quality/80/optimize
+93|2063248|Insomnia (불면증)|휘성 (Realslow)|10577|501551|Insomnia|https://cdnimg.melon.co.kr/cm/album/images/005/01/551/501551_500.jpg/melon/resize/48/quality/80/optimize
+94|2019681|사랑..그 놈|바비 킴|6027|465354|Love Chapter.1 (Special Album)|https://cdnimg.melon.co.kr/cm/album/images/004/65/354/465354_500.jpg/melon/resize/48/quality/80/optimize
+95|2102150|헤어지는 중입니다|이은미|1055|515751|소리 위를 걷다|https://cdnimg.melon.co.kr/cm/album/images/005/15/751/515751_500.jpg/melon/resize/48/quality/80/optimize
+96|2115752|나 혼자서|티파니 (TIFFANY)|406421|526352|자명고 OST|https://cdnimg.melon.co.kr/cm/album/images/005/26/352/526352_500.jpg/melon/resize/48/quality/80/optimize
+97|2229158|피크닉 데이 (Picnic Day)|서영은|3033|611852|피크닉 데이|https://cdnimg.melon.co.kr/cm/album/images/006/11/852/611852_500.jpg/melon/resize/48/quality/80/optimize
+98|2210969|Love Cuts (러브 컷츠) (Feat. 은지원)|길미|14490|596952|The 1st Purpledream Sound|https://cdnimg.melon.co.kr/cm/album/images/005/96/952/596952_500.jpg/melon/resize/48/quality/80/optimize
+99|2187280|지지리|베이지|222697|577556|XOXO|https://cdnimg.melon.co.kr/cm/album/images/005/77/556/577556_500.jpg/melon/resize/48/quality/80/optimize
+100|2198565|마스카라|브랜뉴데이|315175|587254|마스카라|https://cdnimg.melon.co.kr/cm/album/images/005/87/254/587254_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1415137|외눈박이 물고기|지현우|198266|326173|지현우의 Love letter 외눈박이 물고기|https://cdnimg.melon.co.kr/cm/album/images/003/26/173/326173_500.jpg/melon/resize/48/quality/80/optimize
+52|1266153|사랑한다는 한마디|신지|5907|320638|Somewhere Over The RAINBOW Vol. 1|https://cdnimg.melon.co.kr/cm/album/images/003/20/638/320638_500.jpg/melon/resize/48/quality/80/optimize
+53|1314919|초우 (初雨) (Cold Rain)|TraxX (트랙스)|108965|322400|초우 (初雨)|https://cdnimg.melon.co.kr/cm/album/images/003/22/400/322400_500.jpg/melon/resize/48/quality/80/optimize
+54|1416897|아디오|이승기|58793|326571|남자가 여자를 사랑할 때|https://cdnimg.melon.co.kr/cm/album/images/003/26/571/326571_500.jpg/melon/resize/48/quality/80/optimize
+55|1423389|One By One|배슬기|24982|327350|The First Album|https://cdnimg.melon.co.kr/cm/album/images/003/27/350/327350_500.jpg/melon/resize/48/quality/80/optimize
+56|1421416|유정의 대사 (이나영)|이나영|46972|327083|우리들의 행복한 시간 OST|https://cdnimg.melon.co.kr/cm/album/images/003/27/083/327083_500.jpg/melon/resize/48/quality/80/optimize
+57|1454597|마음을 잃다|넬 (NELL)|101094|327589|Healing Process|https://cdnimg.melon.co.kr/cm/album/images/003/27/589/327589_500.jpg/melon/resize/48/quality/80/optimize
+58|1368869|그댈 위한 사랑|이정|39256|324839|천국보다 낯선 OST|https://cdnimg.melon.co.kr/cm/album/images/003/24/839/324839_500.jpg/melon/resize/48/quality/80/optimize
+59|1139741|내사람 : Partner For Life|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+60|1368238|This Love|BIGBANG|198094|324606|BigBang First Single|https://cdnimg.melon.co.kr/cm/album/images/003/24/606/324606_500.jpg/melon/resize/48/quality/80/optimize
+61|1416899|눈물|이승기|58793|326571|남자가 여자를 사랑할 때|https://cdnimg.melon.co.kr/cm/album/images/003/26/571/326571_500.jpg/melon/resize/48/quality/80/optimize
+62|1335334|단 한사람|고유진 (플라워)|4172|323087|소문난 칠공주 OST|https://cdnimg.melon.co.kr/cm/album/images/003/23/087/323087_500.jpg/melon/resize/48/quality/80/optimize
+63|1364590|영원한 사랑|이승철|1010|324146|우리, 사랑하는 동안|https://cdnimg.melon.co.kr/cm/album/images/003/24/146/324146_500.jpg/melon/resize/48/quality/80/optimize
+64|1205568|헤어져야 사랑을 알죠|리사|48312|318969|Mind Blowing|https://cdnimg.melon.co.kr/cm/album/images/003/18/969/318969_500.jpg/melon/resize/48/quality/80/optimize
+65|1365005|노세 놀아보세|무가당|197806|324241|무가당 (舞歌黨)|https://cdnimg.melon.co.kr/cm/album/images/003/24/241/324241_500.jpg/melon/resize/48/quality/80/optimize
+66|1199786|My Style|업타운|100043|318655|Testimony|https://cdnimg.melon.co.kr/cm/album/images/003/18/655/318655_500.jpg/melon/resize/48/quality/80/optimize
+67|1266158|Dancing Out|SUPER JUNIOR (슈퍼주니어)|175404|320639|2006 Summer Smtown|https://cdnimg.melon.co.kr/cm/album/images/003/20/639/320639_500.jpg/melon/resize/48/quality/80/optimize
+68|1114180|술이야|바이브|160080|314287|Re - Feel|https://cdnimg.melon.co.kr/cm/album/images/003/14/287/314287_500.jpg/melon/resize/48/quality/80/optimize
+69|1415484|열정 (Original Remix)|인순이|4232|326257|인순이 Remix Party With Dj OGA|https://cdnimg.melon.co.kr/cm/album/images/003/26/257/326257_500.jpg/melon/resize/48/quality/80/optimize
+70|1144018|사랑한다는 말|김종국|1692|316531|네 번째 편지|https://cdnimg.melon.co.kr/cm/album/images/003/16/531/316531_500.jpg/melon/resize/48/quality/80/optimize
+71|1204838|들리나요|정재욱|7839|318838|13월의 사랑|https://cdnimg.melon.co.kr/cm/album/images/003/18/838/318838_500.jpg/melon/resize/48/quality/80/optimize
+72|1364996|애수 (哀愁)|일 락|57315|324240|Sorrow|https://cdnimg.melon.co.kr/cm/album/images/003/24/240/324240_500.jpg/melon/resize/48/quality/80/optimize
+73|1266152|떠나지마|이승철|1010|320638|Somewhere Over The RAINBOW Vol. 1|https://cdnimg.melon.co.kr/cm/album/images/003/20/638/320638_500.jpg/melon/resize/48/quality/80/optimize
+74|1139742|사랑했어요 (Feat. 데니안)|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+75|-1|Boyfriend (Booyah Revival)|Sweetbox|100060|327090|Best Of Remix 1995~2006|https://cdnimg.melon.co.kr/cm/album/images/003/27/090/327090_500.jpg/melon/resize/48/quality/80/optimize
+76|1119896|사랑하기 때문에 (Feat. SG워너비)|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+77|1416894|내 안의 그대|이승기|58793|326571|남자가 여자를 사랑할 때|https://cdnimg.melon.co.kr/cm/album/images/003/26/571/326571_500.jpg/melon/resize/48/quality/80/optimize
+78|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+79|1114170|여인의 향기|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+80|1417752|고백|신성우|34|326738|신성우 BEST - 遭遇 (조우)|https://cdnimg.melon.co.kr/cm/album/images/003/26/738/326738_500.jpg/melon/resize/48/quality/80/optimize
+81|1416754|사랑해... (Feat. 알렉스)|지선|13459|326561|각인 (刻人)|https://cdnimg.melon.co.kr/cm/album/images/003/26/561/326561_500.jpg/melon/resize/48/quality/80/optimize
+82|1416947|일년 전 목소리|시운|202233|326582|일년 전 목소리|https://cdnimg.melon.co.kr/cm/album/images/003/26/582/326582_500.jpg/melon/resize/48/quality/80/optimize
+83|1185401|봄 여름 가을... 겨울 (Feat. 김태우 God)|수호|184926|317426|Thank U|https://cdnimg.melon.co.kr/cm/album/images/003/17/426/317426_500.jpg/melon/resize/48/quality/80/optimize
+84|1416895|사랑했잖아|이승기|58793|326571|남자가 여자를 사랑할 때|https://cdnimg.melon.co.kr/cm/album/images/003/26/571/326571_500.jpg/melon/resize/48/quality/80/optimize
+85|1315570|알 수 없는 인생|이문세|43|322540|이문세 + 발칙한 여자들 OST|https://cdnimg.melon.co.kr/cm/album/images/003/22/540/322540_500.jpg/melon/resize/48/quality/80/optimize
+86|1205314|그래서...|타이푼|186309|318957|TROIKA|https://cdnimg.melon.co.kr/cm/album/images/003/18/957/318957_500.jpg/melon/resize/48/quality/80/optimize
+87|1380659|Deja Vu|Beyonce|3535|326039|B'Day|https://cdnimg.melon.co.kr/cm/album/images/003/26/039/326039_500.jpg/melon/resize/48/quality/80/optimize
+88|1374165|Keep Holding U (With 혜성)|선민|198663|325839|선민 ThanX 혜성|https://cdnimg.melon.co.kr/cm/album/images/003/25/839/325839_500.jpg/melon/resize/48/quality/80/optimize
+89|1355089|잘해주지 말아요|BGH4|197310|323842|Memories Of HIM|https://cdnimg.melon.co.kr/cm/album/images/003/23/842/323842_500.jpg/melon/resize/48/quality/80/optimize
+90|1373301|그녀에게 전화오게 하는 방법 (Feat. 버벌진트)|015B|100148|325657|Lucky 7|https://cdnimg.melon.co.kr/cm/album/images/003/25/657/325657_500.jpg/melon/resize/48/quality/80/optimize
+91|1268244|오늘 하루|쿨 (COOL)|100004|320878|쿨 Never Ending Story|https://cdnimg.melon.co.kr/cm/album/images/003/20/878/320878_500.jpg/melon/resize/48/quality/80/optimize
+92|1417799|Sexy Back (CF - KB카드 '비'편)|Justin Timberlake|2646|326741|FutureSex / LoveSounds|https://cdnimg.melon.co.kr/cm/album/images/003/26/741/326741_500.jpg/melon/resize/48/quality/80/optimize
+93|1314912|슈퍼맨 (Feat. 강수지)|듀크|100135|322399|The Rebirth Of Duke|https://cdnimg.melon.co.kr/cm/album/images/003/22/399/322399_500.jpg/melon/resize/48/quality/80/optimize
+94|1193998|큐피트|별|27033|318144|눈물샘|https://cdnimg.melon.co.kr/cm/album/images/003/18/144/318144_500.jpg/melon/resize/48/quality/80/optimize
+95|1417910|Starlight (Feat. P-Type)|헤리티지(Heritage)|202407|326748|Acoustic & Vintage|https://cdnimg.melon.co.kr/cm/album/images/003/26/748/326748_500.jpg/melon/resize/48/quality/80/optimize
+96|1423902|간지럽게|스윗소로우 (SWEET SORROW)|175203|327442|사랑 같은 건|https://cdnimg.melon.co.kr/cm/album/images/003/27/442/327442_500.jpg/melon/resize/48/quality/80/optimize
+97|1130735|흔적|임정희|150529|315490|Thanks|https://cdnimg.melon.co.kr/cm/album/images/003/15/490/315490_500.jpg/melon/resize/48/quality/80/optimize
+98|1354955|2006 버스안에서|자자|100101|323838|The Midsummer Night‘s Cool Dream|https://cdnimg.melon.co.kr/cm/album/images/003/23/838/323838_500.jpg/melon/resize/48/quality/80/optimize
+99|1423303|Play|코요태|100022|327342|London Koyote|https://cdnimg.melon.co.kr/cm/album/images/003/27/342/327342_500.jpg/melon/resize/48/quality/80/optimize
+100|1423305|그 사람은...|코요태|100022|327342|London Koyote|https://cdnimg.melon.co.kr/cm/album/images/003/27/342/327342_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|31893681|괜찮아도 괜찮아 (That's okay)|디오 (D.O.)|672853|10301811|괜찮아도 괜찮아 (That's okay) - SM STATION|https://cdnimg.melon.co.kr/cm/album/images/103/01/811/10301811_500.jpg/melon/resize/48/quality/80/optimize
+52|31952576|너만 너만 너만|양다일|695994|10311744|호텔 델루나 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/103/11/744/10311744_500.jpg/melon/resize/48/quality/80/optimize
+53|31706215|사월이 지나면 우리 헤어져요 (Beautiful goodbye)|첸 (CHEN)|715176|10268441|사월, 그리고 꽃 - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/102/68/441/10268441_500.jpg/melon/resize/48/quality/80/optimize
+54|31899300|비가 내리는 날에는|윤하 (YOUNHA)|203912|10302609|STABLE MINDSET|https://cdnimg.melon.co.kr/cm/album/images/103/02/609/10302609_500.jpg/melon/resize/48/quality/80/optimize
+55|8235260|비|폴킴|752425|2692501|비|https://cdnimg.melon.co.kr/cm/album/images/026/92/501/2692501_500.jpg/melon/resize/48/quality/80/optimize
+56|32021135|바다 (Feat. 기리보이) (Prod. 기리보이)|Woodie Gochild~최엘비 (CHOILB)~BIG Naughty (서동현)~양홍원~Chillin Homie|1866691~787486~2744750~907416~2296594|10323917|쇼미더머니 8 Episode 2|https://cdnimg.melon.co.kr/cm2/album/images/103/23/917/10323917_500.jpg/melon/resize/48/quality/80/optimize
+57|31606729|달라달라|ITZY (있지)|2622030|10250473|IT'z Different|https://cdnimg.melon.co.kr/cm/album/images/102/50/473/10250473_500.jpg/melon/resize/48/quality/80/optimize
+58|30227238|Believer|Imagine Dragons|635412|10035055|Evolve|https://cdnimg.melon.co.kr/cm/album/images/100/35/055/10035055_500.jpg/melon/resize/48/quality/80/optimize
+59|31777113|Goodbye|박효신|1191|10281385|Goodbye|https://cdnimg.melon.co.kr/cm/album/images/102/81/385/10281385_500.jpg/melon/resize/48/quality/80/optimize
+60|31532642|사계 (하루살이)|엠씨더맥스 (M.C the MAX)|161636|10238710|Circular|https://cdnimg.melon.co.kr/cm/album/images/102/38/710/10238710_500.jpg/melon/resize/48/quality/80/optimize
+61|31532656|옥탑방 (Rooftop)|엔플라잉 (N.Flying)|861430|10238711|FLY HIGH PROJECT #2 '옥탑방'|https://cdnimg.melon.co.kr/cm/album/images/102/38/711/10238711_500.jpg/melon/resize/48/quality/80/optimize
+62|31151836|Way Back Home|숀 (SHAUN)|510242|10179508|Take|https://cdnimg.melon.co.kr/cm/album/images/101/79/508/10179508_500.jpg/melon/resize/48/quality/80/optimize
+63|31709523|나만, 봄|볼빨간사춘기|792022|10268898|사춘기집Ⅰ 꽃기운|https://cdnimg.melon.co.kr/cm/album/images/102/68/898/10268898_500.jpg/melon/resize/48/quality/80/optimize
+64|31532438|벌써 12시|청하|968265|10238683|벌써 12시|https://cdnimg.melon.co.kr/cm/album/images/102/38/683/10238683_500.jpg/melon/resize/48/quality/80/optimize
+65|31532643|넘쳐흘러|엠씨더맥스 (M.C the MAX)|161636|10238710|Circular|https://cdnimg.melon.co.kr/cm/album/images/102/38/710/10238710_500.jpg/melon/resize/48/quality/80/optimize
+66|31949142|가라사대|BewhY (비와이)|739740|10267223|The Movie Star|https://cdnimg.melon.co.kr/cm/album/images/102/67/223/10267223_500.jpg/melon/resize/48/quality/80/optimize
+67|32006894|러브 델루나|태용 (TAEYONG)~펀치 (Punch)|926682~749640|10321164|호텔 델루나 OST Part.13|https://cdnimg.melon.co.kr/cm2/album/images/103/21/164/10321164_500.jpg/melon/resize/48/quality/80/optimize
+68|32012744|웃을 때 제일 예뻐|X1 (엑스원)|2743578|10322332|비상 : QUANTUM LEAP|https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/48/quality/80/optimize
+69|30244931|봄날|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+70|8119658|꿈속에 너 (Feat. 전상근)|에이치코드 (H:CODE)|946910|2676167|두 번째 이야기|https://cdnimg.melon.co.kr/cm/album/images/026/76/167/2676167_500.jpg/melon/resize/48/quality/80/optimize
+71|31864770|서울 밤 (feat. 빈지노)|어반자카파|420527|10296510|서울 밤|https://cdnimg.melon.co.kr/cm/album/images/102/96/510/10296510_500.jpg/melon/resize/48/quality/80/optimize
+72|31815962|"A Whole New World (From ""Aladdin""/Soundtrack Version)"|Mena Massoud~Naomi Scott|2644426~541364|10288448|Aladdin (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/48/quality/80/optimize
+73|31835421|대충 입고 나와|우디 (Woody)|673033|10291606|대충 입고 나와|https://cdnimg.melon.co.kr/cm/album/images/102/91/606/10291606_500.jpg/melon/resize/48/quality/80/optimize
+74|31304766|이별하러 가는 길|임한별|471741|10203965|이별하러 가는 길|https://cdnimg.melon.co.kr/cm/album/images/102/03/965/10203965_500.jpg/melon/resize/48/quality/80/optimize
+75|31266290|IDOL|방탄소년단|672375|10197480|LOVE YOURSELF 結 'Answer'|https://cdnimg.melon.co.kr/cm/album/images/101/97/480/10197480_500.jpg/melon/resize/48/quality/80/optimize
+76|31920854|비오는 날 뭐해|하은 (포맨)|2297933|10306224|비오는 날 뭐해|https://cdnimg.melon.co.kr/cm/album/images/103/06/224/10306224_500.jpg/melon/resize/48/quality/80/optimize
+77|31621518|comethru|Jeremy Zucker|1758307|10252905|summer,|https://cdnimg.melon.co.kr/cm/album/images/102/52/905/10252905_500.jpg/melon/resize/48/quality/80/optimize
+78|31717822|Kill This Love|BLACKPINK|995169|10270288|KILL THIS LOVE|https://cdnimg.melon.co.kr/cm/album/images/102/70/288/10270288_500.jpg/melon/resize/48/quality/80/optimize
+79|31890067|비워 (Beer) (Prod. Way Ched)|창모 (CHANGMO)~Hash Swan~ASH ISLAND~김효은~릴러말즈 (Leellamarz)~The Quiett|774900~827434~2112495~1024715~967229~27744|10301186|Dingo X Ambition Musik|https://cdnimg.melon.co.kr/cm/album/images/103/01/186/10301186_500.jpg/melon/resize/48/quality/80/optimize
+80|32012746|U GOT IT (X1 Ver.)|X1 (엑스원)|2743578|10322332|비상 : QUANTUM LEAP|https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/48/quality/80/optimize
+81|31969182|BUNGEE (Fall in Love)|오마이걸 (OH MY GIRL)|857994|10314743|OH MY GIRL SUMMER PACKAGE [FALL IN LOVE]|https://cdnimg.melon.co.kr/cm/album/images/103/14/743/10314743_500.jpg/melon/resize/48/quality/80/optimize
+82|32021136|덜어 (Feat. Kid Milli, 스윙스) (Prod. BOYCOLD)|윤비 (YunB)~김승민~YUNHWAY~도넛맨 (Donutman)|1167572~827322~916309~618913|10323917|쇼미더머니 8 Episode 2|https://cdnimg.melon.co.kr/cm2/album/images/103/23/917/10323917_500.jpg/melon/resize/48/quality/80/optimize
+83|31972338|방에 모기가 있어 (Do You Think Of Me?)|10CM|468244|10315153|방에 모기가 있어 (4.4)|https://cdnimg.melon.co.kr/cm/album/images/103/15/153/10315153_500.jpg/melon/resize/48/quality/80/optimize
+84|31788110|I Don't Care|Ed Sheeran~Justin Bieber|549800~420621|10283461|No.6 Collaborations Project|https://cdnimg.melon.co.kr/cm/album/images/102/83/461/10283461_500.jpg/melon/resize/48/quality/80/optimize
+85|31788828|돈 Call Me (Prod.BRLLNT)|염따|202530|10283605|Dingo X 염따|https://cdnimg.melon.co.kr/cm/album/images/102/83/605/10283605_500.jpg/melon/resize/48/quality/80/optimize
+86|31492319|Love Shot|EXO|724619|10232781|LOVE SHOT - The 5th Album Repackage|https://cdnimg.melon.co.kr/cm/album/images/102/32/781/10232781_500.jpg/melon/resize/48/quality/80/optimize
+87|31917677|UN Village|백현 (BAEKHYUN)|672859|10305581|City Lights - The 1st Mini Album|https://cdnimg.melon.co.kr/cm/album/images/103/05/581/10305581_500.jpg/melon/resize/48/quality/80/optimize
+88|32021137|BAMN (Prod. millic)|펀치넬로 (punchnello)~짱유 (JJANGYOU)~ZENE THE ZILLA~맥대디 (Mckdaddy)|782842~750599~991470~774027|10323917|쇼미더머니 8 Episode 2|https://cdnimg.melon.co.kr/cm2/album/images/103/23/917/10323917_500.jpg/melon/resize/48/quality/80/optimize
+89|32012747|움직여 (MOVE) (Prod. by ZICO) (X1 Ver.)|X1 (엑스원)|2743578|10322332|비상 : QUANTUM LEAP|https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/48/quality/80/optimize
+90|31737198|소우주 (Mikrokosmos)|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+91|32012745|괜찮아요|X1 (엑스원)|2743578|10322332|비상 : QUANTUM LEAP|https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/48/quality/80/optimize
+92|32015259|GOTT (Feat. MOON, 우원재 & Jvcki Wai)|사이먼 도미닉|428847|10322786|화기엄금|https://cdnimg.melon.co.kr/cm2/album/images/103/22/786/10322786_500.jpg/melon/resize/48/quality/80/optimize
+93|31655897|오늘 밤에|홍진영|418700|10259010|Lots of Love|https://cdnimg.melon.co.kr/cm/album/images/102/59/010/10259010_500.jpg/melon/resize/48/quality/80/optimize
+94|32021138|땡땡 (Prod. BOYCOLD)|Lil tachi~TAKUWA~브린 (Bryn)~EK|2635189~1814153~1813845~788904|10323917|쇼미더머니 8 Episode 2|https://cdnimg.melon.co.kr/cm2/album/images/103/23/917/10323917_500.jpg/melon/resize/48/quality/80/optimize
+95|31982782|어떤 별보다|Red Velvet (레드벨벳)|780066|10316783|호텔 델루나 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/103/16/783/10316783_500.jpg/melon/resize/48/quality/80/optimize
+96|31737199|Make It Right|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+97|31399721|Tempo|EXO|724619|10218750|DON'T MESS UP MY TEMPO - The 5th Album|https://cdnimg.melon.co.kr/cm/album/images/102/18/750/10218750_500.jpg/melon/resize/48/quality/80/optimize
+98|31841027|누구 없소 (NO ONE) (Feat. B.I of iKON)|이하이|646171|10292330|24℃|https://cdnimg.melon.co.kr/cm/album/images/102/92/330/10292330_500.jpg/melon/resize/48/quality/80/optimize
+99|32012742|Stand Up (Intro.)|X1 (엑스원)|2743578|10322332|비상 : QUANTUM LEAP|https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/48/quality/80/optimize
+100|31175119|Dance The Night Away|TWICE (트와이스)|905701|10183127|Summer Nights|https://cdnimg.melon.co.kr/cm/album/images/101/83/127/10183127_500.jpg/melon/resize/48/quality/80/optimize

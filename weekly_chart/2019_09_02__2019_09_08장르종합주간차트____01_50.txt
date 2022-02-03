@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|31984204|안녕|폴킴|752425|10317137|호텔 델루나 OST Part.10|https://cdnimg.melon.co.kr/cm2/album/images/103/17/137/10317137_500.jpg/melon/resize/48/quality/80/optimize
+2|31967064|기억해줘요 내 모든 날과 그때를|거미|30358|10314289|호텔 델루나 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/103/14/289/10314289_500.jpg/melon/resize/48/quality/80/optimize
+3|31853557|오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)|마크툽 (MAKTUB)|566431|10294603|Red Moon : To You My Light|https://cdnimg.melon.co.kr/cm/album/images/102/94/603/10294603_500.jpg/melon/resize/48/quality/80/optimize
+4|32028531|헤어지자 (Prod. 정키)|휘인 (Whee In)|756533|10325421|soar|https://cdnimg.melon.co.kr/cm2/album/images/103/25/421/10325421_500.jpg/melon/resize/48/quality/80/optimize
+5|31938460|그대라는 시|태연 (TAEYEON)|236797|10309213|호텔 델루나 OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/103/09/213/10309213_500.jpg/melon/resize/48/quality/80/optimize
+6|31993173|Done For Me|펀치 (Punch)|749640|10318623|호텔 델루나 OST Part.12|https://cdnimg.melon.co.kr/cm2/album/images/103/18/623/10318623_500.jpg/melon/resize/48/quality/80/optimize
+7|31703498|시든 꽃에 물을 주듯|HYNN (박혜원)|1229685|10267986|시든 꽃에 물을 주듯|https://cdnimg.melon.co.kr/cm/album/images/102/67/986/10267986_500.jpg/melon/resize/48/quality/80/optimize
+8|32014102|나빠(NAPPA)|Crush|674710|10322578|나빠(NAPPA)|https://cdnimg.melon.co.kr/cm2/album/images/103/22/578/10322578_500.jpg/melon/resize/48/quality/80/optimize
+9|31788850|니 소식|송하예|722098|10283614|니 소식|https://cdnimg.melon.co.kr/cm/album/images/102/83/614/10283614_500.jpg/melon/resize/48/quality/80/optimize
+10|31873020|포장마차|황인욱|1865473|10298014|포장마차|https://cdnimg.melon.co.kr/cm/album/images/102/98/014/10298014_500.jpg/melon/resize/48/quality/80/optimize
+11|31983112|내 목소리 들리니|벤|655051|10316828|호텔 델루나 OST Part.9|https://cdnimg.melon.co.kr/cm/album/images/103/16/828/10316828_500.jpg/melon/resize/48/quality/80/optimize
+12|31870517|술이 문제야|장혜진~윤민수(바이브)|5675~151315|10297571|술이 문제야|https://cdnimg.melon.co.kr/cm/album/images/102/97/571/10297571_500.jpg/melon/resize/48/quality/80/optimize
+13|32012356|날라리 (LALALAY)|선미|22938|10322222|날라리 (LALALAY)|https://cdnimg.melon.co.kr/cm2/album/images/103/22/222/10322222_500.jpg/melon/resize/48/quality/80/optimize
+14|31952592|내 맘을 볼 수 있나요|헤이즈 (Heize)|751611|10311752|호텔 델루나 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/103/11/752/10311752_500.jpg/melon/resize/48/quality/80/optimize
+15|31029291|2002|Anne-Marie|870307|10137250|Speak Your Mind (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/101/37/250/10137250_500.jpg/melon/resize/48/quality/80/optimize
+16|31901475|헤어져줘서 고마워|벤|655051|10302879|헤어져줘서 고마워|https://cdnimg.melon.co.kr/cm/album/images/103/02/879/10302879_500.jpg/melon/resize/48/quality/80/optimize
+17|31324607|사랑에 연습이 있었다면 (Prod. 2soo)|임재현|2087273|10207131|사랑에 연습이 있었다면|https://cdnimg.melon.co.kr/cm/album/images/102/07/131/10207131_500.jpg/melon/resize/48/quality/80/optimize
+18|32031043|가을밤 떠난 너|케이시 (Kassy)|858125|10325945|Rewind|https://cdnimg.melon.co.kr/cm2/album/images/103/25/945/10325945_500.jpg/melon/resize/48/quality/80/optimize
+19|31938046|나의 어깨에 기대어요|10CM|468244|10309152|호텔 델루나 OST Part.2|https://cdnimg.melon.co.kr/cm/album/images/103/09/152/10309152_500.jpg/melon/resize/48/quality/80/optimize
+20|31701428|bad guy|Billie Eilish|1239008|10267565|WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?|https://cdnimg.melon.co.kr/cm/album/images/102/67/565/10267565_500.jpg/melon/resize/48/quality/80/optimize
+21|31829536|사랑이 식었다고 말해도 돼|먼데이 키즈 (Monday Kiz)|175155|10290621|사랑이 식었다고 말해도 돼|https://cdnimg.melon.co.kr/cm/album/images/102/90/621/10290621_500.jpg/melon/resize/48/quality/80/optimize
+22|31877297|Señorita|Shawn Mendes~Camila Cabello|776533~928017|10298832|Señorita|https://cdnimg.melon.co.kr/cm/album/images/102/98/832/10298832_500.jpg/melon/resize/48/quality/80/optimize
+23|31955739|ICY|ITZY (있지)|2622030|10312251|IT'z ICY|https://cdnimg.melon.co.kr/cm/album/images/103/12/251/10312251_500.jpg/melon/resize/48/quality/80/optimize
+24|31854442|솔직하게 말해서 나|김나영|735094|10294763|솔직하게 말해서 나|https://cdnimg.melon.co.kr/cm/album/images/102/94/763/10294763_500.jpg/melon/resize/48/quality/80/optimize
+25|31737197|작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)|방탄소년단|672375|10273641|MAP OF THE SOUL : PERSONA|https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/48/quality/80/optimize
+26|31924110|Another Day|먼데이 키즈 (Monday Kiz)~펀치 (Punch)|175155~749640|10306744|호텔 델루나 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/103/06/744/10306744_500.jpg/melon/resize/48/quality/80/optimize
+27|31815967|"Speechless (Full) (From ""Aladdin""/Soundtrack Version)"|Naomi Scott|541364|10288448|Aladdin (Original Motion Picture Soundtrack)|https://cdnimg.melon.co.kr/cm/album/images/102/88/448/10288448_500.jpg/melon/resize/48/quality/80/optimize
+28|32021744|다시 만날까 봐|V.O.S|108794|10324004|다시 만날까 봐|https://cdnimg.melon.co.kr/cm2/album/images/103/24/004/10324004_500.jpg/melon/resize/48/quality/80/optimize
+29|32003395|흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야|장범준|648551|10320500|멜로가 체질 OST Part 3|https://cdnimg.melon.co.kr/cm2/album/images/103/20/500/10320500_500.jpg/melon/resize/48/quality/80/optimize
+30|31998495|음파음파 (Umpah Umpah)|Red Velvet (레드벨벳)|780066|10319561|‘The ReVe Festival’ Day 2|https://cdnimg.melon.co.kr/cm2/album/images/103/19/561/10319561_500.jpg/melon/resize/48/quality/80/optimize
+31|31854689|19금 BAND|창모 (CHANGMO)~Hash Swan~ASH ISLAND~김효은|774900~827434~2112495~1024715|10294820|BAND|https://cdnimg.melon.co.kr/cm/album/images/102/94/820/10294820_500.jpg/melon/resize/48/quality/80/optimize
+32|31914848|인사|멜로망스|839732|10305070|인사|https://cdnimg.melon.co.kr/cm/album/images/103/05/070/10305070_500.jpg/melon/resize/48/quality/80/optimize
+33|30962526|모든 날, 모든 순간 (Every day, Every Moment)|폴킴|752425|10149492|'키스 먼저 할까요?' OST Part.3|https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/48/quality/80/optimize
+34|32012743|FLASH|X1 (엑스원)|2743578|10322332|비상 : QUANTUM LEAP|https://cdnimg.melon.co.kr/cm2/album/images/103/22/332/10322332_500.jpg/melon/resize/48/quality/80/optimize
+35|31804010|너에게 못했던 내 마지막 말은|다비치|236815|10286309|너에게 못했던 내 마지막 말은|https://cdnimg.melon.co.kr/cm/album/images/102/86/309/10286309_500.jpg/melon/resize/48/quality/80/optimize
+36|31879867|Snapping|청하|968265|10299371|Flourishing|https://cdnimg.melon.co.kr/cm/album/images/102/99/371/10299371_500.jpg/melon/resize/48/quality/80/optimize
+37|32006650|벗|닐로(Nilo)|896096|10321104|벗|https://cdnimg.melon.co.kr/cm2/album/images/103/21/104/10321104_500.jpg/melon/resize/48/quality/80/optimize
+38|32006890|담아 (Feat. 염따, pH-1) (Prod. BOYCOLD)|스윙스~Kid Milli~매드클라운|236970~873162~219621|10321162|쇼미더머니 8 Episode 1|https://cdnimg.melon.co.kr/cm2/album/images/103/21/162/10321162_500.jpg/melon/resize/48/quality/80/optimize
+39|31929663|내 안부|이우|2400004|10307772|내 안부|https://cdnimg.melon.co.kr/cm/album/images/103/07/772/10307772_500.jpg/melon/resize/48/quality/80/optimize
+40|31388145|너를 만나|폴킴|752425|10217134|너를 만나|https://cdnimg.melon.co.kr/cm/album/images/102/17/134/10217134_500.jpg/melon/resize/48/quality/80/optimize
+41|31524320|그때가 좋았어|케이시 (Kassy)|858125|10237420|그때가 좋았어|https://cdnimg.melon.co.kr/cm/album/images/102/37/420/10237420_500.jpg/melon/resize/48/quality/80/optimize
+42|31688205|사계 (Four Seasons)|태연 (TAEYEON)|236797|10265079|사계 (Four Seasons)|https://cdnimg.melon.co.kr/cm/album/images/102/65/079/10265079_500.jpg/melon/resize/48/quality/80/optimize
+43|31967092|그 끝에 그대|청하|968265|10314298|호텔 델루나 OST Part.6|https://cdnimg.melon.co.kr/cm/album/images/103/14/298/10314298_500.jpg/melon/resize/48/quality/80/optimize
+44|31908033|We don't talk together (Feat. 기리보이) (Prod. SUGA)|헤이즈 (Heize)|751611|10303989|We don't talk together|https://cdnimg.melon.co.kr/cm/album/images/103/03/989/10303989_500.jpg/melon/resize/48/quality/80/optimize
+45|31684636|노래방에서|장범준|648551|10264375|장범준 3집|https://cdnimg.melon.co.kr/cm/album/images/102/64/375/10264375_500.jpg/melon/resize/48/quality/80/optimize
+46|31341518|Paris In The Rain|Lauv|1956543|10209752|I met you when I was 18. (the playlist)|https://cdnimg.melon.co.kr/cm/album/images/102/09/752/10209752_500.jpg/melon/resize/48/quality/80/optimize
+47|31856628|아퍼 (Feat. Kid Milli, Lil tachi, 김승민, NO:EL, C JAMM)|기리보이|585492|10295207|100년제전문대학|https://cdnimg.melon.co.kr/cm/album/images/102/95/207/10295207_500.jpg/melon/resize/48/quality/80/optimize
+48|31993356|Say Goodbye|송하예|722098|10318657|호텔 델루나 OST Part.11|https://cdnimg.melon.co.kr/cm2/album/images/103/18/657/10318657_500.jpg/melon/resize/48/quality/80/optimize
+49|31666417|주저하는 연인들을 위해|잔나비|772253|10260858|전설|https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/48/quality/80/optimize
+50|31754579|FANCY|TWICE (트와이스)|905701|10276861|FANCY YOU|https://cdnimg.melon.co.kr/cm/album/images/102/76/861/10276861_500.jpg/melon/resize/48/quality/80/optimize

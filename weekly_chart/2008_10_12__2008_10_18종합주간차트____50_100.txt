@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1939100|Rainism (Clean Ver.)|비|17671|398518|Rainism|https://cdnimg.melon.co.kr/cm/album/images/003/98/518/398518_500.jpg/melon/resize/48/quality/80/optimize
+52|1912290|Kiss|김건모|889|392154|Soul Groove|https://cdnimg.melon.co.kr/cm/album/images/003/92/154/392154_500.jpg/melon/resize/48/quality/80/optimize
+53|1935736|I Know|SHY (손호영)|1580|398638|Returns|https://cdnimg.melon.co.kr/cm/album/images/003/98/638/398638_500.jpg/melon/resize/48/quality/80/optimize
+54|1874996|나만 바라봐|태양|247621|382070|Hot|https://cdnimg.melon.co.kr/cm/album/images/003/82/070/382070_500.jpg/melon/resize/48/quality/80/optimize
+55|1922756|흔적|BGH4|197310|396254|Missing You|https://cdnimg.melon.co.kr/cm/album/images/003/96/254/396254_500.jpg/melon/resize/48/quality/80/optimize
+56|1931406|가니 (Feat. SG워너비 (김용준), 황정음, Mario)|씨야|181679|398227|Brilliant Change|https://cdnimg.melon.co.kr/cm/album/images/003/98/227/398227_500.jpg/melon/resize/48/quality/80/optimize
+57|1888678|에너지 (Feat. 선예)|마이티 마우스|239366|385653|Energy|https://cdnimg.melon.co.kr/cm/album/images/003/85/653/385653_500.jpg/melon/resize/48/quality/80/optimize
+58|1929324|미아|아이유|261143|398025|Lost And Found|https://cdnimg.melon.co.kr/cm/album/images/003/98/025/398025_500.jpg/melon/resize/48/quality/80/optimize
+59|1904668|사랑같은건 없나봐 (우리 결혼했어요 삽입곡)|가비엔제이|174997|390067|사랑같은건 없나봐|https://cdnimg.melon.co.kr/cm/album/images/003/90/067/390067_500.jpg/melon/resize/48/quality/80/optimize
+60|1897284|D.I.S.C.O (Feat. TOP)|엄정화|1100|388658|D.I.S.C.O|https://cdnimg.melon.co.kr/cm/album/images/003/88/658/388658_500.jpg/melon/resize/48/quality/80/optimize
+61|1935300|First Kiss|포맨 (4MEN)|100176|398596|First Kiss|https://cdnimg.melon.co.kr/cm/album/images/003/98/596/398596_500.jpg/melon/resize/48/quality/80/optimize
+62|1937141|Tell It To My Heart (Feat. 엄정화)|YMGA|261599|398752|Made In R.O.K (Mini Album)|https://cdnimg.melon.co.kr/cm/album/images/003/98/752/398752_500.jpg/melon/resize/48/quality/80/optimize
+63|1841036|발자국|먼데이 키즈 (Monday Kiz)|175155|374973|Inside Story|https://cdnimg.melon.co.kr/cm/album/images/003/74/973/374973_500.jpg/melon/resize/48/quality/80/optimize
+64|1927782|전국민 러브송 (Feat. MC몽, 유리 Of Cool)|박장근|261069|397863|장근이의 전국민 러브송 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/97/863/397863_500.jpg/melon/resize/48/quality/80/optimize
+65|-1|Womanizer|Britney Spears|8046|398546|Womanizer (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/98/546/398546_500.jpg/melon/resize/48/quality/80/optimize
+66|1927919|헤어질 땐 말없이|김동희|25890|397879|Halfway|https://cdnimg.melon.co.kr/cm/album/images/003/97/879/397879_500.jpg/melon/resize/48/quality/80/optimize
+67|1914694|운명을 거슬러|SG 워너비~김종욱|108363~4388|393023|에덴의 동쪽 OST|https://cdnimg.melon.co.kr/cm/album/images/003/93/023/393023_500.jpg/melon/resize/48/quality/80/optimize
+68|1931649|Love In The Ice|동방신기 (TVXQ!)|108316|397972|The Fourth Album 'MIROTIC'|https://cdnimg.melon.co.kr/cm/album/images/003/97/972/397972_500.jpg/melon/resize/48/quality/80/optimize
+69|1931934|You (대단한 우연)|스윗소로우 (SWEET SORROW)|175203|398277|Sweet Sorrow|https://cdnimg.melon.co.kr/cm/album/images/003/98/277/398277_500.jpg/melon/resize/48/quality/80/optimize
+70|1923387|윤은혜 샐러드송 (샐러드기념일) '지펠 CF'|윤은혜~이동건|1639~924|396312|샐러드 기념일|https://cdnimg.melon.co.kr/cm/album/images/003/96/312/396312_500.jpg/melon/resize/48/quality/80/optimize
+71|1937486|굿데이 (Goodday) 시즌 2|카라|222128|398788|굿데이 시즌 2 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/98/788/398788_500.jpg/melon/resize/48/quality/80/optimize
+72|1933310|괜찮아|낯선|261429|398406|괜찮아|https://cdnimg.melon.co.kr/cm/album/images/003/98/406/398406_500.jpg/melon/resize/48/quality/80/optimize
+73|1917571|Solo (Feat. Alex)|다이나믹 듀오|108358|392969|Last Days|https://cdnimg.melon.co.kr/cm/album/images/003/92/969/392969_500.jpg/melon/resize/48/quality/80/optimize
+74|1923550|미안해, 고마워, 사랑해|먼데이 키즈 (Monday Kiz)|175155|396351|Recollection|https://cdnimg.melon.co.kr/cm/album/images/003/96/351/396351_500.jpg/melon/resize/48/quality/80/optimize
+75|1928578|Mad (Album Version)|Ne-Yo|181769|397949|Year Of The Gentleman|https://cdnimg.melon.co.kr/cm/album/images/003/97/949/397949_500.jpg/melon/resize/48/quality/80/optimize
+76|1932254|그대 나를 보나요|박기영|908|398313|Acoustic+ Best|https://cdnimg.melon.co.kr/cm/album/images/003/98/313/398313_500.jpg/melon/resize/48/quality/80/optimize
+77|1902386|그대만 보여요 (Feat. BigBang T.O.P)|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+78|1930555|미정 (美晶)|가비 퀸즈|231538|398122|To The Heart|https://cdnimg.melon.co.kr/cm/album/images/003/98/122/398122_500.jpg/melon/resize/48/quality/80/optimize
+79|1926168|19금 Do It Do It (Feat. Maniac)|솔비|227228|397408|Do It|https://cdnimg.melon.co.kr/cm/album/images/003/97/408/397408_500.jpg/melon/resize/48/quality/80/optimize
+80|1798588|만약에|태연 (TAEYEON)|236797|366925|쾌도 홍길동 OST|https://cdnimg.melon.co.kr/cm/album/images/003/66/925/366925_500.jpg/melon/resize/48/quality/80/optimize
+81|1883639|No.3 (Feat. Sol Flower)|배치기|101886|382829|Out Of Control|https://cdnimg.melon.co.kr/cm/album/images/003/82/829/382829_500.jpg/melon/resize/48/quality/80/optimize
+82|1911466|우리들의 행복한 시간 (Feat. 주(Joo) Narr. 안혜경)|미노 (프리스타일)~타우|428828~255466|391552|The First Songs For You To Remember Our Happy Days|https://cdnimg.melon.co.kr/cm/album/images/003/91/552/391552_500.jpg/melon/resize/48/quality/80/optimize
+83|1884329|안녕 나의 사랑|성시경|3305|382892|여기, 내 맘속에...|https://cdnimg.melon.co.kr/cm/album/images/003/82/892/382892_500.jpg/melon/resize/48/quality/80/optimize
+84|1917233|투명인간|손담비|226582|394375|투명인간|https://cdnimg.melon.co.kr/cm/album/images/003/94/375/394375_500.jpg/melon/resize/48/quality/80/optimize
+85|1902382|난 행복해|지아|227595|389107|로드무비|https://cdnimg.melon.co.kr/cm/album/images/003/89/107/389107_500.jpg/melon/resize/48/quality/80/optimize
+86|1937847|사랑한다 말하면|고유비|42220|398816|사랑한다 말하면 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/98/816/398816_500.jpg/melon/resize/48/quality/80/optimize
+87|1933707|Reason (Male Ver.)|바비 킴|6027|398447|타짜 OST|https://cdnimg.melon.co.kr/cm/album/images/003/98/447/398447_500.jpg/melon/resize/48/quality/80/optimize
+88|1867570|반쪽|V.O.S|108794|379407|Wonderful Things|https://cdnimg.melon.co.kr/cm/album/images/003/79/407/379407_500.jpg/melon/resize/48/quality/80/optimize
+89|1854856|라라라|SG 워너비|108363|376502|My Friend|https://cdnimg.melon.co.kr/cm/album/images/003/76/502/376502_500.jpg/melon/resize/48/quality/80/optimize
+90|1940012|병원에 가다 (이별..) (Song By 민경)|다비치|236815|399019|병원에 가다|https://cdnimg.melon.co.kr/cm/album/images/003/99/019/399019_500.jpg/melon/resize/48/quality/80/optimize
+91|1924483|상심증후군 (Feat.Daylight)|노블레스~Daylight|160738~27784|397154|Broken Heart Syndrome|https://cdnimg.melon.co.kr/cm/album/images/003/97/154/397154_500.jpg/melon/resize/48/quality/80/optimize
+92|1931596|Nobody (Rainstone Remix)|원더걸스|217764|398026|The Wonder Years - Trilogy|https://cdnimg.melon.co.kr/cm/album/images/003/98/026/398026_500.jpg/melon/resize/48/quality/80/optimize
+93|1928758|애심 (愛心)|거미|30358|397965|신의 저울 OST|https://cdnimg.melon.co.kr/cm/album/images/003/97/965/397965_500.jpg/melon/resize/48/quality/80/optimize
+94|1930710|사랑은 너 하나뿐 (Feat. 지오, 쇼군)|애즈원|100093|398140|사랑은 너 하나뿐|https://cdnimg.melon.co.kr/cm/album/images/003/98/140/398140_500.jpg/melon/resize/48/quality/80/optimize
+95|1908552|Moai|서태지|1868|390452|Seotaiji 8th Atomos Part Moai|https://cdnimg.melon.co.kr/cm/album/images/003/90/452/390452_500.jpg/melon/resize/48/quality/80/optimize
+96|-1|Miss Independent|Ne-Yo|181769|394860|Miss Independent|https://cdnimg.melon.co.kr/cm/album/images/003/94/860/394860_500.jpg/melon/resize/48/quality/80/optimize
+97|1934586|모닝 스타 (Album Ver.) (영화 '아내가 결혼했다' 뮤직비디오 삽입곡)|요조|232828|398529|모닝 스타|https://cdnimg.melon.co.kr/cm/album/images/003/98/529/398529_500.jpg/melon/resize/48/quality/80/optimize
+98|1936754|질주|김경호|895|398720|질주|https://cdnimg.melon.co.kr/cm/album/images/003/98/720/398720_500.jpg/melon/resize/48/quality/80/optimize
+99|1939569|살아서도.. 죽어서도..|휘성 (Realslow)|10577|398971|바람의 나라 OST|https://cdnimg.melon.co.kr/cm/album/images/003/98/971/398971_500.jpg/melon/resize/48/quality/80/optimize
+100|1867568|Beautiful Life|V.O.S|108794|379407|Wonderful Things|https://cdnimg.melon.co.kr/cm/album/images/003/79/407/379407_500.jpg/melon/resize/48/quality/80/optimize

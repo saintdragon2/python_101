@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+1|622912|헤어지자고 (MBC 슬픈연가 삽입곡)|윤건|14801|43532|Now Is.. 2집|https://cdnimg.melon.co.kr/cm/album/images/000/43/532/43532_500.jpg/melon/resize/48/quality/80/optimize
+2|623250|보통날|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+3|622082|雪の華 / Yukino Hana (박효신 '눈의 꽃' 원곡)|Nakashima Mika|52974|42298|Love|https://cdnimg.melon.co.kr/cm/album/images/000/42/298/42298_500.jpg/melon/resize/48/quality/80/optimize
+4|622649|전화번호|지누션|100054|43465|노.라.보.세. 4집|https://cdnimg.melon.co.kr/cm/album/images/000/43/465/43465_500.jpg/melon/resize/48/quality/80/optimize
+5|600126|I Do|비|17671|42127|It's Raining|https://cdnimg.melon.co.kr/cm/album/images/000/42/127/42127_500.jpg/melon/resize/48/quality/80/optimize
+6|537210|은영이에게|KCM|45995|35465|Beautiful Mind|https://cdnimg.melon.co.kr/cm/album/images/000/35/465/35465_500.jpg/melon/resize/48/quality/80/optimize
+7|602014|불치병 (Feat. Masta Wu)|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+8|623902|눈의 꽃|박효신|1191|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+9|623157|빙고|코요태|100022|43648|Rainbow 7집|https://cdnimg.melon.co.kr/cm/album/images/000/43/648/43648_500.jpg/melon/resize/48/quality/80/optimize
+10|601387|눈을 뜨면|투데이|160987|41186|Another Level|https://cdnimg.melon.co.kr/cm/album/images/000/41/186/41186_500.jpg/melon/resize/48/quality/80/optimize
+11|622778|수사반장|DJ DOC|100005|43512|Love & Sex, Happiness 6집|https://cdnimg.melon.co.kr/cm/album/images/000/43/512/43512_500.jpg/melon/resize/48/quality/80/optimize
+12|600630|사랑은 가질 수 없을 때 더 아름답다|토니 안|1586|40707|Believe|https://cdnimg.melon.co.kr/cm/album/images/000/40/707/40707_500.jpg/melon/resize/48/quality/80/optimize
+13|622662|얼마나|거북이|101463|43466|Turtles 3집|https://cdnimg.melon.co.kr/cm/album/images/000/43/466/43466_500.jpg/melon/resize/48/quality/80/optimize
+14|623485|친구|U|181222|43742|유리화 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/742/43742_500.jpg/melon/resize/48/quality/80/optimize
+15|601846|My Prerogative (라네즈 슬라이딩 팩트 CF 전지현편)|Britney Spears|8046|41985|Greatest Hits : My Prerogative|https://cdnimg.melon.co.kr/cm/album/images/000/41/985/41985_500.jpg/melon/resize/48/quality/80/optimize
+17|623903|처음 그때로|정재욱|7839|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+18|623909|소중한 사람|김성필|60143|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+19|623484|유리화 I (Inst.)|Various Artists|-1|43742|유리화 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/742/43742_500.jpg/melon/resize/48/quality/80/optimize
+20|602461|일생을 (Remake)|휘성 (Realslow)|10577|41866|For The Moment|https://cdnimg.melon.co.kr/cm/album/images/000/41/866/41866_500.jpg/melon/resize/48/quality/80/optimize
+21|619497|한번만...|혜령|32201|40847|아침보다 이른 이별 2집|https://cdnimg.melon.co.kr/cm/album/images/000/40/847/40847_500.jpg/melon/resize/48/quality/80/optimize
+22|602126|하하하쏭|자우림|100094|41331|All You Need Is Love 5집|https://cdnimg.melon.co.kr/cm/album/images/000/41/331/41331_500.jpg/melon/resize/48/quality/80/optimize
+23|600942|It's Raining|비|17671|42127|It's Raining|https://cdnimg.melon.co.kr/cm/album/images/000/42/127/42127_500.jpg/melon/resize/48/quality/80/optimize
+24|537750|기억상실|거미|30358|35501|It's Different|https://cdnimg.melon.co.kr/cm/album/images/000/35/501/35501_500.jpg/melon/resize/48/quality/80/optimize
+25|622742|어머나!|장윤정|22836|43509|장윤정 - 어머나 !|https://cdnimg.melon.co.kr/cm/album/images/000/43/509/43509_500.jpg/melon/resize/48/quality/80/optimize
+26|623246|헤어지지 말자|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+27|539779|Eyes|바다 (BADA)|1605|35659|Aurora|https://cdnimg.melon.co.kr/cm/album/images/000/35/659/35659_500.jpg/melon/resize/48/quality/80/optimize
+28|623239|자유|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+29|623241|반대가 끌리는 이유|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+30|537208|흑백사진|KCM|45995|35465|Beautiful Mind|https://cdnimg.melon.co.kr/cm/album/images/000/35/465/35465_500.jpg/melon/resize/48/quality/80/optimize
+31|519603|비밀|Daylight|27784|34288|Daylight First Album|https://cdnimg.melon.co.kr/cm/album/images/000/34/288/34288_500.jpg/melon/resize/48/quality/80/optimize
+32|537749|날 그만 잊어요|거미|30358|35501|It's Different|https://cdnimg.melon.co.kr/cm/album/images/000/35/501/35501_500.jpg/melon/resize/48/quality/80/optimize
+33|536962|The Story|SG 워너비|108363|35448|매직 OST|https://cdnimg.melon.co.kr/cm/album/images/000/35/448/35448_500.jpg/melon/resize/48/quality/80/optimize
+34|601790|하루가 지나고|JNC|160801|43082|The New History Begins... 1집|https://cdnimg.melon.co.kr/cm/album/images/000/43/082/43082_500.jpg/melon/resize/48/quality/80/optimize
+35|521715|그 흔한 남자여서|박효신|1191|34418|Soul Tree|https://cdnimg.melon.co.kr/cm/album/images/000/34/418/34418_500.jpg/melon/resize/48/quality/80/optimize
+36|530124|삭제|이승기|58793|34984|나방의 꿈|https://cdnimg.melon.co.kr/cm/album/images/000/34/984/34984_500.jpg/melon/resize/48/quality/80/optimize
+37|623251|약속(Narration 강경헌)|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+38|601836|허락되지 않은 사랑|이현우|1176|40843|아일랜드 OST|https://cdnimg.melon.co.kr/cm/album/images/000/40/843/40843_500.jpg/melon/resize/48/quality/80/optimize
+39|623240|사랑의 동그라미|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+40|623238|사랑이 전부였던 날|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+41|623243|Loving You|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+42|536359|Want You Hear|러브홀릭|106718|35404|Invisible Things|https://cdnimg.melon.co.kr/cm/album/images/000/35/404/35404_500.jpg/melon/resize/48/quality/80/optimize
+43|623242|익숙한 낯선 사람|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+44|623244|Tonight|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+45|600207|심장병|이승환|26|42191|Karma|https://cdnimg.melon.co.kr/cm/album/images/000/42/191/42191_500.jpg/melon/resize/48/quality/80/optimize
+46|623248|헤어짐보다 아픈 그리움|god|100007|43691|보통날|https://cdnimg.melon.co.kr/cm/album/images/000/43/691/43691_500.jpg/melon/resize/48/quality/80/optimize
+47|533259|Don't Push Me|Sweetbox|100060|35195|Jade|https://cdnimg.melon.co.kr/cm/album/images/000/35/195/35195_500.jpg/melon/resize/48/quality/80/optimize
+48|623904|가슴에 누가 살아요|제이|1203|43841|미안하다 사랑한다 OST|https://cdnimg.melon.co.kr/cm/album/images/000/43/841/43841_500.jpg/melon/resize/48/quality/80/optimize
+49|622764|위대한 유산|애즈원|100093|43511|Restoration 4집|https://cdnimg.melon.co.kr/cm/album/images/000/43/511/43511_500.jpg/melon/resize/48/quality/80/optimize
+50|623141|She Loves You|클래지콰이|107725|43611|Clazziquai Project Remix 'ZBAM'|https://cdnimg.melon.co.kr/cm/album/images/000/43/611/43611_500.jpg/melon/resize/48/quality/80/optimize
+51|503279|Milkshake|Kelis|33722|33472|Tasty|https://cdnimg.melon.co.kr/cm/album/images/000/33/472/33472_500.jpg/melon/resize/48/quality/80/optimize

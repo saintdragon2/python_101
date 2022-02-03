@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|4583483|얼음들|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+52|4478188|너 아님 안돼|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+53|4646570|꽃|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+54|4400561|짧은 치마 (Miniskirt)|AOA|686920|2226803|짧은 치마|https://cdnimg.melon.co.kr/cm/album/images/022/26/803/2226803_500.jpg/melon/resize/48/quality/80/optimize
+55|4654324|지금 술 한잔 했어|김보경 (NEON)~펀치 (Punch)|60829~749640|2257340|지금 술 한잔 했어|https://cdnimg.melon.co.kr/cm/album/images/022/57/340/2257340_500.jpg/melon/resize/48/quality/80/optimize
+56|4478191|멘붕 (CL Solo)|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+57|4446485|너의 모든 순간|성시경|3305|2232505|별에서 온 그대 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/48/quality/80/optimize
+58|4572941|가끔|Crush|674710|2247858|가끔|https://cdnimg.melon.co.kr/cm/album/images/022/47/858/2247858_500.jpg/melon/resize/48/quality/80/optimize
+59|-1|가족사진|김진호 (SG워너비)|259768|2257775|불후의 명곡 - 전설을 노래하다 (가족 특집)|https://cdnimg.melon.co.kr/cm/album/images/022/57/775/2257775_500.jpg/melon/resize/48/quality/80/optimize
+60|3726617|자니 (Feat. Dynamic Duo)|프라이머리|35682|2089047|자니|https://cdnimg.melon.co.kr/cm/album/images/020/89/047/2089047_500.jpg/melon/resize/48/quality/80/optimize
+61|4381724|그대가 분다|엠씨더맥스 (M.C the MAX)|161636|2224057|UNVEILING|https://cdnimg.melon.co.kr/cm/album/images/022/24/057/2224057_500.jpg/melon/resize/48/quality/80/optimize
+62|4383773|Something|걸스데이|482762|2224342|걸스데이 미니앨범 3집|https://cdnimg.melon.co.kr/cm/album/images/022/24/342/2224342_500.jpg/melon/resize/48/quality/80/optimize
+63|4478189|살아 봤으면 해|2NE1|406712|2236445|CRUSH|https://cdnimg.melon.co.kr/cm/album/images/022/36/445/2236445_500.jpg/melon/resize/48/quality/80/optimize
+64|4641331|예쁘니까 잘 될 거야|포맨 (4MEN)|100176|2255824|4MEN The 5th Album (1998)|https://cdnimg.melon.co.kr/cm/album/images/022/55/824/2255824_500.jpg/melon/resize/48/quality/80/optimize
+65|4641392|하루하루|에일리(Ailee)|629831|2255834|트라이앵글 OST Part.1|https://cdnimg.melon.co.kr/cm/album/images/022/55/834/2255834_500.jpg/melon/resize/48/quality/80/optimize
+66|4663033|Move (Feat. 박경 Of 블락비)|김연우|6017|2258268|Move|https://cdnimg.melon.co.kr/cm/album/images/022/58/268/2258268_500.jpg/melon/resize/48/quality/80/optimize
+67|4640746|Love Never Felt So Good|Michael Jackson|7800|2255727|Xscape (Standard Ver.)|https://cdnimg.melon.co.kr/cm/album/images/022/55/727/2255727_500.jpg/melon/resize/48/quality/80/optimize
+68|4516940|오늘 뭐해|4minute|417985|2241591|4MINUTE WORLD|https://cdnimg.melon.co.kr/cm/album/images/022/41/591/2241591_500.jpg/melon/resize/48/quality/80/optimize
+69|4649656|거짓말 같다|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+70|4665158|달리 함께|정준영~윤하 (YOUNHA)|25869~203912|2258507|달리 함께|https://cdnimg.melon.co.kr/cm/album/images/022/58/507/2258507_500.jpg/melon/resize/48/quality/80/optimize
+71|4454382|보름달 (Feat. Lena)|선미|22938|2233456|Full Moon|https://cdnimg.melon.co.kr/cm/album/images/022/33/456/2233456_500.jpg/melon/resize/48/quality/80/optimize
+72|4646588|꿍따리 샤바라 (Feat. 클론)|아이유|261143|2256290|꽃갈피|https://cdnimg.melon.co.kr/cm/album/images/022/56/290/2256290_500.jpg/melon/resize/48/quality/80/optimize
+73|4585736|Bad (Feat. Vassy) (Radio Edit)|David Guetta~Showtek|182123~243157|2249404|Bad (Feat. Vassy) (Radio Edit)|https://cdnimg.melon.co.kr/cm/album/images/022/49/404/2249404_500.jpg/melon/resize/48/quality/80/optimize
+74|4656743|밀어서 잠금해제|김그림|499462|2257604|밀어서 잠금해제|https://cdnimg.melon.co.kr/cm/album/images/022/57/604/2257604_500.jpg/melon/resize/48/quality/80/optimize
+75|4193337|으르렁 (Growl)|EXO|724619|2195303|The 1st Album 'XOXO' Repackage|https://cdnimg.melon.co.kr/cm/album/images/021/95/303/2195303_500.jpg/melon/resize/48/quality/80/optimize
+76|4660785|Love Someone|Jason Mraz|50775|2258025|Love Someone|https://cdnimg.melon.co.kr/cm/album/images/022/58/025/2258025_500.jpg/melon/resize/48/quality/80/optimize
+77|4649654|알 수 없는 이별 (Feat. 김나영)|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+78|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+79|3893169|홀로 (Feat. 김나영)|정키|570731|2148411|Break Up|https://cdnimg.melon.co.kr/cm/album/images/021/48/411/2148411_500.jpg/melon/resize/48/quality/80/optimize
+80|4622988|뭘해도 예쁜걸|길구봉구|500421|2253475|뭘해도 예쁜걸|https://cdnimg.melon.co.kr/cm/album/images/022/53/475/2253475_500.jpg/melon/resize/48/quality/80/optimize
+81|4383349|노래가 늘었어|에일리(Ailee)|629831|2224293|노래가 늘었어|https://cdnimg.melon.co.kr/cm/album/images/022/24/293/2224293_500.jpg/melon/resize/48/quality/80/optimize
+82|3808189|Call You Mine (Feat. Geologic Of The Blue Scholars)|Jeff Bernat|673152|2124668|The Gentleman Approach|https://cdnimg.melon.co.kr/cm/album/images/021/24/668/2124668_500.jpg/melon/resize/48/quality/80/optimize
+83|4630259|내게 남은 세가지|백아연|646173|2254354|엔젤아이즈 OST Part 4|https://cdnimg.melon.co.kr/cm/album/images/022/54/354/2254354_500.jpg/melon/resize/48/quality/80/optimize
+84|4586090|밀당의 고수|에디킴|601979|2249449|너 사용법|https://cdnimg.melon.co.kr/cm/album/images/022/49/449/2249449_500.jpg/melon/resize/48/quality/80/optimize
+85|4633164|Thunder|EXO-K|625511|2254734|The 2nd Mini Album '중독 (Overdose)'|https://cdnimg.melon.co.kr/cm/album/images/022/54/734/2254734_500.jpg/melon/resize/48/quality/80/optimize
+86|4237755|착해 빠졌어 (Stupid In Love)|소유 (SOYOU)~매드클라운|490981~219621|2200521|착해 빠졌어 (Stupid In Love)|https://cdnimg.melon.co.kr/cm/album/images/022/00/521/2200521_500.jpg/melon/resize/48/quality/80/optimize
+87|4648534|Like A Bird|어반자카파|420527|2256689|Like A Bird|https://cdnimg.melon.co.kr/cm/album/images/022/56/689/2256689_500.jpg/melon/resize/48/quality/80/optimize
+88|4579475|19금 스토커 (Feat. 크루셜스타)|매드클라운|219621|2248665|표독|https://cdnimg.melon.co.kr/cm/album/images/022/48/665/2248665_500.jpg/melon/resize/48/quality/80/optimize
+89|4471542|Mr.Mr.|소녀시대 (GIRLS' GENERATION)|228069|2235426|The 4th Mini Album 'Mr.Mr.'|https://cdnimg.melon.co.kr/cm/album/images/022/35/426/2235426_500.jpg/melon/resize/48/quality/80/optimize
+90|4643534|해독제|김연우|6017|2256077|해독제|https://cdnimg.melon.co.kr/cm/album/images/022/56/077/2256077_500.jpg/melon/resize/48/quality/80/optimize
+91|4412196|안녕|효린|573812|2228106|별에서 온 그대 OST Part.4|https://cdnimg.melon.co.kr/cm/album/images/022/28/106/2228106_500.jpg/melon/resize/48/quality/80/optimize
+92|4667349|히히하헤호|마마무 (Mamamoo)~긱스 (Geeks)|750053~525805|2258753|히히하헤호|https://cdnimg.melon.co.kr/cm/album/images/022/58/753/2258753_500.jpg/melon/resize/48/quality/80/optimize
+93|4564373|어이 (Uh-ee)|크레용팝|685904|2247021|어이 (Uh-ee)|https://cdnimg.melon.co.kr/cm/album/images/022/47/021/2247021_500.jpg/melon/resize/48/quality/80/optimize
+94|4656713|New You|윤종신~임슬옹|437~474423|2257600|2014 월간 윤종신 5월호|https://cdnimg.melon.co.kr/cm/album/images/022/57/600/2257600_500.jpg/melon/resize/48/quality/80/optimize
+95|4658845|Rain & Cry|15& (박지민, 백예린)|698291|2257815|Sugar|https://cdnimg.melon.co.kr/cm/album/images/022/57/815/2257815_500.jpg/melon/resize/48/quality/80/optimize
+96|4649658|십년이 지나도|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+97|4648474|내 맘에 들어와|박서준|649813|2256683|마녀의 연애 OST Part 3|https://cdnimg.melon.co.kr/cm/album/images/022/56/683/2256683_500.jpg/melon/resize/48/quality/80/optimize
+98|4583486|인공잔디|AKMU (악뮤)|712452|2249127|PLAY|https://cdnimg.melon.co.kr/cm/album/images/022/49/127/2249127_500.jpg/melon/resize/48/quality/80/optimize
+99|4649657|너|플라이 투 더 스카이|100183|2255589|CONTINUUM|https://cdnimg.melon.co.kr/cm/album/images/022/55/589/2255589_500.jpg/melon/resize/48/quality/80/optimize
+100|4658652|You Don't Know What To Do (Album Version (Explicit)) (Feat. Wale)|Mariah Carey|2274|2257805|Me. I Am Mariah…The Elusive Chanteuse (Deluxe)|https://cdnimg.melon.co.kr/cm/album/images/022/57/805/2257805_500.jpg/melon/resize/48/quality/80/optimize

@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1839323|사랑 따위|백지영|1118|374824|All Star 2|https://cdnimg.melon.co.kr/cm/album/images/003/74/824/374824_500.jpg/melon/resize/48/quality/80/optimize
+52|1857969|못된 여자 (Feat. 서인영)|원투|106928|377201|2008 One Two (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/77/201/377201_500.jpg/melon/resize/48/quality/80/optimize
+53|1790894|클래식|KCM|45995|362210|Kingdom|https://cdnimg.melon.co.kr/cm/album/images/003/62/210/362210_500.jpg/melon/resize/48/quality/80/optimize
+54|1846792|그 흔한 반지도|마야|32339|375782|Maya Four|https://cdnimg.melon.co.kr/cm/album/images/003/75/782/375782_500.jpg/melon/resize/48/quality/80/optimize
+55|1809080|젊은날|V.O.S|108794|368537|젊은날 (All Star 2집 Vol.1)|https://cdnimg.melon.co.kr/cm/album/images/003/68/537/368537_500.jpg/melon/resize/48/quality/80/optimize
+56|1860177|Lemon Tree|박혜경|1790|378354|여자가 사랑할때 - Lemon Tree|https://cdnimg.melon.co.kr/cm/album/images/003/78/354/378354_500.jpg/melon/resize/48/quality/80/optimize
+57|1858215|Propose|앤디|1738|377456|Andy The First Propose|https://cdnimg.melon.co.kr/cm/album/images/003/77/456/377456_500.jpg/melon/resize/48/quality/80/optimize
+58|1847631|여우가 (Feat. 은지원)|문지은|242972|375866|Vivid|https://cdnimg.melon.co.kr/cm/album/images/003/75/866/375866_500.jpg/melon/resize/48/quality/80/optimize
+59|1854828|싸이렌|부가킹즈|101218|376500|The Menu|https://cdnimg.melon.co.kr/cm/album/images/003/76/500/376500_500.jpg/melon/resize/48/quality/80/optimize
+60|1855153|내가 만날 사람 (Feat. 은지원, 하림)|리사|48312|376526|내가 만날 사람 (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/76/526/376526_500.jpg/melon/resize/48/quality/80/optimize
+61|1809309|멀어져|스윗소로우 (SWEET SORROW)|175203|368552|SweeticS|https://cdnimg.melon.co.kr/cm/album/images/003/68/552/368552_500.jpg/melon/resize/48/quality/80/optimize
+62|1852045|Lucky|왁스|2267|376267|Lucky (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/76/267/376267_500.jpg/melon/resize/48/quality/80/optimize
+63|1851231|아홉번째 구름 (Feat. 양파)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+64|1840173|마지막 콘서트 (Feat. MC몽,브라이언,에픽하이-미쓰라진)|이루|173424|374898|마지막 콘서트|https://cdnimg.melon.co.kr/cm/album/images/003/74/898/374898_500.jpg/melon/resize/48/quality/80/optimize
+65|1853690|소나기|김장훈|1081|376410|김장훈의 소나기|https://cdnimg.melon.co.kr/cm/album/images/003/76/410/376410_500.jpg/melon/resize/48/quality/80/optimize
+66|1854817|지갑|토니 안|1586|376499|우두커니 (2008 스페셜 앨범) (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/76/499/376499_500.jpg/melon/resize/48/quality/80/optimize
+67|1851578|Good Bye (1박 2일 백령도편 삽입곡)|마리오|243278|376226|1st Single (Mario)|https://cdnimg.melon.co.kr/cm/album/images/003/76/226/376226_500.jpg/melon/resize/48/quality/80/optimize
+68|1746426|Brave|Jennifer Lopez|2845|359268|Brave|https://cdnimg.melon.co.kr/cm/album/images/003/59/268/359268_500.jpg/melon/resize/48/quality/80/optimize
+69|1850794|사랑해 (Feat. PK헤만)|태사비애|229242|376155|사랑해|https://cdnimg.melon.co.kr/cm/album/images/003/76/155/376155_500.jpg/melon/resize/48/quality/80/optimize
+70|1851236|Beautiful Life (Feat. 빅마마)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+71|1831909|울어도 괜찮아 (Feat. Sol' Flower)|EVAN 에반 (유호석)|221072|373855|울어도 괜찮아 (Pain Reliever)|https://cdnimg.melon.co.kr/cm/album/images/003/73/855/373855_500.jpg/melon/resize/48/quality/80/optimize
+72|1733348|이바보|원더걸스|217764|357386|The Wonder Years|https://cdnimg.melon.co.kr/cm/album/images/003/57/386/357386_500.jpg/melon/resize/48/quality/80/optimize
+73|1846595|오빠나빠|Jessica (제시카)~티파니 (TIFFANY)~서현 (SEOHYUN)|428829~406421~401220|375762|RoomMate 1st '오빠나빠'|https://cdnimg.melon.co.kr/cm/album/images/003/75/762/375762_500.jpg/melon/resize/48/quality/80/optimize
+74|1764208|대낮에 한 이별 (Feat. 선예 (Wonder Girls))|박진영|1130|360899|Back To Stage|https://cdnimg.melon.co.kr/cm/album/images/003/60/899/360899_500.jpg/melon/resize/48/quality/80/optimize
+75|1807099|모를까봐서|쥬얼리|101487|368317|5집 Kitchi Island|https://cdnimg.melon.co.kr/cm/album/images/003/68/317/368317_500.jpg/melon/resize/48/quality/80/optimize
+76|1844668|슬픈 다짐 (Remix Ver.)|다비치|236815|375221|슬픈 다짐 (Remix) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/75/221/375221_500.jpg/melon/resize/48/quality/80/optimize
+77|1860471|Sky Love|김하늘|12735|377930|온에어 Part 2 OST|https://cdnimg.melon.co.kr/cm/album/images/003/77/930/377930_500.jpg/melon/resize/48/quality/80/optimize
+78|-1|19금 Touch My Body|Mariah Carey|2274|375943|E=MC²|https://cdnimg.melon.co.kr/cm/album/images/003/75/943/375943_500.jpg/melon/resize/48/quality/80/optimize
+79|1851369|좋겠어|KCM|45995|376204|The Love Part 1|https://cdnimg.melon.co.kr/cm/album/images/003/76/204/376204_500.jpg/melon/resize/48/quality/80/optimize
+80|1847609|Don't Cry|파란|173323|375863|U.R. My Song|https://cdnimg.melon.co.kr/cm/album/images/003/75/863/375863_500.jpg/melon/resize/48/quality/80/optimize
+81|1858150|미안합니다|하동균|43806|377451|강적들 OST|https://cdnimg.melon.co.kr/cm/album/images/003/77/451/377451_500.jpg/melon/resize/48/quality/80/optimize
+82|1772218|너는 내 운명|하하|35007|361426|너는 내 운명|https://cdnimg.melon.co.kr/cm/album/images/003/61/426/361426_500.jpg/melon/resize/48/quality/80/optimize
+83|1143064|화분 (드라마 '커피프린스 1호점' 삽입곡)|러브홀릭|106718|316457|Nice Dream|https://cdnimg.melon.co.kr/cm/album/images/003/16/457/316457_500.jpg/melon/resize/48/quality/80/optimize
+84|1849833|눈물이 흐른다|FTISLAND (FT아일랜드)|226490|376070|2008 연가|https://cdnimg.melon.co.kr/cm/album/images/003/76/070/376070_500.jpg/melon/resize/48/quality/80/optimize
+85|1853072|커피 한잔|더 자두|100445|376346|Happy Network|https://cdnimg.melon.co.kr/cm/album/images/003/76/346/376346_500.jpg/melon/resize/48/quality/80/optimize
+86|1763403|아직 못다한 이야기|이승기|58793|360750|아직 못다한 이야기 (이승기 3집 Repackage)|https://cdnimg.melon.co.kr/cm/album/images/003/60/750/360750_500.jpg/melon/resize/48/quality/80/optimize
+87|1856477|Wa (Feat. 주희, Rap. Bigtone of BLESS ONE)|전진|1740|376705|前進(전진) New Decade|https://cdnimg.melon.co.kr/cm/album/images/003/76/705/376705_500.jpg/melon/resize/48/quality/80/optimize
+88|1842505|너 하나만|고유진 (플라워)|4172|375066|너 하나만 (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/75/066/375066_500.jpg/melon/resize/48/quality/80/optimize
+89|1826333|화분 (커피프린스 1호점) ('우리결혼했어요' 알렉스 이별곡)|러브홀릭|106718|372904|Dramatic & Cinematic|https://cdnimg.melon.co.kr/cm/album/images/003/72/904/372904_500.jpg/melon/resize/48/quality/80/optimize
+90|1858909|신기루|후|244150|377854|신기루|https://cdnimg.melon.co.kr/cm/album/images/003/77/854/377854_500.jpg/melon/resize/48/quality/80/optimize
+91|1829381|Touch Me|민효린|224582|373306|Touch Me|https://cdnimg.melon.co.kr/cm/album/images/003/73/306/373306_500.jpg/melon/resize/48/quality/80/optimize
+92|1852453|Somewhere Over The Rainbow|Connie Talbot|243306|376299|Over The Rainbow|https://cdnimg.melon.co.kr/cm/album/images/003/76/299/376299_500.jpg/melon/resize/48/quality/80/optimize
+93|1831804|Let Me Go (Feat. 조PD)|에이트|228841|373757|Infinity|https://cdnimg.melon.co.kr/cm/album/images/003/73/757/373757_500.jpg/melon/resize/48/quality/80/optimize
+94|1836267|Ma People|렉시|7664|373308|The LEXY|https://cdnimg.melon.co.kr/cm/album/images/003/73/308/373308_500.jpg/melon/resize/48/quality/80/optimize
+95|1782451|슬픈 발걸음 (구두II)|씨야|181679|362366|슬픈 발걸음 (구두II) (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/62/366/362366_500.jpg/melon/resize/48/quality/80/optimize
+96|1845030|눈물이 흐른다|FTISLAND (FT아일랜드)|226490|375261|2008 연가 F.T Island (Digital Single)|https://cdnimg.melon.co.kr/cm/album/images/003/75/261/375261_500.jpg/melon/resize/48/quality/80/optimize
+97|1860345|오빠의 마음 (Feat. 유지은)|이지라이프|178364|377919|오빠의 마음|https://cdnimg.melon.co.kr/cm/album/images/003/77/919/377919_500.jpg/melon/resize/48/quality/80/optimize
+98|1847424|집시의 눈물|백지영|1118|375846|집시의 눈물|https://cdnimg.melon.co.kr/cm/album/images/003/75/846/375846_500.jpg/melon/resize/48/quality/80/optimize
+99|1851234|미치겠어 (Feat. M.A.C)|MC몽|11538|376194|Show's Just Begun|https://cdnimg.melon.co.kr/cm/album/images/003/76/194/376194_500.jpg/melon/resize/48/quality/80/optimize
+100|1724693|Tell me (Sampling From 'Two Of Hearts')|원더걸스|217764|357386|The Wonder Years|https://cdnimg.melon.co.kr/cm/album/images/003/57/386/357386_500.jpg/melon/resize/48/quality/80/optimize

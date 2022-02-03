@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|30324427|I'll Be Yours|걸스데이|482762|10049173|GIRL'S DAY EVERYDAY #5|https://cdnimg.melon.co.kr/cm/album/images/100/49/173/10049173_500.jpg/melon/resize/48/quality/80/optimize
+52|8143111|돌아오지마 (Feat. 용준형 Of 비스트)|헤이즈 (Heize)|751611|2679308|돌아오지마|https://cdnimg.melon.co.kr/cm/album/images/026/79/308/2679308_500.jpg/melon/resize/48/quality/80/optimize
+53|30011624|숨|박효신|1191|10001952|I am A Dreamer|https://cdnimg.melon.co.kr/cm/album/images/100/01/952/10001952_500.jpg/melon/resize/48/quality/80/optimize
+54|9620471|You(=I)|볼빨간사춘기|792022|2707131|Full Album RED PLANET|https://cdnimg.melon.co.kr/cm/album/images/027/07/131/2707131_500.jpg/melon/resize/48/quality/80/optimize
+55|9631530|내가 저지른 사랑|임창정|1142|2708957|I'M|https://cdnimg.melon.co.kr/cm/album/images/027/08/957/2708957_500.jpg/melon/resize/48/quality/80/optimize
+56|30227061|노래|Zion.T|537920|10035027|OO|https://cdnimg.melon.co.kr/cm/album/images/100/35/027/10035027_500.jpg/melon/resize/48/quality/80/optimize
+57|4579468|봄 사랑 벚꽃 말고|HIGH4 (하이포)~아이유|767374~261143|2248659|봄 사랑 벚꽃 말고|https://cdnimg.melon.co.kr/cm/album/images/022/48/659/2248659_500.jpg/melon/resize/48/quality/80/optimize
+58|8158031|CHEER UP|TWICE (트와이스)|905701|2681333|PAGE TWO|https://cdnimg.melon.co.kr/cm/album/images/026/81/333/2681333_500.jpg/melon/resize/48/quality/80/optimize
+59|8033528|어디에도|엠씨더맥스 (M.C the MAX)|161636|2664299|pathos|https://cdnimg.melon.co.kr/cm/album/images/026/64/299/2664299_500.jpg/melon/resize/48/quality/80/optimize
+60|8109412|D (half moon) (Feat. 개코)|DEAN|880630|2674623|130 Mood : TRBL|https://cdnimg.melon.co.kr/cm/album/images/026/74/623/2674623_500.jpg/melon/resize/48/quality/80/optimize
+61|30294022|나야 나 (PICK ME)|PRODUCE 101|926037|10044713|PRODUCE 101 - 나야 나 (PICK ME)|https://cdnimg.melon.co.kr/cm/album/images/100/44/713/10044713_500.jpg/melon/resize/48/quality/80/optimize
+62|3753304|벚꽃 엔딩|버스커 버스커|569233|2097226|버스커 버스커 1집|https://cdnimg.melon.co.kr/cm/album/images/020/97/226/2097226_500.jpg/melon/resize/48/quality/80/optimize
+63|30169608|이쁘다니까|에디킴|601979|10025845|도깨비 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/100/25/845/10025845_500.jpg/melon/resize/48/quality/80/optimize
+64|30394657|그대로일까 (Feat. 헤이즈)|용준형|243232|10058955|WONDER IF|https://cdnimg.melon.co.kr/cm/album/images/100/58/955/10058955_500.jpg/melon/resize/48/quality/80/optimize
+65|30378161|마침표|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+66|5629279|See You Again|Charlie Puth~Wiz Khalifa|838654~513802|2309376|분노의 질주: 더 세븐 OST|https://cdnimg.melon.co.kr/cm/album/images/023/09/376/2309376_500.jpg/melon/resize/48/quality/80/optimize
+67|8199190|널 사랑하지 않아|어반자카파|420527|2687420|스틸|https://cdnimg.melon.co.kr/cm/album/images/026/87/420/2687420_500.jpg/melon/resize/48/quality/80/optimize
+68|30132701|저 별|헤이즈 (Heize)|751611|10020656|저 별|https://cdnimg.melon.co.kr/cm/album/images/100/20/656/10020656_500.jpg/melon/resize/48/quality/80/optimize
+69|9634954|러시안 룰렛 (Russian Roulette)|Red Velvet (레드벨벳)|780066|2709585|Russian Roulette - The 3rd Mini Album|https://cdnimg.melon.co.kr/cm/album/images/027/09/585/2709585_500.jpg/melon/resize/48/quality/80/optimize
+70|30177818|I Miss You|소유 (SOYOU)|490981|10027253|도깨비 OST Part.7|https://cdnimg.melon.co.kr/cm/album/images/100/27/253/10027253_500.jpg/melon/resize/48/quality/80/optimize
+71|30337190|Come For You (Feat. HOMEBOY & FNRL.)|Osshun Gum|1626547|10051110|고등래퍼 FINAL|https://cdnimg.melon.co.kr/cm/album/images/100/51/110/10051110_500.jpg/melon/resize/48/quality/80/optimize
+72|30394259|아프지 마요|젝스키스|100052|10059209|THE 20TH ANNIVERSARY|https://cdnimg.melon.co.kr/cm/album/images/100/59/209/10059209_500.jpg/melon/resize/48/quality/80/optimize
+73|4383833|바람이 불었으면 좋겠어|길구봉구|500421|2224353|바람이 불었으면 좋겠어|https://cdnimg.melon.co.kr/cm/album/images/022/24/353/2224353_500.jpg/melon/resize/48/quality/80/optimize
+74|30257703|넘어와 (Feat. 백예린)|DEAN|880630|10039617|limbo|https://cdnimg.melon.co.kr/cm/album/images/100/39/617/10039617_500.jpg/melon/resize/48/quality/80/optimize
+75|30029173|피 땀 눈물|방탄소년단|672375|10004707|WINGS|https://cdnimg.melon.co.kr/cm/album/images/100/04/707/10004707_500.jpg/melon/resize/48/quality/80/optimize
+76|8203900|너였다면|정승환|792091|2687963|또 오해영 OST Part.5|https://cdnimg.melon.co.kr/cm/album/images/026/87/963/2687963_500.jpg/melon/resize/48/quality/80/optimize
+77|30040810|너무너무너무|아이오아이 (I.O.I)|960251|10006841|miss me?|https://cdnimg.melon.co.kr/cm/album/images/100/06/841/10006841_500.jpg/melon/resize/48/quality/80/optimize
+78|30399360|미치고 싶다|한동근|711476|10059997|한동근 1ST ALBUM 'Your Diary'|https://cdnimg.melon.co.kr/cm/album/images/100/59/997/10059997_500.jpg/melon/resize/48/quality/80/optimize
+79|4636238|그대가 나를 본다면|반하나|772891|2255151|그대가 나를 본다면|https://cdnimg.melon.co.kr/cm/album/images/022/55/151/2255151_500.jpg/melon/resize/48/quality/80/optimize
+80|30215199|기다렸다 가|다이나믹 듀오~첸 (CHEN)|108358~715176|10033099|Mixxxture Project Vol.1|https://cdnimg.melon.co.kr/cm/album/images/100/33/099/10033099_500.jpg/melon/resize/48/quality/80/optimize
+81|30120986|이 바보야|정승환|792091|10018979|목소리|https://cdnimg.melon.co.kr/cm/album/images/100/18/979/10018979_500.jpg/melon/resize/48/quality/80/optimize
+82|30178900|첫 눈|정준일|242988|10027400|도깨비 OST Part.8|https://cdnimg.melon.co.kr/cm/album/images/100/27/400/10027400_500.jpg/melon/resize/48/quality/80/optimize
+83|4660794|I'm Not The Only One|Sam Smith|718042|2258028|In The Lonely Hour|https://cdnimg.melon.co.kr/cm/album/images/022/58/028/2258028_500.jpg/melon/resize/48/quality/80/optimize
+84|30271730|Something Just Like This|The Chainsmokers~Coldplay|713297~100260|10031250|Memories...Do Not Open|https://cdnimg.melon.co.kr/cm/album/images/100/31/250/10031250_500.jpg/melon/resize/48/quality/80/optimize
+85|30179099|Excuse Me|AOA|686920|10027430|AOA 1st Album ANGEL'S KNOCK|https://cdnimg.melon.co.kr/cm/album/images/100/27/430/10027430_500.jpg/melon/resize/48/quality/80/optimize
+86|30383948|가죽자켓|혁오 (HYUKOH)|785589|10057570|23|https://cdnimg.melon.co.kr/cm/album/images/100/57/570/10057570_500.jpg/melon/resize/48/quality/80/optimize
+87|30072072|11:11|태연 (TAEYEON)|236797|10011815|11:11|https://cdnimg.melon.co.kr/cm/album/images/100/11/815/10011815_500.jpg/melon/resize/48/quality/80/optimize
+88|30378163|그렇게 사랑은|아이유|261143|10056666|Palette|https://cdnimg.melon.co.kr/cm/album/images/100/56/666/10056666_500.jpg/melon/resize/48/quality/80/optimize
+89|30341746|FOOL|WINNER|775197|10051659|FATE NUMBER FOR|https://cdnimg.melon.co.kr/cm/album/images/100/51/659/10051659_500.jpg/melon/resize/48/quality/80/optimize
+90|30179089|당신의 밤 (Feat. 오혁)|황광희 X 개코|1285544|10027428|무한도전 위대한 유산|https://cdnimg.melon.co.kr/cm/album/images/100/27/428/10027428_500.jpg/melon/resize/48/quality/80/optimize
+91|30393717|Fly away|권진아|760046|10059115|Fly away|https://cdnimg.melon.co.kr/cm/album/images/100/59/115/10059115_500.jpg/melon/resize/48/quality/80/optimize
+92|30383982|At The End|이창섭|672288|10057579|Piece of BTOB Vol.1|https://cdnimg.melon.co.kr/cm/album/images/100/57/579/10057579_500.jpg/melon/resize/48/quality/80/optimize
+93|30340879|코끼리 (Feat. RM)|개코|3264|10051514|코끼리|https://cdnimg.melon.co.kr/cm/album/images/100/51/514/10051514_500.jpg/melon/resize/48/quality/80/optimize
+94|30294629|아름답다|하이라이트 (Highlight)|1624993|10044814|CAN YOU FEEL IT?|https://cdnimg.melon.co.kr/cm/album/images/100/44/814/10044814_500.jpg/melon/resize/48/quality/80/optimize
+95|30147446|LAST DANCE|BIGBANG|198094|10022709|MADE|https://cdnimg.melon.co.kr/cm/album/images/100/22/709/10022709_500.jpg/melon/resize/48/quality/80/optimize
+96|30272285|언젠가 (SOMEDAY)|비투비|647971|10041603|Feel'eM|https://cdnimg.melon.co.kr/cm/album/images/100/41/603/10041603_500.jpg/melon/resize/48/quality/80/optimize
+97|30244932|Not Today|방탄소년단|672375|10037969|YOU NEVER WALK ALONE|https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/48/quality/80/optimize
+98|30105590|꽃길 (Prod. By ZICO)|김세정|968261|10016726|Jelly box 꽃길 (Prod. By 지코(ZICO)) 세정|https://cdnimg.melon.co.kr/cm/album/images/100/16/726/10016726_500.jpg/melon/resize/48/quality/80/optimize
+99|30394260|슬픈 노래|젝스키스|100052|10059209|THE 20TH ANNIVERSARY|https://cdnimg.melon.co.kr/cm/album/images/100/59/209/10059209_500.jpg/melon/resize/48/quality/80/optimize
+100|30377415|미운 날|이해리 (다비치)|259769|10053123|h|https://cdnimg.melon.co.kr/cm/album/images/100/53/123/10053123_500.jpg/melon/resize/48/quality/80/optimize

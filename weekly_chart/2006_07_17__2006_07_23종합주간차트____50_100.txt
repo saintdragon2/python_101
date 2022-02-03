@@ -1,0 +1,51 @@
+rank|song_id|song_title|artist_name|artist_id|album_id|album_title|album_img
+51|1314336|유행가|롤러 코스터|100195|322355|유행가|https://cdnimg.melon.co.kr/cm/album/images/003/22/355/322355_500.jpg/melon/resize/48/quality/80/optimize
+52|1130735|흔적|임정희|150529|315490|Thanks|https://cdnimg.melon.co.kr/cm/album/images/003/15/490/315490_500.jpg/melon/resize/48/quality/80/optimize
+53|1214990|그대만 있다면 (Drama Version)|러브홀릭|106718|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+54|1173448|유추프라카치아|토니 안|1586|316874|유추프라카치아 (Yutzpracachia's Love)|https://cdnimg.melon.co.kr/cm/album/images/003/16/874/316874_500.jpg/melon/resize/48/quality/80/optimize
+55|-1|Stars Are Blind|Paris Hilton|191650|321104|Stars Are Blind|https://cdnimg.melon.co.kr/cm/album/images/003/21/104/321104_500.jpg/melon/resize/48/quality/80/optimize
+56|1283717|명동콜링|크라잉넛 (CRYING NUT)|100766|321350|OK 목장의 젖소|https://cdnimg.melon.co.kr/cm/album/images/003/21/350/321350_500.jpg/melon/resize/48/quality/80/optimize
+57|1143071|그대만 있다면|러브홀릭|106718|316457|Nice Dream|https://cdnimg.melon.co.kr/cm/album/images/003/16/457/316457_500.jpg/melon/resize/48/quality/80/optimize
+58|1315554|Maybe I Love You (Feat. 빅톤)|걸 프렌즈|193606|322538|Another Myself|https://cdnimg.melon.co.kr/cm/album/images/003/22/538/322538_500.jpg/melon/resize/48/quality/80/optimize
+59|1206086|도망자|다이나믹 듀오|108358|319060|도망자 (영화 ‘짝패‘ 삽입곡)|https://cdnimg.melon.co.kr/cm/album/images/003/19/060/319060_500.jpg/melon/resize/48/quality/80/optimize
+60|1188514|하루 또 하루|신혜성|1741|317672|신혜성 김현성 에코브릿지 멜론파워싱글 #7|https://cdnimg.melon.co.kr/cm/album/images/003/17/672/317672_500.jpg/melon/resize/48/quality/80/optimize
+61|1314912|슈퍼맨 (Feat. 강수지)|듀크|100135|322399|The Rebirth Of Duke|https://cdnimg.melon.co.kr/cm/album/images/003/22/399/322399_500.jpg/melon/resize/48/quality/80/optimize
+62|-1|Love Me Love Me|이지혜|1820|322223|special single #+1|https://cdnimg.melon.co.kr/cm/album/images/003/22/223/322223_500.jpg/melon/resize/48/quality/80/optimize
+63|1216109|넋두리|하동균|43806|320071|DQ From Wanted|https://cdnimg.melon.co.kr/cm/album/images/003/20/071/320071_500.jpg/melon/resize/48/quality/80/optimize
+64|1287391|SexyBack|Justin Timberlake|2646|321841|SexyBack|https://cdnimg.melon.co.kr/cm/album/images/003/21/841/321841_500.jpg/melon/resize/48/quality/80/optimize
+65|1120765|So Sick|Ne-Yo|181769|314762|In My Own Words|https://cdnimg.melon.co.kr/cm/album/images/003/14/762/314762_500.jpg/melon/resize/48/quality/80/optimize
+66|19807|벌써 일년|브라운 아이즈|100742|2393|Brown Eyes|https://cdnimg.melon.co.kr/cm/album/images/000/02/393/2393_500.jpg/melon/resize/48/quality/80/optimize
+67|1114173|Promise U|씨야|181679|314286|여인의 향기|https://cdnimg.melon.co.kr/cm/album/images/003/14/286/314286_500.jpg/melon/resize/48/quality/80/optimize
+68|1115206|다가와서|브라운아이드걸스|181694|314376|Your Story|https://cdnimg.melon.co.kr/cm/album/images/003/14/376/314376_500.jpg/melon/resize/48/quality/80/optimize
+69|1099596|입모양|이승기|58793|313335|Crazy For You|https://cdnimg.melon.co.kr/cm/album/images/003/13/335/313335_500.jpg/melon/resize/48/quality/80/optimize
+70|1214991|눈물이겠죠|장혜진|5675|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+71|-1|Smile|May|181810|319970|Smile|https://cdnimg.melon.co.kr/cm/album/images/003/19/970/319970_500.jpg/melon/resize/48/quality/80/optimize
+72|1209892|꿈일까봐|백지영|1118|318784|나도야 간다 OST|https://cdnimg.melon.co.kr/cm/album/images/003/18/784/318784_500.jpg/melon/resize/48/quality/80/optimize
+73|1099832|내가 사랑한 12가지 버릇|KCM|45995|313356|Love Affair|https://cdnimg.melon.co.kr/cm/album/images/003/13/356/313356_500.jpg/melon/resize/48/quality/80/optimize
+74|1099478|마주치지 말자|장혜진|5675|313320|4 Season Story|https://cdnimg.melon.co.kr/cm/album/images/003/13/320/313320_500.jpg/melon/resize/48/quality/80/optimize
+75|1270219|Ain't No Other Man|Christina Aguilera|2063|321121|Ain‘t No Other Man|https://cdnimg.melon.co.kr/cm/album/images/003/21/121/321121_500.jpg/melon/resize/48/quality/80/optimize
+76|1314407|결혼해|박혜경|1790|322362|결혼해|https://cdnimg.melon.co.kr/cm/album/images/003/22/362/322362_500.jpg/melon/resize/48/quality/80/optimize
+77|-1|Perfect Love ( CF - 이자녹스 제시카 알바편 )|Lutricia Mcneal|28329|308902|Metroplex|https://cdnimg.melon.co.kr/cm/album/images/003/08/902/308902_500.jpg/melon/resize/48/quality/80/optimize
+78|-1|Deja Vu (Feat. Jay-Z)|Beyonce|3535|321122|Deja Vu|https://cdnimg.melon.co.kr/cm/album/images/003/21/122/321122_500.jpg/melon/resize/48/quality/80/optimize
+79|1121540|누나의 꿈|현영|181704|314834|누나의 꿈|https://cdnimg.melon.co.kr/cm/album/images/003/14/834/314834_500.jpg/melon/resize/48/quality/80/optimize
+80|-1|Let`s Get It Started|Black Eyed Peas|107538|64860|-|https://cdnimg.melon.co.kr/cm/album/images/000/64/860/64860_500.jpg/melon/resize/48/quality/80/optimize
+81|-1|Addicted|Sweetbox|100060|316869|Addicted|https://cdnimg.melon.co.kr/cm/album/images/003/16/869/316869_500.jpg/melon/resize/48/quality/80/optimize
+82|1125392|날 위한 이별|린|8530|315091|Misty Memories|https://cdnimg.melon.co.kr/cm/album/images/003/15/091/315091_500.jpg/melon/resize/48/quality/80/optimize
+83|1268909|Show|클릭비 (Click-B)|100070|320944|Click-B Remake Album 'Smile'|https://cdnimg.melon.co.kr/cm/album/images/003/20/944/320944_500.jpg/melon/resize/48/quality/80/optimize
+84|1314709|A Public Affair|Jessica Simpson|4066|322379|A Public Affair (Single)|https://cdnimg.melon.co.kr/cm/album/images/003/22/379/322379_500.jpg/melon/resize/48/quality/80/optimize
+85|1145090|I Wish|메이비 (Maybee)|43443|316621|A Letter From Abell 1689|https://cdnimg.melon.co.kr/cm/album/images/003/16/621/316621_500.jpg/melon/resize/48/quality/80/optimize
+86|433353|여름아! 부탁해|인디고|102309|16324|인디고 1집|https://cdnimg.melon.co.kr/cm/album/images/000/16/324/16324_500.jpg/melon/resize/48/quality/80/optimize
+87|1268245|잘한거죠|쿨 (COOL)|100004|320878|쿨 Never Ending Story|https://cdnimg.melon.co.kr/cm/album/images/003/20/878/320878_500.jpg/melon/resize/48/quality/80/optimize
+88|-1|19금 My Humps (CF - 벅스 황정음 편)|Black Eyed Peas|107538|303536|Monkey Business (Bonus Track)|https://cdnimg.melon.co.kr/cm/album/images/003/03/536/303536_500.jpg/melon/resize/48/quality/80/optimize
+89|1122105|웃는거야|서영은|3033|314896|Be My Sweet Heart|https://cdnimg.melon.co.kr/cm/album/images/003/14/896/314896_500.jpg/melon/resize/48/quality/80/optimize
+90|1146394|비익조|SG 워너비|108363|316209|The 3rd Masterpiece|https://cdnimg.melon.co.kr/cm/album/images/003/16/209/316209_500.jpg/melon/resize/48/quality/80/optimize
+91|1214995|사랑해... 사랑할 수 없을만큼|정재욱|7839|319873|어느 멋진 날 OST|https://cdnimg.melon.co.kr/cm/album/images/003/19/873/319873_500.jpg/melon/resize/48/quality/80/optimize
+92|1193995|괜찮은 오늘 (Feat. MC 몽)|별|27033|318144|눈물샘|https://cdnimg.melon.co.kr/cm/album/images/003/18/144/318144_500.jpg/melon/resize/48/quality/80/optimize
+93|1144935|아름다운 이별|옥주현|1714|316609|김형석 With Friends|https://cdnimg.melon.co.kr/cm/album/images/003/16/609/316609_500.jpg/melon/resize/48/quality/80/optimize
+94|1314974|Summer Summer|하리수|7300|322405|What Is 'Risu' Summer Time No.5|https://cdnimg.melon.co.kr/cm/album/images/003/22/405/322405_500.jpg/melon/resize/48/quality/80/optimize
+95|1177939|잊을래|소울스타 (SOULSTAR)|170042|317153|1st Single Album|https://cdnimg.melon.co.kr/cm/album/images/003/17/153/317153_500.jpg/melon/resize/48/quality/80/optimize
+96|-1|Superstar|Jamelia|56026|34495|Thank You|https://cdnimg.melon.co.kr/cm/album/images/000/34/495/34495_500.jpg/melon/resize/48/quality/80/optimize
+97|1284102|사랑이 되어줄래? (Feat. All Stars)|김형중|5247|321376|레인보우 로망스 OST|https://cdnimg.melon.co.kr/cm/album/images/003/21/376/321376_500.jpg/melon/resize/48/quality/80/optimize
+98|1199252|Scandal|강타 & 바네스|185615|318611|Scandal|https://cdnimg.melon.co.kr/cm/album/images/003/18/611/318611_500.jpg/melon/resize/48/quality/80/optimize
+99|1284535|Widy G|YDG|4770|321453|거울 (28 청춘 엿봐라)|https://cdnimg.melon.co.kr/cm/album/images/003/21/453/321453_500.jpg/melon/resize/48/quality/80/optimize
+100|1314816|한숨만|지수|179925|322388|Breathe In Melody|https://cdnimg.melon.co.kr/cm/album/images/003/22/388/322388_500.jpg/melon/resize/48/quality/80/optimize
